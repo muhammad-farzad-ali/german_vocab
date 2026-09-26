@@ -1,0 +1,861 @@
+id	cell	article	base	singular	plural	genitive	en_meaning
+1	die Currywurst, -würste	die	Currywurst	die Currywurst	die Currywürste	der Currywurst	sausage with curry sauce
+2	der Durst (Singular)	der	Durst	der Durst	—	des Dursts	thirst
+3	das Gefühl, -e	das	Gefühl	das Gefühl	die Gefühle	des Gefühls	feeling
+4	der Hunger (Singular)	der	Hunger	der Hunger	—	des Hungers	hunger
+5	Mensch (ohne Artikel, Singular) (Mensch, habe ich einen Hunger!)	—	Mensch	Mensch	—	—	Oh man!
+6	die Mikrowelle, -n	die	Mikrowelle	die Mikrowelle	die Mikrowellen	der Mikrowelle	microwave
+7	die Mensa, Mensen	die	Mensa	die Mensa	die Mensen	der Mensa	cafeteria
+8	der Kochkurs, -e	der	Kochkurs	der Kochkurs	die Kochkurse	des Kochkurses	cooking class
+9	die Pfanne, -n	die	Pfanne	die Pfanne	die Pfannen	der Pfanne	pan
+10	das Sieb, -e	das	Sieb	das Sieb	die Siebe	des Siebs	sieve
+11	der Topf, Töpfe	der	Topf	der Topf	die Töpfe	des Topfs	pot
+12	die Zeichnung, -en	die	Zeichnung	die Zeichnung	die Zeichnungen	der Zeichnung	drawing
+13	das Kochbuch, -bücher	das	Kochbuch	das Kochbuch	die Kochbücher	des Kochbuchs	cookbook
+14	der Teilnehmer,	der	Teilnehmer	der Teilnehmer	—	des Teilnehmers	participant
+15	die Ausbildung, -en	die	Ausbildung	die Ausbildung	die Ausbildungen	der Ausbildung	training, education
+16	der Onkel,	der	Onkel	der Onkel	—	des Onkels	uncle
+17	das Fernsehen (Singular)	das	Fernsehen	das Fernsehen	—	des Fernsehens	television
+18	das Geschirr (Singular)	das	Geschirr	das Geschirr	—	des Geschirrs	dishes
+19	die Bohne, -n	die	Bohne	die Bohne	die Bohnen	der Bohne	bean
+20	das Gute (Singular) (Kommt heute was Gutes im Fernsehen?)	das	Gute	das Gute	—	des Gutes	good
+21	das Rindfleisch (Singular)	das	Rindfleisch	das Rindfleisch	—	des Rindfleisches	beef
+22	Dunkelrestaurant	—	Dunkelrestaurant	Dunkelrestaurant	—	—	dining in the dark
+23	das Dunkeldinner,	das	Dunkeldinner	das Dunkeldinner	—	des Dunkeldinners	dining in the dark
+24	die Dunkelheit (Singular)	die	Dunkelheit	die Dunkelheit	—	der Dunkelheit	darkness
+25	das Dunkle (Singular) (Was ist beim Essen im Dunkeln schwierig?)	das	Dunkle	das Dunkle	—	des Dunkles	dark
+26	der Eindruck, Eindrücke	der	Eindruck	der Eindruck	die Eindrücke	des Eindrucks	impression
+27	das Erlebnis, -se	das	Erlebnis	das Erlebnis	die Erlebnisse	des Erlebnisses	experience
+28	der Gastraum, -räume	der	Gastraum	der Gastraum	die Gasträume	des Gastraums	dining room
+29	der Gedanke, -n	der	Gedanke	der Gedanke	die Gedanken	des Gedankes	thought
+30	der Geruch, Gerüche	der	Geruch	der Geruch	die Gerüche	des Geruchs	smell
+31	das Licht, -er	das	Licht	das Licht	die Lichter	des Lichts	light
+32	das Menü, -s	das	Menü	das Menü	die Menüs	des Menüs	three-course meal
+33	die Sorge, -n	die	Sorge	die Sorge	die Sorgen	der Sorge	worry
+34	der Vorraum, -räume	der	Vorraum	der Vorraum	die Vorräume	des Vorraums	lobby, anteroom
+35	das Dunkelrestaurant, -s	das	Dunkelrestaurant	das Dunkelrestaurant	die Dunkelrestaurants	des Dunkelrestaurants	restaurant without lights, blind restaurant
+36	das Ergebnis, -se	das	Ergebnis	das Ergebnis	die Ergebnisse	des Ergebnisses	outcome, result
+37	der Sinn, -e (Lernen Sie mit allen Sinnen.)	der	Sinn	der Sinn	die Sinne	des Sinns	sense
+38	die Station, -en	die	Station	die Station	die Stationen	der Station	station
+39	das Auge, -n	das	Auge	das Auge	die Augen	des Auges	eye
+40	der Beutel,	der	Beutel	der Beutel	—	des Beutels	bag
+41	die Blume, -n	die	Blume	die Blume	die Blumen	der Blume	flower
+42	das Bonbon, -s	das	Bonbon	das Bonbon	die Bonbons	des Bonbons	piece of candy
+43	der Gegenstand, -stände	der	Gegenstand	der Gegenstand	die Gegenstände	des Gegenstands	item, article, subject
+44	das Parfüm, -e/-s	das	Parfüm	das Parfüm	die Parfüme / die Parfüms	des Parfüms	perfume
+45	der Stoffbeutel,	der	Stoffbeutel	der Stoffbeutel	—	des Stoffbeutels	cloth bag
+46	der Zitronensaft, -säfte	der	Zitronensaft	der Zitronensaft	die Zitronensäfte	des Zitronensafts	lemon juice
+47	die Schulzeit (Singular)	die	Schulzeit	die Schulzeit	—	der Schulzeit	school time, time at school
+48	der Altenpfleger,	der	Altenpfleger	der Altenpfleger	—	des Altenpflegers	elderly care nurse
+49	die Berufsschule, -n	die	Berufsschule	die Berufsschule	die Berufsschulen	der Berufsschule	trade school
+50	die Elektrotechnik (Singular)	die	Elektrotechnik	die Elektrotechnik	—	der Elektrotechnik	electrical engineering
+51	der Hotelkaufmann, -männer	der	Hotelkaufmann	der Hotelkaufmann	die Hotelkaufmänner	des Hotelkaufmanns	hotel manager
+52	das Klassentreffen,	das	Klassentreffen	das Klassentreffen	—	des Klassentreffens	class reunion
+53	die Lehre, -n	die	Lehre	die Lehre	die Lehren	der Lehre	apprenticeship
+54	das Lieblingsfach, -fächer	das	Lieblingsfach	das Lieblingsfach	die Lieblingsfächer	des Lieblingsfachs	favorite subject
+55	die Note, -n	die	Note	die Note	die Noten	der Note	grade
+56	das Praktikum, Praktika	das	Praktikum	das Praktikum	die Praktika	des Praktikums	practicum, internship
+57	die Vorlesung, -en	die	Vorlesung	die Vorlesung	die Vorlesungen	der Vorlesung	lecture
+58	das Zeugnis, -se	das	Zeugnis	das Zeugnis	die Zeugnisse	des Zeugnisses	report card
+59	das Au-pair, -s	das	Au-pair	das Au-pair	die Au-pairs	des Au-pairs	au pair
+60	die Informatik (Singular)	die	Informatik	die Informatik	—	der Informatik	computer science
+61	das Sportgeschäft, -e	das	Sportgeschäft	das Sportgeschäft	die Sportgeschäfte	des Sportgeschäfts	sports goods store
+62	der Steckbrief, -e	der	Steckbrief	der Steckbrief	die Steckbriefe	des Steckbriefs	personal description
+63	die Zukunft (Singular)	die	Zukunft	die Zukunft	—	der Zukunft	future
+64	das Abitur (Singular)	das	Abitur	das Abitur	—	des Abiturs	high school graduation
+65	der/die Arme, -n	der/die	Arme	der/die Arme	die Armen	—	unfortunate person
+66	der Eintrag, Einträge	der	Eintrag	der Eintrag	die Einträge	des Eintrags	entry
+67	die Englischlehrerin, -nen	die	Englischlehrerin	die Englischlehrerin	die Englischlehrerinnen	der Englischlehrerin	English teacher
+68	die Erinnerung, -en	die	Erinnerung	die Erinnerung	die Erinnerungen	der Erinnerung	memory
+69	der Fehler,	der	Fehler	der Fehler	—	des Fehlers	mistake
+70	die Ferien (Plural)	die	Ferien	—	die Ferien	—	vacation
+71	die Hauptsache, -n	die	Hauptsache	die Hauptsache	die Hauptsachen	der Hauptsache	main thing
+72	die Kunst, Künste	die	Kunst	die Kunst	die Künste	der Kunst	art
+73	die Kunststunde, -n	die	Kunststunde	die Kunststunde	die Kunststunden	der Kunststunde	art class
+74	das Land (Singular) (Elsa hat früher auf dem Land gewohnt.)	das	Land	das Land	—	des Landes	countryside
+75	die Lieblingsstunde, -n	die	Lieblingsstunde	die Lieblingsstunde	die Lieblingsstunden	der Lieblingsstunde	favorite class
+76	Mathe (ohne Artikel, Singular)	—	Mathe	Mathe	—	—	math
+77	der Mathelehrer,	der	Mathelehrer	der Mathelehrer	—	des Mathelehrers	math teacher
+78	der Riesenspaß (Singular)	der	Riesenspaß	der Riesenspaß	—	des Riesenspaßes	lots of fun
+79	der Schulfreund, -e	der	Schulfreund	der Schulfreund	die Schulfreunde	des Schulfreunds	friend from school
+80	die Sommerferien (Plural)	die	Sommerferien	—	die Sommerferien	—	summer vacation
+81	die Tür, -en	die	Tür	die Tür	die Türen	der Tür	door
+82	der Unterricht (Singular)	der	Unterricht	der Unterricht	—	des Unterrichts	lessons, instruction
+83	der Vokabeltest, -s	der	Vokabeltest	der Vokabeltest	die Vokabeltests	des Vokabeltests	vocabulary test
+84	die Hausaufgabe, -n	die	Hausaufgabe	die Hausaufgabe	die Hausaufgaben	der Hausaufgabe	homework
+85	die Schuluniform, -en	die	Schuluniform	die Schuluniform	die Schuluniformen	der Schuluniform	school uniform
+86	der Beitrag, Beiträge	der	Beitrag	der Beitrag	die Beiträge	des Beitrags	contribution
+87	die Theatergruppe, -n	die	Theatergruppe	die Theatergruppe	die Theatergruppen	der Theatergruppe	theater troupe
+88	der Kommentar, -e	der	Kommentar	der Kommentar	die Kommentare	des Kommentars	commentary
+89	das Trainingsprogramm, -e	das	Trainingsprogramm	das Trainingsprogramm	die Trainingsprogramme	des Trainingsprogramms	training program
+90	der Transport, -e	der	Transport	der Transport	die Transporte	des Transports	transport
+91	die WG, -s	die	WG	die WG	die WGs	der WG	apartment share, housing cooperative
+92	das Mehl, -e	das	Mehl	das Mehl	die Mehle	des Mehls	flour
+93	die Veränderung, -en	die	Veränderung	die Veränderung	die Veränderungen	der Veränderung	changes, alterations
+94	der Ball, Bälle (Kommst du heute Abend mit auf den Ball?)	der	Ball	der Ball	die Bälle	des Balls	ball
+95	die Oper, -n	die	Oper	die Oper	die Opern	der Oper	opera
+96	das Univiertel,	das	Univiertel	das Univiertel	—	des Univiertels	university district
+97	das Blatt, Blätter	das	Blatt	das Blatt	die Blätter	des Blatts	sheet of paper
+98	die Disco, -s	die	Disco	die Disco	die Discos	der Disco	discotheque
+99	das Forum, Foren	das	Forum	das Forum	die Foren	des Forums	forum
+100	der Abschluss, Abschlüsse	der	Abschluss	der Abschluss	die Abschlüsse	des Abschlusses	degree
+101	das Bundesland, -länder	das	Bundesland	das Bundesland	die Bundesländer	des Bundeslands	province, state
+102	die Hauptschule, -n	die	Hauptschule	die Hauptschule	die Hauptschulen	der Hauptschule	school up to 9th grade
+103	die Realschule, -n	die	Realschule	die Realschule	die Realschulen	der Realschule	school up to 10th grade
+104	das Schulsystem, -e	das	Schulsystem	das Schulsystem	die Schulsysteme	des Schulsystems	school system
+105	der Schultyp, -en	der	Schultyp	der Schultyp	die Schultypen	des Schultyps	school type
+106	der Abendkurs, -e	der	Abendkurs	der Abendkurs	die Abendkurse	des Abendkurses	night class
+107	die Anglistik (Singular)	die	Anglistik	die Anglistik	—	der Anglistik	English language and literature
+108	die Arbeitsstelle, -n	die	Arbeitsstelle	die Arbeitsstelle	die Arbeitsstellen	der Arbeitsstelle	job, position
+109	der Bankkaufmann, -männer	der	Bankkaufmann	der Bankkaufmann	die Bankkaufmänner	des Bankkaufmanns	banker, bank clerk
+110	das Berufsleben (Singular)	das	Berufsleben	das Berufsleben	—	des Berufslebens	professional life
+111	Chemie (ohne Artikel, Singular)	—	Chemie	Chemie	—	—	chemistry
+112	die Dauer (Singular)	die	Dauer	die Dauer	—	der Dauer	duration
+113	das Fach, Fächer	das	Fach	das Fach	die Fächer	des Fachs	subject
+114	der Ferienclub, -s	der	Ferienclub	der Ferienclub	die Ferienclubs	des Ferienclubs	resort
+115	die Grundschule, -n	die	Grundschule	die Grundschule	die Grundschulen	der Grundschule	elementary school
+116	der Hauptschulabschluss, -schlüsse	der	Hauptschulabschluss	der Hauptschulabschluss	die Hauptschulabschlüsse	des Hauptschulabschlusses	graduation after 9th grade
+117	das Internat, -e	das	Internat	das Internat	die Internate	des Internats	boarding school
+118	die Karriere, -n	die	Karriere	die Karriere	die Karrieren	der Karriere	career
+119	die Physik (Singular)	die	Physik	die Physik	—	der Physik	physics
+120	der Realschulabschluss, -schlüsse	der	Realschulabschluss	der Realschulabschluss	die Realschulabschlüsse	des Realschulabschlusses	graduation after 10th grade
+121	der Schulabschluss, -schlüsse	der	Schulabschluss	der Schulabschluss	die Schulabschlüsse	des Schulabschlusses	secondary school graduation
+122	die Sportstunde, -n	die	Sportstunde	die Sportstunde	die Sportstunden	der Sportstunde	gym class
+123	der Stundenplan, -pläne	der	Stundenplan	der Stundenplan	die Stundenpläne	des Stundenplans	schedule
+124	die Vorbereitung, -en	die	Vorbereitung	die Vorbereitung	die Vorbereitungen	der Vorbereitung	preparation
+125	das Klassenzimmer,	das	Klassenzimmer	das Klassenzimmer	—	des Klassenzimmers	classroom
+126	die Unterrichtszeit, -en	die	Unterrichtszeit	die Unterrichtszeit	die Unterrichtszeiten	der Unterrichtszeit	class time
+127	die Vorliebe, -n	die	Vorliebe	die Vorliebe	die Vorlieben	der Vorliebe	preference
+128	die Datei, -en	die	Datei	die Datei	die Dateien	der Datei	file
+129	das Online-Netzwerk, -e	das	Online-Netzwerk	das Online-Netzwerk	die Online-Netzwerke	des Online-Netzwerks	online network
+130	das/der Radio, -s	das/der	Radio	das/der Radio	die Radios	—	radio
+131	das Video, -s	das	Video	das Video	die Videos	des Videos	video
+132	die Medien (Plural)	die	Medien	—	die Medien	—	media
+133	der Bildschirm, -e	der	Bildschirm	der Bildschirm	die Bildschirme	des Bildschirms	screen, monitor
+134	das CD-Laufwerk, -e	das	CD-Laufwerk	das CD-Laufwerk	die CD-Laufwerke	des CD-Laufwerks	CD drive
+135	die CD-ROM, -s	die	CD-ROM	die CD-ROM	die CD-ROMs	der CD-ROM	CD-ROM
+136	der Drucker	der	Drucker	der Drucker	—	des Druckers	printer
+137	das DVD-Laufwerk, -e	das	DVD-Laufwerk	das DVD-Laufwerk	die DVD-Laufwerke	des DVD-Laufwerks	DVD drive
+138	der Lautsprecher	der	Lautsprecher	der Lautsprecher	—	des Lautsprechers	speaker
+139	die Maus, Mäuse	die	Maus	die Maus	die Mäuse	der Maus	mouse
+140	das Papier, -e	das	Papier	das Papier	die Papiere	des Papiers	paper
+141	der/das Tablet, -s	der/das	Tablet	der/das Tablet	die Tablets	—	tablet
+142	die Tastatur, -en	die	Tastatur	die Tastatur	die Tastaturen	der Tastatur	keyboard
+143	die Web-Cam, -s	die	Web-Cam	die Web-Cam	die Web-Cams	der Web-Cam	webcam
+144	das E-Book, -s	das	E-Book	das E-Book	die E-Books	des E-Books	e-book
+145	das Fernsehgerät, -e	das	Fernsehgerät	das Fernsehgerät	die Fernsehgeräte	des Fernsehgeräts	television set
+146	der I-Pod, -s	der	I-Pod	der I-Pod	die I-Pods	des I-Pods	iPod
+147	das Smartphone, -s	das	Smartphone	das Smartphone	die Smartphones	des Smartphones	smartphone
+148	die Spielekonsole, -n	die	Spielekonsole	die Spielekonsole	die Spielekonsolen	der Spielekonsole	video game console
+149	der Laptop, -s	der	Laptop	der Laptop	die Laptops	des Laptops	laptop
+150	die Umfrage, -n	die	Umfrage	die Umfrage	die Umfragen	der Umfrage	survey, poll
+151	die Web-Adresse, -n	die	Web-Adresse	die Web-Adresse	die Web-Adressen	der Web-Adresse	web address, URL
+152	der/die Letzte, -n	der/die	Letzte	der/die Letzte	die Letzten	—	last, final
+153	das Ohr, -en	das	Ohr	das Ohr	die Ohren	des Ohrs	ear
+154	die Runde, -n	die	Runde	die Runde	die Runden	der Runde	round
+155	die Gefahr, -en	die	Gefahr	die Gefahr	die Gefahren	der Gefahr	danger
+156	der/die Kriminelle, -n	der/die	Kriminelle	der/die Kriminelle	die Kriminellen	—	criminal
+157	die Meinung, -en	die	Meinung	die Meinung	die Meinungen	der Meinung	opinion
+158	das Netz (Singular) (Stell nicht zu viele Informationen ins Netz!)	das	Netz	das Netz	—	des Netzes	web
+159	der Buchverlag, -e	der	Buchverlag	der Buchverlag	die Buchverlage	des Buchverlags	book publisher
+160	der Fußballer	der	Fußballer	der Fußballer	—	des Fußballers	soccer player
+161	der Fußballprofi, -s	der	Fußballprofi	der Fußballprofi	die Fußballprofis	des Fußballprofis	soccer pro
+162	der Lieblingsverein, -e	der	Lieblingsverein	der Lieblingsverein	die Lieblingsvereine	des Lieblingsvereins	favorite team
+163	das Porträt, -s	das	Porträt	das Porträt	die Porträts	des Porträts	portrait, profile
+164	das Produkt, -e	das	Produkt	das Produkt	die Produkte	des Produkts	product
+165	der Rapper	der	Rapper	der Rapper	—	des Rappers	rapper
+166	das Shooting, -s	das	Shooting	das Shooting	die Shootings	des Shootings	shooting
+167	das Stadion, Stadien	das	Stadion	das Stadion	die Stadien	des Stadions	stadium
+168	der Traumberuf, -e	der	Traumberuf	der Traumberuf	die Traumberufe	des Traumberufs	dream job
+169	die Werbung, -en	die	Werbung	die Werbung	die Werbungen	der Werbung	advertisement
+170	die Lösung, -en	die	Lösung	die Lösung	die Lösungen	der Lösung	solution
+171	das Dingsbums (Singular)	das	Dingsbums	das Dingsbums	—	des Dingsbumses	thingy
+172	der Actionfilm, -e	der	Actionfilm	der Actionfilm	die Actionfilme	des Actionfilms	action movie
+173	der Fantasy-Film, -e	der	Fantasy-Film	der Fantasy-Film	die Fantasy-Filme	des Fantasy-Films	fantasy movie
+174	die Komödie, -n	die	Komödie	die Komödie	die Komödien	der Komödie	comedy
+175	der Lieblingsschauspieler	der	Lieblingsschauspieler	der Lieblingsschauspieler	—	des Lieblingsschauspielers	favorite actor
+176	die Romanze, -n	die	Romanze	die Romanze	die Romanzen	der Romanze	romance
+177	der Thriller	der	Thriller	der Thriller	—	des Thrillers	thriller
+178	der Ausländer	der	Ausländer	der Ausländer	—	des Ausländers	foreigner
+179	der Enkel	der	Enkel	der Enkel	—	des Enkels	grandchild
+180	der Gastarbeiter	der	Gastarbeiter	der Gastarbeiter	—	des Gastarbeiters	guest worker
+181	die Heimat (Singular)	die	Heimat	die Heimat	—	der Heimat	homeland, hometown
+182	der Kleinbus, -se	der	Kleinbus	der Kleinbus	die Kleinbusse	des Kleinbuses	minibus
+183	der Konflikt, -e	der	Konflikt	der Konflikt	die Konflikte	des Konflikts	conflict
+184	das Lachen (Singular)	das	Lachen	das Lachen	—	des Lachens	laughter
+185	die Sechzigerjahre (Plural)	die	Sechzigerjahre	—	die Sechzigerjahre	—	1960s
+186	die Versöhnung, -en	die	Versöhnung	die Versöhnung	die Versöhnungen	der Versöhnung	redemption
+187	das Vorurteil, -e	das	Vorurteil	das Vorurteil	die Vorurteile	des Vorurteils	prejudice
+188	der Zuschauer	der	Zuschauer	der Zuschauer	—	des Zuschauers	viewer, spectator
+189	der Durchschnitt, -e	der	Durchschnitt	der Durchschnitt	die Durchschnitte	des Durchschnitts	average
+190	die Handlung, -en	die	Handlung	die Handlung	die Handlungen	der Handlung	plot, action
+191	der Hauptdarsteller	der	Hauptdarsteller	der Hauptdarsteller	—	des Hauptdarstellers	leading actor
+192	das Highlight, -s	das	Highlight	das Highlight	die Highlights	des Highlights	highlight
+193	das Klischee, -s	das	Klischee	das Klischee	die Klischees	des Klischees	cliché
+194	der Schauspieler	der	Schauspieler	der Schauspieler	—	des Schauspielers	actor
+195	der Stern, -e	der	Stern	der Stern	die Sterne	des Sterns	star
+196	die Szene, -n	die	Szene	die Szene	die Szenen	der Szene	scene
+197	die Formulierung, -en	die	Formulierung	die Formulierung	die Formulierungen	der Formulierung	formulation, wording
+198	die Beschreibung, -en	die	Beschreibung	die Beschreibung	die Beschreibungen	der Beschreibung	description
+199	das Abiturzeugnis, -se	das	Abiturzeugnis	das Abiturzeugnis	die Abiturzeugnisse	des Abiturzeugnisses	high school diploma, baccalaureate
+200	die Babykleidung, -en	die	Babykleidung	die Babykleidung	die Babykleidungen	der Babykleidung	baby clothes
+201	das Bedauern (Singular)	das	Bedauern	das Bedauern	—	des Bedauerns	regret
+202	der Blumenstrauß, -sträuße	der	Blumenstrauß	der Blumenstrauß	die Blumensträuße	des Blumenstraußes	bouquet
+203	das Ereignis, -se	das	Ereignis	das Ereignis	die Ereignisse	des Ereignisses	result
+204	die Freude, -n	die	Freude	die Freude	die Freuden	der Freude	joy
+205	der Führerschein, -e	der	Führerschein	der Führerschein	die Führerscheine	des Führerscheins	driver’s license
+206	die Führerscheinprüfung, -en	die	Führerscheinprüfung	die Führerscheinprüfung	die Führerscheinprüfungen	der Führerscheinprüfung	driver’s license exam
+207	die Geburt, -en	die	Geburt	die Geburt	die Geburten	der Geburt	birth
+208	die Hochzeit, -en	die	Hochzeit	die Hochzeit	die Hochzeiten	der Hochzeit	wedding
+209	das Jubiläum, Jubiläen	das	Jubiläum	das Jubiläum	die Jubiläen	des Jubiläums	anniversary
+210	die Medaille, -n	die	Medaille	die Medaille	die Medaillen	der Medaille	medal
+211	der Platz, Plätze (Tom hat den ersten Platz geschafft.)	der	Platz	der Platz	die Plätze	des Platzes	place
+212	der Ring, -e	der	Ring	der Ring	die Ringe	des Rings	ring
+213	der Schultag, -e	der	Schultag	der Schultag	die Schultage	des Schultags	school day
+214	die Schultüte, -n	die	Schultüte	die Schultüte	die Schultüten	der Schultüte	cone-shaped cardboard flute filled with candy to celebrate the first day of school
+215	der Storch, Störche	der	Storch	der Storch	die Störche	des Storchs	stork
+216	die Absage, -n	die	Absage	die Absage	die Absagen	der Absage	cancellation
+217	das Brautpaar, -e	das	Brautpaar	das Brautpaar	die Brautpaare	des Brautpaars	bride and groom
+218	die Dankeskarte, -n	die	Dankeskarte	die Dankeskarte	die Dankeskarten	der Dankeskarte	thank-you card
+219	der Glückwunsch, -wünsche	der	Glückwunsch	der Glückwunsch	die Glückwünsche	des Glückwunsches	congratulation
+220	die Glückwunschkarte, -n	die	Glückwunschkarte	die Glückwunschkarte	die Glückwunschkarten	der Glückwunschkarte	congratulation card
+221	die Karte, -n (Ich schreibe eine Karte mit Glückwünschen.)	die	Karte	die Karte	die Karten	der Karte	card
+222	das Liebe (Singular) (Ich wünsche euch alles Liebe zur Hochzeit.)	das	Liebe	das Liebe	—	des Liebes	best
+223	der Traum, Träume	der	Traum	der Traum	die Träume	des Traums	dream
+224	der Ausdruck, Ausdrücke	der	Ausdruck	der Ausdruck	die Ausdrücke	des Ausdrucks	expression
+225	die Geburtstagsfeier, -n	die	Geburtstagsfeier	die Geburtstagsfeier	die Geburtstagsfeiern	der Geburtstagsfeier	birthday celebration
+226	der Kreis, -e	der	Kreis	der Kreis	die Kreise	des Kreises	circle
+227	die Angst, Ängste	die	Angst	die Angst	die Ängste	der Angst	fear
+228	die Emotion, -en	die	Emotion	die Emotion	die Emotionen	der Emotion	emotion
+229	das Unglück (Singular)	das	Unglück	das Unglück	—	des Unglücks	misfortune
+230	die Achterbahn, -en	die	Achterbahn	die Achterbahn	die Achterbahnen	der Achterbahn	roller coaster
+231	Alternative (ohne Artikel, Singular) (Pop, Rock und Alternative sind Musikstile.)	—	Alternative	Alternative	—	—	alternative
+232	die Band, -s	die	Band	die Band	die Bands	der Band	band
+233	das Festival, -s	das	Festival	das Festival	die Festivals	des Festivals	festival
+234	das Kinderfest, -e	das	Kinderfest	das Kinderfest	die Kinderfeste	des Kinderfests	children’s festival
+235	der Musikfan, -s	der	Musikfan	der Musikfan	die Musikfans	des Musikfans	music fan
+236	das Musikfest, -e	das	Musikfest	das Musikfest	die Musikfeste	des Musikfests	music festival
+237	der Musikstil, -e	der	Musikstil	der Musikstil	die Musikstile	des Musikstils	music genre
+238	das Muss (Singular)	das	Muss	das Muss	—	des Musses	must
+239	der Newcomer,	der	Newcomer	der Newcomer	—	des Newcomers	newcomer
+240	der Pop (Singular)	der	Pop	der Pop	—	des Pops	pop
+241	das Programm, -e	das	Programm	das Programm	die Programme	des Programms	program, schedule
+242	die Segelregatta, -regatten	die	Segelregatta	die Segelregatta	die Segelregatten	der Segelregatta	sailing race, yacht race
+243	das Segelschiff, -e	das	Segelschiff	das Segelschiff	die Segelschiffe	des Segelschiffs	sailboat
+244	der Sportfan, -s	der	Sportfan	der Sportfan	die Sportfans	des Sportfans	sports fan
+245	das Sportfest, -e	das	Sportfest	das Sportfest	die Sportfeste	des Sportfests	sports festival
+246	das Stadtfest, -e	das	Stadtfest	das Stadtfest	die Stadtfeste	des Stadtfests	city festival
+247	das Theaterfest, -e	das	Theaterfest	das Theaterfest	die Theaterfeste	des Theaterfests	theater festival
+248	das Feuerwerk, -e	das	Feuerwerk	das Feuerwerk	die Feuerwerke	des Feuerwerks	fireworks display
+249	die Veranstaltung, -en	die	Veranstaltung	die Veranstaltung	die Veranstaltungen	der Veranstaltung	event
+250	das Pech (Singular)	das	Pech	das Pech	—	des Pechs	bad luck
+251	das Los, -e	das	Los	das Los	die Lose	des Loses	lot, raffle ticket
+252	das Lied, -er	das	Lied	das Lied	die Lieder	des Liedes	song
+253	der Gegensatz, -sätze	der	Gegensatz	der Gegensatz	die Gegensätze	des Gegensatzes	counterpart, contrast
+254	die Freundschaft, -en	die	Freundschaft	die Freundschaft	die Freundschaften	der Freundschaft	friendship
+255	die Kindheit (Singular)	die	Kindheit	die Kindheit	—	der Kindheit	childhood
+256	die Liebe (Singular) (Die Liebe ist ein schönes Gefühl.)	die	Liebe	die Liebe	—	der Liebe	love
+257	die Sehnsucht, -süchte	die	Sehnsucht	die Sehnsucht	die Sehnsüchte	der Sehnsucht	longing
+258	die Variante, -n	die	Variante	die Variante	die Varianten	der Variante	variation
+259	der Abschnitt, -e	der	Abschnitt	der Abschnitt	die Abschnitte	des Abschnitts	section, paragraph
+260	die Ankunft, Ankünfte	die	Ankunft	die Ankunft	die Ankünfte	der Ankunft	arrival
+261	das Ausland (Singular)	das	Ausland	das Ausland	—	des Auslands	foreign countries, abroad
+262	der Blogeintrag, -einträge	der	Blogeintrag	der Blogeintrag	die Blogeinträge	des Blogeintrags	blog post
+263	der Grund, Gründe	der	Grund	der Grund	die Gründe	des Grundes	reason
+264	der Inhalt, -e	der	Inhalt	der Inhalt	die Inhalte	des Inhalts	content
+265	die Sprachenschule, -n	die	Sprachenschule	die Sprachenschule	die Sprachenschulen	der Sprachenschule	language school
+266	der Tango, -s	der	Tango	der Tango	die Tangos	des Tangos	tango
+267	die Tango-Musik (Singular)	die	Tango-Musik	die Tango-Musik	—	der Tango-Musik	tango music
+268	der Verkehr (Singular)	der	Verkehr	der Verkehr	—	des Verkehrs	traffic
+269	das Wohnheim, -e	das	Wohnheim	das Wohnheim	die Wohnheime	des Wohnheims	dorm
+270	der Absatz, Absätze	der	Absatz	der Absatz	die Absätze	des Absatzes	paragraph
+271	die Zeile, -n	die	Zeile	die Zeile	die Zeilen	der Zeile	line
+272	der Aufenthalt, -e	der	Aufenthalt	der Aufenthalt	die Aufenthalte	des Aufenthalts	stay, visit
+273	der Anwalt, Anwälte	der	Anwalt	der Anwalt	die Anwälte	des Anwalts	lawyer
+274	der Grafiker,	der	Grafiker	der Grafiker	—	des Grafikers	graphic designer
+275	der Hammer,	der	Hammer	der Hammer	—	des Hammers	hammer
+276	der Tischler,	der	Tischler	der Tischler	—	des Tischlers	carpenter
+277	die Tönung, -en	die	Tönung	die Tönung	die Tönungen	der Tönung	tint, tone
+278	die Schere, -n	die	Schere	die Schere	die Scheren	der Schere	scissors
+279	die Handbewegung, -en	die	Handbewegung	die Handbewegung	die Handbewegungen	der Handbewegung	hand gesture
+280	die Geschäftsreise, -n	die	Geschäftsreise	die Geschäftsreise	die Geschäftsreisen	der Geschäftsreise	business trip
+281	das Abteil, -e	das	Abteil	das Abteil	die Abteile	des Abteils	compartment
+282	die Bahncard, -s	die	Bahncard	die Bahncard	die Bahncards	der Bahncard	train discount card
+283	die Hinfahrt, -en	die	Hinfahrt	die Hinfahrt	die Hinfahrten	der Hinfahrt	outbound trip
+284	die Rückfahrt, -en	die	Rückfahrt	die Rückfahrt	die Rückfahrten	der Rückfahrt	return trip
+285	die Abfahrt, -en	die	Abfahrt	die Abfahrt	die Abfahrten	der Abfahrt	departure
+286	die Bahn, -en	die	Bahn	die Bahn	die Bahnen	der Bahn	train
+287	der Bahnsteig, -e	der	Bahnsteig	der Bahnsteig	die Bahnsteige	des Bahnsteigs	train platform
+288	die Durchsage, -n	die	Durchsage	die Durchsage	die Durchsagen	der Durchsage	announcement
+289	der Fahrplan, -pläne	der	Fahrplan	der Fahrplan	die Fahrpläne	des Fahrplans	timetable, schedule
+290	das Gepäck (Singular)	das	Gepäck	das Gepäck	—	des Gepäcks	baggage, luggage
+291	das Gleis, -e	das	Gleis	das Gleis	die Gleise	des Gleises	track
+292	die Information, -en (Ich gehe zur Information am Bahnhof.)	die	Information	die Information	die Informationen	der Information	information desk
+293	der Schalter,	der	Schalter	der Schalter	—	des Schalters	counter
+294	der Waggon, -s/-e	der	Waggon	der Waggon	die Waggons / die Waggone	des Waggons	train car
+295	die Zugverbindung, -en	die	Zugverbindung	die Zugverbindung	die Zugverbindungen	der Zugverbindung	train connection
+296	die Auskunft, Auskünfte	die	Auskunft	die Auskunft	die Auskünfte	der Auskunft	information desk
+297	der Bahn-Mitarbeiter,	der	Bahn-Mitarbeiter	der Bahn-Mitarbeiter	—	des Bahn-Mitarbeiters	train employee
+298	der Fahrgast, -gäste	der	Fahrgast	der Fahrgast	die Fahrgäste	des Fahrgasts	passenger
+299	der Fahrkartenschalter,	der	Fahrkartenschalter	der Fahrkartenschalter	—	des Fahrkartenschalters	ticket booth
+300	der Gang, Gänge (Gang oder Fenster?)	der	Gang	der Gang	die Gänge	des Gangs	aisle
+301	der Großraumwagen, -/-wägen	der	Großraumwagen	der Großraumwagen	die Großraumwagen / die Großraumwägen	des Großraumwagens	open coach
+302	die Klasse (Singular) (Möchten Sie in der ersten Klasse fahren?)	die	Klasse	die Klasse	—	der Klasse	class
+303	das Abend-Programm, -e	das	Abend-Programm	das Abend-Programm	die Abend-Programme	des Abend-Programms	evening program
+304	die Dame, -n	die	Dame	die Dame	die Damen	der Dame	lady
+305	die Ermäßigung, -en	die	Ermäßigung	die Ermäßigung	die Ermäßigungen	der Ermäßigung	discount
+306	die Geschichte (Singular) (Die Geschichte von Wiesbaden ist sehr spannend.)	die	Geschichte	die Geschichte	—	der Geschichte	history, story
+307	die Kultur, -en	die	Kultur	die Kultur	die Kulturen	der Kultur	culture
+308	das Musikereignis, -se	das	Musikereignis	das Musikereignis	die Musikereignisse	des Musikereignisses	musical event
+309	die Reservierung, -en	die	Reservierung	die Reservierung	die Reservierungen	der Reservierung	reservation
+310	der Sänger,	der	Sänger	der Sänger	—	des Sängers	singer
+311	der Senior, -en	der	Senior	der Senior	die Senioren	des Seniors	senior
+312	die Show, -s	die	Show	die Show	die Shows	der Show	show
+313	der Arztkittel,	der	Arztkittel	der Arztkittel	—	des Arztkittels	lab coat
+314	der Berufswechsel,	der	Berufswechsel	der Berufswechsel	—	des Berufswechsels	career change
+315	der Elektrokonzern, -e	der	Elektrokonzern	der Elektrokonzern	die Elektrokonzerne	des Elektrokonzerns	electronics company
+316	der Fernfahrer,	der	Fernfahrer	der Fernfahrer	—	des Fernfahrers	trucker
+317	die Freiheit, -en	die	Freiheit	die Freiheit	die Freiheiten	der Freiheit	freedom
+318	der Herzchirurg, -en	der	Herzchirurg	der Herzchirurg	die Herzchirurgen	des Herzchirurgs	heart surgeon
+319	die Herzchirurgie, -n	die	Herzchirurgie	die Herzchirurgie	die Herzchirurgien	der Herzchirurgie	cardiac surgery
+320	das Herzzentrum, -zentren	das	Herzzentrum	das Herzzentrum	die Herzzentren	des Herzzentrums	cardiac center
+321	die Industriekauffrau, -en	die	Industriekauffrau	die Industriekauffrau	die Industriekauffrauen	der Industriekauffrau	industrial businesswoman
+322	der Lastwagen, -/-wägen	der	Lastwagen	der Lastwagen	die Lastwägen	des Lastwagens	truck
+323	der Leiter,	der	Leiter	der Leiter	—	des Leiters	leader, director
+324	die Medizin (Singular)	die	Medizin	die Medizin	—	der Medizin	medicine
+325	die Möbelwerkstatt, -stätten	die	Möbelwerkstatt	die Möbelwerkstatt	die Möbelwerkstätten	der Möbelwerkstatt	furniture workshop
+326	der Oberarzt, -ärzte	der	Oberarzt	der Oberarzt	die Oberärzte	des Oberarzts	senior physician
+327	der Operationssaal, -säle	der	Operationssaal	der Operationssaal	die Operationssäle	des Operationssaals	operating room
+328	der Overall, -s	der	Overall	der Overall	die Overalls	des Overalls	overalls
+329	das Schmuckstück, -e	das	Schmuckstück	das Schmuckstück	die Schmuckstücke	des Schmuckstücks	piece of jewelry
+330	die Tischlerei, -en	die	Tischlerei	die Tischlerei	die Tischlereien	der Tischlerei	carpenter’s woodshop
+331	das Universitätsspital, -e	das	Universitätsspital	das Universitätsspital	die Universitätsspitale	des Universitätsspitals	university hospital
+332	die Parallele, -n	die	Parallele	die Parallele	die Parallelen	der Parallele	parallel
+333	die Altersangabe, -n	die	Altersangabe	die Altersangabe	die Altersangaben	der Altersangabe	age indication
+334	der Berufswunsch, -wünsche	der	Berufswunsch	der Berufswunsch	die Berufswünsche	des Berufswunsches	career goal
+335	der Arbeitsort, -e	der	Arbeitsort	der Arbeitsort	die Arbeitsorte	des Arbeitsorts	work location
+336	der Aspekt, -e	der	Aspekt	der Aspekt	die Aspekte	des Aspekts	aspect
+337	der Tiertrainer,	der	Tiertrainer	der Tiertrainer	—	des Tiertrainers	animal trainer
+338	der Autor, -en	der	Autor	der Autor	die Autoren	des Autors	author
+339	der Schritt, -e	der	Schritt	der Schritt	die Schritte	des Schritts	step
+340	der Lkw, -s	der	Lkw	der Lkw	die Lkws	des Lkws	truck
+341	das Telefongespräch, -e	das	Telefongespräch	das Telefongespräch	die Telefongespräche	des Telefongesprächs	telephone conversation
+342	das Lächeln (Singular)	das	Lächeln	das Lächeln	—	des Lächelns	smile
+343	die Ruhe (Singular)	die	Ruhe	die Ruhe	—	der Ruhe	quiet, calm
+344	der Stift, -e	der	Stift	der Stift	die Stifte	des Stifts	pencil
+345	die Durchwahl, -en	die	Durchwahl	die Durchwahl	die Durchwahlen	der Durchwahl	phone extension
+346	der Arbeitsalltag (Singular)	der	Arbeitsalltag	der Arbeitsalltag	—	des Arbeitsalltags	workday
+347	das Arbeitsleben (Singular)	das	Arbeitsleben	das Arbeitsleben	—	des Arbeitslebens	professional life
+348	die Arbeitsteilung (Singular)	die	Arbeitsteilung	die Arbeitsteilung	—	der Arbeitsteilung	division of labor
+349	das Arbeitsverhältnis, -se	das	Arbeitsverhältnis	das Arbeitsverhältnis	die Arbeitsverhältnisse	des Arbeitsverhältnisses	working relationship
+350	der Austausch (Singular)	der	Austausch	der Austausch	—	des Austausches	exchange
+351	die Balance (Singular)	die	Balance	die Balance	—	der Balance	balance
+352	der Betreuungsplatz, -plätze	der	Betreuungsplatz	der Betreuungsplatz	die Betreuungsplätze	des Betreuungsplatzes	child care facility
+353	die Fähigkeit, -en	die	Fähigkeit	die Fähigkeit	die Fähigkeiten	der Fähigkeit	capability, skill
+354	die Flexibilität (Singular)	die	Flexibilität	die Flexibilität	—	der Flexibilität	flexibility
+355	die Hierarchie, -n	die	Hierarchie	die Hierarchie	die Hierarchien	der Hierarchie	hierarchy
+356	die Internetverbindung, -en	die	Internetverbindung	die Internetverbindung	die Internetverbindungen	der Internetverbindung	internet connection
+357	die Kooperation, -en	die	Kooperation	die Kooperation	die Kooperationen	der Kooperation	cooperation
+358	die Position, -en	die	Position	die Position	die Positionen	der Position	position, role
+359	die Projektarbeit, -en	die	Projektarbeit	die Projektarbeit	die Projektarbeiten	der Projektarbeit	project work
+360	die Sicherheit, -en	die	Sicherheit	die Sicherheit	die Sicherheiten	der Sicherheit	security
+361	die Teamarbeit, -en	die	Teamarbeit	die Teamarbeit	die Teamarbeiten	der Teamarbeit	teamwork
+362	die Telefonkonferenz, -en	die	Telefonkonferenz	die Telefonkonferenz	die Telefonkonferenzen	der Telefonkonferenz	conference call
+363	die Verbindung, -en	die	Verbindung	die Verbindung	die Verbindungen	der Verbindung	connection
+364	die Vernetzung, -en	die	Vernetzung	die Vernetzung	die Vernetzungen	der Vernetzung	network
+365	die Videokonferenz, -en	die	Videokonferenz	die Videokonferenz	die Videokonferenzen	der Videokonferenz	video conference
+366	das Wissen (Singular)	das	Wissen	das Wissen	—	des Wissens	knowledge
+367	das Schlüsselwort, -wörter	das	Schlüsselwort	das Schlüsselwort	die Schlüsselwörter	des Schlüsselworts	keyword
+368	das Foyer, -s	das	Foyer	das Foyer	die Foyers	des Foyers	foyer
+369	die Karte, -n (Kaufst du die Karten für das Konzert?)	die	Karte	die Karte	die Karten	der Karte	ticket
+370	die Philharmonie, -n	die	Philharmonie	die Philharmonie	die Philharmonien	der Philharmonie	philharmonic
+371	die Unsicherheit, -en	die	Unsicherheit	die Unsicherheit	die Unsicherheiten	der Unsicherheit	insecurity
+372	die Ampel, -n	die	Ampel	die Ampel	die Ampeln	der Ampel	traffic light
+373	der Motor, -en	der	Motor	der Motor	die Motoren	des Motors	motor
+374	der Parkplatz, -plätze	der	Parkplatz	der Parkplatz	die Parkplätze	des Parkplatzes	parking lot
+375	die Polizei (Singular)	die	Polizei	die Polizei	—	der Polizei	police
+376	der Reifen,	der	Reifen	der Reifen	—	des Reifens	tire
+377	der Stau, -s	der	Stau	der Stau	die Staus	des Staus	traffic jam
+378	das Parkhaus, -häuser	das	Parkhaus	das Parkhaus	die Parkhäuser	des Parkhauses	parking garage
+379	der Anschluss, Anschlüsse	der	Anschluss	der Anschluss	die Anschlüsse	des Anschlusses	connection
+380	die Panne, -n	die	Panne	die Panne	die Pannen	der Panne	car break down
+381	der Sitzplatz, -plätze	der	Sitzplatz	der Sitzplatz	die Sitzplätze	des Sitzplatzes	seat
+382	die Tankstelle, -n	die	Tankstelle	die Tankstelle	die Tankstellen	der Tankstelle	gas station
+383	das Verkehrsmittel,	das	Verkehrsmittel	das Verkehrsmittel	—	des Verkehrsmittels	mode of transportation
+384	das Kinderabteil, -e	das	Kinderabteil	das Kinderabteil	die Kinderabteile	des Kinderabteils	children’s section
+385	die Mama, -s	die	Mama	die Mama	die Mamas	der Mama	mama
+386	das Chaos (Singular)	das	Chaos	das Chaos	—	des Chaoses	chaos
+387	der Papa, -s	der	Papa	der Papa	die Papas	des Papas	papa
+388	die App, -s	die	App	die App	die Apps	der App	application
+389	der Deal, -s	der	Deal	der Deal	die Deals	des Deals	deal
+390	die Bedienung (Singular) (Das Programm hat eine einfache Bedienung.)	die	Bedienung	die Bedienung	—	der Bedienung	operation
+391	das Navigationssystem, -e	das	Navigationssystem	das Navigationssystem	die Navigationssysteme	des Navigationssystems	navigation system
+392	die Strecke, -n	die	Strecke	die Strecke	die Strecken	der Strecke	route
+393	die Verkehrsapp, -s	die	Verkehrsapp	die Verkehrsapp	die Verkehrsapps	der Verkehrsapp	traffic application
+394	die Daten (Plural)	die	Daten	—	die Daten	—	files
+395	die Radarkamera, -s	die	Radarkamera	die Radarkamera	die Radarkameras	der Radarkamera	radar camera
+396	das Benzin (Singular)	das	Benzin	das Benzin	—	des Benzins	gas
+397	die Überlegung, -en	die	Überlegung	die Überlegung	die Überlegungen	der Überlegung	consideration
+398	der Abflug, Abflüge	der	Abflug	der Abflug	die Abflüge	des Abflugs	departing flight
+399	die Garage, -n	die	Garage	die Garage	die Garagen	der Garage	garage
+400	das Kennzeichen,	das	Kennzeichen	das Kennzeichen	—	des Kennzeichens	license plate
+401	das Kfz,	das	Kfz	das Kfz	—	des Kfzes	motor vehicle
+402	der Pkw, -s	der	Pkw	der Pkw	die Pkws	des Pkws	automobile, passenger car
+403	die Reparatur, -en	die	Reparatur	die Reparatur	die Reparaturen	der Reparatur	repair
+404	die Versicherung, -en	die	Versicherung	die Versicherung	die Versicherungen	der Versicherung	insurance
+405	der Wagen, -/Wägen	der	Wagen	der Wagen	die Wagen / die Wägen	des Wagens	car
+406	die Brücke, -n	die	Brücke	die Brücke	die Brücken	der Brücke	bridge
+407	der Kinderspielplatz, -plätze	der	Kinderspielplatz	der Kinderspielplatz	die Kinderspielplätze	des Kinderspielplatzes	playground
+408	die Kreuzung, -en	die	Kreuzung	die Kreuzung	die Kreuzungen	der Kreuzung	intersection
+409	der Wohnungsschlüssel,	der	Wohnungsschlüssel	der Wohnungsschlüssel	—	des Wohnungsschlüssels	house key
+410	die Wegbeschreibung, -en	die	Wegbeschreibung	die Wegbeschreibung	die Wegbeschreibungen	der Wegbeschreibung	directions
+411	das Navigationsgerät, -e	das	Navigationsgerät	das Navigationsgerät	die Navigationsgeräte	des Navigationsgeräts	navigation device
+412	der Zeitungsartikel,	der	Zeitungsartikel	der Zeitungsartikel	—	des Zeitungsartikels	newspaper article
+413	der Anbieter,	der	Anbieter	der Anbieter	—	des Anbieters	vendor, provider
+414	das Carsharing (Singular)	das	Carsharing	das Carsharing	—	des Carsharings	car sharing
+415	der Fall, Fälle (In dem Fall ist das Auto billiger.)	der	Fall	der Fall	die Fälle	des Falls	case, situation
+416	die Gebühr, -en	die	Gebühr	die Gebühr	die Gebühren	der Gebühr	fee
+417	das Konzept, -e	das	Konzept	das Konzept	die Konzepte	des Konzepts	concept
+418	das Privatauto, -s	das	Privatauto	das Privatauto	die Privatautos	des Privatautos	privately owned car
+419	die Telefonzentrale, -n	die	Telefonzentrale	die Telefonzentrale	die Telefonzentralen	der Telefonzentrale	switchboard, hotline
+420	das Wunschauto, -s	das	Wunschauto	das Wunschauto	die Wunschautos	des Wunschautos	desired car
+421	der Unsinn (Singular)	der	Unsinn	der Unsinn	—	des Unsinns	nonsense
+422	das Stadtteilauto, -s	das	Stadtteilauto	das Stadtteilauto	die Stadtteilautos	des Stadtteilautos	car sharing car; zipcar
+423	die Richtung, -en	die	Richtung	die Richtung	die Richtungen	der Richtung	direction
+424	die Zugfahrt, -en	die	Zugfahrt	die Zugfahrt	die Zugfahrten	der Zugfahrt	train ride
+425	die Schlange, -n	die	Schlange	die Schlange	die Schlangen	der Schlange	line, queue
+426	das Kursergebnis, -se	das	Kursergebnis	das Kursergebnis	die Kursergebnisse	des Kursergebnisses	class result
+427	die Begegnung, -en	die	Begegnung	die Begegnung	die Begegnungen	der Begegnung	encounter
+428	die Radiosendung, -en	die	Radiosendung	die Radiosendung	die Radiosendungen	der Radiosendung	radio program
+429	der Schriftsteller,	der	Schriftsteller	der Schriftsteller	—	des Schriftstellers	writer
+430	die Sendung, -en	die	Sendung	die Sendung	die Sendungen	der Sendung	program, show
+431	der Stichpunkt, -e	der	Stichpunkt	der Stichpunkt	die Stichpunkte	des Stichpunkts	bullet point, key point
+432	die Fahrradreise, -n	die	Fahrradreise	die Fahrradreise	die Fahrradreisen	der Fahrradreise	bicycle trip
+433	der Elefant, -en	der	Elefant	der Elefant	die Elefanten	des Elefants	elephant
+434	das Ersatzteil, -e	das	Ersatzteil	das Ersatzteil	die Ersatzteile	des Ersatzteils	spare part
+435	das Hinterrad, -räder	das	Hinterrad	das Hinterrad	die Hinterräder	des Hinterrads	rear wheel
+436	die Isomatte, -n	die	Isomatte	die Isomatte	die Isomatten	der Isomatte	sleeping pad
+437	der Kompass, -e	der	Kompass	der Kompass	die Kompasse	des Kompasses	compass
+438	die Lenkertasche, -n	die	Lenkertasche	die Lenkertasche	die Lenkertaschen	der Lenkertasche	handlebar bag
+439	die Not, Nöte	die	Not	die Not	die Nöte	der Not	emergency
+440	das Notizbuch, -bücher	das	Notizbuch	das Notizbuch	die Notizbücher	des Notizbuchs	notebook
+441	die Seite, -n (In der linken Seite steckt ein Messer.)	die	Seite	die Seite	die Seiten	der Seite	side
+442	die Unterwäsche (Singular)	die	Unterwäsche	die Unterwäsche	—	der Unterwäsche	underwear
+443	die Wäsche (Singular)	die	Wäsche	die Wäsche	—	der Wäsche	underwear
+444	das Werkzeug, -e	das	Werkzeug	das Werkzeug	die Werkzeuge	des Werkzeugs	tool
+445	die Wollmütze, -n	die	Wollmütze	die Wollmütze	die Wollmützen	der Wollmütze	wool cap
+446	die Disziplin (Singular)	die	Disziplin	die Disziplin	—	der Disziplin	discipline
+447	die Gitarre, -n	die	Gitarre	die Gitarre	die Gitarren	der Gitarre	guitar
+448	die Lieblingsband, -s	die	Lieblingsband	die Lieblingsband	die Lieblingsbands	der Lieblingsband	favorite band
+449	der Online-Kurs, -e	der	Online-Kurs	der Online-Kurs	die Online-Kurse	des Online-Kurses	online course
+450	die Checkliste, -n	die	Checkliste	die Checkliste	die Checklisten	der Checkliste	checklist
+451	die Meisterprüfung, -en	die	Meisterprüfung	die Meisterprüfung	die Meisterprüfungen	der Meisterprüfung	master’s certification
+452	der Prüfer,	der	Prüfer	der Prüfer	—	des Prüfers	examiner, person ministering an exam
+453	der Schlaf (Singular)	der	Schlaf	der Schlaf	—	des Schlafs	sleep
+454	das Semester,	das	Semester	das Semester	—	des Semesters	semester
+455	der Stoff (Singular) (Für die Prüfung muss ich noch so viel Stoff lernen.)	der	Stoff	der Stoff	—	des Stoffs	material
+456	der Zeitplan, -pläne	der	Zeitplan	der Zeitplan	die Zeitpläne	des Zeitplans	schedule
+457	das Lernproblem, -e	das	Lernproblem	das Lernproblem	die Lernprobleme	des Lernproblems	learning problem
+458	die Arbeit, -en (Maria schreibt heute eine Arbeit in Geografie.)	die	Arbeit	die Arbeit	die Arbeiten	der Arbeit	exam
+459	der Arbeitsplan, -pläne	der	Arbeitsplan	der Arbeitsplan	die Arbeitspläne	des Arbeitsplans	work plan, work schedule
+460	die Erholung (Singular)	die	Erholung	die Erholung	—	der Erholung	recovery
+461	die Grippe, -n	die	Grippe	die Grippe	die Grippen	der Grippe	flu
+462	der Lernhelfer,	der	Lernhelfer	der Lernhelfer	—	des Lernhelfers	learning assistant
+463	der Trick, -s	der	Trick	der Trick	die Tricks	des Tricks	trick
+464	der Ratschlag, Ratschläge	der	Ratschlag	der Ratschlag	die Ratschläge	des Ratschlags	advice, counsel
+465	der Forumstext, -e	der	Forumstext	der Forumstext	die Forumstexte	des Forumstexts	forum post
+466	der Auftrag, Aufträge	der	Auftrag	der Auftrag	die Aufträge	des Auftrags	job, order, task
+467	der Doktor, Doktoren	der	Doktor	der Doktor	die Doktoren	des Doktors	doctor
+468	das Drehbuch, -bücher	das	Drehbuch	das Drehbuch	die Drehbücher	des Drehbuchs	screenplay
+469	der Gebärdendolmetscher,	der	Gebärdendolmetscher	der Gebärdendolmetscher	—	des Gebärdendolmetschers	sign language interpreter
+470	der/die Gehörlose, -n	der/die	Gehörlose	der/die Gehörlose	die Gehörlosen	—	deaf person, hearing-impaired person
+471	das Gericht, -e (Tom dolmetscht oft im Gericht oder auf dem Standesamt.)	das	Gericht	das Gericht	die Gerichte	des Gerichts	court
+472	die Kommunikation (Singular)	die	Kommunikation	die Kommunikation	—	der Kommunikation	communication
+473	die Konferenz, -en	die	Konferenz	die Konferenz	die Konferenzen	der Konferenz	conference
+474	die Logopädin, -nen	die	Logopädin	die Logopädin	die Logopädinnen	der Logopädin	speech therapist
+475	Mitternacht (ohne Artikel, Singular)	—	Mitternacht	Mitternacht	—	—	midnight
+476	die Phase, -n	die	Phase	die Phase	die Phasen	der Phase	phase
+477	die Sprachtherapie, -n	die	Sprachtherapie	die Sprachtherapie	die Sprachtherapien	der Sprachtherapie	speech therapy
+478	das Standesamt, -ämter	das	Standesamt	das Standesamt	die Standesämter	des Standesamts	civil magistrate’s office
+479	der Tagesablauf, -abläufe	der	Tagesablauf	der Tagesablauf	die Tagesabläufe	des Tagesablaufs	daily schedule
+480	der Übersetzer,	der	Übersetzer	der Übersetzer	—	des Übersetzers	translator
+481	die Untersuchung, -en	die	Untersuchung	die Untersuchung	die Untersuchungen	der Untersuchung	examination
+482	der Zeitschriftenartikel,	der	Zeitschriftenartikel	der Zeitschriftenartikel	—	des Zeitschriftenartikels	newspaper article
+483	die Angabe, -n	die	Angabe	die Angabe	die Angaben	der Angabe	statement
+484	die Tänzerin, -nen	die	Tänzerin	die Tänzerin	die Tänzerinnen	der Tänzerin	dancer
+485	die Aushilfe, -n	die	Aushilfe	die Aushilfe	die Aushilfen	der Aushilfe	temporary help
+486	die Frucht, Früchte	die	Frucht	die Frucht	die Früchte	der Frucht	fruit
+487	das Generationenprojekt, -e	das	Generationenprojekt	das Generationenprojekt	die Generationenprojekte	des Generationenprojekts	generational project
+488	der Preis, -e (Unser Projekt hat dieses Jahr einen Preis gewonnen.)	der	Preis	der Preis	die Preise	des Preises	prize
+489	die Servicekraft, -kräfte	die	Servicekraft	die Servicekraft	die Servicekräfte	der Servicekraft	service staff
+490	der Wert, -e	der	Wert	der Wert	die Werte	des Werts	value
+491	die Erwartung, -en	die	Erwartung	die Erwartung	die Erwartungen	der Erwartung	expectation
+492	die Reportage, -n	die	Reportage	die Reportage	die Reportagen	der Reportage	report
+493	das Stichwort, -wörter	das	Stichwort	das Stichwort	die Stichwörter	des Stichworts	keyword
+494	die Seniorin, -nen	die	Seniorin	die Seniorin	die Seniorinnen	der Seniorin	senior citizen
+495	das Lieblingsbuch, -bücher	das	Lieblingsbuch	das Lieblingsbuch	die Lieblingsbücher	des Lieblingsbuchs	favorite book
+496	der Vorleser,	der	Vorleser	der Vorleser	—	des Vorlesers	reader
+497	die Einleitung, -en	die	Einleitung	die Einleitung	die Einleitungen	der Einleitung	introduction
+498	die Gliederung, -en	die	Gliederung	die Gliederung	die Gliederungen	der Gliederung	structure, organization
+499	der Hauptteil, -e	der	Hauptteil	der Hauptteil	die Hauptteile	des Hauptteils	main section
+500	der Punkt, -e (Zu diesem Punkt möchte ich noch etwas sagen: …)	der	Punkt	der Punkt	die Punkte	des Punktes	point
+501	der Zuhörer,	der	Zuhörer	der Zuhörer	—	des Zuhörers	listener
+502	der Spiegel,	der	Spiegel	der Spiegel	—	des Spiegels	mirror
+503	Paragliding (ohne Artikel)	—	Paragliding	Paragliding	—	—	paragliding
+504	Parkour	—	Parkour	Parkour	—	—	parkour
+505	das Schneeschuhwandern (Singular)	das	Schneeschuhwandern	das Schneeschuhwandern	—	des Schneeschuhwanderns	snowshoe hiking
+506	das Yoga (Singular)	das	Yoga	das Yoga	—	des Yogas	yoga
+507	der Gleitschirm, -e	der	Gleitschirm	der Gleitschirm	die Gleitschirme	des Gleitschirms	paraglider
+508	der Reithelm, -e	der	Reithelm	der Reithelm	die Reithelme	des Reithelms	riding helmet
+509	der Schneeschuh, -e	der	Schneeschuh	der Schneeschuh	die Schneeschuhe	des Schneeschuhs	snowshoe
+510	die Taucherbrille, -n	die	Taucherbrille	die Taucherbrille	die Taucherbrillen	der Taucherbrille	diving mask
+511	die Yogamatte, -n	die	Yogamatte	die Yogamatte	die Yogamatten	der Yogamatte	yoga mat
+512	die Mauer, -n	die	Mauer	die Mauer	die Mauern	der Mauer	wall
+513	der Muskel, -n	der	Muskel	der Muskel	die Muskeln	des Muskels	muscle
+514	das Pferd, -e	das	Pferd	das Pferd	die Pferde	des Pferds	horse
+515	der Schirm, -e (Ich springe aus dem Flugzeug, hoffentlich öffnet sich der Schirm.)	der	Schirm	der Schirm	die Schirme	des Schirms	parachute
+516	das Tier, -e	das	Tier	das Tier	die Tiere	des Tiers	animal
+517	der Wald, Wälder	der	Wald	der Wald	die Wälder	des Walds	forest
+518	der Yogakurs, -e	der	Yogakurs	der Yogakurs	die Yogakurse	des Yogakurses	yoga class
+519	die Sportart, -en	die	Sportart	die Sportart	die Sportarten	der Sportart	sport type
+520	der Fallschirm, -e	der	Fallschirm	der Fallschirm	die Fallschirme	des Fallschirms	parachute
+521	der Sportgegenstand, -gegenstände	der	Sportgegenstand	der Sportgegenstand	die Sportgegenstände	des Sportgegenstands	sports equipment
+522	der Fan, -s	der	Fan	der Fan	die Fans	des Fans	fan
+523	der Fanartikel,	der	Fanartikel	der Fanartikel	—	des Fanartikels	team merchandise
+524	der Fußballschal, -s	der	Fußballschal	der Fußballschal	die Fußballschals	des Fußballschals	soccer club scarf
+525	der Fußballfan, -s	der	Fußballfan	der Fußballfan	die Fußballfans	des Fußballfans	soccer fan
+526	die Begeisterung (Singular)	die	Begeisterung	die Begeisterung	—	der Begeisterung	enthusiasm
+527	die Enttäuschung, -en	die	Enttäuschung	die Enttäuschung	die Enttäuschungen	der Enttäuschung	disappointment
+528	die Hoffnung, -en	die	Hoffnung	die Hoffnung	die Hoffnungen	der Hoffnung	hope
+529	die Topform (Singular)	die	Topform	die Topform	—	der Topform	top form, peak condition
+530	der Wahnsinn (Singular)	der	Wahnsinn	der Wahnsinn	—	des Wahnsinns	madness, insanity
+531	die Niederlage, -n	die	Niederlage	die Niederlage	die Niederlagen	der Niederlage	defeat
+532	der Sieg, -e	der	Sieg	der Sieg	die Siege	des Siegs	victory
+533	die Lieblingsmannschaft, -en	die	Lieblingsmannschaft	die Lieblingsmannschaft	die Lieblingsmannschaften	der Lieblingsmannschaft	favorite team
+534	der Lieblingssportler,	der	Lieblingssportler	der Lieblingssportler	—	des Lieblingssportlers	favorite athlete
+535	das Bällchen,	das	Bällchen	das Bällchen	—	des Bällchens	ball
+536	die Chance, -n	die	Chance	die Chance	die Chancen	der Chance	chance, opportunity
+537	die Folge, -n	die	Folge	die Folge	die Folgen	der Folge	result
+538	die Konsequenz, -en	die	Konsequenz	die Konsequenz	die Konsequenzen	der Konsequenz	consequence
+539	die Mannschaft, -en	die	Mannschaft	die Mannschaft	die Mannschaften	der Mannschaft	team
+540	das Tor, -e (Beim Fußballspiel sind super Tore gefallen.)	das	Tor	das Tor	die Tore	des Tors	goal
+541	das Vorbild, -er	das	Vorbild	das Vorbild	die Vorbilder	des Vorbilds	role model
+542	der Widerspruch, -sprüche	der	Widerspruch	der Widerspruch	die Widersprüche	des Widerspruchs	contradiction, opposition
+543	der Musiker,	der	Musiker	der Musiker	—	des Musikers	musician
+544	der Sportler,	der	Sportler	der Sportler	—	des Sportlers	athlete
+545	die Unterscheidung, -en	die	Unterscheidung	die Unterscheidung	die Unterscheidungen	der Unterscheidung	distinction, difference
+546	die Kondition (Singular)	die	Kondition	die Kondition	—	der Kondition	conditioning
+547	die Reaktion, -en	die	Reaktion	die Reaktion	die Reaktionen	der Reaktion	reaction
+548	der Vorschlag, Vorschläge	der	Vorschlag	der Vorschlag	die Vorschläge	des Vorschlags	suggestion, recommendation
+549	der Hochseilgarten, -gärten	der	Hochseilgarten	der Hochseilgarten	die Hochseilgärten	des Hochseilgartens	high ropes course
+550	die Info, -s	die	Info	die Info	die Infos	der Info	information
+551	der Profi, -s	der	Profi	der Profi	die Profis	des Profis	professional
+552	die Übersicht, -en	die	Übersicht	die Übersicht	die Übersichten	der Übersicht	overview
+553	das Kärtchen,	das	Kärtchen	das Kärtchen	—	des Kärtchens	card
+554	der Stapel,	der	Stapel	der Stapel	—	des Stapels	deck of cards
+555	Geocaching	—	Geocaching	Geocaching	—	—	geocaching
+556	das Geocaching (Singular)	das	Geocaching	das Geocaching	—	des Geocachings	geocaching
+557	der Schatz, Schätze	der	Schatz	der Schatz	die Schätze	des Schatzes	treasure
+558	die Art, -en	die	Art	die Art	die Arten	der Art	type
+559	die Erklärung, -en	die	Erklärung	die Erklärung	die Erklärungen	der Erklärung	explanation
+560	der Geocache, -s	der	Geocache	der Geocache	die Geocaches	des Geocaches	geocache
+561	das GPS-Gerät, -e	das	GPS-Gerät	das GPS-Gerät	die GPS-Geräte	des GPS-Geräts	GPS device
+562	die Koordinate, -n	die	Koordinate	die Koordinate	die Koordinaten	der Koordinate	coordinate
+563	das Versteck, -e	das	Versteck	das Versteck	die Verstecke	des Verstecks	hiding place
+564	der Baum, Bäume	der	Baum	der Baum	die Bäume	des Baumes	tree
+565	der Behälter,	der	Behälter	der Behälter	—	des Behälters	container
+566	der Cache, -s	der	Cache	der Cache	die Caches	des Caches	cache
+567	die Dose, -n	die	Dose	die Dose	die Dosen	der Dose	jar, can, canister
+568	die Erde (Singular)	die	Erde	die Erde	—	der Erde	earth
+569	das Gelände,	das	Gelände	das Gelände	—	des Geländes	landscape
+570	der Geocache-Behälter, -e	der	Geocache-Behälter	der Geocache-Behälter	die Geocache-Behältere	des Geocache-Behälters	geocache container
+571	der Geocache-Inhalt, -e	der	Geocache-Inhalt	der Geocache-Inhalt	die Geocache-Inhalte	des Geocache-Inhalts	geocache contents
+572	der Geocacher,	der	Geocacher	der Geocacher	—	des Geocachers	geocacher
+573	das Grad, -e	das	Grad	das Grad	die Grade	des Grads	degree
+574	die Höhle, -n	die	Höhle	die Höhle	die Höhlen	der Höhle	cave
+575	die Internetadresse, -n	die	Internetadresse	die Internetadresse	die Internetadressen	der Internetadresse	internet address, URL
+576	das Loch, Löcher	das	Loch	das Loch	die Löcher	des Lochs	hole
+577	das Logbuch, -bücher	das	Logbuch	das Logbuch	die Logbücher	des Logbuchs	log book
+578	die Minustemperaturen (Plural)	die	Minustemperaturen	—	die Minustemperaturen	—	temperatures below freezing
+579	der Multicache, -s	der	Multicache	der Multicache	die Multicaches	des Multicaches	multicache
+580	die Natur (Singular)	die	Natur	die Natur	—	der Natur	nature
+581	die Naturwanderung, -en	die	Naturwanderung	die Naturwanderung	die Naturwanderungen	der Naturwanderung	nature hike
+582	die Pflanze, -n	die	Pflanze	die Pflanze	die Pflanzen	der Pflanze	plant
+583	das Plastik (Singular)	das	Plastik	das Plastik	—	des Plastiks	plastic
+584	die Plastikdose, -n	die	Plastikdose	die Plastikdose	die Plastikdosen	der Plastikdose	plastic canister
+585	die Temperatur, -en	die	Temperatur	die Temperatur	die Temperaturen	der Temperatur	temperature
+586	der Tresor, -e	der	Tresor	der Tresor	die Tresore	des Tresors	vault, safe
+587	das Kongresszentrum, -zentren	das	Kongresszentrum	das Kongresszentrum	die Kongresszentren	des Kongresszentrums	convention center
+588	das Kulturzentrum, -zentren	das	Kulturzentrum	das Kulturzentrum	die Kulturzentren	des Kulturzentrums	cultural center
+589	die Besonderheit, -en	die	Besonderheit	die Besonderheit	die Besonderheiten	der Besonderheit	special feature
+590	der Bauernhof, -höfe	der	Bauernhof	der Bauernhof	die Bauernhöfe	des Bauernhofs	farm
+591	die Breite, -n	die	Breite	die Breite	die Breiten	der Breite	width, breadth
+592	das Dach, Dächer	das	Dach	das Dach	die Dächer	des Dachs	roof
+593	das Dorf, Dörfer	das	Dorf	das Dorf	die Dörfer	des Dorfs	small town, village
+594	der Einwohner,	der	Einwohner	der Einwohner	—	des Einwohners	inhabitant
+595	die Ferienwohnung, -en	die	Ferienwohnung	die Ferienwohnung	die Ferienwohnungen	der Ferienwohnung	vacation home
+596	die Fläche, -n	die	Fläche	die Fläche	die Flächen	der Fläche	area
+597	das Gebäude,	das	Gebäude	das Gebäude	—	des Gebäudes	building
+598	das Hausboot, -e	das	Hausboot	das Hausboot	die Hausboote	des Hausboots	houseboat
+599	die Insel, -n	die	Insel	die Insel	die Inseln	der Insel	island
+600	die Kauffrau, -en	die	Kauffrau	die Kauffrau	die Kauffrauen	der Kauffrau	businesswoman
+601	der Keller,	der	Keller	der Keller	—	des Kellers	basement
+602	die Länge, -n	die	Länge	die Länge	die Längen	der Länge	length
+603	die Luft (meist Singular)	die	Luft	die Luft	—	der Luft	air
+604	der Quadratmeter,	der	Quadratmeter	der Quadratmeter	—	des Quadratmeters	square meter
+605	die Seehöhe (Singular)	die	Seehöhe	die Seehöhe	—	der Seehöhe	above sea level
+606	das Ufer,	das	Ufer	das Ufer	—	des Ufers	shore
+607	die Wolke, -n	die	Wolke	die Wolke	die Wolken	der Wolke	cloud
+608	die Wohnform, -en	die	Wohnform	die Wohnform	die Wohnformen	der Wohnform	form of housing
+609	der Stadtrand, -ränder	der	Stadtrand	der Stadtrand	die Stadtränder	des Stadtrands	city limit
+610	der Strand, Strände	der	Strand	der Strand	die Strände	des Strands	beach
+611	die Haustür, -en	die	Haustür	die Haustür	die Haustüren	der Haustür	front door
+612	der Eingang, Eingänge	der	Eingang	der Eingang	die Eingänge	des Eingangs	entrance
+613	das Rad, Räder	das	Rad	das Rad	die Räder	des Rads	bike
+614	der Rauch (Singular)	der	Rauch	der Rauch	—	des Rauchs	smoke
+615	das Treppenhaus, -häuser	das	Treppenhaus	das Treppenhaus	die Treppenhäuser	des Treppenhauses	stairwell, stairway
+616	der Wortschatz (Singular)	der	Wortschatz	der Wortschatz	—	des Wortschatzes	vocabulary
+617	das Feuer,	das	Feuer	das Feuer	—	des Feuers	fire
+618	die Feuerwehr, -en	die	Feuerwehr	die Feuerwehr	die Feuerwehren	der Feuerwehr	fire department
+619	der Kinderwagen, – /-wägen	der	Kinderwagen	der Kinderwagen	die Kinderwagen / die Kinderwägen	des Kinderwagens	baby carriage, pram
+620	der Müll (Singular)	der	Müll	der Müll	—	des Mülls	trash
+621	die Mülltonne, -n	die	Mülltonne	die Mülltonne	die Mülltonnen	der Mülltonne	trash can
+622	die Ordnung (Singular)	die	Ordnung	die Ordnung	—	der Ordnung	all right
+623	die Konfliktsituation, -en	die	Konfliktsituation	die Konfliktsituation	die Konfliktsituationen	der Konfliktsituation	conflict situation
+624	der/die Kleine, -n	der/die	Kleine	der/die Kleine	die Kleinen	—	little one
+625	die Nachbarschaft, -en	die	Nachbarschaft	die Nachbarschaft	die Nachbarschaften	der Nachbarschaft	neighborhood, neighbors
+626	die Bitte, -n	die	Bitte	die Bitte	die Bitten	der Bitte	request, plea
+627	der Briefkasten, -kästen	der	Briefkasten	der Briefkasten	die Briefkästen	des Briefkastens	mailbox
+628	der Gefallen, –	der	Gefallen	der Gefallen	die Gefallen	des Gefallens	favor
+629	die Katze, -n	die	Katze	die Katze	die Katzen	der Katze	cat
+630	das Päckchen,	das	Päckchen	das Päckchen	—	des Päckchens	package
+631	der Kursteilnehmer,	der	Kursteilnehmer	der Kursteilnehmer	—	des Kursteilnehmers	course participant
+632	der Bleistift, -e	der	Bleistift	der Bleistift	die Bleistifte	des Bleistifts	pencil
+633	der Umzugswagen, – /wägen	der	Umzugswagen	der Umzugswagen	die Umzugswagen	des Umzugswagens	moving truck
+634	das Apartment, -s	das	Apartment	das Apartment	die Apartments	des Apartments	apartment
+635	der Strom (Singular)	der	Strom	der Strom	—	des Stroms	electricity
+636	die Wand, Wände	die	Wand	die Wand	die Wände	der Wand	wall
+637	der Umzug, Umzüge	der	Umzug	der Umzug	die Umzüge	des Umzugs	move
+638	das WG-Essen,	das	WG-Essen	das WG-Essen	—	des WG-Essens	housing cooperative meal
+639	der Mitstudent, -en	der	Mitstudent	der Mitstudent	die Mitstudenten	des Mitstudents	fellow student
+640	der Rückweg, -e	der	Rückweg	der Rückweg	die Rückwege	des Rückwegs	return trip
+641	die Spracherfahrung, -en	die	Spracherfahrung	die Spracherfahrung	die Spracherfahrungen	der Spracherfahrung	foreign language experience
+642	die Cousine, -n	die	Cousine	die Cousine	die Cousinen	der Cousine	cousin
+643	die Abreise (Singular)	die	Abreise	die Abreise	—	der Abreise	departure
+644	das Kätzchen,	das	Kätzchen	das Kätzchen	—	des Kätzchens	kitten
+645	die Besitzerin, -nen	die	Besitzerin	die Besitzerin	die Besitzerinnen	der Besitzerin	owner
+646	das Meerschweinchen,	das	Meerschweinchen	das Meerschweinchen	—	des Meerschweinchens	guinea pig
+647	der Nymphensittich, -e	der	Nymphensittich	der Nymphensittich	die Nymphensittiche	des Nymphensittichs	cockatiel
+648	die Schildkröte, -n	die	Schildkröte	die Schildkröte	die Schildkröten	der Schildkröte	turtle
+649	das Tierheim, -e	das	Tierheim	das Tierheim	die Tierheime	des Tierheims	animal shelter
+650	das Zuhause,	das	Zuhause	das Zuhause	—	des Zuhauses	home
+651	der Bär, -en	der	Bär	der Bär	die Bären	des Bärs	bear
+652	das Bärchen,	das	Bärchen	das Bärchen	—	des Bärchens	bear cub
+653	der Hase, -n	der	Hase	der Hase	die Hasen	des Hases	rabbit
+654	das Haustier, -e	das	Haustier	das Haustier	die Haustiere	des Haustiers	pet
+655	der Kosename, -n	der	Kosename	der Kosename	die Kosenamen	des Kosenames	pet name
+656	das Mäuschen,	das	Mäuschen	das Mäuschen	—	des Mäuschens	sweetie
+657	Mausi (ohne Artikel)	—	Mausi	Mausi	—	—	sweetie
+658	das Schwein, -e	das	Schwein	das Schwein	die Schweine	des Schweins	pig
+659	der Tiername, -n	der	Tiername	der Tiername	die Tiernamen	des Tiernames	animal name
+660	das Futter,	das	Futter	das Futter	—	des Futters	feed
+661	der Haushalt, -e	der	Haushalt	der Haushalt	die Haushalte	des Haushalts	household
+662	die Lebenssituation, -en	die	Lebenssituation	die Lebenssituation	die Lebenssituationen	der Lebenssituation	living situation
+663	die Ratte, -n	die	Ratte	die Ratte	die Ratten	der Ratte	rat
+664	der Tierarzt, -ärzte	der	Tierarzt	der Tierarzt	die Tierärzte	des Tierarzts	veterinarian
+665	der Vogel, Vögel	der	Vogel	der Vogel	die Vögel	des Vogels	bird
+666	das Lieblingstier, -e	das	Lieblingstier	das Lieblingstier	die Lieblingstiere	des Lieblingstiers	favorite animal
+667	das Erdhörnchen,	das	Erdhörnchen	das Erdhörnchen	—	des Erdhörnchens	gopher
+668	die Fotomontage, -n	die	Fotomontage	die Fotomontage	die Fotomontagen	der Fotomontage	photomontage, composite photograph
+669	die Kamera, -s	die	Kamera	die Kamera	die Kameras	der Kamera	camera
+670	der Selbstauslöser,	der	Selbstauslöser	der Selbstauslöser	—	des Selbstauslösers	self-timer
+671	der Stein, -e	der	Stein	der Stein	die Steine	des Steins	rock
+672	der Stil, -e	der	Stil	der Stil	die Stile	des Stils	style
+673	die Ente, -n	die	Ente	die Ente	die Enten	der Ente	duck
+674	das Küken,	das	Küken	das Küken	—	des Kükens	chick
+675	der Polizist, -en	der	Polizist	der Polizist	die Polizisten	des Polizisten	police officer
+676	der Schwan, Schwäne	der	Schwan	der Schwan	die Schwäne	des Schwans	swan
+677	das Schweinchen,	das	Schweinchen	das Schweinchen	—	des Schweinchens	piglet
+678	die Tiergeschichte, -n	die	Tiergeschichte	die Tiergeschichte	die Tiergeschichten	der Tiergeschichte	animal story
+679	der Tiger,	der	Tiger	der Tiger	—	des Tigers	tiger
+680	die Kuh, Kühe	die	Kuh	die Kuh	die Kühe	der Kuh	cow
+681	das Spiegelbild, -er	das	Spiegelbild	das Spiegelbild	die Spiegelbilder	des Spiegelbilds	reflection, mirror image
+682	die Terrassentür, -en	die	Terrassentür	die Terrassentür	die Terrassentüren	der Terrassentür	patio door, terrace door
+683	der Zaun, Zäune	der	Zaun	der Zaun	die Zäune	des Zauns	fence
+684	die Unterhaltung, -en	die	Unterhaltung	die Unterhaltung	die Unterhaltungen	der Unterhaltung	entertainment, conversation
+685	das Album, Alben	das	Album	das Album	die Alben	des Albums	album
+686	die Bestsellerliste, -n	die	Bestsellerliste	die Bestsellerliste	die Bestsellerlisten	der Bestsellerliste	bestseller list
+687	das Budget, -s	das	Budget	das Budget	die Budgets	des Budgets	budget
+688	der Frauenchor, -chöre	der	Frauenchor	der Frauenchor	die Frauenchöre	des Frauenchors	women’s choir
+689	das Hauptwerk, -e	das	Hauptwerk	das Hauptwerk	die Hauptwerke	des Hauptwerks	masterpiece, main work
+690	der Männerchor, -chöre	der	Männerchor	der Männerchor	die Männerchöre	des Männerchors	men’s choir
+691	das Märchenschloss, -schlösser	das	Märchenschloss	das Märchenschloss	die Märchenschlösser	des Märchenschlosses	fairytale castle
+692	die Musikgeschichte (Singular)	die	Musikgeschichte	die Musikgeschichte	—	der Musikgeschichte	history of music
+693	die Realität, -en	die	Realität	die Realität	die Realitäten	der Realität	reality
+694	der Riesenerfolg, -e	der	Riesenerfolg	der Riesenerfolg	die Riesenerfolge	des Riesenerfolgs	huge success
+695	die Rolle, -n	die	Rolle	die Rolle	die Rollen	der Rolle	role
+696	das Schloss, Schlösser	das	Schloss	das Schloss	die Schlösser	des Schlosses	castle
+697	der Solist, -en	der	Solist	der Solist	die Solisten	des Solisten	soloist
+698	der Tourist, -en	der	Tourist	der Tourist	die Touristen	des Tourists	tourist
+699	die Verfilmung, -en	die	Verfilmung	die Verfilmung	die Verfilmungen	der Verfilmung	film adaptation
+700	die Führung, -en	die	Führung	die Führung	die Führungen	der Führung	guided tour
+701	das Amphitheater,	das	Amphitheater	das Amphitheater	—	des Amphitheaters	amphitheater
+702	die Arena, Arenen	die	Arena	die Arena	die Arenen	der Arena	arena
+703	der Fernsehturm, -türme	der	Fernsehturm	der Fernsehturm	die Fernsehtürme	des Fernsehturms	TV tower
+704	der Kakao, -s	der	Kakao	der Kakao	die Kakaos	des Kakaos	cocoa
+705	das Konzerthaus, -häuser	das	Konzerthaus	das Konzerthaus	die Konzerthäuser	des Konzerthauses	concert hall
+706	der Konzertsaal, -säle	der	Konzertsaal	der Konzertsaal	die Konzertsäle	des Konzertsaals	concert hall
+707	das Lagerhaus, -häuser	das	Lagerhaus	das Lagerhaus	die Lagerhäuser	des Lagerhauses	warehouse
+708	die Römerspiele (Plural)	die	Römerspiele	—	die Römerspiele	—	Roman games
+709	die Römerzeit (Singular)	die	Römerzeit	die Römerzeit	—	der Römerzeit	Roman era
+710	der Umbau, -ten	der	Umbau	der Umbau	die Umbauten	des Umbaus	rebuilding, conversion
+711	der Jazz (Singular)	der	Jazz	der Jazz	—	des Jazzes	jazz
+712	das Rockkonzert, -e	das	Rockkonzert	das Rockkonzert	die Rockkonzerte	des Rockkonzerts	rock show
+713	der Trip-Hop (Singular)	der	Trip-Hop	der Trip-Hop	—	des Trip-Hops	trip-hop
+714	der Stehplatz, -plätze	der	Stehplatz	der Stehplatz	die Stehplätze	des Stehplatzes	standing room
+715	der Ticketkauf, -käufe	der	Ticketkauf	der Ticketkauf	die Ticketkäufe	des Ticketkaufs	ticket purchase
+716	die Überweisung, -en	die	Überweisung	die Überweisung	die Überweisungen	der Überweisung	bank transfer
+717	die Kasse, -n	die	Kasse	die Kasse	die Kassen	der Kasse	cashier
+718	das Konto, Konten	das	Konto	das Konto	die Konten	des Kontos	account
+719	die Mehrwertsteuer,	die	Mehrwertsteuer	die Mehrwertsteuer	—	der Mehrwertsteuer	value-added tax
+720	die Quittung, -en	die	Quittung	die Quittung	die Quittungen	der Quittung	receipt
+721	der Rabatt, -e	der	Rabatt	der Rabatt	die Rabatte	des Rabatts	rebate, discount
+722	der Käufer,	der	Käufer	der Käufer	—	des Käufers	buyer
+723	der Kontrolleur, -e	der	Kontrolleur	der Kontrolleur	die Kontrolleure	des Kontrolleurs	inspector
+724	der Schirm, -e (Nie habe ich einen Schirm dabei, wenn es regnet!)	der	Schirm	der Schirm	die Schirme	des Schirms	umbrella
+725	das Lieblingslied, -er	das	Lieblingslied	das Lieblingslied	die Lieblingslieder	des Lieblingslieds	favorite song
+726	die Ansage, -n	die	Ansage	die Ansage	die Ansagen	der Ansage	announcement
+727	der Einsatz, Einsätze	der	Einsatz	der Einsatz	die Einsätze	des Einsatzes	use, mission, deployment
+728	der Filmregisseur, -e	der	Filmregisseur	der Filmregisseur	die Filmregisseure	des Filmregisseurs	film director
+729	der Hochzeitstag, -e	der	Hochzeitstag	der Hochzeitstag	die Hochzeitstage	des Hochzeitstags	wedding
+730	der Hörer,	der	Hörer	der Hörer	—	des Hörers	listener
+731	die Komikerin, -nen	die	Komikerin	die Komikerin	die Komikerinnen	der Komikerin	comedian
+732	die Live-Show, -s	die	Live-Show	die Live-Show	die Live-Shows	der Live-Show	live show
+733	das Medium, Medien	das	Medium	das Medium	die Medien	des Mediums	medium
+734	die Moderatorin, -nen	die	Moderatorin	die Moderatorin	die Moderatorinnen	der Moderatorin	moderator
+735	die Nachrichten (Plural) (Hast du heute die Nachrichten schon gehört?)	die	Nachrichten	—	die Nachrichten	—	news
+736	der Nachrichtensprecher,	der	Nachrichtensprecher	der Nachrichtensprecher	—	des Nachrichtensprechers	news anchor, news presenter
+737	das Programm, -e (Das Programm im Fernsehen finde ich immer schlechter.)	das	Programm	das Programm	die Programme	des Programms	program
+738	der Radiosprecher,	der	Radiosprecher	der Radiosprecher	—	des Radiosprechers	radio presenter
+739	die Stille (Singular)	die	Stille	die Stille	—	der Stille	silence
+740	das Stück, -e (Hast du schon das neue Stück von Monika Gruber gesehen?)	das	Stück	das Stück	die Stücke	des Stücks	play
+741	der Teleprompter,	der	Teleprompter	der Teleprompter	—	des Teleprompters	teleprompter
+742	die TV-Show, -s	die	TV-Show	die TV-Show	die TV-Shows	der TV-Show	TV show
+743	der/die Prominente, -n	der/die	Prominente	der/die Prominente	die Prominenten	—	prominent person, celebrity
+744	der Regisseur, -e	der	Regisseur	der Regisseur	die Regisseure	des Regisseurs	director
+745	das Finale, -s	das	Finale	das Finale	die Finales	des Finales	final match
+746	der Fußballfilm, -e	der	Fußballfilm	der Fußballfilm	die Fußballfilme	des Fußballfilms	soccer film
+747	die Hauptrolle, -n	die	Hauptrolle	die Hauptrolle	die Hauptrollen	der Hauptrolle	leading role
+748	das Prominenten-Quiz,	das	Prominenten-Quiz	das Prominenten-Quiz	—	des Prominenten-Quizes	celebrity quiz
+749	die Quiz-Frage, -n	die	Quiz-Frage	die Quiz-Frage	die Quiz-Fragen	der Quiz-Frage	quiz question
+750	der Punkt, -e (Für jede richtige Antwort gibt es drei Punkte.)	der	Punkt	der Punkt	die Punkte	des Punktes	point
+751	die Malerei, -en	die	Malerei	die Malerei	die Malereien	der Malerei	painting
+752	der Audioguide, -s	der	Audioguide	der Audioguide	die Audioguides	des Audioguides	audio guide
+753	die Einführung, -en	die	Einführung	die Einführung	die Einführungen	der Einführung	introduction
+754	der Feldhase, -n	der	Feldhase	der Feldhase	die Feldhasen	des Feldhases	hare
+755	das Jahrhundert, -e	das	Jahrhundert	das Jahrhundert	die Jahrhunderte	des Jahrhunderts	century
+756	der Maler,	der	Maler	der Maler	—	des Malers	painter
+757	das Tierbild, -er	das	Tierbild	das Tierbild	die Tierbilder	des Tierbilds	picture of an animal
+758	die Tiermalerei, -en	die	Tiermalerei	die Tiermalerei	die Tiermalereien	der Tiermalerei	painting of animals
+759	das Wildschwein, -e	das	Wildschwein	das Wildschwein	die Wildschweine	des Wildschweins	wild boar
+760	das Blatt, Blätter (Im Herbst liebe ich die roten Blätter an den Bäumen.)	das	Blatt	das Blatt	die Blätter	des Blatts	leaf
+761	die Ecke, -n	die	Ecke	die Ecke	die Ecken	der Ecke	corner
+762	der Vordergrund, -gründe	der	Vordergrund	der Vordergrund	die Vordergründe	des Vordergrunds	foreground
+763	die Abbildung, -en	die	Abbildung	die Abbildung	die Abbildungen	der Abbildung	illustration
+764	der Graffito, Graffiti	der	Graffito	der Graffito	die Graffiti	des Graffitos	graffiti
+765	der Hintergrund, -gründe	der	Hintergrund	der Hintergrund	die Hintergründe	des Hintergrunds	background
+766	der Alkohol (Singular)	der	Alkohol	der Alkohol	—	des Alkohols	alcohol
+767	die Arztpraxis, -praxen	die	Arztpraxis	die Arztpraxis	die Arztpraxen	der Arztpraxis	medical practice
+768	das Blut (Singular)	das	Blut	das Blut	—	des Bluts	blood
+769	der Krankenwagen, -/-wägen	der	Krankenwagen	der Krankenwagen	die Krankenwägen	des Krankenwagens	ambulance
+770	die Rose, -n	die	Rose	die Rose	die Rosen	der Rose	rose
+771	die Abschlussprüfung, -en	die	Abschlussprüfung	die Abschlussprüfung	die Abschlussprüfungen	der Abschlussprüfung	final exam
+772	die Fete, -n	die	Fete	die Fete	die Feten	der Fete	party
+773	das Heimweh (Singular)	das	Heimweh	das Heimweh	—	des Heimwehs	homesickness
+774	der Kiosk, -e	der	Kiosk	der Kiosk	die Kioske	des Kiosks	kiosk
+775	die Bibliothek, -en	die	Bibliothek	die Bibliothek	die Bibliotheken	der Bibliothek	library
+776	der Rentner,	der	Rentner	der Rentner	—	des Rentners	retiree, pensioner
+777	die Rentnerin, -nen	die	Rentnerin	die Rentnerin	die Rentnerinnen	der Rentnerin	retiree, pensioner
+778	die Lebensphase, -n	die	Lebensphase	die Lebensphase	die Lebensphasen	der Lebensphase	phase of life
+779	die Mittagspause, -n	die	Mittagspause	die Mittagspause	die Mittagspausen	der Mittagspause	lunch break
+780	das Kajak, -s	das	Kajak	das Kajak	die Kajaks	des Kajaks	kayak
+781	der Kajak-Ausflug, -Ausflüge	der	Kajak-Ausflug	der Kajak-Ausflug	die Kajak-Ausflüge	des Kajak-Ausflugs	kayak excursion
+782	der Gegenvorschlag, -vorschläge	der	Gegenvorschlag	der Gegenvorschlag	die Gegenvorschläge	des Gegenvorschlags	counterproposal
+783	die Kategorie, -n	die	Kategorie	die Kategorie	die Kategorien	der Kategorie	category
+784	die Stimmung, -en	die	Stimmung	die Stimmung	die Stimmungen	der Stimmung	mood
+785	der Sprecher,	der	Sprecher	der Sprecher	—	des Sprechers	speaker
+786	der Apfelkuchen,	der	Apfelkuchen	der Apfelkuchen	—	des Apfelkuchens	apple pie
+787	die Kajaktour, -en	die	Kajaktour	die Kajaktour	die Kajaktouren	der Kajaktour	kayak tour
+788	das Abenteuer,	das	Abenteuer	das Abenteuer	—	des Abenteuers	adventure
+789	der Fernsehsender,	der	Fernsehsender	der Fernsehsender	—	des Fernsehsenders	TV station
+790	das Filmteam, -s	das	Filmteam	das Filmteam	die Filmteams	des Filmteams	film crew
+791	das Kerzenlicht, -er	das	Kerzenlicht	das Kerzenlicht	die Kerzenlichter	des Kerzenlichts	candlelight
+792	der Kontext, -e	der	Kontext	der Kontext	die Kontexte	des Kontexts	context
+793	die Lücke, -n	die	Lücke	die Lücke	die Lücken	der Lücke	gap
+794	der/das Maracuja-Joghurt, -s	der/das	Maracuja-Joghurt	der/das Maracuja-Joghurt	die Maracuja-Joghurts	—	passion fruit yogurt
+795	die Zeitreise, -n	die	Zeitreise	die Zeitreise	die Zeitreisen	der Zeitreise	time travel
+796	das Werbeplakat, -e	das	Werbeplakat	das Werbeplakat	die Werbeplakate	des Werbeplakats	advertising poster
+797	der Zeitpunkt, -e	der	Zeitpunkt	der Zeitpunkt	die Zeitpunkte	des Zeitpunkts	moment in time
+798	das Gold (Singular)	das	Gold	das Gold	—	des Golds	gold
+799	das Gras, Gräser	das	Gras	das Gras	die Gräser	des Grases	grass
+800	die Morgenstunde, -n	die	Morgenstunde	die Morgenstunde	die Morgenstunden	der Morgenstunde	morningtime
+801	das Sprichwort, -wörter	das	Sprichwort	das Sprichwort	die Sprichwörter	des Sprichworts	proverb
+802	der/die Wartende, -n	der/die	Wartende	der/die Wartende	die Wartenden	—	someone who waits
+803	die Wunde, -n	die	Wunde	die Wunde	die Wunden	der Wunde	wound
+804	die Geduld (Singular)	die	Geduld	die Geduld	—	der Geduld	patience
+805	Äthiopien	—	Äthiopien	Äthiopien	—	—	Ethiopia
+806	die Gastfreundschaft (Singular)	die	Gastfreundschaft	die Gastfreundschaft	—	der Gastfreundschaft	hospitality
+807	die Gastgeberin, -nen	die	Gastgeberin	die Gastgeberin	die Gastgeberinnen	der Gastgeberin	hostess
+808	der Geselle, -n	der	Geselle	der Geselle	die Gesellen	des Geselles	apprentice
+809	der Heimatort, -e	der	Heimatort	der Heimatort	die Heimatorte	des Heimatorts	hometown
+810	die Kaffeebohne, -n	die	Kaffeebohne	die Kaffeebohne	die Kaffeebohnen	der Kaffeebohne	coffee bean
+811	die Kaffeezeremonie, -n	die	Kaffeezeremonie	die Kaffeezeremonie	die Kaffeezeremonien	der Kaffeezeremonie	coffee ceremony
+812	die Kulturwissenschaftlerin, -nen	die	Kulturwissenschaftlerin	die Kulturwissenschaftlerin	die Kulturwissenschaftlerinnen	der Kulturwissenschaftlerin	humanities researcher
+813	Neujahr (ohne Artikel)	—	Neujahr	Neujahr	—	—	New Year’s
+814	der Ofen, Öfen	der	Ofen	der Ofen	die Öfen	des Ofens	oven
+815	Silvester (ohne Artikel)	—	Silvester	Silvester	—	—	New Year’s Eve
+816	die Walz (Singular)	die	Walz	die Walz	—	der Walz	apprenticeship in a different local region
+817	der Wandergeselle, -n	der	Wandergeselle	der Wandergeselle	die Wandergesellen	des Wandergeselles	traveling apprentice
+818	die Wanderschaft, -en	die	Wanderschaft	die Wanderschaft	die Wanderschaften	der Wanderschaft	travels
+819	die Zeremonie, -n	die	Zeremonie	die Zeremonie	die Zeremonien	der Zeremonie	ceremony
+820	das Neujahrsfest, -e	das	Neujahrsfest	das Neujahrsfest	die Neujahrsfeste	des Neujahrsfests	new year’s celebration
+821	das Erntedankfest, -e	das	Erntedankfest	das Erntedankfest	die Erntedankfeste	des Erntedankfests	harvest celebration
+822	der Maibaum, -bäume	der	Maibaum	der Maibaum	die Maibäume	des Maibaums	maypole
+823	der Arbeitskollege, -n	der	Arbeitskollege	der Arbeitskollege	die Arbeitskollegen	des Arbeitskolleges	colleague
+824	die Diplomarbeit, -en	die	Diplomarbeit	die Diplomarbeit	die Diplomarbeiten	der Diplomarbeit	thesis
+825	die Geburtstagsparty, -s	die	Geburtstagsparty	die Geburtstagsparty	die Geburtstagspartys	der Geburtstagsparty	birthday party
+826	der Hausschuh, -e	der	Hausschuh	der Hausschuh	die Hausschuhe	des Hausschuhs	slipper
+827	die Socke, -n	die	Socke	die Socke	die Socken	der Socke	sock
+828	der Gastgeber,	der	Gastgeber	der Gastgeber	—	des Gastgebers	host
+829	der Kulturknigge (Singular)	der	Kulturknigge	der Kulturknigge	—	des Kulturknigges	cultural etiquette
+830	die Portion, -en	die	Portion	die Portion	die Portionen	der Portion	portion
+831	die Seite (Singular) (Wenn ich mir die Nase putzen muss, sehe ich zur Seite.)	die	Seite	die Seite	—	der Seite	side
+832	das Taschentuch, -tücher	das	Taschentuch	das Taschentuch	die Taschentücher	des Taschentuchs	handkerchief
+833	der Reiseleiter,	der	Reiseleiter	der Reiseleiter	—	des Reiseleiters	tour guide
+834	die Absicht, -en	die	Absicht	die Absicht	die Absichten	der Absicht	intention
+835	das Benehmen (Singular)	das	Benehmen	das Benehmen	—	des Benehmens	behavior, manners
+836	die Höflichkeit, -en	die	Höflichkeit	die Höflichkeit	die Höflichkeiten	der Höflichkeit	politeness, courtesy
+837	Acht (ohne Artikel, Singular) (Gib Acht: Die Ampel ist rot.)	—	Acht	Acht	—	—	awareness, heed
+838	die Ausnahme, -n	die	Ausnahme	die Ausnahme	die Ausnahmen	der Ausnahme	exception
+839	der Beamte, -n	der	Beamte	der Beamte	die Beamten	des Beamtes	officer, civil servant
+840	die Distanz, -en	die	Distanz	die Distanz	die Distanzen	der Distanz	distance
+841	der/die Erwachsene, -n	der/die	Erwachsene	der/die Erwachsene	die Erwachsenen	—	adult
+842	das Schulalter (Singular)	das	Schulalter	das Schulalter	—	des Schulalters	school-age
+843	das Schulkind, -er	das	Schulkind	das Schulkind	die Schulkinder	des Schulkinds	schoolchild
+844	die Wanderung, -en	die	Wanderung	die Wanderung	die Wanderungen	der Wanderung	hike
+845	der/die Bekannte, -n	der/die	Bekannte	der/die Bekannte	die Bekannten	—	acquaintance
+846	die Stimme, -n	die	Stimme	die Stimme	die Stimmen	der Stimme	voice
+847	die Industrie, -en	die	Industrie	die Industrie	die Industrien	der Industrie	industry
+848	die Ordnung (Singular)	die	Ordnung	die Ordnung	—	der Ordnung	order
+849	die Qualität (Singular)	die	Qualität	die Qualität	—	der Qualität	quality
+850	die Wirtschaft (Singular)	die	Wirtschaft	die Wirtschaft	—	der Wirtschaft	economy
+851	das Ballkleid, -er	das	Ballkleid	das Ballkleid	die Ballkleider	des Ballkleids	formal dress for balls
+852	der Handkuss, -küsse	der	Handkuss	der Handkuss	die Handküsse	des Handkusses	kiss on the hand
+853	die Kaiserzeit (Singular)	die	Kaiserzeit	die Kaiserzeit	—	der Kaiserzeit	imperial era
+854	der Opernball, -bälle	der	Opernball	der Opernball	die Opernbälle	des Opernballs	opera ball
+855	die Prinzessin, -nen	die	Prinzessin	die Prinzessin	die Prinzessinnen	der Prinzessin	princess
+856	der Quatsch (Singular)	der	Quatsch	der Quatsch	—	des Quatsches	nonsense
+857	der Ski, -er	der	Ski	der Ski	die Skier	des Skis	ski
+858	die Zusammenfassung, -en	die	Zusammenfassung	die Zusammenfassung	die Zusammenfassungen	der Zusammenfassung	summary, synopsis
+859	der Blogger,	der	Blogger	der Blogger	—	des Bloggers	blogger
+860	die Eigenschaft, -en	die	Eigenschaft	die Eigenschaft	die Eigenschaften	der Eigenschaft	attribute, characteristic

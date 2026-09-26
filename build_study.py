@@ -168,6 +168,10 @@ PLURAL_OVERRIDES = {
     "der Kinderwagen, – /-wägen": "die Kinderwagen / die Kinderwägen",
     "der Großraumwagen, -/-wägen": "die Großraumwagen / die Großraumwägen",
     "der Wagen, -/Wägen": "die Wagen / die Wägen",
+    "das Kongresszentrum, -zentren": "die Kongresszentren",
+    "das Kulturzentrum, -zentren": "die Kulturzentren",
+    "der Konzertsaal, -säle": "die Konzertsäle",
+    "die Industrie, -en": "die Industrien",
 }
 
 
