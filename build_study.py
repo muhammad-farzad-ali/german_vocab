@@ -172,6 +172,9 @@ PLURAL_OVERRIDES = {
     "das Kulturzentrum, -zentren": "die Kulturzentren",
     "der Konzertsaal, -säle": "die Konzertsäle",
     "die Industrie, -en": "die Industrien",
+    "der Bereich, der, -e": "die Bereiche",
+    "Eisenbahn, die, -n": "die Eisenbahnen",
+    "das Gegenüber, s, -": "die Gegenüber",
 }
 
 
