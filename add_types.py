@@ -827,6 +827,11 @@ def build_markdown():
             for g, e in items:
                 f.write("- %s — %s\n" % (g, e))
         created.append(path)
+    for stale in os.listdir(FOLDER):
+        if not stale.endswith(".md"):
+            continue
+        if os.path.join(FOLDER, stale) not in created:
+            os.remove(os.path.join(FOLDER, stale))
     return created
 
 
