@@ -1,86 +1,116 @@
-91	lockerer	am lockersten	Die Musik ist locker.	The music is relaxed.
-92	schöner	am schönsten	Die Stadt ist schön.	The city is pretty.
-93	ewiger	am ewigsten	Das scheint ewig.	That seems forever.
-94	nerviger	am nervigsten	Der Lärm ist nervig.	The noise is annoying.
-95	ungeduldiger	am ungeduldigsten	Er ist ungeduldig.	He is impatient.
-96	genervt	am genervtesten	Ich bin genervt.	I am irritated.
-97	höflicher	am höflichsten	Er ist höflich.	He is polite.
-98	—	—	Der Kurs ist stressfrei.	The course is stress-free.
-99	gespannter	am gespanntesten	Ich bin gespannt.	I am curious.
-100	—	—	Wir sind einverstanden.	We are agreed.
-101	flexibler	am flexibelsten	Sie ist flexibel.	She is flexible.
-102	unmöglicher	am unmöglichsten	Das ist unmöglich.	That is impossible.
-103	—	—	Das ist unpraktisch.	That is impractical.
-104	allgemeiner	am allgemeinsten	Das ist die allgemeine Regel.	That is the general rule.
-105	wacher	am wachsten	Ich bin wach.	I am awake.
-106	öffentlicher	am öffentlichsten	Das ist ein öffentlicher Park.	That is a public park.
-107	durchsichtiger	am durchsichtigsten	Das Glas ist durchsichtig.	The glass is transparent.
-108	—	—	Das Handy ist griffbereit.	The phone is at hand.
-109	kühler	am kühlsten	Das Wasser ist kühl.	The water is cool.
-110	knapper	am knappsten	Die Zeit ist knapp.	The time is scarce.
-111	—	—	Die Prüfung ist mündlich.	The exam is oral.
-112	konsequenter	am konsequentesten	Er ist konsequent.	He is consistent.
-113	gerechter	am gerechtesten	Der Lehrer ist gerecht.	The teacher is fair.
-114	ruhiger	am ruhigsten	Ich bin ruhig.	I am without worry.
-115	abwechslungsreicher	am abwechslungsreichsten	Der Kurs ist abwechslungsreich.	The course is varied.
-116	einsamer	am einsamsten	Er fühlt sich einsam.	He feels lonely.
-117	—	—	Sie ist freiberuflich tätig.	She works freelance.
-118	—	—	Er ist gehörlos.	He is deaf.
-119	kompletter	am komplettesten	Die Möbel sind komplett.	The furniture is complete.
-120	sportlicher	am sportlichsten	Er ist sportlich.	He is sporty.
-121	begeisterter	am begeistertsten	Sie ist begeistert.	She is enthusiastic.
-122	kritischer	am kritischsten	Ich bin kritisch.	I am critical.
-123	treuer	am treuesten	Der Hund ist treu.	The dog is loyal.
-124	—	—	Das ist geografisch korrekt.	That is geographically correct.
-125	—	—	Das ist ein sogenanntes Haus.	That is a so-called house.
-126	—	—	Jeweilige Fragen sind offen.	The respective questions are open.
-127	stabiler	am stabilsten	Der Tisch ist stabil.	The table is sturdy.
-128	—	—	Der Schatz ist versteckt.	The treasure is hidden.
-129	—	—	Die Jacke ist wasserdicht.	The jacket is waterproof.
-130	—	—	Das Land ist bewohnt.	The country is inhabited.
-131	entfernter	am entferntesten	Der Ort ist entfernt.	The place is distant.
-132	genialer	am genialsten	Die Idee ist genial.	The idea is ingenious.
-133	intensiver	am intensivsten	Die Farbe ist intensiv.	The colour is intense.
-134	leiser	am leisesten	Die Musik ist leise.	The music is quiet.
-135	enger	am engsten	Der Weg ist eng.	The path is narrow.
-136	trockener	am trockensten	Das Brot ist trocken.	The bread is dry.
-137	—	—	Das Gerät ist elektrisch.	The device is electric.
-138	—	—	Die Wohnung ist möbliert.	The flat is furnished.
-139	—	—	Das ist einmalig.	That is unique.
-140	—	—	Der Pullover ist pflegeleicht.	The jumper is easy to care for.
-141	modischer	am modischsten	Die Kleidung ist modisch.	The clothes are fashionable.
-142	unterschiedlicher	am unterschiedlichsten	Die Meinungen sind unterschiedlich.	The opinions are different.
-143	—	—	Sie ist verliebt.	She is in love.
-144	—	—	Das Bier ist bayrisch.	The beer is Bavarian.
-145	—	—	Das Buch ist meistverkauft.	The book is bestselling.
-146	—	—	Der Preis ist netto.	The price is net.
-147	—	—	Basel ist eine deutschsprachige Stadt.	Basel is a German-speaking city.
-148	—	—	Wir wohnen in derselben Straße.	We live on the same street.
-149	—	—	Das Konzert ist ausverkauft.	The concert is sold out.
-150	aufgeregter	am aufgeregtesten	Ich bin aufgeregt.	I am excited.
-151	abstrakter	am abstraktesten	Das Bild ist abstrakt.	The picture is abstract.
-152	dümmer	am dümmsten	Der Film ist dumm.	The film is dumb.
-153	exakter	am exaktesten	Die Antwort ist exakt.	The answer is exact.
-154	—	—	Der Film ist gut gemacht.	The film is well made.
-155	—	—	Der Raum ist dunkel.	The room is dark.
-156	—	—	Der Raum ist hell.	The room is light.
-157	—	—	Er ist betrunken.	He is drunk.
-158	—	—	Sie ist schwanger.	She is pregnant.
-159	—	—	Der Fisch ist tot.	The fish is dead.
-160	—	—	Er ist pensioniert.	He is retired.
-161	—	—	Das Wasser ist fließend.	The water is running.
-162	sinnvoller	am sinnvollsten	Das ist sinnvoll.	That is meaningful.
-163	—	—	Das Essen ist afrikanisch.	The food is African.
-164	effektiver	am effektivsten	Die Methode ist effektiv.	The method is effective.
-165	—	—	Das ist mein einziges Buch.	That is my only book.
-166	unhöflicher	am unhöflichsten	Das war unhöflich.	That was impolite.
-167	unsicherer	am unsichersten	Er ist unsicher.	He is insecure.
-168	unzufriedener	am unzufriedensten	Sie ist unzufrieden.	She is dissatisfied.
-169	gieriger	am gierigsten	Die Katze ist gierig.	The cat is greedy.
-170	—	—	Die Tür ist automatisch.	The door is automatic.
-171	—	—	Sie sind befreundet.	They are friends.
-172	genereller	am generellsten	Das ist die generelle Regel.	That is the general rule.
-173	korrekter	am korrektesten	Die Antwort ist korrekt.	The answer is correct.
-174	näher	am nächsten	Komm näher.	Come closer.
-175	altmodischer	am altmodischsten	Die Musik ist altmodisch.	The music is old-fashioned.
-176	beleidigter	am beleidigtsten	Er ist beleidigt.	He is offended.
+121	ätzender	am ätzendsten	Der Film ist ätzend.	The film is lousy.
+122	endloser	am endlosesten	Die Liste ist endlos.	The list is endless.
+123	krasser	am krassesten	Das war wirklich krass.	That was really crass.
+124	schicker	am schicksten	Die Jacke ist schick.	The jacket is chic.
+125	erschöpfter	am erschöpftesten	Ich bin erschöpft.	I am exhausted.
+126	toleranter	am tolerantesten	Sie ist tolerant.	She is tolerant.
+127	geeigneter	am geeignetsten	Das Material ist geeignet.	The material is suitable.
+128	diplomatischer	am diplomatischsten	Die Antwort ist diplomatisch.	The answer is diplomatic.
+129	undiplomatischer	am undiplomatischsten	Das war undiplomatisch.	That was undiplomatic.
+130	ärmer	am ärmsten	Die Familie ist arm.	The family is poor.
+131	finanzieller	am finanziellsten	Die Lage ist finanziell.	The situation is financial.
+132	kommerzieller	am kommerziellsten	Das Geschäft ist kommerziell.	The business is commercial.
+133	unabhängiger	am unabhängigsten	Sie ist unabhängig.	She is independent.
+134	kraftloser	am kraftlosesten	Ich bin kraftlos.	I am powerless.
+135	lachender	am lachendsten	Das Kind ist lachend.	The child is laughing.
+136	verbissener	am verbissensten	Er arbeitet verbissen.	He works doggedly.
+137	zorniger	am zornigsten	Der Mann ist zornig.	The man is furious.
+138	eiliger	am eiligsten	Ich habe es eilig.	I am hasty.
+139	wörtlicher	am wörtlichsten	Die Übersetzung ist wörtlich.	The translation is literal.
+140	ausreichender	am ausreichendsten	Das Essen ist ausreichend.	The food is sufficient.
+141	blutiger	am blutigsten	Der Film ist blutig.	The film is bloody.
+142	lauwarmer	am lauwarmsten	Der Kaffee ist lauwarm.	The coffee is lukewarm.
+143	roher	am rohesten	Das Fleisch ist roh.	The meat is raw.
+144	nötiger	am nötigsten	Das ist nötig.	That is necessary.
+145	notwendiger	am notwendigsten	Die Reparatur ist notwendig.	The repair is necessary.
+146	glatter	am glattesten	Die Straße ist glatt.	The road is smooth.
+147	schwindliger	am schwindligsten	Ich bin schwindlig.	I am dizzy.
+148	unbequemer	am unbequemsten	Der Stuhl ist unbequem.	The chair is uncomfortable.
+149	—	—	Der Weg ist beschildert.	The path is marked with signs.
+150	—	—	Das Essen ist diätisch.	The food is dietary.
+151	sämtliche	am sämtlichsten	Sämtliche Bücher sind neu.	All the books are new.
+152	sichtbarer	am sichtbarsten	Der Stern ist sichtbar.	The star is visible.
+153	—	—	Die Speise ist vegetarisch.	The dish is vegetarian.
+154	zuständiger	am zuständigsten	Der Lehrer ist zuständig.	The teacher is responsible.
+155	—	—	Der Film ist amerikanisch.	The film is American.
+156	beruhigender	am beruhigendsten	Die Musik ist beruhigend.	The music is soothing.
+157	feierlicher	am feierlichsten	Der Anlass ist feierlich.	The occasion is ceremonial.
+158	tragischer	am tragischsten	Das Ende ist tragisch.	The ending is tragic.
+159	verantwortlicher	am verantwortlichsten	Er ist verantwortlich.	He is responsible.
+160	würziger	am würzigsten	Die Suppe ist würzig.	The soup is spicy.
+161	abgeschlossener	am abgeschlossensten	Die Wohnung ist abgeschlossen.	The flat is self-contained.
+162	gleichbleibender	am gleichbleibendsten	Der Preis ist gleichbleibend.	The price is steady.
+163	steigender	am steigendsten	Der Trend ist steigend.	The trend is rising.
+164	involvierter	am involviertsten	Sie ist involviert.	She is involved.
+165	motivierter	am motiviertsten	Das Team ist motiviert.	The team is motivated.
+166	dauerhafter	am dauerhaftesten	Die Lösung ist dauerhaft.	The solution is permanent.
+167	fantasievoller	am fantasievollsten	Das Kind ist fantasievoll.	The child is imaginative.
+168	ungewöhnlicher	am ungewöhnlichsten	Der Name ist ungewöhnlich.	The name is unusual.
+169	—	—	Das gilt ausnahmslos.	That applies without exception.
+170	—	—	Laut Plan ist alles fertig.	According to the plan everything is done.
+171	zusätzlicher	am zusätzlichsten	Das ist ein zusätzlicher Punkt.	That is an additional point.
+172	geometrischer	am geometrischsten	Das Muster ist geometrisch.	The pattern is geometric.
+173	gewöhnlicher	am gewöhnlichsten	Das ist gewöhnlich.	That is usual.
+174	schräger	am schrägsten	Die Linie ist schräg.	The line is diagonal.
+175	senkrechter	am senkrechtesten	Die Wand ist senkrecht.	The wall is vertical.
+176	waagerechter	am waagerechtesten	Die Linie ist waagerecht.	The line is horizontal.
+177	belasteter	am belastetsten	Die Brücke ist belastet.	The bridge is burdened.
+178	stummer	am stummsten	Er ist stumm.	He is mute.
+179	—	—	Das Material ist vorhanden.	The material is available.
+180	erforderlicher	am erforderlichsten	Die Unterschrift ist erforderlich.	The signature is required.
+181	erfahrener	am erfahrensten	Wir suchen erfahrene Techniker.	We are looking for experienced technicians.
+182	—	—	Das ist die ehemalige Schule.	That is the former school.
+183	gründlicher	am gründlichsten	Die Arbeit ist gründlich.	The work is thorough.
+184	—	—	Das Gemälde ist original.	The painting is original.
+185	pfiffiger	am pfiffigsten	Die Idee ist pfiffig.	The idea is clever.
+186	preiswerter	am preiswertesten	Das Angebot ist preiswert.	The offer is inexpensive.
+187	schuldiger	am schuldigsten	Er ist schuldig.	He is guilty.
+188	tierischer	am tierischsten	Der Hunger ist tierisch.	The hunger is brutish.
+189	einzeln	am einzelnsten	Jeder Punkt ist einzeln.	Each point is individual.
+190	banaler	am banalsten	Das ist banal.	That is banal.
+191	überzeugender	am überzeugendsten	Der Vortrag ist überzeugend.	The talk is convincing.
+192	musikalischer	am musikalischsten	Das Kind ist musikalisch.	The child is musical.
+193	querer	am quersten	Die Linie ist quer.	The line is crosswise.
+194	regionaler	am regionalsten	Das Produkt ist regional.	The product is regional.
+195	finsterer	am finstersten	Der Raum ist finster.	The room is gloomy.
+196	nächtlicher	am nächtlichsten	Die Stadt ist nächtlich.	The city is nightly.
+197	—	—	Alle Lehrer sind anwesend.	All teachers are present.
+198	—	—	Der Junge ist behindert.	The boy is disabled.
+199	humorvoller	am humorvollsten	Der Moderator ist humorvoll.	The host is humorous.
+200	körperlicher	am körperlichsten	Die Arbeit ist körperlich.	The work is physical.
+201	bedürftiger	am bedürftigsten	Die Familie ist bedürftig.	The family is needy.
+202	—	—	Die Arbeit ist ehrenamtlich.	The work is unpaid.
+203	qualitativer	am qualitativsten	Die Analyse ist qualitativ.	The analysis is qualitative.
+204	—	—	Das Gesetz ist bundesweit.	The law is nationwide.
+205	globaler	am globalsten	Das Problem ist global.	The problem is global.
+206	—	—	Die Helfer sind ausgebildet.	The helpers are trained.
+207	uninteressanter	am uninteressantesten	Der Film ist uninteressant.	The film is uninteresting.
+208	—	—	Die Stadt ist europäisch.	The city is European.
+209	—	—	Der Sport ist national.	The sport is national.
+210	thematischer	am thematischsten	Die Fragen sind thematisch.	The questions are thematic.
+211	gegliederter	am gegliedertesten	Der Text ist gegliedert.	The text is structured.
+212	dauernder	am dauerndsten	Der Lärm ist dauernd.	The noise is constant.
+213	interkultureller	am interkulturellsten	Der Austausch ist interkulturell.	The exchange is intercultural.
+214	städtischer	am städtischsten	Das Leben ist städtisch.	The life is urban.
+215	unruhiger	am unruhigsten	Die Nacht ist unruhig.	The night is uneasy.
+216	üblicher	am üblichsten	Das ist üblich.	That is usual.
+217	—	—	Sonstige Fragen sind offen.	Other questions are open.
+218	—	—	Das ist die vordere Tür.	That is the front door.
+219	freundlicher	am freundlichsten	Die Leute sind freundlich.	The people are friendly.
+220	—	—	Sehr geehrte Damen, der Brief ist geehrt.	Honoured ladies, the letter is honoured.
+221	ernsthafter	am ernsthaftesten	Er ist ernsthaft.	He is serious.
+222	sparsamer	am sparsamsten	Der Motor ist sparsam.	The engine is economical.
+223	traumhafter	am traumhaftesten	Der Garten ist traumhaft.	The garden is fantastic.
+224	dankbarer	am dankbarsten	Ich bin dankbar.	I am thankful.
+225	beunruhigender	am beunruhigendsten	Die Nachricht ist beunruhigend.	The news is disturbing.
+226	furchtbarer	am furchtbarsten	Das Wetter ist furchtbar.	The weather is horrible.
+227	problematischer	am problematischsten	Die Lage ist problematisch.	The situation is problematic.
+228	rasender	am rasendsten	Der Angriff ist rasend.	The attack is rapid.
+229	wachsender	am wachsendsten	Die Stadt ist wachsend.	The city is growing.
+230	verstaubter	am verstaubtsten	Das Buch ist verstaubt.	The book is dusty.
+231	wunderschöner	am wunderschönsten	Die Landschaft ist wunderschön.	The landscape is beautiful.
+232	—	—	Das ist die damalige Zeit.	That is the bygone time.
+233	fortschrittlicher	am fortschrittlichsten	Die Technik ist fortschrittlich.	The technology is forward-looking.
+234	—	—	Die Kirche ist katholisch.	The church is Catholic.
+235	symbolischer	am symbolischsten	Das Bild ist symbolisch.	The picture is symbolic.
+236	touristischer	am touristischsten	Die Stadt ist touristisch.	The city is touristic.

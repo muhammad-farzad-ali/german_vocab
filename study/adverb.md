@@ -1,76 +1,77 @@
-# German A1 adverbs — study table (72)
+# German A1 adverbs — study table (73)
 
 | ID | BASE_WORD | EN_MEANING | DE_SENTENCE | EN_SENTENCE_TRANSLATION |
 |---|---|---|---|---|
-| 1 | rauf | up | Geh mal rauf. | Go on up. |
-| 2 | nachher | afterward | Wir essen, nachher gehen wir. | We eat, afterwards we go. |
-| 3 | je | each, apiece | Das kostet zwei Euro je Stück. | That costs two euros each. |
-| 4 | wirklich | really | Das ist wirklich gut. | That is really good. |
-| 5 | gar | at all | Ich verstehe gar nichts. | I do not understand anything at all. |
-| 6 | genau | exactly | Genau so ist es. | Exactly so it is. |
-| 7 | nur noch | only | Ich habe nur noch fünf Euro. | I only have five euros left. |
-| 8 | völlig | completely, totally | Das ist völlig neu. | That is completely new. |
-| 9 | gemeinsam | together | Wir machen das gemeinsam. | We do that together. |
-| 10 | außen | outside | Die Schuhe stehen außen. | The shoes stand outside. |
-| 11 | unbedingt | absolutely, necessarily | Ich komme unbedingt. | I absolutely will come. |
-| 12 | nämlich | indeed, you see | Er hilft nämlich gern. | He helps, you see. |
-| 13 | häufig | often | Wir treffen uns häufig. | We meet often. |
-| 14 | selten | rarely | Ich sehe ihn selten. | I rarely see him. |
-| 15 | genauso | just as | Sie ist genauso groß. | She is just as tall. |
-| 16 | zurzeit | currently | Zurzeit wohne ich in Bonn. | Currently I live in Bonn. |
-| 17 | überall | everywhere | Überall ist Musik. | There is music everywhere. |
-| 18 | sicher | sure, safe | Du bist sicher müde. | You are surely tired. |
-| 19 | wenigstens | at least | Wenigstens komme ich. | At least I come. |
-| 20 | eher | rather | Er kommt eher spät. | He comes rather late. |
-| 21 | zuletzt | lastly | Zuletzt sage ich danke. | Lastly I say thank you. |
-| 22 | dazu | thereto | Dazu brauche ich einen Stift. | For that I need a pen. |
-| 23 | unten | below | Der Keller ist unten. | The basement is below. |
-| 24 | dafür | in exchange | Dafür danke ich dir. | In exchange I thank you. |
-| 25 | daran | about that | Daran denke ich oft. | About that I think often. |
-| 26 | irgendwie | somehow | Irgendwie finde ich das okay. | Somehow I find that okay. |
-| 27 | jeweils | each | Jeweils ein Glas, bitte. | One glass each, please. |
-| 28 | nirgends | nowhere | Nirgends ist ein Platz frei. | Nowhere is a seat free. |
-| 29 | sogar | even | Sogar Anna kommt. | Even Anna comes. |
-| 30 | ziemlich | quite, rather | Die Wohnung ist ziemlich groß. | The flat is quite big. |
-| 31 | hin | to | Ich möchte ein Ticket hin. | I want a ticket there. |
-| 32 | früher | formerly, in the past | Früher war er Koch. | He used to be a cook. |
-| 33 | plötzlich | suddenly | Plötzlich beginnt es zu regnen. | Suddenly it starts to rain. |
-| 34 | hinten | behind | Der Garten liegt hinten. | The garden lies behind. |
-| 35 | hintereinander | successively | Wir stellen die Stühle hintereinander. | We put the chairs in a row. |
-| 36 | vorn | forward | Der Eingang ist vorn. | The entrance is at the front. |
-| 37 | dabei | with this | Dabei ist ein Foto. | With this there is a photo. |
-| 38 | dadurch | because of this | Dadurch bin ich fröhlich. | Because of this I am cheerful. |
-| 39 | damit | despite this | Damit komme ich zurecht. | Despite this I manage. |
-| 40 | freiwillig | voluntarily | Er hilft freiwillig. | He helps voluntarily. |
-| 41 | möglichst | preferably | Komm möglichst früh. | Come preferably early. |
-| 42 | übermorgen | day after tomorrow | Übermorgen ist das Fest. | The festival is the day after tomorrow. |
-| 43 | rechtzeitig | on time | Wir sind rechtzeitig da. | We are on time. |
-| 44 | rückwärts | backward | Zähle rückwärts. | Count backwards. |
-| 45 | ansonsten | otherwise, apart from that | Ansonsten ist alles gut. | Otherwise everything is fine. |
-| 46 | außerdem | besides | Außerdem mag ich Musik. | Besides, I like music. |
-| 47 | jederzeit | at any time | Du kannst jederzeit kommen. | You can come at any time. |
-| 48 | etwa | approximately | Es dauert etwa zehn Minuten. | It takes approximately ten minutes. |
-| 49 | richtig | properly | Mach das richtig. | Do that properly. |
-| 50 | trotzdem | nevertheless | Trotzdem gehe ich hin. | Nevertheless I go there. |
-| 51 | dringend | urgently | Ich brauche das dringend. | I need that urgently. |
-| 52 | tief | deep | Atme tief durch. | Breathe deeply. |
-| 53 | übrigens | by the way | Übrigens, das ist neu. | By the way, that is new. |
-| 54 | erstens | firstly | Erstens koche ich, zweitens wasche ich. | Firstly I cook, secondly I wash up. |
-| 55 | da | here | Da bist du! | Here you are! |
-| 56 | gleichzeitig | simultaneous | Die beiden sind gleichzeitig gekommen. | The two arrived at the same time. |
-| 57 | bisher | until now | Bisher war alles gut. | Until now everything was good. |
-| 58 | etwas | somewhat, something | Es ist etwas kalt. | It is somewhat cold. |
-| 59 | kaum | barely | Ich habe kaum Zeit. | I barely have time. |
-| 60 | ebenfalls | also, likewise | Sie ist ebenfalls nett. | She is likewise nice. |
-| 61 | zufällig | coincidentally | Zufällig treffe ich dich. | I meet you coincidentally. |
-| 62 | damals | then, in those days | Damals lebte ich in Hamburg. | In those days I lived in Hamburg. |
-| 63 | drüben | over there | Das Café ist drüben. | The café is over there. |
-| 64 | dahinter | behind it | Dahinter liegt der Park. | Behind it lies the park. |
-| 65 | oben | above, at the top | Das Foto hängt oben. | The photo hangs up at the top. |
-| 66 | öfter | more often | Öfter gehe ich joggen. | More often I go jogging. |
-| 67 | ständig | constantly | Er ist ständig online. | He is constantly online. |
-| 68 | bestens | very well | Alles ist bestens. | Everything is very well. |
-| 69 | neulich | recently | Neulich war ich im Kino. | Recently I was at the cinema. |
-| 70 | nun | now | Nun ist es fertig. | Now it is finished. |
-| 71 | abschließend | in closing | Abschließend sage ich etwas. | In closing I say something. |
-| 72 | schließlich | finally | Schließlich habe ich Zeit. | Finally I have time. |
+| 1 | eben | just | Es ist eben nicht so einfach. | It is just not so easy. |
+| 2 | irgendwo | somewhere | Irgendwo ist mein Schlüssel. | Somewhere is my key. |
+| 3 | zwar | namely (I’d like to book a trip to Spain.) | Ich buche eine Reise, und zwar nach Spanien. | I book a trip, namely to Spain. |
+| 4 | immerhin | after all | Immerhin habe ich Zeit. | After all I have time. |
+| 5 | eher | rather, quite | Er kommt eher morgen. | He comes rather tomorrow. |
+| 6 | dabei | considering | Dabei bin ich müde. | Considering that, I am tired. |
+| 7 | darum | that’s why | Darum habe ich verloren. | That is why I lost. |
+| 8 | seitdem | since then | Seitdem wohne ich hier. | Since then I live here. |
+| 9 | apropos | by the way, speaking of | Apropos, das ist neu. | By the way, that is new. |
+| 10 | davon | thereof | Ich träume davon. | I dream of it. |
+| 11 | darüber | about that | Ich will nicht darüber sprechen. | I do not want to talk about that. |
+| 12 | darum | about that | Es geht darum, Menschen neugierig zu machen. | It is about making people curious. |
+| 13 | deswegen | therefore, because of this | Deswegen komme ich spät. | That is why I come late. |
+| 14 | zumindest | at least | Zumindest versuche ich es. | At least I try it. |
+| 15 | raus | out | Ich will raus. | I want to get out. |
+| 16 | scheinbar | apparent | Das ist scheinbar richtig. | That is apparently right. |
+| 17 | daraus | from that | Daraus mache ich nichts. | From that I make nothing. |
+| 18 | dagegen | against s.t. | Ich bin dagegen. | I am against it. |
+| 19 | niemals | never | Ich gehe niemals allein. | I never go alone. |
+| 20 | zwar | though | Ich verstehe Spanisch, zwar nicht perfekt. | I understand Spanish, though not perfectly. |
+| 21 | darauf | to that | Darauf warte ich. | I wait for that. |
+| 22 | darin | in there | Darin sind alle Informationen. | All the information is in there. |
+| 23 | selbstverständlich | obvious | Das ist selbstverständlich. | That is obvious. |
+| 24 | nachmittags | afternoons | Nachmittags arbeite ich. | In the afternoons I work. |
+| 25 | rein | pure | Der Tee ist rein. | The tea is pure. |
+| 26 | zirka | about, circa | Das dauert zirka zehn Minuten. | That takes about ten minutes. |
+| 27 | davor | before that | Davor trinke ich Kaffee. | Before that I drink coffee. |
+| 28 | erstmals | for the first time | Erstmals besuche ich Berlin. | For the first time I visit Berlin. |
+| 29 | sicherlich | sure | Sicherlich commst du. | Surely you will come. |
+| 30 | irgendwann | sometime | Irgendwann besuche ich dich. | Sometime I will visit you. |
+| 31 | vielerorts | in many places | Vielerorts gibt es Cafés. | In many places there are cafés. |
+| 32 | äußerst | extremely, exceedingly | Das ist äußerst schwer. | That is extremely difficult. |
+| 33 | derzeit | at present | Derzeit lebe ich in Bonn. | At present I live in Bonn. |
+| 34 | heutzutage | nowadays | Heutzutage nutzen wir Handys. | Nowadays we use phones. |
+| 35 | darunter | among them | Darunter ist ein neues Buch. | Among them is a new book. |
+| 36 | auswendig | from memory | Das lerne ich auswendig. | I learn that from memory. |
+| 37 | natürlich | natural | Natürlich komme ich. | Naturally I come. |
+| 38 | tagelang | for days | Es regnet tagelang. | It rains for days. |
+| 39 | voneinander | from one another | Wir lernen voneinander. | We learn from one another. |
+| 40 | weiterhin | further | Weiterhin arbeite ich an dem Buch. | Further I work on the book. |
+| 41 | zunächst | for the time being | Zunächst trinke ich Tee. | For the time being I drink tea. |
+| 42 | da | as | Da ich müde bin, schlafe ich. | As I am tired, I sleep. |
+| 43 | miteinander | with each other | Wir reden miteinander. | We talk with each other. |
+| 44 | dorthin | there | Der Schlüssel liegt dorthin. | The key lies there. |
+| 45 | ebenso | as well, likewise | Ich mag das ebenso. | I like that as well. |
+| 46 | prinzipiell | in principle | Prinzipiell bin ich einverstanden. | In principle I agree. |
+| 47 | andererseits | on the other hand | Andererseits ist es teuer. | On the other hand it is expensive. |
+| 48 | daher | hence | Daher habe ich recht. | Hence I am right. |
+| 49 | einerseits | on the one hand | Einerseits ist es praktisch. | On the one hand it is practical. |
+| 50 | vermutlich | presumably | Vermutlich kommt sie. | Presumably she comes. |
+| 51 | ausschließlich | exclusive | Das Ticket ist ausschließlich gültig. | The ticket is exclusively valid. |
+| 52 | dennoch | nevertheless | Dennoch gehe ich hin. | Nevertheless I go there. |
+| 53 | jedoch | however | Jedoch habe ich keine Zeit. | However I have no time. |
+| 54 | nebeneinander | side by side | Wir sitzen nebeneinander. | We sit side by side. |
+| 55 | offenbar | apparent, obvious | Offenbar ist das richtig. | Obviously that is right. |
+| 56 | untereinander | among themselves | Sie sprechen untereinander. | They talk among themselves. |
+| 57 | diesmal | this time | Diesmal klappt es. | This time it works. |
+| 58 | nacheinander | successively | Sie kommen nacheinander. | They come one after another. |
+| 59 | entzwei | in two, in half | Ich breche das Brot entzwei. | I break the bread in two. |
+| 60 | rein | outright, pure | Das ist rein unmöglich. | That is outright impossible. |
+| 61 | vergeblich | forgivable | Das ist vergeblich. | That is in vain. |
+| 62 | inzwischen | between | Inzwischen regnet es. | In between it rains. |
+| 63 | meist | most | Meist bin ich früh da. | Most of the time I am early. |
+| 64 | mittlerweile | in the meantime | Mittlerweile wohne ich hier. | In the meantime I live here. |
+| 65 | bereits | already | Ich bin bereits fertig. | I am already done. |
+| 66 | folgendermaßen | as follows | Das geht folgendermaßen. | That works as follows. |
+| 67 | allerdings | though, admittedly | Allerdings ist das schwer. | Though that is difficult. |
+| 68 | längst | long ago | Das ist längst vorbei. | That is long ago over. |
+| 69 | umsonst | for free | Das Ticket ist umsonst. | The ticket is for free. |
+| 70 | kurzfristig | briefly, short-term | Kurzfristig brauche ich das. | Briefly I need that. |
+| 71 | umgehend | immediate, prompt | Ich melde mich umgehend. | I reply immediately. |
+| 72 | drin | in it | Der Schlüssel ist drin. | The key is in it. |
+| 73 | zwischendurch | meanwhile, in between | Zwischendurch lese ich. | In between I read. |

@@ -1,180 +1,240 @@
-# German A1 adjectives — study table (176)
+# German A1 adjectives — study table (236)
 
 | ID | BASE_WORD | COMPARATIVE | SUPERLATIVE | EN_MEANING | DE_SENTENCE | EN_SENTENCE_TRANSLATION |
 |---|---|---|---|---|---|---|
-| 1 | egal | — | — | all the same | Das ist mir egal. | That does not matter to me. |
-| 2 | einfach | einfacher | am einfachsten | just, simply | Das ist einfach. | That is simple. |
-| 3 | fett | fetter | am fettesten | fatty | Currywurst ist so fett. | Currywurst is so fatty. |
-| 4 | schlecht | schlechter | am schlechtesten | bad | Das Wetter ist schlecht. | The weather is bad. |
-| 5 | superlecker | — | — | very tasty | Die Pizza ist superlecker. | The pizza is super tasty. |
-| 6 | bitter | bitterer | am bittersten | bitter | Der Kaffee ist bitter. | The coffee is bitter. |
-| 7 | fett | fetter | am fettesten | fat | Ungesundes Essen macht fett. | Unhealthy food makes you fat. |
-| 8 | salzig | salziger | am salzigsten | salty | Die Suppe ist salzig. | The soup is salty. |
-| 9 | sauer | saurer | am sauersten | sour | Die Zitrone ist sauer. | The lemon is sour. |
-| 10 | scharf | schärfer | am schärfsten | spicy | Das Essen ist scharf. | The food is spicy. |
-| 11 | süß | süßer | am süßesten | sweet | Der Kuchen ist süß. | The cake is sweet. |
-| 12 | extra | — | — | specially | Das kostet extra. | That costs extra. |
-| 13 | traurig | trauriger | am traurigsten | sad | Der Film ist traurig. | The film is sad. |
-| 14 | blind | — | — | blind | Er ist blind. | He is blind. |
-| 15 | schwierig | schwieriger | am schwierigsten | difficult, hard | Die Aufgabe ist schwierig. | The task is difficult. |
-| 16 | sehbehindert | — | — | vision-impaired | Sie ist sehbehindert. | She is vision-impaired. |
-| 17 | verboten | — | — | forbidden | Rauchen ist verboten. | Smoking is forbidden. |
-| 18 | abwechselnd | — | — | alternating | Die Arbeit ist abwechselnd. | The work is alternating. |
-| 19 | erwachsen | — | — | mature, grown-up | Mein Bruder ist erwachsen. | My brother is grown up. |
-| 20 | schrecklich | schrecklicher | am schrecklichsten | terrible | Das Wetter ist schrecklich. | The weather is terrible. |
-| 21 | überrascht | — | — | surprised | Ich bin überrascht. | I am surprised. |
-| 22 | fest | fester | am festesten | fixed, set | Der Termin ist fest. | The appointment is fixed. |
-| 23 | traditionell | traditioneller | am traditionellsten | traditional | Das Fest ist traditionell. | The festival is traditional. |
-| 24 | perfekt | — | — | perfect | Die Antwort ist perfekt. | The answer is perfect. |
-| 25 | still | stiller | am stillsten | silent | Der Raum ist still. | The room is silent. |
-| 26 | möglich | — | — | possible | Alles ist möglich. | Everything is possible. |
-| 27 | privat | — | — | private | Das ist privat. | That is private. |
-| 28 | vorsichtig | vorsichtiger | am vorsichtigsten | careful | Fahre vorsichtig. | Drive carefully. |
-| 29 | froh | froher | am frohsten | glad, relieved | Ich bin froh. | I am glad. |
-| 30 | gefährlich | gefährlicher | am gefährlichsten | dangerous | Der Weg ist gefährlich. | The path is dangerous. |
-| 31 | nützlich | nützlicher | am nützlichsten | useful | Das Werkzeug ist nützlich. | The tool is useful. |
-| 32 | kompliziert | komplizierter | am kompliziertesten | complicated | Das ist kompliziert. | That is complicated. |
-| 33 | berühmt | berühmter | am berühmtesten | famous | Der Sänger ist berühmt. | The singer is famous. |
-| 34 | skeptisch | skeptischer | am skeptischsten | skeptical | Ich bin skeptisch. | I am skeptical. |
-| 35 | aktuell | aktueller | am aktuellsten | current | Das ist die aktuelle Zeitung. | That is the current newspaper. |
-| 36 | empfehlenswert | — | — | recommendable | Das Buch ist empfehlenswert. | The book is recommendable. |
-| 37 | realistisch | realistischer | am realistischsten | realistic | Der Film ist realistisch. | The film is realistic. |
-| 38 | spannend | spannender | am spannendsten | exciting, suspenseful | Das Buch ist spannend. | The book is exciting. |
-| 39 | sympathisch | sympathischer | am sympathischsten | likeable | Er ist sympathisch. | He is likeable. |
-| 40 | logisch | — | — | logical | Das ist logisch. | That is logical. |
-| 41 | weitere | weiter | am weitesten | further | Hast du weitere Fragen? | Do you have further questions? |
-| 42 | neugierig | neugieriger | am neugierigsten | curious | Sie ist neugierig. | She is curious. |
-| 43 | unglücklich | unglücklicher | am unglücklichsten | unlucky | Er ist unglücklich. | He is unlucky. |
-| 44 | aufregend | aufregender | am aufregendsten | exciting, thrilling | Der Tag ist aufregend. | The day is exciting. |
-| 45 | böse | böser | am bösesten | angry, mad | Der Hund ist böse. | The dog is angry. |
-| 46 | bekannt | bekannter | am bekanntesten | known, well-known | Das Lied ist bekannt. | The song is well-known. |
-| 47 | historisch | — | — | historic | Das Gebäude ist historisch. | The building is historic. |
-| 48 | weltweit | — | — | worldwide | Der Film ist weltweit bekannt. | The film is known worldwide. |
-| 49 | neutral | — | — | neutral | Das Wort ist neutral. | The word is neutral. |
-| 50 | zahlreich | zahlreicher | am zahlreichsten | numerous | Die Gäste sind zahlreich. | The guests are numerous. |
-| 51 | peinlich | peinlicher | am peinlichsten | embarrassing, awkward | Das war peinlich. | That was embarrassing. |
-| 52 | unangenehm | unangenehmer | am unangenehmsten | unpleasant | Die Situation ist unangenehm. | The situation is unpleasant. |
-| 53 | ärgerlich | ärgerlicher | am ärgerlichsten | annoying, irritating | Das ist ärgerlich. | That is annoying. |
-| 54 | emotional | emotionaler | am emotionalsten | emotional | Der Film ist emotional. | The film is emotional. |
-| 55 | fröhlich | fröhlicher | am fröhlichsten | happy, cheerful | Sie ist fröhlich. | She is cheerful. |
-| 56 | gestresst | — | — | stressed | Ich bin gestresst. | I am stressed. |
-| 57 | melancholisch | melancholischer | am melancholischsten | melancholic | Die Musik ist melancholisch. | The music is melancholic. |
-| 58 | originell | origineller | am originellsten | original | Die Idee ist originell. | The idea is original. |
-| 59 | poetisch | poetischer | am poetischsten | poetic | Der Text ist poetisch. | The text is poetic. |
-| 60 | romantisch | romantischer | am romantischsten | romantic | Der Film ist romantisch. | The film is romantic. |
-| 61 | domestiziert | — | — | domesticated | Der Hund ist domestiziert. | The dog is domesticated. |
-| 62 | wild | wilder | am wildesten | wild | Das Tier ist wild. | The animal is wild. |
-| 63 | akkurat | akkurater | am akkuratsten | accurate | Die Arbeit ist akkurat. | The work is accurate. |
-| 64 | hilfsbereit | — | — | helpful | Sie ist hilfsbereit. | She is helpful. |
-| 65 | interessiert | — | — | interested | Er ist interessiert an Kunst. | He is interested in art. |
-| 66 | ordentlich | ordentlicher | am ordentlichsten | proper, tidy | Das Zimmer ist ordentlich. | The room is tidy. |
-| 67 | schlimm | schlimmer | am schlimmsten | bad, terrible | Das ist schlimm. | That is bad. |
-| 68 | passend | — | — | suitable, matching | Das Foto ist passend. | The photo is matching. |
-| 69 | kurz | kürzer | am kürzesten | short | Der Text ist kurz. | The text is short. |
-| 70 | einfach | — | — | one-way | Das ist ein einfaches Ticket. | That is a one-way ticket. |
-| 71 | entspannt | — | — | relaxed | Ich bin entspannt. | I am relaxed. |
-| 72 | fantastisch | fantastischer | am fantastischsten | fantastic | Das Konzert ist fantastisch. | The concert is fantastic. |
-| 73 | fit | fitter | am fittesten | fit, in shape | Ich bin fit. | I am fit. |
-| 74 | großartig | großartiger | am großartigsten | great, grand, terrific | Das Fest ist großartig. | The festival is great. |
-| 75 | live | — | — | live | Die Musik ist live. | The music is live. |
-| 76 | hübsch | hübscher | am hübschesten | pretty | Die Blume ist hübsch. | The flower is pretty. |
-| 77 | verrückt | verrückter | am verrücktesten | crazy | Das ist verrückt. | That is crazy. |
-| 78 | antik | — | — | antique | Der Stuhl ist antik. | The chair is antique. |
-| 79 | arbeitslos | — | — | unemployed | Er ist arbeitslos. | He is unemployed. |
-| 80 | erfolgreich | erfolgreicher | am erfolgreichsten | successful | Sie ist erfolgreich. | She is successful. |
-| 81 | folgend | — | — | following | Der folgende Text ist kurz. | The following text is short. |
-| 82 | deutlich | deutlicher | am deutlichsten | distinct | Die Stimme ist deutlich. | The voice is distinct. |
-| 83 | hektisch | hektischer | am hektischsten | hectic | Der Morgen ist hektisch. | The morning is hectic. |
-| 84 | informiert | — | — | informed | Sie ist gut informiert. | She is well informed. |
-| 85 | erreichbar | — | — | reachable | Der Ort ist gut erreichbar. | The place is well reachable. |
-| 86 | familienfreundlich | familienfreundlicher | am familienfreundlichsten | family-friendly | Das Hotel ist familienfreundlich. | The hotel is family-friendly. |
-| 87 | lebenslang | — | — | lifelong | Das ist ein lebenslanger Job. | That is a lifelong job. |
-| 88 | selbstständig | selbstständiger | am selbstständigsten | self-sufficient | Er ist selbstständig. | He is self-employed. |
-| 89 | starr | starrer | am starrsten | rigid | Die Regel ist starr. | The rule is rigid. |
-| 90 | unmodern | — | — | old-fashioned | Die Mode ist unmodern. | The fashion is old-fashioned. |
-| 91 | locker | lockerer | am lockersten | relaxed | Die Musik ist locker. | The music is relaxed. |
-| 92 | schön | schöner | am schönsten | pretty | Die Stadt ist schön. | The city is pretty. |
-| 93 | ewig | ewiger | am ewigsten | forever | Das scheint ewig. | That seems forever. |
-| 94 | nervig | nerviger | am nervigsten | annoying | Der Lärm ist nervig. | The noise is annoying. |
-| 95 | ungeduldig | ungeduldiger | am ungeduldigsten | impatient | Er ist ungeduldig. | He is impatient. |
-| 96 | genervt | genervt | am genervtesten | annoyed, irritated | Ich bin genervt. | I am irritated. |
-| 97 | höflich | höflicher | am höflichsten | polite | Er ist höflich. | He is polite. |
-| 98 | stressfrei | — | — | stress-free | Der Kurs ist stressfrei. | The course is stress-free. |
-| 99 | gespannt | gespannter | am gespanntesten | curious, eager | Ich bin gespannt. | I am curious. |
-| 100 | einverstanden | — | — | agreed | Wir sind einverstanden. | We are agreed. |
-| 101 | flexibel | flexibler | am flexibelsten | flexible | Sie ist flexibel. | She is flexible. |
-| 102 | unmöglich | unmöglicher | am unmöglichsten | impossible | Das ist unmöglich. | That is impossible. |
-| 103 | unpraktisch | — | — | impractical | Das ist unpraktisch. | That is impractical. |
-| 104 | allgemein | allgemeiner | am allgemeinsten | general | Das ist die allgemeine Regel. | That is the general rule. |
-| 105 | wach | wacher | am wachsten | awake | Ich bin wach. | I am awake. |
-| 106 | öffentlich | öffentlicher | am öffentlichsten | public | Das ist ein öffentlicher Park. | That is a public park. |
-| 107 | durchsichtig | durchsichtiger | am durchsichtigsten | transparent | Das Glas ist durchsichtig. | The glass is transparent. |
-| 108 | griffbereit | — | — | handy, at hand | Das Handy ist griffbereit. | The phone is at hand. |
-| 109 | kühl | kühler | am kühlsten | cool | Das Wasser ist kühl. | The water is cool. |
-| 110 | knapp | knapper | am knappsten | scarce | Die Zeit ist knapp. | The time is scarce. |
-| 111 | mündlich | — | — | oral | Die Prüfung ist mündlich. | The exam is oral. |
-| 112 | konsequent | konsequenter | am konsequentesten | consistent | Er ist konsequent. | He is consistent. |
-| 113 | gerecht | gerechter | am gerechtesten | fair, just | Der Lehrer ist gerecht. | The teacher is fair. |
-| 114 | ruhig | ruhiger | am ruhigsten | without worry | Ich bin ruhig. | I am without worry. |
-| 115 | abwechslungsreich | abwechslungsreicher | am abwechslungsreichsten | varied | Der Kurs ist abwechslungsreich. | The course is varied. |
-| 116 | einsam | einsamer | am einsamsten | lonely | Er fühlt sich einsam. | He feels lonely. |
-| 117 | freiberuflich | — | — | self-employed, freelance | Sie ist freiberuflich tätig. | She works freelance. |
-| 118 | gehörlos | — | — | deaf, hearing-impaired | Er ist gehörlos. | He is deaf. |
-| 119 | komplett | kompletter | am komplettesten | complete | Die Möbel sind komplett. | The furniture is complete. |
-| 120 | sportlich | sportlicher | am sportlichsten | sporty | Er ist sportlich. | He is sporty. |
-| 121 | begeistert | begeisterter | am begeistertsten | enthusiastic | Sie ist begeistert. | She is enthusiastic. |
-| 122 | kritisch | kritischer | am kritischsten | critical | Ich bin kritisch. | I am critical. |
-| 123 | treu | treuer | am treuesten | loyal | Der Hund ist treu. | The dog is loyal. |
-| 124 | geografisch | — | — | geographic | Das ist geografisch korrekt. | That is geographically correct. |
-| 125 | sogenannt | — | — | so-called | Das ist ein sogenanntes Haus. | That is a so-called house. |
-| 126 | jeweilig | — | — | respective | Jeweilige Fragen sind offen. | The respective questions are open. |
-| 127 | stabil | stabiler | am stabilsten | sturdy, stable | Der Tisch ist stabil. | The table is sturdy. |
-| 128 | versteckt | — | — | hidden | Der Schatz ist versteckt. | The treasure is hidden. |
-| 129 | wasserdicht | — | — | waterproof | Die Jacke ist wasserdicht. | The jacket is waterproof. |
-| 130 | bewohnt | — | — | inhabited | Das Land ist bewohnt. | The country is inhabited. |
-| 131 | entfernt | entfernter | am entferntesten | distant | Der Ort ist entfernt. | The place is distant. |
-| 132 | genial | genialer | am genialsten | ingenious; here: impressive | Die Idee ist genial. | The idea is ingenious. |
-| 133 | intensiv | intensiver | am intensivsten | intense, intensive | Die Farbe ist intensiv. | The colour is intense. |
-| 134 | leise | leiser | am leisesten | quiet | Die Musik ist leise. | The music is quiet. |
-| 135 | eng | enger | am engsten | narrow | Der Weg ist eng. | The path is narrow. |
-| 136 | trocken | trockener | am trockensten | dry | Das Brot ist trocken. | The bread is dry. |
-| 137 | elektrisch | — | — | electric | Das Gerät ist elektrisch. | The device is electric. |
-| 138 | möbliert | — | — | furnished | Die Wohnung ist möbliert. | The flat is furnished. |
-| 139 | einmalig | — | — | unique, singular | Das ist einmalig. | That is unique. |
-| 140 | pflegeleicht | — | — | easy to care for | Der Pullover ist pflegeleicht. | The jumper is easy to care for. |
-| 141 | modisch | modischer | am modischsten | fashionable | Die Kleidung ist modisch. | The clothes are fashionable. |
-| 142 | unterschiedlich | unterschiedlicher | am unterschiedlichsten | different | Die Meinungen sind unterschiedlich. | The opinions are different. |
-| 143 | verliebt | — | — | in love | Sie ist verliebt. | She is in love. |
-| 144 | bayrisch | — | — | Bavarian | Das Bier ist bayrisch. | The beer is Bavarian. |
-| 145 | meistverkauft | — | — | bestselling | Das Buch ist meistverkauft. | The book is bestselling. |
-| 146 | netto | — | — | net | Der Preis ist netto. | The price is net. |
-| 147 | deutschsprachig | — | — | German-speaking | Basel ist eine deutschsprachige Stadt. | Basel is a German-speaking city. |
-| 148 | selbe | — | — | same | Wir wohnen in derselben Straße. | We live on the same street. |
-| 149 | ausverkauft | — | — | sold out | Das Konzert ist ausverkauft. | The concert is sold out. |
-| 150 | aufgeregt | aufgeregter | am aufgeregtesten | excited | Ich bin aufgeregt. | I am excited. |
-| 151 | abstrakt | abstrakter | am abstraktesten | abstract | Das Bild ist abstrakt. | The picture is abstract. |
-| 152 | dumm | dümmer | am dümmsten | dumb | Der Film ist dumm. | The film is dumb. |
-| 153 | exakt | exakter | am exaktesten | exact | Die Antwort ist exakt. | The answer is exact. |
-| 154 | gemacht | — | — | made | Der Film ist gut gemacht. | The film is well made. |
-| 155 | dunkel- | — | — | dark | Der Raum ist dunkel. | The room is dark. |
-| 156 | hell- | — | — | light | Der Raum ist hell. | The room is light. |
-| 157 | betrunken | — | — | drunk | Er ist betrunken. | He is drunk. |
-| 158 | schwanger | — | — | pregnant | Sie ist schwanger. | She is pregnant. |
-| 159 | tot | — | — | dead | Der Fisch ist tot. | The fish is dead. |
-| 160 | pensioniert | — | — | retired | Er ist pensioniert. | He is retired. |
-| 161 | fließend | — | — | running | Das Wasser ist fließend. | The water is running. |
-| 162 | sinnvoll | sinnvoller | am sinnvollsten | meaningful | Das ist sinnvoll. | That is meaningful. |
-| 163 | afrikanisch | — | — | African | Das Essen ist afrikanisch. | The food is African. |
-| 164 | effektiv | effektiver | am effektivsten | effective | Die Methode ist effektiv. | The method is effective. |
-| 165 | einzig | — | — | only, sole, unique | Das ist mein einziges Buch. | That is my only book. |
-| 166 | unhöflich | unhöflicher | am unhöflichsten | impolite | Das war unhöflich. | That was impolite. |
-| 167 | unsicher | unsicherer | am unsichersten | insecure | Er ist unsicher. | He is insecure. |
-| 168 | unzufrieden | unzufriedener | am unzufriedensten | dissatisfied, displeased | Sie ist unzufrieden. | She is dissatisfied. |
-| 169 | gierig | gieriger | am gierigsten | greedy | Die Katze ist gierig. | The cat is greedy. |
-| 170 | automatisch | — | — | automatic | Die Tür ist automatisch. | The door is automatic. |
-| 171 | befreundet | — | — | befriended | Sie sind befreundet. | They are friends. |
-| 172 | generell | genereller | am generellsten | general | Das ist die generelle Regel. | That is the general rule. |
-| 173 | korrekt | korrekter | am korrektesten | correct | Die Antwort ist korrekt. | The answer is correct. |
-| 174 | näher | näher | am nächsten | closer | Komm näher. | Come closer. |
-| 175 | altmodisch | altmodischer | am altmodischsten | old-fashioned | Die Musik ist altmodisch. | The music is old-fashioned. |
-| 176 | beleidigt | beleidigter | am beleidigtsten | offended | Er ist beleidigt. | He is offended. |
+| 1 | giftig | giftiger | am giftigsten | poisonous | Die Pflanze ist giftig. | The plant is poisonous. |
+| 2 | erholsam | erholsamer | am erholsamsten | relaxing, refreshing | Die Reise ist erholsam. | The trip is relaxing. |
+| 3 | frustriert | frustrierter | am frustriertesten | frustrated | Ich bin frustriert. | I am frustrated. |
+| 4 | spontan | spontaner | am spontansten | spontaneous | Der Plan ist spontan. | The plan is spontaneous. |
+| 5 | aktiv | aktiver | am aktivsten | active | Sie ist aktiv. | She is active. |
+| 6 | entspannend | entspannender | am entspannendsten | relaxing | Der Urlaub ist entspannend. | The holiday is relaxing. |
+| 7 | inklusive | — | — | inclusive of, including | Der Preis ist inklusive Steuer. | The price is inclusive of tax. |
+| 8 | inbegriffen | — | — | included | Das Frühstück ist inbegriffen. | The breakfast is included. |
+| 9 | pur | — | — | pure | Das Wasser ist pur. | The water is pure. |
+| 10 | kulinarisch | kulinarischer | am kulinarischsten | culinary, culinarily | Das Fest ist kulinarisch. | The festival is culinary. |
+| 11 | erleichtert | erleichterter | am erleichtertsten | relieved | Ich bin erleichtert. | I am relieved. |
+| 12 | verlegen | verlegener | am verlegensten | embarrassed | Er ist verlegen. | He is embarrassed. |
+| 13 | verzweifelt | verzweifelter | am verzweifeltsten | desperate | Sie ist verzweifelt. | She is desperate. |
+| 14 | erholt | erholter | am erholtesten | recovered | Nach dem Urlaub bin ich erholt. | After the holiday I am recovered. |
+| 15 | technisch | — | — | technical | Das ist eine technische Frage. | That is a technical question. |
+| 16 | unfair | unfairer | am unfairsten | unfair | Das ist unfair. | That is unfair. |
+| 17 | elektronisch | — | — | electronic | Die Uhr ist elektronisch. | The watch is electronic. |
+| 18 | verärgert | verärgerter | am verärgertsten | angry | Er ist verärgert. | He is angry. |
+| 19 | unfreundlich | unfreundlicher | am unfreundlichsten | unfriendly | Sie ist unfreundlich. | She is unfriendly. |
+| 20 | farbig | farbiger | am farbigsten | colorful | Das Bild ist farbig. | The picture is colourful. |
+| 21 | smart | smarter | am smartesten | smart | Das Gerät ist smart. | The device is smart. |
+| 22 | beeindruckt | beeindruckter | am beeindrucktsten | impressed | Ich bin beeindruckt. | I am impressed. |
+| 23 | frech | frecher | am frechsten | cheeky, sassy | Der Junge ist frech. | The boy is cheeky. |
+| 24 | geschmacklos | geschmackloser | am geschmacklosesten | tasteless | Das Essen ist geschmacklos. | The food is tasteless. |
+| 25 | unmodern | unmoderner | am unmodernsten | unfashionable | Die Mode ist unmodern. | The fashion is unfashionable. |
+| 26 | witzig | witziger | am witzigsten | funny, humorous | Der Film ist witzig. | The film is funny. |
+| 27 | verständlich | verständlicher | am verständlichsten | understandable, understandably | Die Erklärung ist verständlich. | The explanation is understandable. |
+| 28 | alleinerziehend | — | — | single parenting | Sie ist alleinerziehend. | She is single parenting. |
+| 29 | automatisiert | — | — | automated | Die Fabrik ist automatisiert. | The factory is automated. |
+| 30 | autoritär | — | — | authoritarian | Der Chef ist autoritär. | The boss is authoritarian. |
+| 31 | berufstätig | — | — | working, employed | Er ist berufstätig. | He is employed. |
+| 32 | gut situiert | — | — | well-situated | Die Familie ist gut situiert. | The family is well-situated. |
+| 33 | gelähmt | — | — | paralyzed | Der Arm ist gelähmt. | The arm is paralyzed. |
+| 34 | kostbar | kostbarer | am kostbarsten | valuable, precious | Der Ring ist kostbar. | The ring is precious. |
+| 35 | künstlich | künstlicher | am künstlichsten | artificial | Die Blume ist künstlich. | The flower is artificial. |
+| 36 | reich | reicher | am reichsten | rich | Der Mann ist reich. | The man is rich. |
+| 37 | wertvoll | wertvoller | am wertvollsten | valuable | Das Bild ist wertvoll. | The picture is valuable. |
+| 38 | unregelmäßig | — | — | irregular | Das Verb ist unregelmäßig. | The verb is irregular. |
+| 39 | arbeitslos | — | — | unemployed | Er ist arbeitslos. | He is unemployed. |
+| 40 | süchtig | süchtiger | am süchtigsten | addicted | Er ist süchtig nach Kaffee. | He is addicted to coffee. |
+| 41 | tätig | — | — | active, working | Sie ist als Lehrerin tätig. | She is active as a teacher. |
+| 42 | geteilt | geteilter | am geteiltesten | divided | Die Meinung ist geteilt. | The opinion is divided. |
+| 43 | demokratisch | — | — | democratic | Das Land ist demokratisch. | The country is democratic. |
+| 44 | ausgestattet | — | — | equipped | Der Raum ist gut ausgestattet. | The room is well equipped. |
+| 45 | einzigartig | einzigartiger | am einzigartigsten | unique, singular | Das Produkt ist einzigartig. | The product is unique. |
+| 46 | erfahren | erfahrener | am erfahrensten | to learn, find out, experience | Wir erfahren viel Neues. | We experience much new. |
+| 47 | grandios | grandioser | am grandiosesten | grandiose | Das Konzert ist grandios. | The concert is grandiose. |
+| 48 | heutig | — | — | present-day | Das ist die heutige Zeitung. | That is the present-day newspaper. |
+| 49 | stolz | stolzer | am stolzesten | proud | Ich bin stolz. | I am proud. |
+| 50 | vergleichbar | — | — | comparable | Die Produkte sind vergleichbar. | The products are comparable. |
+| 51 | wildfremd | — | — | completely strange | Der Mann ist wildfremd. | The man is completely strange. |
+| 52 | geregelt | geregelter | am geregeltsten | controlled, orderly, settled | Das Leben ist geregelt. | The life is settled. |
+| 53 | aussagekräftig | aussagekräftiger | am aussagekräftigsten | meaningful | Das Foto ist aussagekräftig. | The photo is meaningful. |
+| 54 | relevant | relevanter | am relevantesten | relevant | Die Frage ist relevant. | The question is relevant. |
+| 55 | seriös | seriöser | am seriössten | serious, respectable | Die Firma ist seriös. | The firm is respectable. |
+| 56 | speziell | spezieller | am speziellsten | special, specific | Das Angebot ist speziell. | The offer is special. |
+| 57 | zukünftig | — | — | future | Das ist die zukünftige Arbeit. | That is the future work. |
+| 58 | längerfristig | längerfristiger | am längerfristigsten | long-term | Der Plan ist längerfristig. | The plan is long-term. |
+| 59 | besetzt | — | — | occupied, taken | Der Platz ist besetzt. | The seat is taken. |
+| 60 | inhaltlich | — | — | relevant | Die Angabe ist inhaltlich. | The statement is relevant. |
+| 61 | konservativ | konservativer | am konservativsten | conservative | Die Partei ist konservativ. | The party is conservative. |
+| 62 | locker | lockerer | am lockersten | casual, loose | Die Atmosphäre ist locker. | The atmosphere is casual. |
+| 63 | menschlich | menschlicher | am menschlichsten | human | Die Arbeit ist menschlich. | The work is human. |
+| 64 | dick | dicker | am dicksten | thick | Das Buch ist dick. | The book is thick. |
+| 65 | konstant | konstanter | am konstantesten | constant | Die Temperatur ist konstant. | The temperature is constant. |
+| 66 | relativ | relativer | am relativsten | relative | Die Zahl ist relativ. | The number is relative. |
+| 67 | statistisch | — | — | statistically | Die Daten sind statistisch. | The data are statistical. |
+| 68 | elektrisch | — | — | electric | Die Lampe ist elektrisch. | The lamp is electric. |
+| 69 | ökologisch | ökologischer | am ökologischsten | ecological | Der Anbau ist ökologisch. | The farming is ecological. |
+| 70 | effizient | effizienter | am effizientesten | efficient | Die Maschine ist effizient. | The machine is efficient. |
+| 71 | gedruckt | — | — | printed | Das Dokument ist gedruckt. | The document is printed. |
+| 72 | umweltfreundlich | umweltfreundlicher | am umweltfreundlichsten | environmentally friendly | Das Auto ist umweltfreundlich. | The car is environmentally friendly. |
+| 73 | überzeugt | überzeugter | am überzeugtsten | convinced | Ich bin überzeugt. | I am convinced. |
+| 74 | abgeschliffen | — | — | ground, mulched | Das Glas ist abgeschliffen. | The glass is ground. |
+| 75 | alltäglich | alltäglicher | am alltäglichsten | commonplace, ordinary | Das ist alltäglich. | That is commonplace. |
+| 76 | dünn | dünner | am dünnsten | thin | Das Papier ist dünn. | The paper is thin. |
+| 77 | geheim | geheimer | am geheimsten | secret | Die Zahl ist geheim. | The number is secret. |
+| 78 | papierlos | — | — | paperless | Das Büro ist papierlos. | The office is paperless. |
+| 79 | monoton | monotoner | am monotonsten | monotonous | Das Lied ist monoton. | The song is monotonous. |
+| 80 | bewölkt | bewölkter | am bewölktsten | cloudy | Der Himmel ist bewölkt. | The sky is cloudy. |
+| 81 | feucht | feuchter | am feuchtesten | moist, humid | Die Luft ist feucht. | The air is humid. |
+| 82 | neblig | nebliger | am nebligsten | foggy | Der Morgen ist neblig. | The morning is foggy. |
+| 83 | regnerisch | regnerischer | am regnerischsten | rainy | Der Tag ist regnerisch. | The day is rainy. |
+| 84 | schwül | schwüler | am schwülsten | muggy | Es ist schwül. | It is muggy. |
+| 85 | sonnig | sonniger | am sonnigsten | sunny | Der Tag ist sonnig. | The day is sunny. |
+| 86 | stürmisch | stürmischer | am stürmischsten | stormy | Das Wetter ist stürmisch. | The weather is stormy. |
+| 87 | wolkig | wolkiger | am wolkigsten | cloudy | Der Tag ist wolkig. | The day is cloudy. |
+| 88 | gesperrt | gesperrter | am gesperrtesten | closed, blocked | Die Straße ist gesperrt. | The street is blocked. |
+| 89 | illegal | — | — | illegal | Das ist illegal. | That is illegal. |
+| 90 | flüssig | flüssiger | am flüssigsten | fluid | Die Butter ist flüssig. | The butter is fluid. |
+| 91 | fruchtbar | fruchtbarer | am fruchtbarsten | fruitful, prolific | Der Boden ist fruchtbar. | The soil is fruitful. |
+| 92 | geduldig | geduldiger | am geduldigsten | patient | Sie ist geduldig. | She is patient. |
+| 93 | indianisch | — | — | Indian | Das Essen ist indianisch. | The food is Indian. |
+| 94 | unschlagbar | unschlagbar | am unschlagbarsten | unbeatable, invincible | Der Spieler ist unschlagbar. | The player is unbeatable. |
+| 95 | dicht | dichter | am dichtesten | dense | Der Nebel ist dicht. | The fog is dense. |
+| 96 | kulturell | kultureller | am kulturellsten | cultural | Das Angebot ist kulturell. | The offer is cultural. |
+| 97 | olympisch | — | — | olympic | Das Spiel ist olympisch. | The game is Olympic. |
+| 98 | politisch | — | — | political | Die Frage ist politisch. | The question is political. |
+| 99 | superschnell | superschnell | am superschnellsten | ultrafast | Der Zug ist superschnell. | The train is ultrafast. |
+| 100 | wirtschaftlich | wirtschaftlicher | am wirtschaftlichsten | economic | Der Plan ist wirtschaftlich. | The plan is economic. |
+| 101 | innere/inneres | — | — | inner | Das ist die innere Tür. | That is the inner door. |
+| 102 | bereit | bereiter | am bereitesten | prepared | Ich bin bereit. | I am prepared. |
+| 103 | gepflegt | gepflegter | am gepflegtesten | neat, refined | Der Garten ist gepflegt. | The garden is neat. |
+| 104 | schlank | schlanker | am schlankesten | slender | Die Frau ist schlank. | The woman is slender. |
+| 105 | ängstlich | ängstlicher | am ängstlichsten | anxious, fearful | Das Kind ist ängstlich. | The child is fearful. |
+| 106 | blond | blonder | am blondesten | blond | Sie ist blond. | She is blond. |
+| 107 | dunkelhaarig | — | — | dark-haired | Er ist dunkelhaarig. | He is dark-haired. |
+| 108 | faul | fauler | am faulsten | lazy, lazily | Die Katze ist faul. | The cat is lazy. |
+| 109 | klug | klüger | am klügsten | wise, clever | Der Schüler ist klug. | The pupil is clever. |
+| 110 | kräftig | kräftiger | am kräftigsten | strong | Der Mann ist kräftig. | The man is strong. |
+| 111 | mutig | mutiger | am mutigsten | brave | Sie ist mutig. | She is brave. |
+| 112 | optimistisch | optimistischer | am optimistischsten | optimistic | Er ist optimistisch. | He is optimistic. |
+| 113 | pessimistisch | pessimistischer | am pessimistischsten | pessimistic | Sie ist pessimistisch. | She is pessimistic. |
+| 114 | schwach | schwächer | am schwächsten | weak | Das Team ist schwach. | The team is weak. |
+| 115 | unehrlich | unehrlicher | am unehrlichsten | dishonest | Der Mann ist unehrlich. | The man is dishonest. |
+| 116 | untreu | untreuer | am untreuesten | unfaithful | Er ist untreu. | He is unfaithful. |
+| 117 | unzuverlässig | unzuverlässiger | am unzuverlässigsten | unreliable | Der Freund ist unzuverlässig. | The friend is unreliable. |
+| 118 | jetzig | — | — | current, present | Das ist die jetzige Situation. | That is the current situation. |
+| 119 | verwandt | verwandter | am verwandtesten | related | Wir sind verwandt. | We are related. |
+| 120 | wahnsinnig | wahnsinniger | am wahnsinnigsten | insane, crazy, crazily | Die Idee ist wahnsinnig. | The idea is crazy. |
+| 121 | ätzend | ätzender | am ätzendsten | caustic, lousy, lousily | Der Film ist ätzend. | The film is lousy. |
+| 122 | endlos | endloser | am endlosesten | endless | Die Liste ist endlos. | The list is endless. |
+| 123 | krass | krasser | am krassesten | crass, harsh | Das war wirklich krass. | That was really crass. |
+| 124 | schick | schicker | am schicksten | chic, fancy | Die Jacke ist schick. | The jacket is chic. |
+| 125 | erschöpft | erschöpfter | am erschöpftesten | exhausted | Ich bin erschöpft. | I am exhausted. |
+| 126 | tolerant | toleranter | am tolerantesten | tolerant | Sie ist tolerant. | She is tolerant. |
+| 127 | geeignet | geeigneter | am geeignetsten | suitable, suitably | Das Material ist geeignet. | The material is suitable. |
+| 128 | diplomatisch | diplomatischer | am diplomatischsten | diplomatic | Die Antwort ist diplomatisch. | The answer is diplomatic. |
+| 129 | undiplomatisch | undiplomatischer | am undiplomatischsten | undiplomatic | Das war undiplomatisch. | That was undiplomatic. |
+| 130 | arm | ärmer | am ärmsten | poor | Die Familie ist arm. | The family is poor. |
+| 131 | finanziell | finanzieller | am finanziellsten | financial | Die Lage ist finanziell. | The situation is financial. |
+| 132 | kommerziell | kommerzieller | am kommerziellsten | commercial | Das Geschäft ist kommerziell. | The business is commercial. |
+| 133 | unabhängig | unabhängiger | am unabhängigsten | independent | Sie ist unabhängig. | She is independent. |
+| 134 | kraftlos | kraftloser | am kraftlosesten | powerless | Ich bin kraftlos. | I am powerless. |
+| 135 | lachend | lachender | am lachendsten | laughing | Das Kind ist lachend. | The child is laughing. |
+| 136 | verbissen | verbissener | am verbissensten | dogged, grim | Er arbeitet verbissen. | He works doggedly. |
+| 137 | zornig | zorniger | am zornigsten | furious | Der Mann ist zornig. | The man is furious. |
+| 138 | eilig | eiliger | am eiligsten | hasty, hastily | Ich habe es eilig. | I am hasty. |
+| 139 | wörtlich | wörtlicher | am wörtlichsten | literal | Die Übersetzung ist wörtlich. | The translation is literal. |
+| 140 | ausreichend | ausreichender | am ausreichendsten | sufficient | Das Essen ist ausreichend. | The food is sufficient. |
+| 141 | blutig | blutiger | am blutigsten | bloody, bloodily | Der Film ist blutig. | The film is bloody. |
+| 142 | lauwarm | lauwarmer | am lauwarmsten | lukewarm | Der Kaffee ist lauwarm. | The coffee is lukewarm. |
+| 143 | roh | roher | am rohesten | raw | Das Fleisch ist roh. | The meat is raw. |
+| 144 | nötig | nötiger | am nötigsten | necessary, required | Das ist nötig. | That is necessary. |
+| 145 | notwendig | notwendiger | am notwendigsten | necessary, required | Die Reparatur ist notwendig. | The repair is necessary. |
+| 146 | glatt | glatter | am glattesten | smooth | Die Straße ist glatt. | The road is smooth. |
+| 147 | schwindlig | schwindliger | am schwindligsten | dizzy, dizzily | Ich bin schwindlig. | I am dizzy. |
+| 148 | unbequem | unbequemer | am unbequemsten | uncomfortable | Der Stuhl ist unbequem. | The chair is uncomfortable. |
+| 149 | beschildert | — | — | marked with signs | Der Weg ist beschildert. | The path is marked with signs. |
+| 150 | diätisch | — | — | dietary | Das Essen ist diätisch. | The food is dietary. |
+| 151 | sämtlich | sämtliche | am sämtlichsten | all | Sämtliche Bücher sind neu. | All the books are new. |
+| 152 | sichtbar | sichtbarer | am sichtbarsten | visible, visibly | Der Stern ist sichtbar. | The star is visible. |
+| 153 | vegetarisch | — | — | vegetarian | Die Speise ist vegetarisch. | The dish is vegetarian. |
+| 154 | zuständig | zuständiger | am zuständigsten | responsible | Der Lehrer ist zuständig. | The teacher is responsible. |
+| 155 | amerikanisch | — | — | American | Der Film ist amerikanisch. | The film is American. |
+| 156 | beruhigend | beruhigender | am beruhigendsten | soothing, reassuring | Die Musik ist beruhigend. | The music is soothing. |
+| 157 | feierlich | feierlicher | am feierlichsten | ceremonial | Der Anlass ist feierlich. | The occasion is ceremonial. |
+| 158 | tragisch | tragischer | am tragischsten | tragic | Das Ende ist tragisch. | The ending is tragic. |
+| 159 | verantwortlich | verantwortlicher | am verantwortlichsten | responsible, responsibly | Er ist verantwortlich. | He is responsible. |
+| 160 | würzig | würziger | am würzigsten | aromatic, spicy | Die Suppe ist würzig. | The soup is spicy. |
+| 161 | abgeschlossen | abgeschlossener | am abgeschlossensten | completed, self-contained | Die Wohnung ist abgeschlossen. | The flat is self-contained. |
+| 162 | gleichbleibend | gleichbleibender | am gleichbleibendsten | consistent, steady | Der Preis ist gleichbleibend. | The price is steady. |
+| 163 | steigend | steigender | am steigendsten | rising, increasing | Der Trend ist steigend. | The trend is rising. |
+| 164 | involviert | involvierter | am involviertsten | involved | Sie ist involviert. | She is involved. |
+| 165 | motiviert | motivierter | am motiviertsten | motivated | Das Team ist motiviert. | The team is motivated. |
+| 166 | dauerhaft | dauerhafter | am dauerhaftesten | permanent | Die Lösung ist dauerhaft. | The solution is permanent. |
+| 167 | fantasievoll | fantasievoller | am fantasievollsten | imaginative | Das Kind ist fantasievoll. | The child is imaginative. |
+| 168 | ungewöhnlich | ungewöhnlicher | am ungewöhnlichsten | unusual | Der Name ist ungewöhnlich. | The name is unusual. |
+| 169 | ausnahmslos | — | — | without exception | Das gilt ausnahmslos. | That applies without exception. |
+| 170 | laut | — | — | according to | Laut Plan ist alles fertig. | According to the plan everything is done. |
+| 171 | zusätzlich | zusätzlicher | am zusätzlichsten | additional | Das ist ein zusätzlicher Punkt. | That is an additional point. |
+| 172 | geometrisch | geometrischer | am geometrischsten | geometric | Das Muster ist geometrisch. | The pattern is geometric. |
+| 173 | gewöhnlich | gewöhnlicher | am gewöhnlichsten | usual, ordinary, ordinarily | Das ist gewöhnlich. | That is usual. |
+| 174 | schräg | schräger | am schrägsten | oblique, diagonal | Die Linie ist schräg. | The line is diagonal. |
+| 175 | senkrecht | senkrechter | am senkrechtesten | vertical, perpendicular | Die Wand ist senkrecht. | The wall is vertical. |
+| 176 | waagerecht | waagerechter | am waagerechtesten | horizontal | Die Linie ist waagerecht. | The line is horizontal. |
+| 177 | belastet | belasteter | am belastetsten | burdened | Die Brücke ist belastet. | The bridge is burdened. |
+| 178 | stumm | stummer | am stummsten | mute, quiet | Er ist stumm. | He is mute. |
+| 179 | vorhanden | — | — | existing, available | Das Material ist vorhanden. | The material is available. |
+| 180 | erforderlich | erforderlicher | am erforderlichsten | required, necessary | Die Unterschrift ist erforderlich. | The signature is required. |
+| 181 | erfahren | erfahrener | am erfahrensten | experienced | Wir suchen erfahrene Techniker. | We are looking for experienced technicians. |
+| 182 | ehemalig | — | — | former | Das ist die ehemalige Schule. | That is the former school. |
+| 183 | gründlich | gründlicher | am gründlichsten | thorough | Die Arbeit ist gründlich. | The work is thorough. |
+| 184 | original | — | — | original | Das Gemälde ist original. | The painting is original. |
+| 185 | pfiffig | pfiffiger | am pfiffigsten | smart, clever | Die Idee ist pfiffig. | The idea is clever. |
+| 186 | preiswert | preiswerter | am preiswertesten | inexpensive | Das Angebot ist preiswert. | The offer is inexpensive. |
+| 187 | schuldig | schuldiger | am schuldigsten | guilty, guiltily | Er ist schuldig. | He is guilty. |
+| 188 | tierisch | tierischer | am tierischsten | brutish | Der Hunger ist tierisch. | The hunger is brutish. |
+| 189 | einzeln | einzeln | am einzelnsten | individual | Jeder Punkt ist einzeln. | Each point is individual. |
+| 190 | banal | banaler | am banalsten | banal | Das ist banal. | That is banal. |
+| 191 | überzeugend | überzeugender | am überzeugendsten | convincing | Der Vortrag ist überzeugend. | The talk is convincing. |
+| 192 | musikalisch | musikalischer | am musikalischsten | musical | Das Kind ist musikalisch. | The child is musical. |
+| 193 | quer | querer | am quersten | crosswise | Die Linie ist quer. | The line is crosswise. |
+| 194 | regional | regionaler | am regionalsten | regional | Das Produkt ist regional. | The product is regional. |
+| 195 | finster | finsterer | am finstersten | sinister, gloomy, gloomily | Der Raum ist finster. | The room is gloomy. |
+| 196 | nächtlich | nächtlicher | am nächtlichsten | nightly | Die Stadt ist nächtlich. | The city is nightly. |
+| 197 | anwesend | — | — | present, in attendance | Alle Lehrer sind anwesend. | All teachers are present. |
+| 198 | behindert | — | — | disabled, handicapped | Der Junge ist behindert. | The boy is disabled. |
+| 199 | humorvoll | humorvoller | am humorvollsten | humorous | Der Moderator ist humorvoll. | The host is humorous. |
+| 200 | körperlich | körperlicher | am körperlichsten | physical, bodily | Die Arbeit ist körperlich. | The work is physical. |
+| 201 | bedürftig | bedürftiger | am bedürftigsten | needy | Die Familie ist bedürftig. | The family is needy. |
+| 202 | ehrenamtlich | — | — | unpaid | Die Arbeit ist ehrenamtlich. | The work is unpaid. |
+| 203 | qualitativ | qualitativer | am qualitativsten | qualitative | Die Analyse ist qualitativ. | The analysis is qualitative. |
+| 204 | bundesweit | — | — | nationwide | Das Gesetz ist bundesweit. | The law is nationwide. |
+| 205 | global | globaler | am globalsten | global | Das Problem ist global. | The problem is global. |
+| 206 | ausgebildet | — | — | trained | Die Helfer sind ausgebildet. | The helpers are trained. |
+| 207 | uninteressant | uninteressanter | am uninteressantesten | uninteresting | Der Film ist uninteressant. | The film is uninteresting. |
+| 208 | europäisch | — | — | European | Die Stadt ist europäisch. | The city is European. |
+| 209 | national | — | — | national | Der Sport ist national. | The sport is national. |
+| 210 | thematisch | thematischer | am thematischsten | thematic | Die Fragen sind thematisch. | The questions are thematic. |
+| 211 | gegliedert | gegliederter | am gegliedertesten | structured | Der Text ist gegliedert. | The text is structured. |
+| 212 | dauernd | dauernder | am dauerndsten | constant | Der Lärm ist dauernd. | The noise is constant. |
+| 213 | interkulturell | interkultureller | am interkulturellsten | intercultural | Der Austausch ist interkulturell. | The exchange is intercultural. |
+| 214 | städtisch | städtischer | am städtischsten | urban | Das Leben ist städtisch. | The life is urban. |
+| 215 | unruhig | unruhiger | am unruhigsten | unsettled, uneasy, uneasily | Die Nacht ist unruhig. | The night is uneasy. |
+| 216 | üblich | üblicher | am üblichsten | usual | Das ist üblich. | That is usual. |
+| 217 | sonstige | — | — | other | Sonstige Fragen sind offen. | Other questions are open. |
+| 218 | vordere | — | — | front | Das ist die vordere Tür. | That is the front door. |
+| 219 | freundlich | freundlicher | am freundlichsten | friendly | Die Leute sind freundlich. | The people are friendly. |
+| 220 | geehrt | — | — | honored | Sehr geehrte Damen, der Brief ist geehrt. | Honoured ladies, the letter is honoured. |
+| 221 | ernsthaft | ernsthafter | am ernsthaftesten | serious, earnest | Er ist ernsthaft. | He is serious. |
+| 222 | sparsam | sparsamer | am sparsamsten | economical, frugal | Der Motor ist sparsam. | The engine is economical. |
+| 223 | traumhaft | traumhafter | am traumhaftesten | fantastic | Der Garten ist traumhaft. | The garden is fantastic. |
+| 224 | dankbar | dankbarer | am dankbarsten | thankful | Ich bin dankbar. | I am thankful. |
+| 225 | beunruhigend | beunruhigender | am beunruhigendsten | disturbing | Die Nachricht ist beunruhigend. | The news is disturbing. |
+| 226 | furchtbar | furchtbarer | am furchtbarsten | horrible | Das Wetter ist furchtbar. | The weather is horrible. |
+| 227 | problematisch | problematischer | am problematischsten | problematic | Die Lage ist problematisch. | The situation is problematic. |
+| 228 | rasend | rasender | am rasendsten | rapid, furious | Der Angriff ist rasend. | The attack is rapid. |
+| 229 | wachsend | wachsender | am wachsendsten | growing, expanding | Die Stadt ist wachsend. | The city is growing. |
+| 230 | verstaubt | verstaubter | am verstaubtsten | dusty | Das Buch ist verstaubt. | The book is dusty. |
+| 231 | wunderschön | wunderschöner | am wunderschönsten | beautiful, lovely | Die Landschaft ist wunderschön. | The landscape is beautiful. |
+| 232 | damalig | — | — | onetime, bygone | Das ist die damalige Zeit. | That is the bygone time. |
+| 233 | fortschrittlich | fortschrittlicher | am fortschrittlichsten | forward-looking, progressive | Die Technik ist fortschrittlich. | The technology is forward-looking. |
+| 234 | katholisch | — | — | Catholic | Die Kirche ist katholisch. | The church is Catholic. |
+| 235 | symbolisch | symbolischer | am symbolischsten | symbolic | Das Bild ist symbolisch. | The picture is symbolic. |
+| 236 | touristisch | touristischer | am touristischsten | touristic | Die Stadt ist touristisch. | The city is touristic. |

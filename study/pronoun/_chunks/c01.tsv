@@ -1,8 +1,5 @@
-1	indefinite	nichts	nichts	nichts	—	Ich weiß nix.	I know nothing.
-2	indefinite	alle	alle	allen	aller	Alle sind gekommen.	Everyone has come.
-3	indefinite	paar	paar	—	—	Ein paar Leute sind hier.	A few people are here.
-4	indefinite	irgendwas	irgendwas	—	—	Ich suche irgendwas.	I am looking for something.
-5	indefinite	beide	beide	beiden	beider	Beide sind nett.	Both are nice.
-6	indefinite	manche	manche	manchen	—	Manche Menschen helfen.	Some people help.
-7	indefinite	niemand	niemanden	niemandem	—	Niemand ist hier.	Nobody is here.
-8	indefinite	mehrere	mehrere	mehreren	mehrerer	Ich habe mehrere Bücher.	I have several books.
+1	possessive interrogative	wer	wessen	wem	wessen	Wessen Auto ist das?	Whose car is that?
+2	indefinite	solche	solche	solchen	solcher	Solche Leute sind nett.	Such people are nice.
+3	indefinite	alle	alle	allen	aller	Alle sind gekommen.	All have come.
+4	indefinite	irgendjemand	irgendjemanden	irgendjemandem	—	Irgendjemand klopft.	Someone knocks.
+5	demonstrative	dasselbe	dasselbe	demselben	desselben	Wir lesen dasselbe Buch.	We read the same book.

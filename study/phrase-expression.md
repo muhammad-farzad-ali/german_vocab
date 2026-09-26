@@ -1,18 +1,14 @@
-# German A1 phrases — study table (14)
+# German A1 phrases — study table (10)
 
 | ID | BASE_WORD | EN_MEANING | SITUATION | DE_SENTENCE | EN_SENTENCE_TRANSLATION |
 |---|---|---|---|---|---|
-| 1 | schon mal | already | experience | Warst du schon mal in Berlin? | Have you ever been to Berlin? |
-| 2 | schon lange | long, for a long time | duration | Das ist schon lange her. | That was a long time ago. |
-| 3 | zu Besuch | for a visit | visit | Wir sind zu Besuch bei der Oma. | We are visiting grandma. |
-| 4 | usw. | etc., and so on | abbreviation | Wasch dich, brüste die Zähne usw. | Wash yourself, brush your teeth, etc. |
-| 5 | nicht nur | not only | restriction | Sie kann nicht nur kochen. | She can not only cook. |
-| 6 | Herzlichen Glückwunsch | congratulation | congratulations | Herzlichen Glückwunsch zum Geburtstag! | Congratulations on your birthday! |
-| 7 | Bis dann! | Until then! | farewell | Bis dann, wir sehen uns! | Until then, see you! |
-| 8 | noch mal | again | repetition | Noch mal, bitte! | Again, please! |
-| 9 | und so weiter | and so on | etc. | Papier, Stift und so weiter. | Paper, pen and so on. |
-| 10 | na gut | All right | agreement | Na gut, ich komme mit. | All right, I will come along. |
-| 11 | na ja | Oh well | concession | Na ja, es ist okay. | Oh well, it is okay. |
-| 12 | hier und da | here and there | frequency | Hier und da gibt es Cafés. | Here and there there are cafés. |
-| 13 | sondern auch | but also | addition | Sie spricht nicht nur Deutsch, sondern auch Spanisch. | She speaks not only German but also Spanish. |
-| 14 | auf keinen Fall | under no circumstances | negation | Das mache ich auf keinen Fall. | I will not do that under any circumstances. |
+| 1 | im Freien | in the outdoors | place | Wir essen im Freien. | We eat in the outdoors. |
+| 2 | zum Glück | luckily | relief | Zum Glück ist alles gut. | Luckily everything is fine. |
+| 3 | vor lauter | out of sheer, total | sheer amount | Vor lauter Aufregung vergesse ich alles. | Out of sheer excitement I forget everything. |
+| 4 | vor allem | above all, particularly | priority | Vor allem ist die Sicherheit wichtig. | Above all, safety is important. |
+| 5 | da vorne | over there | location | Der Bahnhof ist da vorne. | The station is over there. |
+| 6 | bald darauf | soon thereafter | time | Bald darauf kam der Bus. | Soon thereafter the bus came. |
+| 7 | bzw. | i.e. | abbreviation | Termine, Verträge bzw. Briefe. | Appointments, contracts, i.e. letters. |
+| 8 | inkl. | incl. | abbreviation | Preis inkl. Steuer. | Price incl. tax. |
+| 9 | ein wenig | a little | quantity | Ich spreche ein wenig Deutsch. | I speak a little German. |
+| 10 | nie mehr | no more, never again | negation | Ich möchte das nie mehr. | I never want that again. |

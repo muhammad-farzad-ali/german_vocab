@@ -1,90 +1,120 @@
-1	—	—	Das ist mir egal.	That does not matter to me.
-2	einfacher	am einfachsten	Das ist einfach.	That is simple.
-3	fetter	am fettesten	Currywurst ist so fett.	Currywurst is so fatty.
-4	schlechter	am schlechtesten	Das Wetter ist schlecht.	The weather is bad.
-5	—	—	Die Pizza ist superlecker.	The pizza is super tasty.
-6	bitterer	am bittersten	Der Kaffee ist bitter.	The coffee is bitter.
-7	fetter	am fettesten	Ungesundes Essen macht fett.	Unhealthy food makes you fat.
-8	salziger	am salzigsten	Die Suppe ist salzig.	The soup is salty.
-9	saurer	am sauersten	Die Zitrone ist sauer.	The lemon is sour.
-10	schärfer	am schärfsten	Das Essen ist scharf.	The food is spicy.
-11	süßer	am süßesten	Der Kuchen ist süß.	The cake is sweet.
-12	—	—	Das kostet extra.	That costs extra.
-13	trauriger	am traurigsten	Der Film ist traurig.	The film is sad.
-14	—	—	Er ist blind.	He is blind.
-15	schwieriger	am schwierigsten	Die Aufgabe ist schwierig.	The task is difficult.
-16	—	—	Sie ist sehbehindert.	She is vision-impaired.
-17	—	—	Rauchen ist verboten.	Smoking is forbidden.
-18	—	—	Die Arbeit ist abwechselnd.	The work is alternating.
-19	—	—	Mein Bruder ist erwachsen.	My brother is grown up.
-20	schrecklicher	am schrecklichsten	Das Wetter ist schrecklich.	The weather is terrible.
-21	—	—	Ich bin überrascht.	I am surprised.
-22	fester	am festesten	Der Termin ist fest.	The appointment is fixed.
-23	traditioneller	am traditionellsten	Das Fest ist traditionell.	The festival is traditional.
-24	—	—	Die Antwort ist perfekt.	The answer is perfect.
-25	stiller	am stillsten	Der Raum ist still.	The room is silent.
-26	—	—	Alles ist möglich.	Everything is possible.
-27	—	—	Das ist privat.	That is private.
-28	vorsichtiger	am vorsichtigsten	Fahre vorsichtig.	Drive carefully.
-29	froher	am frohsten	Ich bin froh.	I am glad.
-30	gefährlicher	am gefährlichsten	Der Weg ist gefährlich.	The path is dangerous.
-31	nützlicher	am nützlichsten	Das Werkzeug ist nützlich.	The tool is useful.
-32	komplizierter	am kompliziertesten	Das ist kompliziert.	That is complicated.
-33	berühmter	am berühmtesten	Der Sänger ist berühmt.	The singer is famous.
-34	skeptischer	am skeptischsten	Ich bin skeptisch.	I am skeptical.
-35	aktueller	am aktuellsten	Das ist die aktuelle Zeitung.	That is the current newspaper.
-36	—	—	Das Buch ist empfehlenswert.	The book is recommendable.
-37	realistischer	am realistischsten	Der Film ist realistisch.	The film is realistic.
-38	spannender	am spannendsten	Das Buch ist spannend.	The book is exciting.
-39	sympathischer	am sympathischsten	Er ist sympathisch.	He is likeable.
-40	—	—	Das ist logisch.	That is logical.
-41	weiter	am weitesten	Hast du weitere Fragen?	Do you have further questions?
-42	neugieriger	am neugierigsten	Sie ist neugierig.	She is curious.
-43	unglücklicher	am unglücklichsten	Er ist unglücklich.	He is unlucky.
-44	aufregender	am aufregendsten	Der Tag ist aufregend.	The day is exciting.
-45	böser	am bösesten	Der Hund ist böse.	The dog is angry.
-46	bekannter	am bekanntesten	Das Lied ist bekannt.	The song is well-known.
-47	—	—	Das Gebäude ist historisch.	The building is historic.
-48	—	—	Der Film ist weltweit bekannt.	The film is known worldwide.
-49	—	—	Das Wort ist neutral.	The word is neutral.
-50	zahlreicher	am zahlreichsten	Die Gäste sind zahlreich.	The guests are numerous.
-51	peinlicher	am peinlichsten	Das war peinlich.	That was embarrassing.
-52	unangenehmer	am unangenehmsten	Die Situation ist unangenehm.	The situation is unpleasant.
-53	ärgerlicher	am ärgerlichsten	Das ist ärgerlich.	That is annoying.
-54	emotionaler	am emotionalsten	Der Film ist emotional.	The film is emotional.
-55	fröhlicher	am fröhlichsten	Sie ist fröhlich.	She is cheerful.
-56	—	—	Ich bin gestresst.	I am stressed.
-57	melancholischer	am melancholischsten	Die Musik ist melancholisch.	The music is melancholic.
-58	origineller	am originellsten	Die Idee ist originell.	The idea is original.
-59	poetischer	am poetischsten	Der Text ist poetisch.	The text is poetic.
-60	romantischer	am romantischsten	Der Film ist romantisch.	The film is romantic.
-61	—	—	Der Hund ist domestiziert.	The dog is domesticated.
-62	wilder	am wildesten	Das Tier ist wild.	The animal is wild.
-63	akkurater	am akkuratsten	Die Arbeit ist akkurat.	The work is accurate.
-64	—	—	Sie ist hilfsbereit.	She is helpful.
-65	—	—	Er ist interessiert an Kunst.	He is interested in art.
-66	ordentlicher	am ordentlichsten	Das Zimmer ist ordentlich.	The room is tidy.
-67	schlimmer	am schlimmsten	Das ist schlimm.	That is bad.
-68	—	—	Das Foto ist passend.	The photo is matching.
-69	kürzer	am kürzesten	Der Text ist kurz.	The text is short.
-70	—	—	Das ist ein einfaches Ticket.	That is a one-way ticket.
-71	—	—	Ich bin entspannt.	I am relaxed.
-72	fantastischer	am fantastischsten	Das Konzert ist fantastisch.	The concert is fantastic.
-73	fitter	am fittesten	Ich bin fit.	I am fit.
-74	großartiger	am großartigsten	Das Fest ist großartig.	The festival is great.
-75	—	—	Die Musik ist live.	The music is live.
-76	hübscher	am hübschesten	Die Blume ist hübsch.	The flower is pretty.
-77	verrückter	am verrücktesten	Das ist verrückt.	That is crazy.
-78	—	—	Der Stuhl ist antik.	The chair is antique.
-79	—	—	Er ist arbeitslos.	He is unemployed.
-80	erfolgreicher	am erfolgreichsten	Sie ist erfolgreich.	She is successful.
-81	—	—	Der folgende Text ist kurz.	The following text is short.
-82	deutlicher	am deutlichsten	Die Stimme ist deutlich.	The voice is distinct.
-83	hektischer	am hektischsten	Der Morgen ist hektisch.	The morning is hectic.
-84	—	—	Sie ist gut informiert.	She is well informed.
-85	—	—	Der Ort ist gut erreichbar.	The place is well reachable.
-86	familienfreundlicher	am familienfreundlichsten	Das Hotel ist familienfreundlich.	The hotel is family-friendly.
-87	—	—	Das ist ein lebenslanger Job.	That is a lifelong job.
-88	selbstständiger	am selbstständigsten	Er ist selbstständig.	He is self-employed.
-89	starrer	am starrsten	Die Regel ist starr.	The rule is rigid.
-90	—	—	Die Mode ist unmodern.	The fashion is old-fashioned.
+1	giftiger	am giftigsten	Die Pflanze ist giftig.	The plant is poisonous.
+2	erholsamer	am erholsamsten	Die Reise ist erholsam.	The trip is relaxing.
+3	frustrierter	am frustriertesten	Ich bin frustriert.	I am frustrated.
+4	spontaner	am spontansten	Der Plan ist spontan.	The plan is spontaneous.
+5	aktiver	am aktivsten	Sie ist aktiv.	She is active.
+6	entspannender	am entspannendsten	Der Urlaub ist entspannend.	The holiday is relaxing.
+7	—	—	Der Preis ist inklusive Steuer.	The price is inclusive of tax.
+8	—	—	Das Frühstück ist inbegriffen.	The breakfast is included.
+9	—	—	Das Wasser ist pur.	The water is pure.
+10	kulinarischer	am kulinarischsten	Das Fest ist kulinarisch.	The festival is culinary.
+11	erleichterter	am erleichtertsten	Ich bin erleichtert.	I am relieved.
+12	verlegener	am verlegensten	Er ist verlegen.	He is embarrassed.
+13	verzweifelter	am verzweifeltsten	Sie ist verzweifelt.	She is desperate.
+14	erholter	am erholtesten	Nach dem Urlaub bin ich erholt.	After the holiday I am recovered.
+15	—	—	Das ist eine technische Frage.	That is a technical question.
+16	unfairer	am unfairsten	Das ist unfair.	That is unfair.
+17	—	—	Die Uhr ist elektronisch.	The watch is electronic.
+18	verärgerter	am verärgertsten	Er ist verärgert.	He is angry.
+19	unfreundlicher	am unfreundlichsten	Sie ist unfreundlich.	She is unfriendly.
+20	farbiger	am farbigsten	Das Bild ist farbig.	The picture is colourful.
+21	smarter	am smartesten	Das Gerät ist smart.	The device is smart.
+22	beeindruckter	am beeindrucktsten	Ich bin beeindruckt.	I am impressed.
+23	frecher	am frechsten	Der Junge ist frech.	The boy is cheeky.
+24	geschmackloser	am geschmacklosesten	Das Essen ist geschmacklos.	The food is tasteless.
+25	unmoderner	am unmodernsten	Die Mode ist unmodern.	The fashion is unfashionable.
+26	witziger	am witzigsten	Der Film ist witzig.	The film is funny.
+27	verständlicher	am verständlichsten	Die Erklärung ist verständlich.	The explanation is understandable.
+28	—	—	Sie ist alleinerziehend.	She is single parenting.
+29	—	—	Die Fabrik ist automatisiert.	The factory is automated.
+30	—	—	Der Chef ist autoritär.	The boss is authoritarian.
+31	—	—	Er ist berufstätig.	He is employed.
+32	—	—	Die Familie ist gut situiert.	The family is well-situated.
+33	—	—	Der Arm ist gelähmt.	The arm is paralyzed.
+34	kostbarer	am kostbarsten	Der Ring ist kostbar.	The ring is precious.
+35	künstlicher	am künstlichsten	Die Blume ist künstlich.	The flower is artificial.
+36	reicher	am reichsten	Der Mann ist reich.	The man is rich.
+37	wertvoller	am wertvollsten	Das Bild ist wertvoll.	The picture is valuable.
+38	—	—	Das Verb ist unregelmäßig.	The verb is irregular.
+39	—	—	Er ist arbeitslos.	He is unemployed.
+40	süchtiger	am süchtigsten	Er ist süchtig nach Kaffee.	He is addicted to coffee.
+41	—	—	Sie ist als Lehrerin tätig.	She is active as a teacher.
+42	geteilter	am geteiltesten	Die Meinung ist geteilt.	The opinion is divided.
+43	—	—	Das Land ist demokratisch.	The country is democratic.
+44	—	—	Der Raum ist gut ausgestattet.	The room is well equipped.
+45	einzigartiger	am einzigartigsten	Das Produkt ist einzigartig.	The product is unique.
+46	erfahrener	am erfahrensten	Wir erfahren viel Neues.	We experience much new.
+47	grandioser	am grandiosesten	Das Konzert ist grandios.	The concert is grandiose.
+48	—	—	Das ist die heutige Zeitung.	That is the present-day newspaper.
+49	stolzer	am stolzesten	Ich bin stolz.	I am proud.
+50	—	—	Die Produkte sind vergleichbar.	The products are comparable.
+51	—	—	Der Mann ist wildfremd.	The man is completely strange.
+52	geregelter	am geregeltsten	Das Leben ist geregelt.	The life is settled.
+53	aussagekräftiger	am aussagekräftigsten	Das Foto ist aussagekräftig.	The photo is meaningful.
+54	relevanter	am relevantesten	Die Frage ist relevant.	The question is relevant.
+55	seriöser	am seriössten	Die Firma ist seriös.	The firm is respectable.
+56	spezieller	am speziellsten	Das Angebot ist speziell.	The offer is special.
+57	—	—	Das ist die zukünftige Arbeit.	That is the future work.
+58	längerfristiger	am längerfristigsten	Der Plan ist längerfristig.	The plan is long-term.
+59	—	—	Der Platz ist besetzt.	The seat is taken.
+60	—	—	Die Angabe ist inhaltlich.	The statement is relevant.
+61	konservativer	am konservativsten	Die Partei ist konservativ.	The party is conservative.
+62	lockerer	am lockersten	Die Atmosphäre ist locker.	The atmosphere is casual.
+63	menschlicher	am menschlichsten	Die Arbeit ist menschlich.	The work is human.
+64	dicker	am dicksten	Das Buch ist dick.	The book is thick.
+65	konstanter	am konstantesten	Die Temperatur ist konstant.	The temperature is constant.
+66	relativer	am relativsten	Die Zahl ist relativ.	The number is relative.
+67	—	—	Die Daten sind statistisch.	The data are statistical.
+68	—	—	Die Lampe ist elektrisch.	The lamp is electric.
+69	ökologischer	am ökologischsten	Der Anbau ist ökologisch.	The farming is ecological.
+70	effizienter	am effizientesten	Die Maschine ist effizient.	The machine is efficient.
+71	—	—	Das Dokument ist gedruckt.	The document is printed.
+72	umweltfreundlicher	am umweltfreundlichsten	Das Auto ist umweltfreundlich.	The car is environmentally friendly.
+73	überzeugter	am überzeugtsten	Ich bin überzeugt.	I am convinced.
+74	—	—	Das Glas ist abgeschliffen.	The glass is ground.
+75	alltäglicher	am alltäglichsten	Das ist alltäglich.	That is commonplace.
+76	dünner	am dünnsten	Das Papier ist dünn.	The paper is thin.
+77	geheimer	am geheimsten	Die Zahl ist geheim.	The number is secret.
+78	—	—	Das Büro ist papierlos.	The office is paperless.
+79	monotoner	am monotonsten	Das Lied ist monoton.	The song is monotonous.
+80	bewölkter	am bewölktsten	Der Himmel ist bewölkt.	The sky is cloudy.
+81	feuchter	am feuchtesten	Die Luft ist feucht.	The air is humid.
+82	nebliger	am nebligsten	Der Morgen ist neblig.	The morning is foggy.
+83	regnerischer	am regnerischsten	Der Tag ist regnerisch.	The day is rainy.
+84	schwüler	am schwülsten	Es ist schwül.	It is muggy.
+85	sonniger	am sonnigsten	Der Tag ist sonnig.	The day is sunny.
+86	stürmischer	am stürmischsten	Das Wetter ist stürmisch.	The weather is stormy.
+87	wolkiger	am wolkigsten	Der Tag ist wolkig.	The day is cloudy.
+88	gesperrter	am gesperrtesten	Die Straße ist gesperrt.	The street is blocked.
+89	—	—	Das ist illegal.	That is illegal.
+90	flüssiger	am flüssigsten	Die Butter ist flüssig.	The butter is fluid.
+91	fruchtbarer	am fruchtbarsten	Der Boden ist fruchtbar.	The soil is fruitful.
+92	geduldiger	am geduldigsten	Sie ist geduldig.	She is patient.
+93	—	—	Das Essen ist indianisch.	The food is Indian.
+94	unschlagbar	am unschlagbarsten	Der Spieler ist unschlagbar.	The player is unbeatable.
+95	dichter	am dichtesten	Der Nebel ist dicht.	The fog is dense.
+96	kultureller	am kulturellsten	Das Angebot ist kulturell.	The offer is cultural.
+97	—	—	Das Spiel ist olympisch.	The game is Olympic.
+98	—	—	Die Frage ist politisch.	The question is political.
+99	superschnell	am superschnellsten	Der Zug ist superschnell.	The train is ultrafast.
+100	wirtschaftlicher	am wirtschaftlichsten	Der Plan ist wirtschaftlich.	The plan is economic.
+101	—	—	Das ist die innere Tür.	That is the inner door.
+102	bereiter	am bereitesten	Ich bin bereit.	I am prepared.
+103	gepflegter	am gepflegtesten	Der Garten ist gepflegt.	The garden is neat.
+104	schlanker	am schlankesten	Die Frau ist schlank.	The woman is slender.
+105	ängstlicher	am ängstlichsten	Das Kind ist ängstlich.	The child is fearful.
+106	blonder	am blondesten	Sie ist blond.	She is blond.
+107	—	—	Er ist dunkelhaarig.	He is dark-haired.
+108	fauler	am faulsten	Die Katze ist faul.	The cat is lazy.
+109	klüger	am klügsten	Der Schüler ist klug.	The pupil is clever.
+110	kräftiger	am kräftigsten	Der Mann ist kräftig.	The man is strong.
+111	mutiger	am mutigsten	Sie ist mutig.	She is brave.
+112	optimistischer	am optimistischsten	Er ist optimistisch.	He is optimistic.
+113	pessimistischer	am pessimistischsten	Sie ist pessimistisch.	She is pessimistic.
+114	schwächer	am schwächsten	Das Team ist schwach.	The team is weak.
+115	unehrlicher	am unehrlichsten	Der Mann ist unehrlich.	The man is dishonest.
+116	untreuer	am untreuesten	Er ist untreu.	He is unfaithful.
+117	unzuverlässiger	am unzuverlässigsten	Der Freund ist unzuverlässig.	The friend is unreliable.
+118	—	—	Das ist die jetzige Situation.	That is the current situation.
+119	verwandter	am verwandtesten	Wir sind verwandt.	We are related.
+120	wahnsinniger	am wahnsinnigsten	Die Idee ist wahnsinnig.	The idea is crazy.

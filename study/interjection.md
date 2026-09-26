@@ -2,5 +2,5 @@
 
 | ID | BASE_WORD | EN_MEANING | SITUATION | DE_SENTENCE | EN_SENTENCE_TRANSLATION |
 |---|---|---|---|---|---|
-| 1 | Servus! | Greetings! | greeting (Austrian) | Servus, wie geht's? | Hi, how are you? |
-| 2 | Hi! | Hi! | greeting | Hi, schön dich zu sehen! | Hi, nice to see you! |
+| 1 | sorry | sorry | apology | Sorry, das war mein Fehler. | Sorry, that was my mistake. |
+| 2 | gell | huh, right | agreement-seeking | Das war toll, gell? | That was great, right? |

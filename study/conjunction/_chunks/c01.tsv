@@ -1,14 +1,12 @@
-1	coordinating	Satzklammer	Ich arbeite viel, aber ich bin zufrieden.	I work a lot, but I am satisfied.
-2	modal particle	emphasize	Das ist aber schön!	That is really beautiful!
-3	subordinating	Verb am Ende	Ich bleibe, weil es regnet.	I stay because it is raining.
-4	subordinating	Verb am Ende	Ich glaube, dass er kommt.	I believe that he is coming.
-5	subordinating	Verb am Ende	Wenn du Zeit hast, ruf mich an.	When you have time, call me.
-6	subordinating	Verb am Ende	Ich weiß nicht, ob er kommt.	I do not know if he is coming.
+1	subordinating	Verb am Ende	Ich nehme einen Schirm, falls es regnet.	I take an umbrella in case it rains.
+2	subordinating	Verb am Ende	Bevor du gehst, ruf mich an.	Before you go, call me.
+3	subordinating	Verb am Ende	Es regnet, sodass wir zu Hause bleiben.	It rains so that we stay at home.
+4	subordinating	Verb am Ende	Nachdem ich koche, essen wir.	After I cook, we eat.
+5	coordinating	Satzklammer	Sie spricht Deutsch als auch Englisch.	She speaks German as well as English.
+6	subordinating	Verb am Ende	Er tut, als ob er schläft.	He acts as if he sleeps.
 7	coordinating	Satzklammer	Entweder heute oder morgen.	Either today or tomorrow.
-8	coordinating	Satzklammer	Ich bleibe, denn es ist schön.	I stay, because it is nice.
-9	subordinating	Verb am Ende	Als ich jung war, lebte ich in Bonn.	When I was young, I lived in Bonn.
-10	subordinating	Verb am Ende	Immer wenn ich koche, hilft sie.	Whenever I cook, she helps.
-11	coordinating	Satzklammer	Nicht ich, sondern du.	Not me, but you.
-12	subordinating	Verb am Ende	Auch wenn es regnet, gehen wir aus.	Even when it rains, we go out.
-13	subordinating	Verb am Ende	Ich lerne, damit ich die Prüfung schaffe.	I learn so that I pass the exam.
-14	subordinating	Verb am Ende	Ich gehe in den Laden, um Brot zu kaufen.	I go to the shop in order to buy bread.
+8	subordinating	Verb am Ende	Sobald ich Zeit habe, komme ich.	As soon as I have time, I come.
+9	coordinating	Satzklammer	Sowohl Anna als auch Ben kommen.	Both Anna and Ben come.
+10	coordinating	Satzklammer	Weder Kaffee noch Tee.	Neither coffee nor tea.
+11	subordinating	Verb am Ende	Je mehr, desto besser.	The more, the better.
+12	subordinating	Verb am Ende	Je länger ich warte, desto müder werde ich.	The longer I wait, the more tired I become.

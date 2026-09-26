@@ -1,177 +1,237 @@
 id	base	en_meaning
-1	egal	all the same
-2	einfach	just, simply
-3	fett	fatty
-4	schlecht	bad
-5	superlecker	very tasty
-6	bitter	bitter
-7	fett	fat
-8	salzig	salty
-9	sauer	sour
-10	scharf	spicy
-11	süß	sweet
-12	extra	specially
-13	traurig	sad
-14	blind	blind
-15	schwierig	difficult, hard
-16	sehbehindert	vision-impaired
-17	verboten	forbidden
-18	abwechselnd	alternating
-19	erwachsen	mature, grown-up
-20	schrecklich	terrible
-21	überrascht	surprised
-22	fest	fixed, set
-23	traditionell	traditional
-24	perfekt	perfect
-25	still	silent
-26	möglich	possible
-27	privat	private
-28	vorsichtig	careful
-29	froh	glad, relieved
-30	gefährlich	dangerous
-31	nützlich	useful
-32	kompliziert	complicated
-33	berühmt	famous
-34	skeptisch	skeptical
-35	aktuell	current
-36	empfehlenswert	recommendable
-37	realistisch	realistic
-38	spannend	exciting, suspenseful
-39	sympathisch	likeable
-40	logisch	logical
-41	weitere	further
-42	neugierig	curious
-43	unglücklich	unlucky
-44	aufregend	exciting, thrilling
-45	böse	angry, mad
-46	bekannt	known, well-known
-47	historisch	historic
-48	weltweit	worldwide
-49	neutral	neutral
-50	zahlreich	numerous
-51	peinlich	embarrassing, awkward
-52	unangenehm	unpleasant
-53	ärgerlich	annoying, irritating
-54	emotional	emotional
-55	fröhlich	happy, cheerful
-56	gestresst	stressed
-57	melancholisch	melancholic
-58	originell	original
-59	poetisch	poetic
-60	romantisch	romantic
-61	domestiziert	domesticated
-62	wild	wild
-63	akkurat	accurate
-64	hilfsbereit	helpful
-65	interessiert	interested
-66	ordentlich	proper, tidy
-67	schlimm	bad, terrible
-68	passend	suitable, matching
-69	kurz	short
-70	einfach	one-way
-71	entspannt	relaxed
-72	fantastisch	fantastic
-73	fit	fit, in shape
-74	großartig	great, grand, terrific
-75	live	live
-76	hübsch	pretty
-77	verrückt	crazy
-78	antik	antique
-79	arbeitslos	unemployed
-80	erfolgreich	successful
-81	folgend	following
-82	deutlich	distinct
-83	hektisch	hectic
-84	informiert	informed
-85	erreichbar	reachable
-86	familienfreundlich	family-friendly
-87	lebenslang	lifelong
-88	selbstständig	self-sufficient
-89	starr	rigid
-90	unmodern	old-fashioned
-91	locker	relaxed
-92	schön	pretty
-93	ewig	forever
-94	nervig	annoying
-95	ungeduldig	impatient
-96	genervt	annoyed, irritated
-97	höflich	polite
-98	stressfrei	stress-free
-99	gespannt	curious, eager
-100	einverstanden	agreed
-101	flexibel	flexible
-102	unmöglich	impossible
-103	unpraktisch	impractical
-104	allgemein	general
-105	wach	awake
-106	öffentlich	public
-107	durchsichtig	transparent
-108	griffbereit	handy, at hand
-109	kühl	cool
-110	knapp	scarce
-111	mündlich	oral
-112	konsequent	consistent
-113	gerecht	fair, just
-114	ruhig	without worry
-115	abwechslungsreich	varied
-116	einsam	lonely
-117	freiberuflich	self-employed, freelance
-118	gehörlos	deaf, hearing-impaired
-119	komplett	complete
-120	sportlich	sporty
-121	begeistert	enthusiastic
-122	kritisch	critical
-123	treu	loyal
-124	geografisch	geographic
-125	sogenannt	so-called
-126	jeweilig	respective
-127	stabil	sturdy, stable
-128	versteckt	hidden
-129	wasserdicht	waterproof
-130	bewohnt	inhabited
-131	entfernt	distant
-132	genial	ingenious; here: impressive
-133	intensiv	intense, intensive
-134	leise	quiet
-135	eng	narrow
-136	trocken	dry
-137	elektrisch	electric
-138	möbliert	furnished
-139	einmalig	unique, singular
-140	pflegeleicht	easy to care for
-141	modisch	fashionable
-142	unterschiedlich	different
-143	verliebt	in love
-144	bayrisch	Bavarian
-145	meistverkauft	bestselling
-146	netto	net
-147	deutschsprachig	German-speaking
-148	selbe	same
-149	ausverkauft	sold out
-150	aufgeregt	excited
-151	abstrakt	abstract
-152	dumm	dumb
-153	exakt	exact
-154	gemacht	made
-155	dunkel-	dark
-156	hell-	light
-157	betrunken	drunk
-158	schwanger	pregnant
-159	tot	dead
-160	pensioniert	retired
-161	fließend	running
-162	sinnvoll	meaningful
-163	afrikanisch	African
-164	effektiv	effective
-165	einzig	only, sole, unique
-166	unhöflich	impolite
-167	unsicher	insecure
-168	unzufrieden	dissatisfied, displeased
-169	gierig	greedy
-170	automatisch	automatic
-171	befreundet	befriended
-172	generell	general
-173	korrekt	correct
-174	näher	closer
-175	altmodisch	old-fashioned
-176	beleidigt	offended
+1	giftig	poisonous
+2	erholsam	relaxing, refreshing
+3	frustriert	frustrated
+4	spontan	spontaneous
+5	aktiv	active
+6	entspannend	relaxing
+7	inklusive	inclusive of, including
+8	inbegriffen	included
+9	pur	pure
+10	kulinarisch	culinary, culinarily
+11	erleichtert	relieved
+12	verlegen	embarrassed
+13	verzweifelt	desperate
+14	erholt	recovered
+15	technisch	technical
+16	unfair	unfair
+17	elektronisch	electronic
+18	verärgert	angry
+19	unfreundlich	unfriendly
+20	farbig	colorful
+21	smart	smart
+22	beeindruckt	impressed
+23	frech	cheeky, sassy
+24	geschmacklos	tasteless
+25	unmodern	unfashionable
+26	witzig	funny, humorous
+27	verständlich	understandable, understandably
+28	alleinerziehend	single parenting
+29	automatisiert	automated
+30	autoritär	authoritarian
+31	berufstätig	working, employed
+32	gut situiert	well-situated
+33	gelähmt	paralyzed
+34	kostbar	valuable, precious
+35	künstlich	artificial
+36	reich	rich
+37	wertvoll	valuable
+38	unregelmäßig	irregular
+39	arbeitslos	unemployed
+40	süchtig	addicted
+41	tätig	active, working
+42	geteilt	divided
+43	demokratisch	democratic
+44	ausgestattet	equipped
+45	einzigartig	unique, singular
+46	erfahren	to learn, find out, experience
+47	grandios	grandiose
+48	heutig	present-day
+49	stolz	proud
+50	vergleichbar	comparable
+51	wildfremd	completely strange
+52	geregelt	controlled, orderly, settled
+53	aussagekräftig	meaningful
+54	relevant	relevant
+55	seriös	serious, respectable
+56	speziell	special, specific
+57	zukünftig	future
+58	längerfristig	long-term
+59	besetzt	occupied, taken
+60	inhaltlich	relevant
+61	konservativ	conservative
+62	locker	casual, loose
+63	menschlich	human
+64	dick	thick
+65	konstant	constant
+66	relativ	relative
+67	statistisch	statistically
+68	elektrisch	electric
+69	ökologisch	ecological
+70	effizient	efficient
+71	gedruckt	printed
+72	umweltfreundlich	environmentally friendly
+73	überzeugt	convinced
+74	abgeschliffen	ground, mulched
+75	alltäglich	commonplace, ordinary
+76	dünn	thin
+77	geheim	secret
+78	papierlos	paperless
+79	monoton	monotonous
+80	bewölkt	cloudy
+81	feucht	moist, humid
+82	neblig	foggy
+83	regnerisch	rainy
+84	schwül	muggy
+85	sonnig	sunny
+86	stürmisch	stormy
+87	wolkig	cloudy
+88	gesperrt	closed, blocked
+89	illegal	illegal
+90	flüssig	fluid
+91	fruchtbar	fruitful, prolific
+92	geduldig	patient
+93	indianisch	Indian
+94	unschlagbar	unbeatable, invincible
+95	dicht	dense
+96	kulturell	cultural
+97	olympisch	olympic
+98	politisch	political
+99	superschnell	ultrafast
+100	wirtschaftlich	economic
+101	innere/inneres	inner
+102	bereit	prepared
+103	gepflegt	neat, refined
+104	schlank	slender
+105	ängstlich	anxious, fearful
+106	blond	blond
+107	dunkelhaarig	dark-haired
+108	faul	lazy, lazily
+109	klug	wise, clever
+110	kräftig	strong
+111	mutig	brave
+112	optimistisch	optimistic
+113	pessimistisch	pessimistic
+114	schwach	weak
+115	unehrlich	dishonest
+116	untreu	unfaithful
+117	unzuverlässig	unreliable
+118	jetzig	current, present
+119	verwandt	related
+120	wahnsinnig	insane, crazy, crazily
+121	ätzend	caustic, lousy, lousily
+122	endlos	endless
+123	krass	crass, harsh
+124	schick	chic, fancy
+125	erschöpft	exhausted
+126	tolerant	tolerant
+127	geeignet	suitable, suitably
+128	diplomatisch	diplomatic
+129	undiplomatisch	undiplomatic
+130	arm	poor
+131	finanziell	financial
+132	kommerziell	commercial
+133	unabhängig	independent
+134	kraftlos	powerless
+135	lachend	laughing
+136	verbissen	dogged, grim
+137	zornig	furious
+138	eilig	hasty, hastily
+139	wörtlich	literal
+140	ausreichend	sufficient
+141	blutig	bloody, bloodily
+142	lauwarm	lukewarm
+143	roh	raw
+144	nötig	necessary, required
+145	notwendig	necessary, required
+146	glatt	smooth
+147	schwindlig	dizzy, dizzily
+148	unbequem	uncomfortable
+149	beschildert	marked with signs
+150	diätisch	dietary
+151	sämtlich	all
+152	sichtbar	visible, visibly
+153	vegetarisch	vegetarian
+154	zuständig	responsible
+155	amerikanisch	American
+156	beruhigend	soothing, reassuring
+157	feierlich	ceremonial
+158	tragisch	tragic
+159	verantwortlich	responsible, responsibly
+160	würzig	aromatic, spicy
+161	abgeschlossen	completed, self-contained
+162	gleichbleibend	consistent, steady
+163	steigend	rising, increasing
+164	involviert	involved
+165	motiviert	motivated
+166	dauerhaft	permanent
+167	fantasievoll	imaginative
+168	ungewöhnlich	unusual
+169	ausnahmslos	without exception
+170	laut	according to
+171	zusätzlich	additional
+172	geometrisch	geometric
+173	gewöhnlich	usual, ordinary, ordinarily
+174	schräg	oblique, diagonal
+175	senkrecht	vertical, perpendicular
+176	waagerecht	horizontal
+177	belastet	burdened
+178	stumm	mute, quiet
+179	vorhanden	existing, available
+180	erforderlich	required, necessary
+181	erfahren	experienced
+182	ehemalig	former
+183	gründlich	thorough
+184	original	original
+185	pfiffig	smart, clever
+186	preiswert	inexpensive
+187	schuldig	guilty, guiltily
+188	tierisch	brutish
+189	einzeln	individual
+190	banal	banal
+191	überzeugend	convincing
+192	musikalisch	musical
+193	quer	crosswise
+194	regional	regional
+195	finster	sinister, gloomy, gloomily
+196	nächtlich	nightly
+197	anwesend	present, in attendance
+198	behindert	disabled, handicapped
+199	humorvoll	humorous
+200	körperlich	physical, bodily
+201	bedürftig	needy
+202	ehrenamtlich	unpaid
+203	qualitativ	qualitative
+204	bundesweit	nationwide
+205	global	global
+206	ausgebildet	trained
+207	uninteressant	uninteresting
+208	europäisch	European
+209	national	national
+210	thematisch	thematic
+211	gegliedert	structured
+212	dauernd	constant
+213	interkulturell	intercultural
+214	städtisch	urban
+215	unruhig	unsettled, uneasy, uneasily
+216	üblich	usual
+217	sonstige	other
+218	vordere	front
+219	freundlich	friendly
+220	geehrt	honored
+221	ernsthaft	serious, earnest
+222	sparsam	economical, frugal
+223	traumhaft	fantastic
+224	dankbar	thankful
+225	beunruhigend	disturbing
+226	furchtbar	horrible
+227	problematisch	problematic
+228	rasend	rapid, furious
+229	wachsend	growing, expanding
+230	verstaubt	dusty
+231	wunderschön	beautiful, lovely
+232	damalig	onetime, bygone
+233	fortschrittlich	forward-looking, progressive
+234	katholisch	Catholic
+235	symbolisch	symbolic
+236	touristisch	touristic
