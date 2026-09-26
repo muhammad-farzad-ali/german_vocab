@@ -175,6 +175,13 @@ PLURAL_OVERRIDES = {
     "der Bereich, der, -e": "die Bereiche",
     "Eisenbahn, die, -n": "die Eisenbahnen",
     "das Gegenüber, s, -": "die Gegenüber",
+    "das Verpackungsmaterial, -materialien": "die Verpackungsmaterialien",
+    "das Schreibmaterial, -ein": "die Schreibmaterialien",
+    "das Werbematerial, -materialien": "die Werbematerialien",
+    "das Forschungsthema, -themen": "die Forschungsthemen",
+    "die Reinigungsfirma, -firmen": "die Reinigungsfirmen",
+    "der Zoodirektor, -direktoren": "die Zoodirektoren",
+    "die Putzfirma, -firmen": "die Putzfirmen",
 }
 
 
@@ -190,6 +197,8 @@ def repl_plural(base, s):
         for L in range(len(base) - 1, 0, -1):
             if sp.startswith(_plain(base[-L:])):
                 return base[:-L] + s
+    if s.startswith("en") and base.endswith("e"):
+        return base[:-1] + s
     return base + s
 
 

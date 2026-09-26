@@ -1,145 +1,135 @@
-291	Der Zug fährt auf Gleis drei.	The train runs on track three.
-292	Die Information ist links.	The information desk is on the left.
-293	Der Schalter ist geschlossen.	The counter is closed.
-294	Der Waggon ist voll.	The train car is full.
-295	Die Zugverbindung ist gut.	The train connection is good.
-296	Die Auskunft ist am Eingang.	The information desk is at the entrance.
-297	Der Bahn-Mitarbeiter hilft mir.	The train employee helps me.
-298	Der Fahrgast hat eine Frage.	The passenger has a question.
-299	Der Fahrkartenschalter ist offen.	The ticket booth is open.
-300	Der Gang ist frei.	The aisle is free.
-301	Der Großraumwagen ist hell.	The open coach is bright.
-302	Welche Klasse fährst du?	Which class are you travelling in?
-303	Das Abend-Programm beginnt um acht.	The evening program starts at eight.
-304	Die Dame liest ein Buch.	The lady reads a book.
-305	Die Ermäßigung ist für Studenten.	The discount is for students.
-306	Die Geschichte ist interessant.	The history is interesting.
-307	Die Kultur ist vielfältig.	The culture is diverse.
-308	Das Musikereignis war groß.	The musical event was big.
-309	Die Reservierung ist bestätigt.	The reservation is confirmed.
-310	Der Sänger singt heute.	The singer sings today.
-311	Der Senior bekommt Rabatt.	The senior gets a discount.
-312	Die Show beginnt um neun.	The show starts at nine.
-313	Der Arztkittel ist weiß.	The lab coat is white.
-314	Der Berufswechsel ist groß.	The career change is big.
-315	Der Elektrokonzern ist groß.	The electronics company is big.
-316	Der Fernfahrer fährt nachts.	The trucker drives at night.
-317	Die Freiheit ist wichtig.	The freedom is important.
-318	Der Herzchirurg operiert heute.	The heart surgeon operates today.
-319	Die Herzchirurgie ist modern.	The cardiac surgery is modern.
-320	Das Herzzentrum ist neu.	The cardiac center is new.
-321	Die Industriekauffrau arbeitet im Büro.	The industrial businesswoman works in the office.
-322	Der Lastwagen ist schwer.	The truck is heavy.
-323	Der Leiter ist freundlich.	The leader is friendly.
-324	Die Medizin hilft.	The medicine helps.
-325	Die Möbelwerkstatt ist klein.	The furniture workshop is small.
-326	Der Oberarzt kommt um neun.	The senior physician comes at nine.
-327	Der Operationssaal ist sauber.	The operating room is clean.
-328	Der Overall ist blau.	The overalls are blue.
-329	Das Schmuckstück ist wertvoll.	The piece of jewelry is valuable.
-330	Die Tischlerei ist in der Stadt.	The carpenter's woodshop is in the city.
-331	Das Universitätsspital ist groß.	The university hospital is big.
-332	Die Parallele ist klar.	The parallel is clear.
-333	Die Altersangabe fehlt.	The age indication is missing.
-334	Der Berufswunsch ist Arzt.	The career goal is doctor.
-335	Der Arbeitsort ist München.	The work location is Munich.
-336	Der Aspekt ist wichtig.	The aspect is important.
-337	Der Tiertrainer arbeitet im Zoo.	The animal trainer works in the zoo.
-338	Der Autor schreibt ein Buch.	The author writes a book.
-339	Der Schritt ist klein.	The step is small.
-340	Der Lkw ist neu.	The truck is new.
-341	Das Telefongespräch ist kurz.	The telephone conversation is short.
-342	Das Lächeln ist freundlich.	The smile is friendly.
-343	Die Ruhe ist schön.	The quiet is nice.
-344	Der Stift ist blau.	The pencil is blue.
-345	Die Durchwahl ist neu.	The phone extension is new.
-346	Der Arbeitsalltag ist stressig.	The workday is stressful.
-347	Das Arbeitsleben beginnt früh.	Professional life starts early.
-348	Die Arbeitsteilung ist klar.	The division of labor is clear.
-349	Das Arbeitsverhältnis ist gut.	The working relationship is good.
-350	Der Austausch ist wichtig.	The exchange is important.
-351	Die Balance ist gut.	The balance is good.
-352	Der Betreuungsplatz ist frei.	The child care facility is free.
-353	Die Fähigkeit ist wichtig.	The skill is important.
-354	Die Flexibilität ist nötig.	The flexibility is necessary.
-355	Die Hierarchie ist klar.	The hierarchy is clear.
-356	Die Internetverbindung ist langsam.	The internet connection is slow.
-357	Die Kooperation ist gut.	The cooperation is good.
-358	Die Position ist neu.	The position is new.
-359	Die Projektarbeit beginnt im Mai.	The project work starts in May.
-360	Die Sicherheit ist wichtig.	The security is important.
-361	Die Teamarbeit macht Spaß.	The teamwork is fun.
-362	Die Telefonkonferenz beginnt um neun.	The conference call starts at nine.
-363	Die Verbindung ist schlecht.	The connection is bad.
-364	Die Vernetzung ist wichtig.	The network is important.
-365	Die Videokonferenz ist heute.	The video conference is today.
-366	Das Wissen ist wichtig.	The knowledge is important.
-367	Das Schlüsselwort ist „Kurs".	The keyword is "course".
-368	Das Foyer ist groß.	The foyer is big.
-369	Die Karte kostet zehn Euro.	The ticket costs ten euros.
-370	Die Philharmonie ist in Berlin.	The philharmonic is in Berlin.
-371	Die Unsicherheit ist groß.	The insecurity is big.
-372	Die Ampel ist rot.	The traffic light is red.
-373	Der Motor ist laut.	The motor is loud.
-374	Der Parkplatz ist voll.	The parking lot is full.
-375	Die Polizei kommt schnell.	The police come quickly.
-376	Der Reifen ist neu.	The tire is new.
-377	Der Stau ist lang.	The traffic jam is long.
-378	Das Parkhaus ist in der Stadt.	The parking garage is in the city.
-379	Der Anschluss ist gut.	The connection is good.
-380	Die Panne ist klein.	The car breakdown is small.
-381	Der Sitzplatz ist frei.	The seat is free.
-382	Die Tankstelle ist offen.	The gas station is open.
-383	Das Verkehrsmittel ist der Bus.	The mode of transportation is the bus.
-384	Das Kinderabteil ist bunt.	The children's section is colourful.
-385	Die Mama kocht heute.	Mama cooks today.
-386	Das Chaos ist groß.	The chaos is big.
-387	Der Papa arbeitet viel.	Papa works a lot.
-388	Die App ist kostenlos.	The application is free.
-389	Der Deal ist gut.	The deal is good.
-390	Die Bedienung ist einfach.	The operation is simple.
-391	Das Navigationssystem ist modern.	The navigation system is modern.
-392	Die Strecke ist lang.	The route is long.
-393	Die Verkehrsapp zeigt Staus.	The traffic application shows traffic jams.
-394	Die Daten sind auf dem Handy.	The files are on the phone.
-395	Die Radarkamera ist neu.	The radar camera is new.
-396	Das Benzin ist teuer.	The gas is expensive.
-397	Die Überlegung ist wichtig.	The consideration is important.
-398	Der Abflug ist um zehn.	The departing flight is at ten.
-399	Die Garage ist voll.	The garage is full.
-400	Das Kennzeichen ist neu.	The license plate is new.
-401	Das Kfz ist alt.	The motor vehicle is old.
-402	Der Pkw fährt schnell.	The passenger car drives fast.
-403	Die Reparatur dauert lange.	The repair takes long.
-404	Die Versicherung ist teuer.	The insurance is expensive.
-405	Der Wagen ist rot.	The car is red.
-406	Die Brücke ist lang.	The bridge is long.
-407	Der Kinderspielplatz ist groß.	The playground is big.
-408	Die Kreuzung ist gefährlich.	The intersection is dangerous.
-409	Der Wohnungsschlüssel ist am Tisch.	The house key is on the table.
-410	Die Wegbeschreibung ist klar.	The directions are clear.
-411	Das Navigationsgerät ist neu.	The navigation device is new.
-412	Der Zeitungsartikel ist lang.	The newspaper article is long.
-413	Der Anbieter ist bekannt.	The provider is known.
-414	Das Carsharing ist praktisch.	The car sharing is practical.
-415	Der Fall ist kompliziert.	The case is complicated.
-416	Die Gebühr ist niedrig.	The fee is low.
-417	Das Konzept ist neu.	The concept is new.
-418	Das Privatauto ist teuer.	The privately owned car is expensive.
-419	Die Telefonzentrale ist besetzt.	The switchboard is busy.
-420	Das Wunschauto ist blau.	The desired car is blue.
-421	Das ist Unsinn.	That is nonsense.
-422	Das Stadtteilauto steht in der Straße.	The car sharing car is on the street.
-423	Die Richtung ist richtig.	The direction is correct.
-424	Die Zugfahrt war schön.	The train ride was nice.
-425	Die Schlange ist lang.	The queue is long.
-426	Das Kursergebnis ist gut.	The class result is good.
-427	Die Begegnung war nett.	The encounter was nice.
-428	Die Radiosendung beginnt um acht.	The radio program starts at eight.
-429	Der Schriftsteller schreibt Romane.	The writer writes novels.
-430	Die Sendung ist interessant.	The show is interesting.
-431	Der Stichpunkt ist kurz.	The bullet point is short.
-432	Die Fahrradreise ist sportlich.	The bicycle trip is sporty.
-433	Der Elefant ist groß.	The elephant is big.
-434	Das Ersatzteil ist neu.	The spare part is new.
-435	Das Hinterrad ist kaputt.	The rear wheel is broken.
+271	Der Nachtportier arbeitet nachts.	The night porter works at night.
+272	Der Stundenlohn ist niedrig.	The hourly wage is low.
+273	Der Teilzeitjob ist flexibel.	The part-time job is flexible.
+274	Der Bereich ist neu.	The area is new.
+275	Der Interessent fragt nach.	The interested party asks.
+276	Die Arbeitsweise ist effizient.	The working method is efficient.
+277	Die Aufmerksamkeit ist wichtig.	The attention is important.
+278	Die Aufregung ist groß.	The excitement is big.
+279	Die Beurteilung ist fair.	The assessment is fair.
+280	Die Branche ist groß.	The business field is big.
+281	Die Busverspätung ist kurz.	The bus delay is short.
+282	Der Faktor ist wichtig.	The factor is important.
+283	Die Körperhaltung ist gut.	The posture is good.
+284	Die Körpersprache ist klar.	The body language is clear.
+285	Das Outfit ist modisch.	The outfit is fashionable.
+286	Die Persönlichkeit ist stark.	The personality is strong.
+287	Die Werbeagentur ist kreativ.	The advertising agency is creative.
+288	Das Recycling ist wichtig.	The recycling is important.
+289	Die Region ist schön.	The region is beautiful.
+290	Der Transportweg ist lang.	The transport corridor is long.
+291	Die Umwelt ist wichtig.	The environment is important.
+292	Die Verpackung ist leicht.	The packaging is light.
+293	Der Anteil ist groß.	The amount is big.
+294	Der Band ist dick.	The volume is thick.
+295	Das Bio-Fleisch ist teuer.	The organic meat is expensive.
+296	Der Fleischkonsum ist hoch.	The meat consumption is high.
+297	Die Gebühr ist niedrig.	The fee is low.
+298	Die Gesamtbevölkerung wächst.	The total population grows.
+299	Der Güterzug fährt langsam.	The freight train goes slowly.
+300	Die Herkunft ist wichtig.	The origin is important.
+301	Das Huhn gackert.	The chicken clucks.
+302	Die Marke ist bekannt.	The brand is well-known.
+303	Der Marktanteil ist groß.	The market share is big.
+304	Das Material ist gut.	The material is good.
+305	Die Menge ist groß.	The quantity is big.
+306	Der Mond ist hell.	The moon is bright.
+307	Die Müllabfuhr kommt am Mittwoch.	The trash removal comes on Wednesday.
+308	Die Mülltrennung ist wichtig.	The waste sorting is important.
+309	Das Nahrungsmittel ist frisch.	The foodstuff is fresh.
+310	Der Papierverbrauch sinkt.	The paper use is falling.
+311	Die Produktion beginnt um acht.	The production starts at eight.
+312	Das Schaf ist weiß.	The sheep is white.
+313	Die Tonne ist schwer.	The ton is heavy.
+314	Der Trend ist neu.	The trend is new.
+315	Das Trinkwasser ist sauber.	The drinking water is clean.
+316	Der Umweltschutz ist wichtig.	The environmental protection is important.
+317	Das Verpackungsmaterial ist leicht.	The packaging material is light.
+318	Die Ziege frisst Gras.	The goat eats grass.
+319	Die Bettdecke ist warm.	The duvet is warm.
+320	Die Büchse ist geschlossen.	The tin can is closed.
+321	Die Drogerie ist in der Stadt.	The drug store is in the city.
+322	Die Decke ist weiß.	The ceiling is white.
+323	Die Eisenbahn fährt pünktlich.	The train is on time.
+324	Der Fisch schwimmt.	The fish swims.
+325	Die Frucht ist reif.	The fruit is ripe.
+326	Das Hackfleisch ist frisch.	The ground meat is fresh.
+327	Der Hut ist braun.	The hat is brown.
+328	Die Kerze brennt.	The candle burns.
+329	Die Vase steht auf dem Tisch.	The vase stands on the table.
+330	Die Zahnbürste ist neu.	The toothbrush is new.
+331	Die Zahncreme ist frisch.	The toothpaste is fresh.
+332	Der Begriff ist neu.	The term is new.
+333	Der Fußabdruck ist klein.	The footprint is small.
+334	Das Öko-Duell ist spannend.	The eco-duel is exciting.
+335	Die Badewanne ist voll.	The bathtub is full.
+336	Die Chemikalie ist gefährlich.	The chemical is dangerous.
+337	Die Duschzeit ist kurz.	The shower duration is short.
+338	Der E-Book-Leser ist klein.	The e-book reader is small.
+339	Der E-Book-Reader ist neu.	The e-book reader is new.
+340	Das Erdöl ist teuer.	The crude oil is expensive.
+341	Der Geschirrspüler ist voll.	The dishwasher is full.
+342	Der Gewinner ist glücklich.	The winner is happy.
+343	Die Maschine ist laut.	The machine is loud.
+344	Die Ökobilanz ist wichtig.	The ecobalance is important.
+345	Die Papiertüte ist leicht.	The paper bag is light.
+346	Die Plastiktüte ist praktisch.	The plastic bag is practical.
+347	Die Stofftasche ist schön.	The cloth bag is nice.
+348	Das Treibhausgas ist gefährlich.	The greenhouse gas is dangerous.
+349	Die Wahl ist frei.	The choice is free.
+350	Der Wasserverbrauch ist hoch.	The water consumption is high.
+351	Der Zeitraum ist kurz.	The time period is short.
+352	Das Autofahren ist praktisch.	The car driving is practical.
+353	Das Modell ist neu.	The model is new.
+354	Die Aktion ist erfolgreich.	The campaign is successful.
+355	Das Argument ist gut.	The argument is good.
+356	Die Diskussion ist lebhaft.	The discussion is lively.
+357	Der Einzelne entscheidet.	The individual decides.
+358	Das Gegenteil ist wahr.	The contrary is true.
+359	Das Gesetz ist neu.	The law is new.
+360	Der Staat ist groß.	The state is big.
+361	Der Standpunkt ist klar.	The viewpoint is clear.
+362	Die Verantwortung ist groß.	The responsibility is big.
+363	Die Briefmarke ist schön.	The postage stamp is nice.
+364	Der Briefumschlag ist offen.	The envelope is open.
+365	Der Geldschein ist aus Papier.	The banknote is made of paper.
+366	Das Geschenkpapier ist bunt.	The wrapping paper is colourful.
+367	Ägypten ist ein Land.	Egypt is a country.
+368	Der Chinese spricht Chinesisch.	The Chinese person speaks Chinese.
+369	Der Einfluss ist groß.	The influence is big.
+370	Die Erfindung ist nützlich.	The invention is useful.
+371	Der Experte erklärt alles.	The expert explains everything.
+372	Die Herstellung beginnt.	The manufacture starts.
+373	Die Holzfaser ist hart.	The wood fiber is hard.
+374	Die Illusion ist schön.	The illusion is nice.
+375	Der Klebezettel liegt auf dem Tisch.	The sticky note lies on the table.
+376	Die Massenware ist billig.	The mass-produced commodity is cheap.
+377	Die Methode ist einfach.	The method is simple.
+378	Die Papierherstellung ist alt.	The paper manufacture is old.
+379	Die Pappe ist braun.	The cardboard is brown.
+380	Der Papyrus ist alt.	The papyrus is old.
+381	Die Pflanzenfaser ist stark.	The plant fiber is strong.
+382	Der Pflanzenstiel ist lang.	The plant stem is long.
+383	Die Scheibe ist rund.	The sheet is round.
+384	Das Schreibmaterial ist neu.	The writing material is new.
+385	Der Stofflumpen ist weich.	The cloth rags are soft.
+386	Die Tontafel ist alt.	The clay tablet is old.
+387	Der Verbrauch steigt.	The consumption rises.
+388	Das Werbematerial ist bunt.	The advertising material is colourful.
+389	Der Stoff ist weich.	The cloth is soft.
+390	Die Wolle ist warm.	The wool is warm.
+391	Das Leder ist braun.	The leather is brown.
+392	Der Affe ist lustig.	The monkey is funny.
+393	Der Automat gibt Kaffee.	The vending machine gives coffee.
+394	Die Bezeichnung ist klar.	The designation is clear.
+395	Der Diplomat reist viel.	The diplomat travels a lot.
+396	Der Konsument kauft viel.	The consumer buys a lot.
+397	Der Löwe ist stark.	The lion is strong.
+398	Der Pädagoge unterrichtet.	The pedagogue teaches.
+399	Der Praktikant lernt den Beruf.	The intern learns the job.
+400	Der Sprechrhythmus ist wichtig.	The rhythm of speech is important.
+401	Das Gewitter ist laut.	The thunderstorm is loud.
+402	Die Höchsttemperatur ist 30 Grad.	The maximum temperature is 30 degrees.
+403	Das Regenrisiko ist klein.	The chance of rain is small.
+404	Das Risiko ist groß.	The risk is big.
+405	Der Smalltalk ist kurz.	The small talk is short.

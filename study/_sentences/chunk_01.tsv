@@ -1,145 +1,135 @@
-1	Ich esse gern Currywurst mit Pommes.	I like eating currywurst with chips.
-2	Nach dem Sport habe ich Durst.	After sport I am thirsty.
-3	Das Gefühl ist gut.	The feeling is good.
-4	Ich habe großen Hunger.	I am very hungry.
-5	Mensch, ist das heiß!	Man, is it hot!
-6	Ich wärme das Essen in der Mikrowelle.	I heat the food in the microwave.
-7	Wir essen in der Mensa.	We eat in the cafeteria.
-8	Der Kochkurs beginnt am Montag.	The cooking class starts on Monday.
-9	Die Pfanne ist heiß.	The pan is hot.
-10	Ich brauche das Sieb.	I need the sieve.
-11	Der Topf ist groß.	The pot is big.
-12	Die Zeichnung ist schön.	The drawing is nice.
-13	Im Kochbuch stehen viele Rezepte.	The cookbook has many recipes.
-14	Jeder Teilnehmer bekommt ein Heft.	Every participant gets a notebook.
-15	Sie macht eine Ausbildung als Ärztin.	She is doing training as a doctor.
-16	Mein Onkel wohnt in Hamburg.	My uncle lives in Hamburg.
-17	Am Abend sehen wir Fernsehen.	In the evening we watch television.
-18	Ich spüle das Geschirr.	I wash the dishes.
-19	Die Bohnen sind fertig.	The beans are ready.
-20	Das Gute daran ist die Zeit.	The good thing about it is the time.
-21	Das Rindfleisch ist teuer.	The beef is expensive.
-22	Wir essen im Dunkelrestaurant.	We eat in the dark restaurant.
-23	Das Dunkeldinner dauert zwei Stunden.	The dark dinner lasts two hours.
-24	In der Dunkelheit siehst du nichts.	In the darkness you see nothing.
-25	Das Dunkle gefällt mir nicht.	I do not like the dark.
-26	Der Eindruck war positiv.	The impression was positive.
-27	Das Essen war ein Erlebnis.	The meal was an experience.
-28	Der Gastraum ist voll.	The dining room is full.
-29	Der Gedanke ist gut.	The thought is good.
-30	Der Geruch ist stark.	The smell is strong.
-31	Das Licht ist an.	The light is on.
-32	Das Menü hat drei Gänge.	The three-course meal has three courses.
-33	Ich habe keine Sorge.	I have no worry.
-34	Der Vorraum ist klein.	The anteroom is small.
-35	Das Dunkelrestaurant ist besonders.	The blind restaurant is special.
-36	Das Ergebnis ist gut.	The result is good.
-37	Das hat keinen Sinn.	That makes no sense.
-38	Die Station ist im ersten Stock.	The station is on the first floor.
-39	Das Auge ist blau.	The eye is blue.
-40	Der Beutel ist aus Stoff.	The bag is made of cloth.
-41	Die Blume ist schön.	The flower is beautiful.
-42	Das Bonbon ist süß.	The candy is sweet.
-43	Der Gegenstand ist schwer.	The item is heavy.
-44	Das Parfüm riecht gut.	The perfume smells good.
-45	Der Stoffbeutel ist praktisch.	The cloth bag is practical.
-46	Der Zitronensaft ist sauer.	The lemon juice is sour.
-47	Die Schulzeit war schön.	My time at school was nice.
-48	Der Altenpfleger hilft alten Menschen.	The elderly care nurse helps old people.
-49	Die Berufsschule beginnt um acht.	The trade school starts at eight.
-50	Sie studiert Elektrotechnik.	She studies electrical engineering.
-51	Der Hotelkaufmann arbeitet im Hotel.	The hotel manager works in the hotel.
-52	Das Klassentreffen ist am Samstag.	The class reunion is on Saturday.
-53	Er macht eine Lehre als Koch.	He is doing an apprenticeship as a cook.
-54	Mathe ist mein Lieblingsfach.	Math is my favourite subject.
-55	Die Note ist gut.	The grade is good.
-56	Das Praktikum dauert drei Monate.	The internship lasts three months.
-57	Die Vorlesung beginnt um zehn.	The lecture starts at ten.
-58	Das Zeugnis ist im Juni.	The report card comes in June.
-59	Sie arbeitet als Au-pair in England.	She works as an au pair in England.
-60	Informatik ist interessant.	Computer science is interesting.
-61	Das Sportgeschäft ist in der Stadt.	The sports shop is in the city.
-62	Der Steckbrief ist kurz.	The personal description is short.
-63	Die Zukunft ist offen.	The future is open.
-64	Er macht das Abitur.	He is taking his high school graduation.
-65	Der Arme hat keine Wohnung.	The poor man has no flat.
-66	Der Eintrag im Blog ist neu.	The entry in the blog is new.
-67	Die Englischlehrerin ist nett.	The English teacher is nice.
-68	Die Erinnerung ist schön.	The memory is nice.
-69	Der Fehler ist klein.	The mistake is small.
-70	Die Ferien beginnen am Freitag.	The vacation starts on Friday.
-71	Die Hauptsache ist, dass du kommst.	The main thing is that you come.
-72	Kunst mag ich sehr.	I really like art.
-73	Die Kunststunde ist um zwei.	The art class is at two.
-74	Wir fahren auf das Land.	We go to the countryside.
-75	Die Sportstunde ist meine Lieblingsstunde.	Gym class is my favourite class.
-76	Mathe ist schwer.	Math is difficult.
-77	Der Mathelehrer erklärt gut.	The math teacher explains well.
-78	Das Spiel ist ein Riesenspaß.	The game is lots of fun.
-79	Ein Schulfreund besucht mich.	A friend from school visits me.
-80	Die Sommerferien sind lang.	The summer vacation is long.
-81	Die Tür ist offen.	The door is open.
-82	Der Unterricht endet um vier.	The lessons end at four.
-83	Der Vokabeltest ist einfach.	The vocabulary test is easy.
-84	Die Hausaufgabe ist fertig.	The homework is done.
-85	Die Schuluniform ist blau.	The school uniform is blue.
-86	Der Beitrag ist interessant.	The contribution is interesting.
-87	Die Theatergruppe probt am Abend.	The theater troupe rehearses in the evening.
-88	Der Kommentar ist kurz.	The comment is short.
-89	Das Trainingsprogramm ist hart.	The training program is hard.
-90	Der Transport ist schnell.	The transport is fast.
-91	Wir wohnen in einer WG.	We live in a flat share.
-92	Ich kaufe ein Kilo Mehl.	I buy a kilo of flour.
-93	Die Veränderung ist groß.	The change is big.
-94	Der Ball ist neu.	The ball is new.
-95	Die Oper beginnt um sieben.	The opera starts at seven.
-96	Das Univiertel ist laut.	The university district is loud.
-97	Das Blatt ist leer.	The sheet is empty.
-98	Heute gehen wir in die Disco.	Today we go to the discotheque.
-99	Das Forum ist offen.	The forum is open.
-100	Der Abschluss ist gut.	The degree is good.
-101	Bayern ist ein Bundesland.	Bavaria is a state.
-102	Er geht auf die Hauptschule.	He goes to a main school.
-103	Sie besucht die Realschule.	She attends the secondary school.
-104	Das Schulsystem ist komplex.	The school system is complex.
-105	Welcher Schultyp ist das?	Which school type is that?
-106	Der Abendkurs beginnt um sechs.	The night class starts at six.
-107	Sie studiert Anglistik.	She studies English studies.
-108	Die Arbeitsstelle ist neu.	The job is new.
-109	Der Bankkaufmann arbeitet bei der Bank.	The banker works at the bank.
-110	Das Berufsleben beginnt nach der Schule.	Professional life starts after school.
-111	Chemie ist spannend.	Chemistry is exciting.
-112	Die Dauer des Kurses ist lang.	The duration of the course is long.
-113	Das Fach ist wichtig.	The subject is important.
-114	Der Ferienclub ist am Meer.	The resort is at the sea.
-115	Die Grundschule beginnt um acht.	Elementary school starts at eight.
-116	Der Hauptschulabschluss ist wichtig.	The graduation after 9th grade is important.
-117	Er wohnt im Internat.	He lives at the boarding school.
-118	Die Karriere ist gut.	The career is good.
-119	Physik ist nicht leicht.	Physics is not easy.
-120	Der Realschulabschluss ist gut.	The graduation after 10th grade is good.
-121	Der Schulabschluss ist im Sommer.	The secondary school graduation is in summer.
-122	Die Sportstunde macht Spaß.	Gym class is fun.
-123	Der Stundenplan ist voll.	The schedule is full.
-124	Die Vorbereitung dauert lange.	The preparation takes long.
-125	Das Klassenzimmer ist groß.	The classroom is big.
-126	Die Unterrichtszeit ist am Morgen.	Class time is in the morning.
-127	Meine Vorliebe ist Musik.	My preference is music.
-128	Die Datei ist zu groß.	The file is too big.
-129	Das Online-Netzwerk ist groß.	The online network is big.
-130	Das Radio spielt Musik.	The radio plays music.
-131	Das Video ist lustig.	The video is funny.
-132	Die Medien berichten viel.	The media report a lot.
-133	Der Bildschirm ist hell.	The screen is bright.
-134	Das CD-Laufwerk ist kaputt.	The CD drive is broken.
-135	Die CD-ROM ist alt.	The CD-ROM is old.
-136	Der Drucker druckt langsam.	The printer prints slowly.
-137	Das DVD-Laufwerk ist neu.	The DVD drive is new.
-138	Der Lautsprecher ist laut.	The speaker is loud.
-139	Die Maus ist neu.	The mouse is new.
-140	Das Papier ist weiß.	The paper is white.
-141	Das Tablet ist neu.	The tablet is new.
-142	Die Tastatur ist alt.	The keyboard is old.
-143	Die Web-Cam ist eingeschaltet.	The webcam is on.
-144	Das E-Book ist günstig.	The e-book is cheap.
-145	Das Fernsehgerät ist groß.	The television set is big.
+1	Die Haut ist wichtig.	The skin is important.
+2	Das Insekt ist klein.	The insect is small.
+3	Der Insektenschutz hilft.	The insect repellent helps.
+4	Das Netz fängt Fische.	The net catches fish.
+5	Der Pilz schmeckt gut.	The mushroom tastes good.
+6	Der Schutz ist wichtig.	The protection is important.
+7	Die Abneigung ist stark.	The dislike is strong.
+8	Das Boot fährt zum See.	The boat goes to the lake.
+9	Der Harz liegt in Deutschland.	The Harz Mountains are in Germany.
+10	Ich brauche Ruhe.	I need quiet.
+11	Der Urlaubsgruß ist schön.	The vacation greeting is nice.
+12	Die Urlaubsplanung beginnt früh.	The vacation planning starts early.
+13	Der Urlaubstyp ist Aktivurlaub.	The vacation type is an active holiday.
+14	Das Urlaubsziel ist Spanien.	The vacation destination is Spain.
+15	Der Feierabend beginnt um fünf.	Closing time starts at five.
+16	Der Skype-Dialog ist kurz.	The Skype dialogue is short.
+17	Die Kreuzfahrt dauert zwei Wochen.	The cruise lasts two weeks.
+18	Das Wellnesshotel ist teuer.	The spa hotel is expensive.
+19	Der Stopp ist kurz.	The stop is short.
+20	Die Fahrt war schön.	The ride was nice.
+21	Der Flug ist lang.	The flight is long.
+22	Die Vollpension ist im Preis.	Full board is included in the price.
+23	Das Kinderland ist groß.	The kids zone is big.
+24	Der Top-Koch kocht gut.	The top chef cooks well.
+25	Der Luxus ist teuer.	The luxury is expensive.
+26	Ich habe keine Ahnung und keinen Bescheid.	I have no clue and no idea.
+27	Die Bewertung ist gut.	The assessment is good.
+28	Glück gehabt!	Lucky you!
+29	Der Dusel war groß.	The luck was big.
+30	Der Massel war groß.	The luck was big.
+31	Der Flugbegleiter hilft den Gästen.	The flight attendant helps the guests.
+32	Das Gepäckfach ist offen.	The luggage compartment is open.
+33	Die Passkontrolle dauert kurz.	The passport control is quick.
+34	Die Sitzreihe ist voll.	The seating row is full.
+35	Die Botschaft ist in Berlin.	The embassy is in Berlin.
+36	Die Grenze ist weit.	The border is far.
+37	Das Konsulat ist klein.	The consulate is small.
+38	Das Visum ist gültig.	The visa is valid.
+39	Der Zoll ist streng.	The customs is strict.
+40	Der Ausgang ist links.	The exit is on the left.
+41	Das Essen ist fertig.	The food is ready.
+42	Das Gepäckband dreht sich.	The luggage carousel turns.
+43	Die Alm liegt hoch oben.	The meadow lies high up.
+44	Der Almsommer ist kurz.	The Alpine summer is short.
+45	Der Almurlaub ist ruhig.	The Alpine vacation is quiet.
+46	Das Ehepaar feiert 20 Jahre.	The married couple celebrates 20 years.
+47	Die Einsamkeit ist groß.	The solitude is big.
+48	Die Käserei macht Käse.	The cheesemaking factory makes cheese.
+49	Der Rückblick ist positiv.	The look back is positive.
+50	Der Sonnenaufgang ist schön.	The sunrise is beautiful.
+51	Der Wanderer geht den Berg hoch.	The hiker walks up the mountain.
+52	Die Weide ist grün.	The pasture is green.
+53	Der Wunderkräutertee ist heiß.	The miracle herbal tea is hot.
+54	Der Almaufenthalt war gut.	The Alpine visit was good.
+55	Die Einparkhilfe funktioniert.	The parking sensor works.
+56	Das Hawk-Eye zeigt die Linie.	The hawk eye shows the line.
+57	Die Kassette ist alt.	The cassette is old.
+58	Die Kopfhörer sind neu.	The headphones are new.
+59	Die Neuerung ist gut.	The innovation is good.
+60	Der Schiedsrichter pfeift.	The referee blows the whistle.
+61	Der Türöffner ist kaputt.	The door opener is broken.
+62	Der Walkman spielt Musik.	The walkman plays music.
+63	Der Zahlencode ist geheim.	The numerical code is secret.
+64	Die Zeitschaltuhr schaltet um sechs.	The timer switches at six.
+65	Das Aus ist klar.	The out of bounds is clear.
+66	Der Gegner ist stark.	The opponent is strong.
+67	Das ist ein Muss.	That is a must.
+68	Das Taschenbuch ist günstig.	The paperback is cheap.
+69	Der CD-Player ist alt.	The CD player is old.
+70	Die Jugend ist schön.	The youth is beautiful.
+71	Der Akku ist leer.	The battery is empty.
+72	Der Erfahrungsbericht ist lang.	The field report is long.
+73	Die Funktion ist nützlich.	The function is useful.
+74	Die Kaufentscheidung ist schwer.	The purchasing decision is difficult.
+75	Der Elektronikmarkt ist groß.	The electronics store is big.
+76	Die Fachzeitschrift ist neu.	The trade journal is new.
+77	Der Freundeskreis ist groß.	The circle of friends is big.
+78	Die Kundenbewertung ist gut.	The customer review is good.
+79	Der Markt ist am Samstag offen.	The market is open on Saturday.
+80	Das Sonderangebot ist günstig.	The special offer is cheap.
+81	Der Testbericht ist ausführlich.	The review is detailed.
+82	Der Werbeprospekt liegt am Tisch.	The advertising brochure lies on the table.
+83	Die Münze ist klein.	The coin is small.
+84	Die Garantie gilt zwei Jahre.	The guarantee is valid for two years.
+85	Das Kabel ist lang.	The cable is long.
+86	Der Monitor ist neu.	The monitor is new.
+87	Der Schalter ist an.	The switch is on.
+88	Die Steckdose ist hinter dem Tisch.	The power outlet is behind the table.
+89	Der Stecker passt.	The plug fits.
+90	Der Kasten ist voll.	The box is full.
+91	Das Elektrogeschäft ist in der Stadt.	The electronics store is in the city.
+92	Der Farbdrucker druckt gut.	The color printer prints well.
+93	Die Farbpatrone ist leer.	The color ink cartridge is empty.
+94	Die Patrone ist teuer.	The ink cartridge is expensive.
+95	Die Reklamation ist berechtigt.	The complaint is justified.
+96	Die Vorstellung ist schön.	The vision is nice.
+97	Der Adressat liest den Brief.	The recipient reads the letter.
+98	Die Computerstimme klingt komisch.	The computerized voice sounds strange.
+99	Die Kosten sind hoch.	The costs are high.
+100	Der Mitbewohner ist nett.	The roommate is nice.
+101	Der Neubau ist modern.	The new building is modern.
+102	Die Videonachricht ist kurz.	The video message is short.
+103	Die Zentrale ist in München.	The headquarters is in Munich.
+104	Die Hightech-Wohnung ist neu.	The high-tech apartment is new.
+105	Das Gehalt ist gut.	The salary is good.
+106	Der Rollschuh ist neu.	The roller skate is new.
+107	Die Werbeanzeige ist kurz.	The advertisement is short.
+108	Die Beschleunigung ist stark.	The acceleration is strong.
+109	Die Bio-Limonade ist frisch.	The organic lemonade is fresh.
+110	Die Brille ist neu.	The glasses are new.
+111	Das Gesicht ist freundlich.	The face is friendly.
+112	Die Optik ist modern.	The optics are modern.
+113	Der Tierpark ist groß.	The zoo is big.
+114	Der Zoo ist in der Stadt.	The zoo is in the city.
+115	Das Aspirin hilft.	The aspirin helps.
+116	Der Klebefilm ist dünn.	The adhesive film is thin.
+117	Das Papiertaschentuch ist weich.	The paper tissue is soft.
+118	Der Süßstoff ist süß.	The sweetener is sweet.
+119	Der Werbetext ist kurz.	The advertising copy is short.
+120	Die Autofirma ist groß.	The car company is big.
+121	Der Firmenname ist neu.	The company name is new.
+122	Der Genuss ist groß.	The enjoyment is big.
+123	Das Kaufverhalten ändert sich.	The purchasing behavior changes.
+124	Der Konsum ist hoch.	The consumption is high.
+125	Das Merkmal ist wichtig.	The characteristic is important.
+126	Der Reim ist schön.	The rhyme is nice.
+127	Die Schönheit ist überall.	The beauty is everywhere.
+128	Der Slogan ist kurz.	The slogan is short.
+129	Der Stichpunkt ist klar.	The bullet point is clear.
+130	Das Verhalten ist gut.	The behavior is good.
+131	Die Werbebranche ist groß.	The advertising industry is big.
+132	Die Werbesprache ist einfach.	The advertising language is simple.
+133	Das Wortspiel ist lustig.	The pun is funny.
+134	Die Zigarette ist teuer.	The cigarette is expensive.
+135	Der Geschmack ist gut.	The flavor is good.
