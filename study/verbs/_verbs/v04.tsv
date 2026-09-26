@@ -1,0 +1,40 @@
+121	irregular	ziehe	ziehst	zieht	ziehen	zieht	ziehen	zog	gezogen	haben	Ziehen Sie eine Karte.	Draw a card.
+122	modal	kann	kannst	kann	können	könnt	können	konnte	gekonnt	haben	Ich kann schwimmen.	I can swim.
+123	modal	muss	musst	muss	müssen	müsst	müssen	musste	gemusst	haben	Ich muss arbeiten.	I have to work.
+124	modal	will	willst	will	wollen	wollt	wollen	wollte	gewollt	haben	Er will ins Kino.	He wants to go to the cinema.
+125	irregular	tue leid	tust leid	tut leid	tun leid	tut leid	tun leid	tat leid	leidgetan	haben	Es tut mir leid.	I am sorry.
+126	auxiliary	habe	hast	hat	haben	habt	haben	hatte	gehabt	haben	Ich hätte gern einen Termin.	I would like an appointment.
+127	irregular	tue	tust	tut	tun	tut	tun	tat	getan	haben	Was tust du heute?	What do you do today?
+128	regular	überlege	überlegst	überlegt	überlegen	überlegt	überlegen	überlegte	überlegt	haben	Ich muss es mir überlegen.	I have to think it over.
+129	regular	vereinbare	vereinbarst	vereinbart	vereinbaren	vereinbart	vereinbaren	vereinbarte	vereinbart	haben	Wir vereinbaren einen Termin.	We make an appointment.
+130	regular	bereite vor	bereitest vor	bereitet vor	bereiten vor	bereitet vor	bereiten vor	bereitete vor	vorbereitet	haben	Ich bereite das Essen vor.	I prepare the food.
+131	auxiliary	bin da	bist da	ist da	sind da	seid da	sind da	war da	da gewesen	sein	Ich bin da.	I am there.
+132	irregular	sitze	sitzt	sitzt	sitzen	sitzt	sitzen	saß	gesessen	haben	Er sitzt am Tisch.	He sits at the table.
+133	regular	entschuldige	entschuldigst	entschuldigt	entschuldigen	entschuldigt	entschuldigen	entschuldigte	entschuldigt	haben	Bitte entschuldigen Sie.	Please excuse me.
+134	regular	mache	machst	macht	machen	macht	machen	machte	gemacht	haben	Macht nichts!	It does not matter!
+135	regular	feiere	feierst	feiert	feiern	feiert	feiern	feierte	gefeiert	haben	Wir feiern ihren Geburtstag.	We celebrate her birthday.
+136	regular	glaube	glaubst	glaubt	glauben	glaubt	glauben	glaubte	geglaubt	haben	Ich glaube, es regnet.	I believe it is raining.
+137	regular	klettere	kletterst	klettert	klettern	klettert	klettern	kletterte	geklettert	haben	Der Junge klettert auf den Baum.	The boy climbs the tree.
+138	regular	wandere	wanderst	wandert	wandern	wandert	wandern	wanderte	gewandert	sein	Am Wochenende wandern wir.	At the weekend we go hiking.
+139	irregular	lade ein	lädst ein	lädt ein	laden ein	ladet ein	laden ein	lud ein	eingeladen	haben	Ich lade dich ein.	I invite you.
+140	irregular	klinge	klingst	klingt	klingen	klingt	klingen	klang	geklungen	haben	Das klingt gut.	That sounds good.
+141	regular	schenke	schenkst	schenkt	schenken	schenkt	schenken	schenkte	geschenkt	haben	Er schenkt ihr Blumen.	He gives her flowers.
+142	irregular	werde	wirst	wird	werden	werdet	werden	wurde	geworden	sein	Er wird Lehrer.	He becomes a teacher.
+143	regular	stelle auf	stellst auf	stellt auf	stellen auf	stellt auf	stellen auf	stellte auf	aufgestellt	haben	Stellen Sie die Tische auf.	Set up the tables.
+144	irregular	rufe an	rufst an	ruft an	rufen an	ruft an	rufen an	rief an	angerufen	haben	Ich rufe dich an.	I call you.
+145	regular	sammle ein	sammelst ein	sammelt ein	sammeln ein	sammelt ein	sammeln ein	sammelte ein	eingesammelt	haben	Wir sammeln die Hefte ein.	We collect the notebooks.
+146	irregular	bringe mit	bringst mit	bringt mit	bringen mit	bringt mit	bringen mit	brachte mit	mitgebracht	haben	Bring deine Bücher mit.	Bring your books along.
+147	irregular	komme mit	kommst mit	kommt mit	kommen mit	kommt mit	kommen mit	kam mit	mitgekommen	sein	Kommst du mit?	Are you coming along?
+148	regular	hole ab	holst ab	holt ab	holen ab	holt ab	holen ab	holte ab	abgeholt	haben	Ich hole dich ab.	I pick you up.
+149	irregular	fange an	fängst an	fängt an	fangen an	fangt an	fangen an	fing an	angefangen	haben	Der Kurs fängt um neun an.	The course starts at nine.
+150	regular	mache mit	machst mit	macht mit	machen mit	macht mit	machen mit	machte mit	mitgemacht	haben	Machst du mit?	Do you join in?
+151	regular	schicke	schickst	schickt	schicken	schickt	schicken	schickte	geschickt	haben	Ich schicke eine Nachricht.	I send a message.
+152	irregular	weiß	weißt	weiß	wissen	wisst	wissen	wusste	gewusst	haben	Ich weiß nicht.	I do not know.
+153	regular	höre auf	hörst auf	hört auf	hören auf	hört auf	hören auf	hörte auf	aufgehört	haben	Es hört auf zu regnen.	It stops raining.
+154	regular	bestelle	bestellst	bestellt	bestellen	bestellt	bestellen	bestellte	bestellt	haben	Wir bestellen Pizza.	We order pizza.
+155	irregular	bringe	bringst	bringt	bringen	bringt	bringen	brachte	gebracht	haben	Der Kellner bringt das Essen.	The waiter brings the food.
+156	irregular	passiere	passierst	passiert	passieren	passiert	passieren	passierte	passiert	sein	Was ist passiert?	What happened?
+157	regular	bezahle	bezahlst	bezahlt	bezahlen	bezahlt	bezahlen	bezahlte	bezahlt	haben	Ich bezahle die Rechnung.	I pay the bill.
+158	regular	ordne	ordnest	ordnet	ordnen	ordnet	ordnen	ordnete	geordnet	haben	Ordne die Wörter.	Arrange the words.
+159	regular	stimme	stimmst	stimmt	stimmen	stimmt	stimmen	stimmte	gestimmt	haben	Das stimmt nicht.	That is not correct.
+160	regular	zahle	zahlst	zahlt	zahlen	zahlt	zahlen	zahlte	gezahlt	haben	Bitte zahlen!	Please pay!
