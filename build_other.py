@@ -27,6 +27,11 @@ def clean_meaning(en):
     return m
 
 
+MEANING_FIX = {
+    "Xtra- (Morgen ist in Wien ein Extra-Konzert von Mark Forster.)": "extra",
+}
+
+
 def head_of(g0):
     return re.split(r"[,()]", g0)[0].strip().strip('"')
 
@@ -205,7 +210,10 @@ SPECS = {
 def parsed(row):
     g, e = row
     g0 = norm_cell(g)
-    return {"base": head_of(g0), "meaning": clean_meaning(e)}
+    meaning = clean_meaning(e)
+    if g0 in MEANING_FIX:
+        meaning = MEANING_FIX[g0]
+    return {"base": head_of(g0), "meaning": meaning}
 
 
 def main():
