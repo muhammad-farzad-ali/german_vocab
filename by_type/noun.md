@@ -1,4 +1,4 @@
-# Noun (864)
+# Noun (860)
 
 - die Currywurst, -würste — sausage with curry sauce (German fast food dish)
 - der Durst (Singular) — thirst
@@ -95,7 +95,6 @@
 - die Veränderung, -en — changes, alterations
 - der Ball, Bälle (Kommst du heute Abend mit auf den Ball?) — ball (Are you coming with to the ball tonight?)
 - die Oper, -n — opera
-- Servus! — Greetings!
 - das Univiertel, — university district
 - das Blatt, Blätter — sheet of paper
 - die Disco, -s — discotheque
@@ -216,7 +215,6 @@
 - der Schultag, -e — school day
 - die Schultüte, -n — cone-shaped cardboard flute filled with candy to celebrate the first day of school
 - der Storch, Störche — stork
-- Herzlichen Glückwunsch — congratulation
 - die Absage, -n — cancellation
 - das Brautpaar, -e — bride and groom
 - die Dankeskarte, -n — thank-you card
@@ -369,7 +367,6 @@
 - die Videokonferenz, -en — video conference
 - das Wissen (Singular) — knowledge
 - das Schlüsselwort, -wörter — keyword
-- Bis dann! — Until then!
 - das Foyer, -s — foyer
 - die Karte, -n (Kaufst du die Karten für das Konzert?) — ticket (Are you buying the tickets for the concert?)
 - die Philharmonie, -n — philharmonic
@@ -393,7 +390,6 @@
 - die App, -s — application
 - der Deal, -s — deal
 - die Bedienung (Singular) (Das Programm hat eine einfache Bedienung.) — operation (The program is easily operated.)
-- Hi! — Hi!
 - das Navigationssystem, -e — navigation system
 - die Strecke, -n — route
 - die Verkehrsapp, -s — traffic application

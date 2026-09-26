@@ -197,7 +197,8 @@ def compute_plural(article, base, cell):
     if '"' in s:  # legacy quote-marker umlaut (A1 style)
         return "die " + umlaut(base) + s.replace('"', "")
     if "/" in s:
-        forms = [repl_plural(base, p) for p in s.split("/") if p]
+        parts = [p.strip("-") for p in s.split("/") if p.strip("-")]
+        forms = [repl_plural(base, p) for p in parts]
         return "die " + " / die ".join(forms)
     return "die " + repl_plural(base, s)
 

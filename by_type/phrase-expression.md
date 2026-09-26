@@ -1,10 +1,12 @@
-# Phrase / expression (12)
+# Phrase / expression (14)
 
 - schon mal — already
 - schon lange — long, for a long time
 - zu Besuch — for a visit
 - usw. — etc., and so on
 - nicht nur — not only
+- Herzlichen Glückwunsch — congratulation
+- Bis dann! — Until then!
 - noch mal — again
 - und so weiter (usw.) — and so on (etc.)
 - na gut — All right (All right, it’s not so bad.)

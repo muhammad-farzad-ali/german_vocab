@@ -244,6 +244,10 @@ TRIAGE = {
     "auf keinen Fall": "Phrase / expression",
     "hier und da": "Phrase / expression",
     "sondern auch": "Phrase / expression",
+    "Bis dann!": "Phrase / expression",
+    "Herzlichen Glückwunsch": "Phrase / expression",
+    "Servus!": "Interjection",
+    "Hi!": "Interjection",
     "damit (Nimm nicht zu viel vom Kuchen, damit du nicht gierig wirkst.)": "Conjunction",
 }
 
