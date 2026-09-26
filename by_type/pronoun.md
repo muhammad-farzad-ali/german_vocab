@@ -1,0 +1,32 @@
+# Pronoun (30)
+
+- Sie (Ordnen Sie zu.) — you (formal) (Match.)
+- andere, anderer — other
+- dir (Wie geht's? - Gut, und dir?) — you (dat.) (How are you? - Good, and you?)
+- du — you
+- ich — I
+- das (Das ist Frau Kowalski.) — this (This is Mrs Kowalski.)
+- Ihnen (Wie geht es Ihnen?) — you (formal, dat.) (How are you?)
+- er — he
+- sie (Sie kommt aus Deutschland.) — she (She's from Germany.)
+- sie (Kennst du die Personen? Wo wohnen sie?) — they (Do you know the people? Where do they live?)
+- wir — we
+- ihr (Joggt ihr morgen auch?) — you (Are you going jogging tomorrow as well?)
+- mehrere — several
+- viel, viele — a lot
+- alle (Notieren Sie alle Zahlen.) — all (Note all numbers.)
+- diese, dieser — this
+- uns (Wir grillen heute Abend bei uns.) — ours (We're barbecuing at ours this evening.)
+- alles — everything
+- etwas (Sonst noch etwas?) — here: anything (Anything else?)
+- nichts — nothing
+- dich — you
+- euch — you
+- ihn — him
+- sie (Wo ist Hanna? Das Schnitzel ist für sie.) — her (Where is Hanna? The schnitzel is for her.)
+- selbst — oneself
+- die meisten — most
+- sich — oneself
+- jemand — someone
+- beide — both
+- alle (Die S-Bahn fährt alle 10 Minuten.) — every (The s-bahn leaves every 10 minutes.)

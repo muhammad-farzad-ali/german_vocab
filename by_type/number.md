@@ -1,0 +1,36 @@
+# Number (34)
+
+- zwei — two
+- achtzehn — eighteen
+- drei — three
+- acht — eight
+- zwölf — twelve
+- dreizehn — thirteen
+- eins — one
+- elf — eleven
+- fünf — five
+- fünfzehn — fifteen
+- neun — nine
+- neunzehn — nineteen
+- null — zero
+- sechs — six
+- sechzehn — sixteen
+- sieben — seven
+- siebzehn — seventeen
+- vier — four
+- vierzehn — fourteen
+- zehn — ten
+- zwanzig — twenty
+- minus — minus
+- einhundert — one hundred
+- hundert — hundred
+- achtzig — eighty
+- dreißig — thirty
+- eintausend — one thousand
+- fünfzig — fifty
+- neunzig — ninety
+- sechzig — sixty
+- siebzig — seventy
+- tausend — thousand
+- vierzig — fourty
+- plus — plus

@@ -1,0 +1,319 @@
+# Verb (317)
+
+- heißen, er heißt, hat geheißen („Würstchen“ heißt auf Italienisch „wurstel“.) — to be called (“Sausage” in Italian is called “wurstel”.)
+- zu|ordnen — to assign, to match
+- zusammen|gehören — to fit together
+- gehen, er geht, ist gegangen (Wie geht's?) — to go (How's it going?)
+- heißen, er heißt, hat geheißen (Ich heiße Niklas.) — to be named (My name is Niklas.)
+- hören — to hear
+- lesen, er liest, hat gelesen — to read
+- sein, er ist, ist gewesen (Hallo, ich bin Julia.) — to be (Hello, I am Julia.)
+- spielen — to play
+- kennen, er kennt, hat gekannt — to know
+- machen (Machen Sie ein Kursplakat.) — to make (Make a course poster.)
+- sammeln — to collect
+- wohnen — to live
+- variieren — to vary
+- ergänzen — to complete
+- notieren — to note
+- raten, er rät, hat geraten — to guess
+- vor|stellen (Stellen Sie Ihren Partner im Kurs vor.) — to introduce (Introduce your partner to the course.)
+- kommen, er kommt, ist gekommen — to come from
+- sprechen, er spricht, hat gesprochen — to speak
+- fragen — to ask
+- mit|sprechen, er spricht mit, hat mitgesprochen — to speak along
+- mit|lesen, er liest mit, hat mitgelesen — to read along
+- sagen — to say
+- schreiben, er schreibt, hat geschrieben — to write
+- buchstabieren — to spell
+- verstehen, er versteht, hat verstanden (Das verstehe ich nicht.) — to understand (I do not understand that.)
+- lernen (Sie lernt Spanisch.) — to learn (She's learning Spanish.)
+- grüßen — to greet
+- reagieren — to react
+- verabschieden — to say goodbye
+- fotografieren — to photograph
+- schwimmen, er schwimmt, ist geschwommen — to swim
+- arbeiten (Arbeiten Sie zu zweit.) — to work (Work as a pair.)
+- gehen, er geht, ist gegangen (Hörst du gern Musik? - Es geht so.) — here: to be okay (Do you like listening to music? - It's okay.)
+- jogen — to jog
+- singen, er singt, hat gesungen — to sing
+- tanzen — to dance
+- lieben — to love
+- an|kreuzen — to mark
+- gehen, er geht, ist gegangen (Gehst du gern ins Kino?) — to go (Do you like going to the cinema?)
+- kochen — to cook
+- reisen — to travel
+- arbeiten (Was arbeitest du?) — to work (What do you work as?)
+- antworten — to answer
+- nennen, er nennt, hat genannt — to name
+- gehen, er geht, ist gegangen (Gehen wir ins Kino? - Nein, das geht leider nicht.) — to go (Are we going to the cinema? - No, that won't work unfortunately.)
+- nach|sprechen, er spricht nach, hat nachgesprochen — to repeat
+- achten auf (+ A.) (Achten Sie auf die Satzmelodie.) — pay attention to (Pay attention to the intonation.)
+- geben, es gibt, es hat gegeben (Es gibt mehrere Möglichkeiten.) — here: to be (There are several possibilities.)
+- passen (Welches Foto passt zum Text?) — to match (which picture matched to which text?)
+- markieren — to highlight
+- suchen — to search
+- vergleichen, er vergleicht, hat verglichen — to compare
+- fahren, er fährt, ist gefahren — to drive
+- frei|haben, er hat frei, hat freigehabt — to have a holiday
+- haben, er hat, hat gehabt (Ich habe pro Woche 24 Stunden Seminare und Kurse.) — to have (I have 24 hours of seminars and courses a week.)
+- warten — to wait
+- unterstreichen, er unterstreicht, hat unterstrichen — to underline
+- präsentieren — to present
+- tauschen — to switch
+- berichten — to report
+- studieren — to study
+- an|sehen, er sieht an, hat angesehen — to look at
+- stehen, er steht, hat gestanden (Wo steht die Frau?) — to stand (Where is the woman standing?)
+- merken — to remember
+- zusammen|passen — to fit together
+- wählen — to choose
+- verabreden (sich) — to make plans
+- kosten — to cost
+- sehen, er sieht, hat gesehen — to see
+- zeichnen — to draw
+- auf|stehen, er steht auf, ist aufgestanden — to stand up
+- zeigen (Zeigen Sie auf das Bild.) — to point (Point to the picture.)
+- bilden (Bilden Sie drei Gruppen.) — to form (Form three groups.)
+- klopfen — to knock
+- kreisen — to circle
+- würfeln — to roll (the dice)
+- dirigieren — to conduct
+- sein, seine (Der Regisseur präsentiert seinen Film.) — his (The director presents his film.)
+- finden, er findet, hat gefunden (Finden Sie Sport interessant?) — to find (Do you find sport interesting?)
+- stellen (eine Frage stellen) — here: to ask (to ask a question)
+- ein|kaufen — to shop
+- kaufen — to buy
+- brauchen — to need
+- planen — to plan
+- stimmen (Oliven sind oft teuer. - Ja, stimmt.) — here: to be true (Olives are often expensive. - Yes, that's true.)
+- schmecken — to taste
+- essen, er isst, hat gegessen — to eat
+- dran sein, er ist dran, ist drangekommen — to have one's turn
+- finden, er findet, hat gefunden (Entschuldigung, wo finde ich Reis?) — to find (Excuse me, where can I find rice?)
+- kosten — to cost
+- machen (Zahlen, bitte. - Gern. Das macht 12 Euro, bitte.) — to make (Can I pay please. - With pleasure. That makes 12 euros, please.)
+- möchten, er möchte, hat gemocht — to want
+- nehmen, er nimmt, hat genommen (Ich nehme ein Brötchen, bitte.) — to take (I'll take one bread roll, please.)
+- wissen, er weiß, hat gewusst — to know
+- wechseln — to change
+- recherchieren — to research
+- verbinden, er verbindet, hat verbunden (Verbinden Sie Nomen und Artikel.) — to connect (Connect nouns and articles.)
+- grillen — to barbecue
+- trinken, er trinkt, hat getrunken — to drink
+- frühstücken — to eat breakfast
+- mögen, er mag, hat gemocht — to like
+- schlafen, er schläft, hat geschlafen — to sleep
+- erzählen — to tell
+- ein|fallen, es fällt ein, ist eingefallen — to think of
+- beantworten — to answer
+- helfen, er hilft, hat geholfen — to help
+- probieren — to try
+- schälen — to peel
+- schneiden, er schneidet, hat geschnitten (Er schneidet das Gemüse.) — to cut (He is cutting the vegetables.)
+- führen (ein Gespräch führen) — here: to have (to have a conversation)
+- nummerieren — to number
+- lassen — to have lunch
+- besuchen — to visit
+- duschen — to shower
+- treffen, er trifft, hat getroffen — to meet
+- bleiben, er bleibt, ist geblieben — to stay
+- beschreiben, er beschreibt, hat beschrieben — to describe
+- gehen, er geht, ist gegangen (Meine Kinder gehen in Frankfurt in die Schule.) — to go (My children go to school in Frankfurt.)
+- telefonieren — to telephone
+- ziehen, er zieht, hat gezogen (Ziehen Sie eine Karte.) — here: to draw (Draw a card.)
+- können, er kann, hat gekonnt — to be able to
+- müssen, er muss, hat gemusst — to have to (do something)
+- wollen, er will, hat gewollt — to want (something)
+- leid|tun, er tut leid, hat leidgetan (Tut mir leid.) — to be sorry (I'm sorry.)
+- haben, er hat, hat gehabt (Ich hätte gern einen Termin.) — here: to make (I would like to make an appointment.)
+- tun, er tut, hat getan (Was kann ich für Sie tun?) — to do (What can I do for you?)
+- überlegen — to think about
+- vereinbaren — to make
+- vor|bereiten — to prepare
+- da sein — to be there
+- sitzen, er sitzt, hat gesessen — to sit
+- entschuldigen (Bitte entschuldigen Sie.) — to excuse (Please excuse me.)
+- machen (Entschuldigung! - Macht nichts.) — here: to matter (I'm sorry! - It doesn't matter.)
+- feiern — to celebrate
+- glauben (Ich glaube, der Mann klettert.) — to believe (I believe the man is climbing.)
+- klettern — to climb
+- wandern — to hike
+- ein|laden, er lädt ein, hat eingeladen — to invite
+- klingen, er klingt, hat geklungen (Machen wir eine Fahrradtour? - Klingt gut.) — to sound (Are we going for a bike ride today? Sounds good.)
+- schenken — to give (as a gift)
+- werden, er wird, ist geworden (Sofia wird am Samstag 30.) — here: to turn (Sofia turns 30 on Saturday.)
+- auf|stellen — to arrange
+- an|rufen — to call
+- ein|sammeln — to collect
+- mit|bringen, er bringt mit, hat mitgebracht — to bring
+- mit|kommen, er kommt mit, ist mitgekommen — to come
+- ab|holen — to pick up
+- an|fangen, er fängt an, hat angefangen — to start
+- mit|machen — to join in, to participate
+- schicken — to send
+- wissen, er weiß, hat gewusst (Achtung: Sofia weiß nichts!) — to know
+- auf|hören — to stop
+- bestellen — to order
+- bringen, er bringt, hat gebracht — of course
+- passieren — to happen
+- bezahlen — to pay
+- ordnen (Ordnen Sie den Dialog.) — to arrange (Arrange the dialogue.)
+- stimmen (Das macht 13,80 €. - Hier sind 15 €. Stimmt so.) — to be correct (That makes 13,80 €. - Here are 15€. Keep the change.)
+- zahlen — to pay
+- geben, er gibt, hat gegeben (Sie gibt dem Kellner Trinkgeld.) — to give (She gives the waiter a tip.)
+- gehen, er geht, ist gegangen (Zahlen, bitte. - Gern. Geht das zusammen?) — – (I'd like to pay, please. Of course. Are you paying separately?)
+- auf|passen — to pay attention
+- beginnen — to begin
+- enden — to end
+- fehlen — to miss
+- genießen, er genießt, hat genossen — to savor
+- laufen, er läuft, ist gelaufen — to run
+- los sein, er ist los, ist los gewesen (Was ist los?) — to be up (What's up?)
+- Lust (Sg.) (Kommst du mit? - Nein, ich habe keine Lust.) — to want, to feel like (Are you coming? - No, I don't feel like it.)
+- einkaufen gehen, er geht einkaufen, ist einkaufen gegangen — to go shopping
+- an|nehmen, er nimmt an, hat angenommen — to accept
+- mit|nehmen, er nimmt mit, hat mitgenommen — to take along
+- verwenden — to use
+- bedeuten (Was bedeutet das?) — to mean (What does that mean?)
+- erklären — to explain
+- holen (Ich muss noch Geld holen.) — to get (I still need to get money.)
+- überweisen, er überweist, hat überwiesen — to transfer
+- dauern — to last
+- an|machen — to turn on
+- aus|machen — to turn off
+- drucken — to print
+- ein|geben, er gibt ein, hat eingegeben (das Passwort eingeben) — to enter (to enter the password)
+- hoch|fahren, er fährt hoch, hat hochgefahren (Er fährt den Computer hoch.) — to start up (He is starting up the computer.)
+- öffnen (eine Datei öffnen) — to open (to open a file)
+- speichern — to save
+- diskutieren — to discuss
+- kennen|lernen — to get to know
+- zeigen (Das Kino zeigt einen Film aus Spanien.) — to show (The cinema is showing a film from Spain.)
+- korrigieren — to correct
+- reden — to talk
+- formulieren — to phrase
+- interessieren — to interest
+- regnen — to rain
+- denken, er denkt, hat gedacht — to think
+- leben — live
+- los|gehen, er geht los, ist losgegangen — to start
+- schaffen — to manage
+- aufräumen — to put away
+- vergessen, er vergisst, hat vergessen — to miss
+- vermissen — to forget
+- an|ziehen, er zieht an, hat angezogen — to get dressed
+- geben, er gibt, hat gegeben (Gib alles!) — to give (Give it your all!)
+- holen (Hol ein Glas Wasser.) — to get (Get a glass of water.)
+- raus|gehen, er geht raus, ist rausgegangen — to go outside
+- weiter|machen — to continue
+- auf|machen — to open
+- auf|schreiben, er schreibt auf, hat aufgeschrieben — to write down
+- vor|lesen, er liest vor, hat vorgelesen — to read aloud
+- wiederholen — to repeat
+- wiegen, er wiegt, hat gewogen — to weigh
+- ab|wechseln — to take turns
+- riechen, er riecht, hat gerochen — to smell
+- bekommen, er bekommt, hat bekommen — to get
+- bewegen — to move
+- hin|legen (sich) — to lie down
+- kontrollieren — to check
+- sauber machen — to clean sth
+- weh|tun, er tut weh, hat wehgetan — to hurt
+- sollen, er soll, hat gesollt — be supposed to
+- erkältet sein — to have a cold
+- husten — cough
+- baden — to bath
+- dürfen, er darf, hat gedurft — to be allowed
+- erlaubt sein — to be allowed
+- nehmen, er nimmt, hat genommen (Den Hustensaft müssen Sie abends nehmen.) — to take (You need to take the cough syrup in the evening.)
+- rauchen — to smoke
+- geben, er gibt, hat gegeben (Der Arzt gibt Anweisungen.) — to give (The doctor gives instructions.)
+- vermuten — to suspect
+- ein|schlafen, er schläft ein, ist eingeschlafen — to fall asleep
+- inhalieren — to inhale
+- versuchen — to attempt
+- auf|hängen — to hang up
+- untersuchen — to examine
+- dazu|gehören — to include
+- erschließen, er erschließt, hat erschlossen — to infer
+- zerlegen — to disassemble
+- aus|drücken — to express
+- wieder|geben, er gibt wieder, hat wiedergegeben — to recite
+- ziehen, er zieht, ist gezogen (Beata ist in eine Wohnung gezogen.) — here: to move (Beata moved into a flat.)
+- vermieten — to let sth
+- stellen (Carla will den Computer in die Küche stellen.) — to put (Carla wants to put the computer in the kitchen.)
+- aus|füllen (ein Formular ausfüllen) — to fill in (to fill in a form)
+- unterschreiben, er unterschreibt, hat unterschrieben — to sign
+- zu|machen — to close
+- freuen (sich) — to look forward to sth
+- scheinen, er scheint, hat geschienen — to shine
+- aus|sehen, er sieht aus, hat ausgesehen — to look
+- betreuen — to supervise
+- geben, er gibt, hat gegeben (Ich gebe Unterricht an der Uni.) — to give (I give lessons at the university.)
+- malen — to paint
+- segeln — to sail
+- verdienen — to earn
+- haben, er hat, hat gehabt (Ich habe heute lange gelernt.) — to have (I revised for a long time today.)
+- laufen, es läuft, ist gelaufen (Heute läuft es gut. Die Präsentation ist fast fertig.) — to go (It's going well today. The presentation is almost finished.)
+- vorbei sein — to be over
+- sein, er ist, ist gewesen (Was ist passiert?) — to be here: to happen (What has happened?)
+- trainieren — to train
+- nehmen, er nimmt, hat genommen (Er hat vier Wochen Urlaub genommen.) — to take (He took a four week holiday.)
+- mischen — to mix
+- fliegen, er fliegt, ist geflogen — to fly
+- verbinden, er verbindet, hat verbunden (Können Sie mich mit Frau Hofer verbinden?) — to connect (Can you connect me with Mrs Hofer?)
+- melden (sich) — to answer
+- vor|spielen — to act out
+- statt|finden, er findet statt, hat stattgefunden — to take place
+- verkaufen — to sell
+- nach|fragen — to ask again
+- gefallen, er gefällt, hat gefallen — well
+- aus|gehen, er geht aus, ist ausgegangen (Abends beim Ausgehen haben wir viel Spaß.) — to go out (We have a lot of fun when we go out in the evening.)
+- stehen, er steht, hat gestanden (Die Hose steht dir sehr gut.) — to suit (The trousers suit you very well.)
+- tragen, er trägt, hat getragen — to wear
+- weiter|hören — to continue to listen
+- erfragen — to inquire
+- schauen — to look
+- zurück|schicken — to send back
+- fern|sehen, er sieht fern, hat ferngesehen — to watch television
+- an|kommen, er kommt an, ist angekommen — to arrive
+- an|probieren — to try on
+- aus|ziehen, er zieht aus, hat ausgezogen — to take off
+- empfehlen, er empfiehlt, hat empfohlen — to recommend
+- entdecken — to find
+- nerven — to annoy
+- passen (Die Hose hat nicht gepasst.) — to fit (The trousers didn't fit.)
+- shoppen — to shop
+- um|tauschen — to change
+- danken — to thank
+- kriegen — to get
+- auf sein — to be open
+- öffnen (Wir öffnen unsere Bäckerei auch am Sonntag.) — open (We open our bakery on Sundays too.)
+- schließen, er schließt, hat geschlossen (Unser Geschäft schließt am Freitag schon um 15 Uhr.) — to close (Our shop closes at 3pm already on Fridays.)
+- zu sein — to be closed
+- zu|haben, er hat zu, hat zugehabt — to be closed
+- orientieren (sich) — to orient
+- ein|packen — to pack
+- das Kofferpacken (Sg.) — to pack one's suitcase
+- reservieren — to book
+- wünschen — to wish
+- ab|fahren, er fährt ab, ist abgefahren — to depart
+- aus|steigen, er steigt aus, ist ausgestiegen — to get off
+- ein|steigen, er steigt ein, ist eingestiegen — to board
+- nehmen, er nimmt, hat genommen (Nehmen Sie den Bus Nummer 18 zum Flughafen.) — to take (Take bus number 18 to the airport.)
+- um|steigen, er steigt um, ist umgestiegen — to transfer
+- benutzen — to use
+- shoppen gehen, er geht shoppen, ist shoppen gegangen — to go shopping
+- los|fahren, er fährt los, ist losgefahren — to leave
+- übernachten — to sleep over, to stay at
+- verpassen — to miss
+- wecken — to wake up
+- zurück|fahren, er fährt zurück, ist zurückgefahren — to drive back
+- zurück|finden, er findet zurück, hat zurückgefunden — to find back
+- chillen — to chill
+- gehören — to belong
+- das Skifahren (Sg.) — to ski
+- liegen, er liegt, hat gelegen (Wo liegen die Städte in Deutschland?) — to be (Where are the cities in Germany?)
+- schneien — to snow
+- schütten (Es schüttet, so ein Regen!) — to pour (It's pouring, such rain!)

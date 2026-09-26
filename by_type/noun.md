@@ -1,0 +1,1126 @@
+# Noun (1124)
+
+- Bulgarisch — Bulgarian
+- Deutsch (Ich spreche Deutsch.) — German (I speak German.)
+- Würstchen, - — sausage
+- Wort, -er" — word
+- Englisch — English
+- Indonesisch — Indonesian
+- Italienisch — Italian
+- Japanisch — Japanese
+- Russisch — Russian
+- Serbisch — Serbian
+- Ungarisch — Hungarian
+- die Autobahn, -en — highway
+- das Butterbrot, -e — sandwich
+- die Flasche, -n — bottle
+- das Handtuch, -er" — towel
+- der Kindergarten, -" — kindergarten
+- der Koffer, - — suitcase
+- der/die Kranke, -n — sick person
+- die Nudel, -n — noodle
+- das Würstchen, - — sausage
+- Spanisch — Spanish
+- die Sprache, -n — language
+- Türkisch — Turkish
+- die Entschuldigung, -en (Entschuldigung, wie heißt du?) — here: to be sorry (I'm sorry, what is your name?)
+- die Person, -en — person
+- die Situation, -en — situation
+- der Name, -n — name
+- Frau (Guten Morgen, Frau Weber.) — Miss, Mrs, Ms (Good morning, Miss / Mrs / Ms Weber)
+- Herr (Guten Tag, Herr Hansen.) — Mr (Good day, Mr Hansen)
+- das Kursplakat, -e — course poster
+- das Verb, -en — verb
+- der Vorname, -n — first name
+- der Aussagesatz, -e" — declarative sentence
+- das Interview, -s — interview
+- die W-Frage, -n — w-question
+- die Partnerin, -nen — partner (f)
+- der Nachname, -n — last name
+- das Personalpronomen, - — personal pronoun
+- die Antwort, -en — answer
+- Deutschland — Germany
+- der Reiseführer, - (Ich arbeite als Reiseführer.) — travel guide (m) (I work as a travel guide.)
+- die Reiseführerin, -nen — travel guide (f)
+- das Telefon, -e — telephone
+- der Partner, - — partner (m)
+- der Buchstabe, -n — letter
+- die Handynummer, -n — mobile phone number
+- die Telefonnummer, -n — telephone number
+- das Alphabet, -e — alphabet
+- die E-Mail-Adresse, -n — email address
+- das Gespräch, -e — conversation
+- der Unterstrich, -e — underscore
+- die Zahl, -en — number
+- der Punkt, -e (der Punkt am Satzende) — period (the period at the end of a sentence)
+- der Dialog, -e — dialogue
+- Algerien — Algeria
+- Arabisch — Arabic
+- Brasilien — Brasil
+- Französisch — French
+- Japan — Japan
+- das Land, -er" — country
+- Österreich — Austria
+- Portugiesisch — Portugese
+- die Schweiz (Sg.) (Sie kommt aus der Schweiz.) — Switzerland (She's from Switzerland.)
+- die Tabelle, -n — table, chart
+- die USA (Pl.) (Olivia comes from the USA.) — USA (Olivia is from the USA.)
+- Frankreich — France
+- Griechenland — Greece
+- Italien — Italy
+- Mexiko — Mexico
+- Polnisch — Polish
+- Rätoromanisch — Raetho-Romanic
+- Portugal — Portugal
+- Thailand — Thailand
+- Polen — Poland
+- Russland — Russia
+- Spanien — Spain
+- die Türkei (Sg.) — Turkey
+- die Ukraine (Sg.) — Ukraine
+- der Text, -e — text
+- die Stadt, -e" — city
+- das Befinden (Sg.) — condition
+- die Grammatik, -en — grammar
+- das Redemittel, - — useful phrases
+- das Subjekt, -e — subject
+- das W-Wort, -er" — w-word
+- die Leute (Pl.) — people
+- der Freund, -e — friend
+- die Freundin, -nen — female friend, girlfriend
+- das Buch, -er" — book
+- Fußball (Sg. ohne Artikel) (Er spielt gern Fußball.) — football (He likes to play football.)
+- der Kollege, -n — colleague (m)
+- die Kollegin, -nen — colleague (f)
+- die Musik (Sg.) — music
+- die Sensation, -en — sensation
+- das Kino, -s — movie theater
+- die Endung, -en — ending
+- das Foto, -s — photo
+- der Kommentar, -e — commentary
+- das Wochenende, -n — weekend
+- der Dienstag, -e — Tuesday
+- der Donnerstag, -e — Thursday
+- der Freitag, -e — Friday
+- der Mittwoch, -e — Wednesday
+- der Montag, -e — Monday
+- der Samstag, -e — Saturday
+- der Sonntag, -e — Sunday
+- der Wochentag, -e — day of the week
+- die Frage, -n — question
+- die Satzmelodie, -n — intonation
+- das Café, -s — café
+- der Moment, -e (Im Moment lese ich ein Buch von Daniel Kehlmann.) — moment (I'm reading a book by Daniel Kehlmann at the moment.)
+- die Spaghetti (Pl.) — spaghetti
+- das Dritt (Arbeiten Sie zu dritt.) — here: threes (Work in threes)
+- die Form, -en — form, shape, mold
+- der Infinitiv, -e — infinitive
+- das Hobby, -s — hobby
+- die Ja-/Nein-Frage, -n — yes-/no-question
+- der Kursraum, -e" — course room
+- das Museum, Museen — museum
+- das Restaurant, -s — restaurant
+- das Schwimmbad, -er" — swimming pool
+- das Stadion, Stadien — stadium
+- der Tag, -e — day
+- der Termin, -e — appointment
+- das Theater, - — theatre
+- die Verabredung, -en — appointment
+- der Arzt, -e" — doctor (m)
+- die Ärztin, -nen — doctor (f)
+- das Auto, -s — car
+- der Beruf, -e — occupation
+- der Computer, - — computer
+- das Geld, -er — money
+- das Glas, -er" — glass
+- der Kellner, - — waiter
+- die Kellnerin, -nen — waitress
+- das Medikament, -e — medicine
+- die Möglichkeit, -en — possibility
+- der Plural, -e — plural
+- die Rechnung, -en — bill
+- der Schlüssel, - — key
+- die Spritze, -n — injection
+- der Stift, -e — pencil
+- die Straße, -n — street
+- der Student, -en — student (m)
+- die Studentin, -nen — student (f)
+- die Tablette, -n — pill
+- der Taxifahrer, - — taxi driver (m)
+- die Taxifahrerin, -nen — taxi driver (f)
+- das Nomen, - — noun
+- der Kapitel, - — chapter
+- der Kurs, -e — course
+- der Lernwortschatz, -e" — learning vocabulary
+- die Seite, -n — page
+- das Übungsbuch, -er" — exercise book
+- der Abend, -e — evening
+- das Jahr, -e (Ich fahre 68.000 Kilometer pro Jahr.) — year (I drive 68.000 kilometres per year.)
+- das Jahr, -e (Ich bin 22 Jahre alt.) — year (I'm 22 years old.)
+- der Kilometer, - (= km) — kilometre (=km)
+- das Krankenhaus, -er" — hospital
+- der Krankenpfleger, - — nurse (m)
+- die Krankenpflegerin, -nen — nurse (f)
+- der Nachmittag, -e — afternoon
+- der Patient, -en — patient (m)
+- die Patientin, -nen — patient (f)
+- der Platz (Sg.) (Wir haben Platz für 1.250 Patienten.) — room (We have room for 1.250 patients.)
+- das Seminar, -e — seminar
+- die Stunde, -n — hour
+- die Universität, -en — university
+- die Woche, -n — week
+- das Zimmer, - — room
+- die Information, -en — information
+- die Pluralform, -en — plural form
+- der Singular, -e — singular
+- die Pluralendung, -en — plural ending
+- die Lernkarte, -n — learning cards
+- der Architekt, -en — architect (m)
+- die Architektin, -nen — architect (f)
+- der Friseur, -e — hairdresser (m)
+- die Friseurin, -nen — hairdresser (f)
+- der Informatiker, - — computer scientist (m)
+- die Informatikerin, -nen — computer scientist (f)
+- der Ingenieur, -e — engineer (m)
+- die Ingenieurin, -nen — engineer (f)
+- der Lehrer, - — teacher (m)
+- die Lehrerin, -nen — teacher (f)
+- der Elektriker, - — electrician (m)
+- die Elektrikerin, -nen — electrician (f)
+- der Erzieher, - — kindergarten teacher (m)
+- die Erzieherin, -nen — kindergarten teacher (f)
+- der Handwerker, - — craftsman
+- die Handwerkerin, -nen — craftswoman
+- der Journalist, -en — journalist (m)
+- die Journalistin, -nen — journalist (f)
+- der Jurist, -en — solicitor (m)
+- die Juristin, -nen — solicitor (f)
+- der Koch, -e" — cook (m)
+- die Köchin, -nen — cook (f)
+- der Mechaniker, - — mechanic (m)
+- die Mechanikerin, -nen — mechanic (f)
+- der Polizist, -en — police officer (m)
+- die Polizistin, -nen — police officer (f)
+- der Verkäufer, - — salesperson (m)
+- die Verkäuferin, -nen — salesperson (f)
+- die Notiz, -en — note
+- das Beispiel, -e (zum Beispiel) — example (for example)
+- die Farbe, -n — colour
+- das Wörterbuch, -er" — dictionary
+- das Artikelbild, -er — article picture
+- das Taxi, -s — taxi
+- die Zeichnung, -en — drawing
+- die Adresse, -n — address
+- die Angabe, -n (Machen Sie persönliche Angaben.) — here: information (Give personal information.)
+- der Club, -s — club
+- der Familienname, -n — family name
+- das Geburtsdatum, -daten — date of birth
+- der Geburtsort, -e — birth place
+- Basketball (Sg. ohne Artikel) — basketball
+- die E-Mail, -s — e-mail
+- die Firma, Firmen — company
+- das Formular, -e — form
+- die Hausnummer, -n — house number
+- Karate — karate
+- die Postleitzahl, -en — zip code
+- die Schule, -n — school
+- der Sportclub, -s — sports club
+- Tennis (Sg. ohne Artikel) — tennis
+- der Wohnort, -e — place of residence
+- Yoga (Sg. ohne Artikel) — yoga
+- Zumba (Sg. ohne Artikel) — zumba
+- die Milliarde, -n — billion
+- die Million, -en — million
+- die Stadttour, -en — city tour
+- die Station, -en — station
+- der Bahnhof, -e" — train station
+- die Bauzeit (Sg.) — construction period
+- der Besucher, - — visitor (m)
+- die Besucherin, -nen — visitor (f)
+- der Euro, -s — euro
+- die Kirche, -n — church
+- das Konzert, -e — concert
+- das Konzerthaus, -er" — concert hall
+- der Meter, - — metre
+- die Mitte (Sg.) — middle
+- das Rathaus, -er" — town hall
+- der Star, -s — star
+- der Turm, -e" — tower
+- der Fluss, -e" — river
+- der Hafen, -" — harbour
+- das Meer, -e — sea
+- der Mensch, -en — person
+- das Schiff, -e — ship
+- das Symbol, -e — symbol
+- der Zug, -e" — train
+- die Ausstellung, -en — exhibition
+- die Brücke, -n — bridge
+- der Ort, -e — here: village
+- das Hotel, -s — hotel
+- die Taxifahrt, -en — taxi ride
+- der Weg, -e — way
+- die Kunsthalle, -n — art gallery
+- die Lösung, -en — solution
+- der See, -n — lake
+- das Haus, -er" — house
+- der Satz, -e" — sentence
+- der Konsonant, -en — consonant
+- der Vokal, -e — vowel
+- der Tisch, -e — table
+- der Bus, -se — bus
+- das Fahrrad, -er" — bicycle
+- die U-Bahn, -en — subway
+- das Flugzeug, -e — airplane
+- die S-Bahn, -en — suburban train
+- die Straßenbahn, -en — tram
+- das Bild, -er — picture
+- die Fahrkarte, -n — ticket
+- das Glück (Sg.) (So ein Glück!) — luck (Such luck!)
+- der Test, -s — test
+- die Konzertkarte, -n — concert ticket
+- der Negationsartikel, - — negative article
+- der Plan, -e" — plan
+- die Gruppe, -n — group
+- der Arm, -e — arm
+- die Wegbeschreibung, -en — directions
+- der Imperativ, -e — imperative
+- das Mal, -e (Würfeln Sie drei Mal.) — time (Roll the dice three times.)
+- das Ziel, -e — goal
+- die Comicgeschichte, -n — comic strip
+- die Welt, -en — world
+- Dank (Sg.) (Vielen Dank.) — thanks (Thank you very much.)
+- der Markt, -e" — market
+- der Park, -s — park
+- der Start, -s — starting line
+- der Chor, -e" — choir
+- das Event, -s — event
+- das Festival, -s — festival
+- der Film, -e — film
+- der Filmfan, -s — film fan
+- der Gast, -e" — guest
+- das Orchester, - — orchestra
+- die Produktion, -en — production
+- das Publikum (Sg.) — audience
+- der Regisseur, -e — director (m)
+- die Regisseurin, -nen — director (f)
+- das Requiem, -s — requiem
+- der Schauspieler, - — actor
+- die Schauspielerin, -nen — actress
+- der Solist, -en — soloist (m)
+- die Solistin, -nen — soloist (f)
+- das Theater-Festival, -s — theatre festival
+- das Ticket, -s — ticket
+- der April (Sg.) — April
+- der August (Sg.) — August
+- der Dezember (Sg.) — December
+- der Februar (Sg.) — February
+- der Frühling (Sg.) — spring
+- der Herbst (Sg.) — autumn
+- der Januar (Sg.) — January
+- der Juli (Sg.) — July
+- der Juni (Sg.) — June
+- der Mai (Sg.) — May
+- der März (Sg.) — March
+- der Monat, -e — month
+- der November (Sg.) — November
+- der Oktober (Sg.) — October
+- der September (Sg.) — September
+- der Sommer, - — summer
+- der Winter, - — winter
+- die Jahreszeit, -en — season
+- das Plakat, -e — poster
+- das Adjektiv, -e — adjective
+- das Ding, -e — thing
+- die Position, -en — position
+- der Apfelsaft, -e" — apple juice
+- die Banane, -n — banana
+- das Brötchen, - — bread roll
+- die Butter (Sg.) — butter
+- die/das Cola, -s — cola
+- das Ei, -er — egg
+- der Essig, -e — vinegar
+- das Fleisch (Sg.) — meat
+- das Frühstück, -e — breakfast
+- das Gemüse, - — vegetable
+- der/das Joghurt, -s — yogurt
+- die Kartoffel, -n — potato
+- der Käse (Sg.) — cheese
+- das Lebensmittel, - — groceries
+- die Marmelade, -n — jam, marmelade
+- die Milch (Sg.) — milk
+- das Mittagessen, - — lunch
+- das Müsli, -s — muesli
+- das Wasser, - — water
+- die Muttersprache, -n — mother tongue
+- die Bäckerei, -en — bakery
+- die Metzgerei, -en — butcher
+- der Supermarkt, -e" — supermarket
+- das Abendessen, - — dinner
+- das Brot, -e — bread
+- der Zucker (Sg.) — sugar
+- der Apfel, -" — apple
+- das Geschäft, -e — shop
+- die Einladung, -en — invitation
+- die Zeit, -en (Wir haben morgen keine Zeit.) — time (We don't have time tomorrow.)
+- der Einkaufszettel, - — grocery list
+- das Getränk, -e — drink
+- die Grillparty, -s — barbecue
+- der Einkauf, -e" — shopping
+- die Birne, -n — pear
+- der Fisch, -e — fish
+- das Hähnchen, - — chicken
+- die Olive, -n — olive
+- die Pommes frites (Pl.) — chips
+- der Reis (Sg.) — rice
+- der Akkusativ, -e — accusative
+- der Nominativ, -e — nominative
+- der Umlaut, -e — umlaut
+- der Cent, -s — cent
+- der Einkaufswagen, - — shopping cart
+- das Gramm, - — gram
+- der Kassenzettel, - — receipt
+- der Preis, -e — price
+- das Stück, -e/- — piece
+- die Tüte, -n — bag
+- der Emmentaler, - — Emmentaler cheese
+- die Limonade, -n — lemonade
+- die Packung, -en — packaging
+- das Öl, -e — oil
+- der Orangensaft, -e" — orange juice
+- der Pfeffer, - — pepper
+- das Salz, -e — salt
+- der Tee, -s — tea
+- die Gurke, -n — cucumber
+- der Kaffee, -s — coffee
+- der/das Keks, -e — cookie
+- der Kuchen, - — cake
+- die Sahne (Sg.) — cream
+- der Salat, -e — salad
+- der Schinken, - — ham
+- die Schokolade, -n — chocolate
+- die Suppe, -n — soup
+- die Tomate, -n — tomato
+- die Wurst, -e" — sausage
+- die Zitrone, -n — lemon
+- das Essen, - — meal, food
+- die Nachricht, -en (Sie schreibt Paul eine Nachricht.) — message (She writes Paul a message.)
+- saft, -e (Ich trinke gerne Saft.)" — juice (I like to drink juice.)
+- die Mahlzeit, -en (Guten Appetit! - Mahlzeit!) — enjoy your meal (Enjoy your meal! - Enjoy your meal!)
+- die Frau, -en (Die Frau trinkt gern Tee.) — woman (The woman likes to drink tea.)
+- der Mann, -er (Der Mann möchte ein Brötchen.)" — man (The man would like a bread roll.)
+- der Becher, - — cup
+- die Dose, -n — jar
+- das Fett, -e — fat
+- das Kilo, -s (= kg) — kilo
+- das Kilogramm, - (= kg) — kilogram
+- der Liter, - — litre
+- das Maß, -e — measure
+- die Packung, -en — packet
+- die Verpackung, -en — packaging
+- die Pizza, -s/Pizzen — pizza
+- das Sushi, -s — sushi
+- die Arbeit, -en — work
+- der Döner, - — kebab
+- die Kantine, -n — canteen
+- der Mann, -er (Mein Mann und ich frühstücken zusammen.)" — husband (My husband and I eat breakfast together.)
+- der Mittag, -e — noon
+- der Morgen, - — morning
+- das Obst (Sg.) — fruit
+- der Vormittag, -e — before noon
+- die Mindmap, -s — mind map
+- das Paar, -e — pair
+- das Thema, Themen — topic
+- die Assoziation, -en — association
+- die Methode, -n — method
+- die Wortgruppe, -n — word group
+- die Arbeitszeit, -en — working hours
+- der Champignon, -s — mushroom
+- der Chef, -s — boss (m)
+- die Chefin, -nen — boss (f)
+- das Dessert, -s — dessert
+- das Fischgericht, -e — fish dish
+- das Gericht, -e — meal
+- der Spaß (Sg.) (Kochen macht Spaß.) — fun (Cooking is fun.)
+- die Altstadt, -e" — historic city
+- die Zwiebel, -n — onion
+- die Vorliebe, -n — preference
+- die Uni, -s — university
+- das Büro, -s — office
+- der Alltag (Sg.) — everyday life
+- die Bibliothek, -en — library
+- die Familie, -n — family
+- die Mensa, Mensen — canteen
+- die Oma, -s — grandma
+- die Uhrzeit, -en — time of day
+- Uhr (Wie viel Uhr ist es?) — o'clock (What time is it?)
+- das Viertel, - (Es ist Viertel nach sechs.) — quarter (It is a quarter past six.)
+- der Englisch-Test, -s — English test
+- der Geburtstag, -e — birthday
+- die Geige, -n — violin
+- der Geigenunterricht (Sg.) — violin lessons
+- der Kalender, - — calendar
+- der Mathe-Test, -s — math test
+- die Mutter, -" — mother
+- der Onkel, - — uncle
+- das Spiel, -e (Florian hat am Sonntag ein Spiel.) — game (Florian has a game one Sunday.)
+- das Training, -s — practice
+- die Trompete, -n — trumpet
+- die Tochter, -" — daughter
+- der Trompetenunterricht (Sg.) — trumpet lessons
+- der Vater, -" — father
+- der Bruder, -" — brother
+- der Possessivartikel, - — possessive article
+- die Schwester, -n — sister
+- der Techniker, - — technician (m)
+- die Technikerin, -nen — technician (f)
+- die Geschwister (Pl.) — siblings
+- die Großeltern (Pl.) — grandparents
+- die Großmutter, -" — grandmother
+- der Großvater, -" — grandfather
+- der Opa, -s — grandpa
+- der/die Verwandte, -n — relative
+- die Fantasie (Sg.) — fantasy, imagination
+- das Baby, -s — baby
+- die Eltern (Pl.) — parents
+- das Kind, -er — child
+- die Musikschule, -n — music school, conservatory
+- der Sohn, -e" — son
+- der Junge, -n — boy
+- das Mädchen, - — girl
+- die Regel, -n — rule
+- das Wortende, -n — ending of the word
+- der Ball, -e" — ball
+- das Gästebuch, -er" — guestbook
+- die Homepage, -s — homepage
+- der Eintrag, -e" — entry
+- das Familienfoto, -s — family photograph
+- der Hamster, - — hamster
+- die Maus, -e" — mouse
+- das Saxofon, -e — saxophone
+- die Tour, -en — tour
+- die Karte, -n (Schreiben Sie fünf Karten mit Nomen.) — card (Write five cards with nouns.)
+- das Pronomen, - — pronoun
+- der Stapel, - — deck of cards
+- der Gruß, -e (Liebe Grüße)" — greeting (Kind greetings.)
+- die Hausaufgabe, -n — homework
+- das Modalverb, -en — modal verb
+- das Problem, -e — problem
+- der Sonntagnachmittag, -e — Sunday afternoon
+- der Sport (Sg.) — sport
+- der Stress (Sg.) — stress
+- die Party, -s — party
+- die Idee, -n — idea
+- der Sprachkurs, -e — language class
+- die Aussage, -n — statement
+- die Praxis, Praxen (Mara ruft in der Praxis von Dr. Steinig an.) — surgery (Mara is calling Dr Steinig's surgery.)
+- die Höflichkeit (Sg.) — politeness, courtesy
+- der Kunde, -n — customer (m)
+- die Kundin, -nen — customer (f)
+- die Rollenkarte, -n — role card
+- die Sprachschule, -n — language school
+- das Telefongespräch, -e — telephone call
+- die Bar, -s — bar
+- die Besprechung, -en — meeting
+- die Minute, -n — minute
+- die Pünktlichkeit (Sg.) — punctuality
+- die halbe Stunde, -n — half an hour
+- die Sekunde, -n — second
+- die Verspätung, -en — delay
+- die Zeitangabe, -n — time designation
+- das Satzende, -n — ending of the sentence
+- die Satzklammer, -n — sentence bracket
+- die Tageszeit, -en — time of day
+- das Fitness-Studio, -s — gym
+- die Freizeitaktivität, -en — extracurricular activity
+- der Ski, - — ski
+- die Pantomime (Sg.) — pantomime
+- das Ratebild, -er — picture puzzle
+- die Fahrradtour, -en — bike ride
+- das Picknick, -s — picnic
+- die Überraschung, -en — surprise
+- das Datum, Daten — date
+- die Ordinalzahl, -en — ordinal number
+- Achtung (Sg. ohne Artikel) (Achtung: Sofia weiß nichts!) — careful (Careful: Sofia doesn't know anything!)
+- der Ausflug, -e" — excursion
+- der Betreff, -e — subject
+- das Geschenk, -e — present
+- der Regen, - — rain
+- der Treffpunkt, -e — meeting point
+- der Überraschungstag, -e — surprise day
+- das Fest, -e — festival
+- die Anrede, -n — salutation
+- die Einladungs-Mail, -s — invitation mail
+- die Mail, -s — mail
+- die Apfelsaftschorle, -n — apple juice spritzer
+- die Bestellung, -en — order
+- der Teil, -e — part
+- das Eis (Sg.) — ice cream
+- die Pommes (Pl.) — chips
+- die Salami, -s — salami
+- das Schnitzel, - — schnitzel
+- die Speisekarte, -n — menu
+- die Tomatensuppe, -n — tomato soup
+- die Gabel, -n — fork
+- der Löffel, - — spoon
+- das Messer, - — knife
+- die Servierte, -n — napkin
+- die Tasse, -n — cup
+- der Teller, - — plate
+- das Trinkgeld, -er — tip
+- der Durst (Sg.) — thirst
+- der Hunger (Sg.) — hunger
+- der Besuch, -e — visit
+- das Präteritum, Präterita — simple past
+- die Bank, -e (Die Leute sitzen auf der Bank.)" — bench (People are sitting on the bench.)
+- das Beisl, -/-n — pub
+- die Beiz, -en — pub
+- der Biergarten, -" — beer garden
+- Co (Kneipen & Co) — co (Bars & co)
+- das Kaffeehaus, -er" — coffee shop
+- die Kneipe, -n — bar
+- das Lokal, -e — restaurant
+- der/das Sandwich, -s — sandwich
+- die Selbstbedienung (Sg.) — self-service
+- die Sonne (Sg.) — sun
+- der Spielplatz, -e" — playground
+- die Strandbar, -s — beach bar
+- das Wetter, - — weather
+- die Anmeldung, -en (die Anmeldung zum Marathon) — application (the application for the marathon)
+- die Anzeige, -n — advertisement
+- die Atmosphäre (Sg.) — atmosphere
+- der Beginn (Sg.) — beginning
+- das Double Feature, -s — double feature
+- der Eintritt, -e — entrance
+- der Franken, - — Swiss franc
+- der Halbmarathon, -s — half-marathon
+- die Karte, -n (Die Karten für das Konzert kosten 49 €.) — ticket (The tickets for the concert cost 49 €.)
+- der Konzertbeginn (Sg.) — beginning of the concert
+- die Kultur-Nacht, -e" — cultural night
+- der Marathon, -s — marathon
+- die Museumsnacht, -e" — museum night
+- die Nacht, -e" — night
+- die Natur (Sg.) — nature
+- das Open-Air-Kino, -s — open-air concert
+- das Programm, -e — program
+- das Ereignis, -se — result
+- die Präposition, -en — preposition
+- der Ticketkauf, -e" — ticket purchase
+- die Reihenfolge, -n — sequence
+- der Nachbar, -n — neighbour (m)
+- die Nachbarin, -nen — neighbour (f)
+- das Paket, -e — package
+- der Arbeitsalltag (Sg.) — workday
+- das Praktikum, Praktika — internship
+- die Apfelschorle, -n — apple juice spritzer
+- der Blog, -s — blog
+- die Computerarbeit (Sg.) — computer work
+- der Fehler, - — mistake
+- das Leben, - — life
+- das Lied, -er — song
+- die Pause, -n — break
+- der Kundenbesuch, -e — call on customers
+- der Mitarbeiter, - — colleague (m)
+- die Mitarbeiterin, -nen — colleague (f)
+- das Sommerfest, -e — summer festival
+- der Silbenanfang, -e" — beginning of the syllable
+- der Wortanfang, -e" — beginning of the word
+- das Wortinnere (Sg.) — inside of the word
+- der Automat, -en — vending machine
+- die Kontonummer, -n — account number
+- die Kreditkarte, -n — credit card
+- das Konto, Konten — account
+- die Bank, -en (Tom muss heute Nachmittag zur Bank gehen.) — bank
+- der Bericht, -e — report
+- die Post (Sg.) — post office
+- der Zufall, -e" — coincidence
+- die Ortsangabe, -n — location
+- der Dativ, -e — dative
+- die Aussprache (Sg.) — pronunciation
+- der Kurzform, -en — shortened form
+- der Zahnarzt, -e" — dentist (m)
+- die Zahnärztin, -nen — dentist (f)
+- der Bäcker, - (Ich gehe zum Bäcker und kaufe Brot.) — bakery (I'm going to the bakery and I'm buying bread.)
+- der Hausmeister, - — caretaker (m)
+- die Hausmeisterin, -nen — caretaker (f)
+- die Datei, -en — file
+- der Drucker, - — printer
+- die Medien (Pl.) — media
+- Mist (Sg.) (Mist, mein Akku ist gleich leer.) — bother (Oh bother, my batery is almost empty.)
+- das Passwort, -er" — password
+- das WLAN (Sg.) — Wi-Fi
+- der Akku, -s — battery
+- das Netz (Sg.) (Ich habe kein Netz.) — reception (I don't have any reception.)
+- der Brief, -e — letter
+- der/die Erwachsene, -n — adult
+- das Jahrestreffen, - — yearly meeting
+- das Mitglied, -er — member
+- die Musikgruppe, -n — music group
+- die Präsentation, -en — presentation
+- die Spezialität, -en — specialty
+- der Stadtpark, -s — city park
+- Südamerika — South America
+- der Kontakt, -e — contact
+- das Sprachinstitut, -e — language department
+- die Unterschrift, -en — signature
+- die Anredeformel, -n — salutation
+- die Dame, -n (Sehr geehrte Damen und Herren, …) — madam (Dear Sir or Madam, …)
+- die Grußformel, -n — salutation
+- der Absender, - — sender
+- der Briefstandard, -s — letter standard
+- der Empfänger, - — recipient (m)
+- die Empfängerin, -nen — recipient (f)
+- die Krankheit, -en — illness
+- die Mittagspause, -n — lunch break
+- die Politik (Sg.) — politics
+- die Religion, -en — religion
+- die Serie, -n — series
+- der Aufzug, -e" — elevator
+- der Small Talk, -s — small talk
+- das Fernsehen (Sg.) (Gestern war ein Fußballspiel im Fernsehen.) — television (There was a football game on the television yesterday.)
+- das Gesprächsthema, -themen — conversational topic
+- das Bett, -en — bed
+- der/die Erste, -n — first
+- die Freizeit (Sg.) — free time
+- die Süßigkeit, -en — sweet
+- die Chips (Pl.) — crisps
+- das Experiment, -e — experiment
+- die Sprachnachricht, -en — voice message
+- der Comic, -s — comic book
+- die Fitness-App, -s — fitness app
+- der Sportschuh, -e — trainer
+- die Aufforderung, -en — request
+- die App, -s — application
+- das Fenster, - — window
+- die Tafel, -n (Schreiben Sie den Satz an die Tafel.) — blackboard (Write a sentence on the blackboard.)
+- das Gewicht (Sg.) — weight
+- die Größe, -n — size
+- der Bauch, -e" — stomach
+- das Bein, -e — leg
+- der Rücken, - — back
+- der Körperteil, -e — body part
+- der Alter (Sg.) — age
+- der Finger, - — finger
+- der Fuß, -e" — foot
+- der Hals, -e" — neck
+- die Hand, -e" — hand
+- das Knie, - — knee
+- der Kopf, -e" — head
+- der Körper, - — body
+- das Auge, -n — eye
+- das Gesicht, -er — face
+- das Haar, -e — hair
+- der Mund, -er" — mouth
+- die Nase, -n — nose
+- das Ohr, -en — ear
+- der Zahn, -e" — tooth
+- die Apotheke, -n — pharmacy
+- die Kontrolle, -n — check
+- der Doktor, Doktoren — doctor (m)
+- die Doktorin, -nen — doctor (f)
+- das Rezept, -e — here: prescription
+- die Salbe, -n — salve
+- der Unfall, -e" — accident
+- der Verband, -e" — bandage
+- die Wunde, -n — wound
+- der Arztbesuch, -e — visit to the doctor
+- das Fieber (Sg.) — fever
+- der Hustensaft, -e" — cough syrup
+- der Schmerz, -en — pain
+- die Anweisung, -en — instruction
+- die Bauchschmerzen (Pl.) — stomach pain
+- die Rückenschmerzen (Pl.) — back pain
+- die Halsschmerzen (Pl.) — sore throat
+- die Kopfschmerzen (Pl.) — headache
+- die Rolle, -n (Tauschen Sie die Rollen.) — role (Swap roles.)
+- das Pflaster, - — band-aid
+- der Saft, -e (Nehmen Sie einen Saft gegen den Husten.)" — here: syrup (Take some syrup for the cough.)
+- der Tropfen, - — drop
+- der Honig (Sg.) — honey
+- die Hühnersuppe, -n — chicken soup
+- die Nelke, -n — clove
+- der Schnupfen, - — common cold
+- die Zahnschmerzen (Pl.) — toothache
+- die Bitte, -n (Ich habe eine Bitte: …) — request (I have a request: …)
+- der Forumsbeitrag, -e" — forum post
+- das Hausmittel, - — home remedy
+- der Tipp, -s — tip
+- der Zettel, - — note
+- die Schlaftablette, -n — sleeping pill
+- das Suppenhuhn, -er" — chicken for soup
+- der Tee, -s — tea
+- das Blut (Sg.) — blood
+- das Ergebnis, -se — result
+- das Labor, -e — lab(oratory)
+- der Laborant, -en — lab assistant (m)
+- die Laborantin, -nen — lab assistant (f)
+- der Notarzt, -e" — emergency doctor (m)
+- die Notärztin, -nen — emergency doctor (f)
+- der Physiotherapeut, -en — physical therapist (m)
+- die Physiotherapeutin, -nen — physical therapist (f)
+- die Physiotherapie, -n — physical therapy
+- der Sportler, - — athlete (m)
+- die Sportlerin, -nen — athlete (f)
+- die Strategie, -n — strategy
+- die Übung, -en — exercise
+- das Deutsche (Sg.) — German
+- der/die Verletzte, -n — casualty
+- der Ausdruck, -e" — expression
+- die Erlaubnis, -se — permission
+- das Gebot, -e — commandment
+- das Verbot, -e — prohibition
+- die Hilfe, -n (Danke für Ihre Hilfe.) — help (Thank you for your help.)
+- das Kompositum, Komposita — compound
+- der Kontext, -e — context
+- der Therapeut, -en — therapist (m)
+- die Therapeutin, -nen — therapist (f)
+- das Arbeitszimmer, - — office
+- das Bad, -er" — bath
+- der Balkon, -e — balcony
+- der Fernseher, - — television
+- der Flur, -e — hallway
+- das Gerät, -e — device, appliance
+- der Herd, -e — stove
+- die Kaffeemaschine, -n — coffee machine
+- das Kinderzimmer, - — nursery
+- die Küche, -n — kitchen
+- der Kühlschrank, -e" — refridgerator
+- die Lampe, -n — lamp
+- die Möbel (Pl.) — furniture
+- das Regal, -e — shelf
+- das Schlafzimmer, - — bedroom
+- der Schrank, -e" — wardrobe, cupboard
+- der Schreibtisch, -e — desk
+- der Sessel, - — armchair
+- das Sofa, -s — sofa, couch
+- die Spülmaschine, -n — dishwasher
+- der Stuhl, -e" — chair
+- der Teppich, -e — carpet
+- die Toilette, -n — toilet
+- die Waschmaschine, -n — washing machine
+- die Wohnung, -en — flat
+- das Wohnzimmer, - — living room
+- die Pflanze, -n — plant
+- der Lieblingsort, -e — favourite place
+- das Lieblingszimmer, - — favourite room
+- das Zentrum, Zentren — centre
+- die Miete, -n — rent
+- der Wunsch, -e" — wish
+- das Apartment, -s — apartment
+- qm (= Quadratmeter) — sq m (= square metre)
+- die Terrasse, -n — patio
+- die Wohnungssuche (Sg.) — flat search
+- die Wohnfläche, -n — living space
+- die Wohnungsanzeige, -n — advertisement for a flat
+- der Besichtigungstermin, -e — appointment for a flat view
+- der Umzug, -e" — move
+- der Vermieter, - — landlord
+- die Vermieterin, -nen — landlady
+- der Vertrag, -e" — contract
+- die Einweihungsfeier, -n — house warming
+- die Begeisterung (Sg.) — enthusiasm
+- die Äußerung, -en — remark
+- die Treppe, -n — stairs
+- die Überschrift, -en — heading
+- der Altbauwohnung, -en — flat in an old building
+- die Decke, -n — ceiling
+- das Fachwerkhaus, -er" — half-timber house
+- der Garten, -" — garden
+- das Hochhaus, -er" — skyscraper
+- das Holz, -er" — wood
+- das Loft, -s — loft
+- der Raum, -e" — room
+- das Reihenhaus, -er" — townhouse
+- der Blick, -e — view
+- der Bewohner, - — resident (m)
+- die Bewohnerin, -nen — resident (f)
+- der Nachteil, -e — disadvantage
+- der Vorteil, -e — advantage
+- die Wohnform, -en — form of housing
+- der Baum, -e" — tree
+- die Blume, -n — flower
+- das Erdgeschoss, -e — ground level
+- die Lage, -n — location
+- die WG, -s — flat share
+- die Wohn-Situation, -en — living situation
+- der Textbaustein, -e — text block
+- das Gefallen (Sg.) — approval
+- das Missfallen (Sg.) — disapproval
+- die Wechselpräposition, -en — two-case preposition
+- das Studium, Studien — studies
+- der Unterricht (Sg.) (Ich gebe Unterricht an der Uni.) — lessons (I give lessons at the university.)
+- der Künstler, - — artist (m)
+- die Künstlerin, -nen — artist (f)
+- die Radiosendung, -en — radio programme
+- der Segellehrer, - — sailing instructor (m)
+- die Segellehrerin, -nen — sailing instructor (f)
+- der Arbeitsplatz, -e" — workplace
+- die Baustelle, -n — construction site
+- das Kaufhaus, -er" — department store
+- die Werkstatt, -en" — workshop
+- die Karriere, -n — career
+- der Punkt, -e (Geben Sie Punkte: Was ist wichtig, was nicht?) — point (Give different points: What is important, what isn't?)
+- die Kursstatistik, -en — course statistic
+- der Feierabend, -e — closing time, home time
+- das Heft, -e — exercise book
+- der Professor, Professoren — professor (m)
+- die Professorin, -nen — professor (f)
+- das Projekt, -e — project
+- das Semester, - — semester
+- das Partizip, -ien — participle
+- das Perfekt (Sg.) — perfect
+- die Prüfung, -en — test, exam
+- die Statistik, -en — statistics
+- das Studio, -s — studio
+- das Unicafé, -s — uni café
+- der Anhang, -e" — appendix
+- die Liste, -n — list
+- die Aufgabe, -n — assignment
+- die Agentur für Arbeit (Sg.) — employment office
+- die Bewerbung, -en — application
+- die Ehefrau, -en — wife
+- der Ehemann, -er" — husband
+- die Heimat (Sg.) — home
+- der Hotelchef, -s — hotel boss (m)
+- die Hotelchefin, -nen — hotel boss (f)
+- das Internet (Sg.) — internet
+- der Job, -s — job
+- das Job-Portal, -e — job portal
+- das Profil, -e — profile
+- der Sekretär, -e — secretary (m)
+- die Sekretärin, -nen — secretary (f)
+- die Stelle, -n — position
+- der Ortsveränderung, -en — change of location
+- das Angebot, -e (ein Angebot schreiben) — offer (to write an offer)
+- die Nachrichten (Pl.) (Er liest Nachrichten im Internet.) — news (He reads the news on the internet.)
+- der Spaziergang, -e" — walk
+- der Tennisplatz, -e" — tennis court
+- der Anruf, -e — call
+- die Durchwahl, -en — direct dialling
+- der Anschluss, -e" — connection
+- die Computerfirma, -firmen — computer company
+- das Computerproblem, -e — computer problem
+- der Anfang, -e" — beginning
+- die Attraktion, -en — attraction
+- das Ausland (Sg.) — abroad
+- die Bühne, -n — stage
+- das Ende, -n — end
+- das Festspiel, -e — festival production
+- der Händler, - — merchant (m)
+- die Händlerin, -nen — merchant (f)
+- das Karussell, -e — merry-go-round
+- das Kulturfestival, -s — culture festival
+- die Oper, -n — opera
+- der Stollen, - — German fruit cake
+- die Ware, -n — goods, merchandise
+- der Weihnachtsmarkt, -e" — Christmas market
+- der Zuschauer, - — spectator (m)
+- die Zuschauerin, -nen — spectator (f)
+- die Veranstaltung, -en — event
+- der Statist, -en — extra (m)
+- die Statistin, -nen — extra (f)
+- der Saison-Job, -s — seasonal job
+- der Anzug, -e" — suit
+- das Kleid, -er — dress
+- die Kleidung (Sg.) — clothes
+- die Krawatte, -n — tie
+- der Mantel, -" — coat
+- die Mütze, -n — hat
+- der Pullover, - — jumper
+- der Rock, -e" — skirt
+- der Schuh, -e — shoe
+- der Stiefel, - — boot
+- die Tasche, -n — bag
+- das T-Shirt, -s — t-shirt
+- die Geschichte, -n — story
+- die Bluse, -n — blouse
+- das Hemd, -en — shirt
+- die Hose, -n — trousers
+- die Jeans, - — jeans
+- das Kleidergeschäft, -e — clothes shop
+- der Laden, -" — shop
+- der Secondhand-Laden, -" — secondhand shop
+- die Jacke, -n — jacket
+- der Quatsch (Sg.) — nonsense
+- der Schal, -s — scarf
+- das Sweatshirt, -s — sweatshirt
+- das Tuch, -er" — shawl
+- das Präfix, -e — prefix
+- die Betonung, -en — stress
+- die Klamotten (Pl.) — clothes
+- die Reaktion, -en — reaction
+- die Sache, -n — thing
+- der Pulli, -s — pullover
+- die Abendkleidung (Sg.) — evening wear
+- die Bademode, -n — swimwear
+- die CD, -s — CD
+- die Damenmode, -n — women's fashion
+- das Duschgel, -s — shower gel
+- das Elektrogerät, -e — electronic device
+- das Fitnessgerät, -e — fitness equipment
+- das Fotozubehör (Sg.) — photographic accessories
+- die Freizeitkleidung (Sg.) — leisure clothes
+- die Haushaltswaren (Pl.) — homewares
+- die Herrenmode, -n — men's fashion
+- der/die Jugendliche, -n — teenager
+- die Kamera, -s — camera
+- die Kasse, -n — cashier
+- die Kosmetik, -a — cosmetics
+- der Kugelschreiber, - — balllpoint pen
+- die Mode, -n — fashion
+- das Parfüm, -e/-s — perfume
+- die Parfümerie, -n — perfumery
+- der Schmuck (Sg.) — jewelry
+- die Schreibwaren (Pl.) — stationary
+- die Spielwaren (Pl.) — toys
+- die Sportkleidung (Sg.) — sportswear
+- die Technik, -en — technology
+- die Uhr, -en (Im Kaufhaus gibt es Uhren.) — clock (There are clocks at the shopping centre.)
+- das Untergeschoss, -e — basement
+- der USB-Stick, -s — USB stick
+- die Zeitschrift, -en — magazine
+- das Produkt, -e — product
+- der Bleistift, -e — pencil
+- das Papier, -e — paper
+- die Tafel, -n (Sehen Sie die Tafel im Kaufhaus an.) — board (Look at the board in the shopping centre.)
+- der Wortteil, -e — part of the word
+- der Buchladen, -" — bookstore
+- das Schild, -er — sign
+- das Atelier, -s — studio
+- das Design, -s — design
+- der Designfan, -s — design fan
+- die Fernsehproduktion, -en — TV production
+- die Filmproduktion, -en — film production
+- der Fotograf, -en — photographer (m)
+- die Fotografin, -nen — photographer (f)
+- die Hauptstadt, -e" — capital city
+- der Infotext, -e — informational text
+- das Label, -s — brand
+- der Modedesigner, - — fashion designer (m)
+- die Modedesignerin, -nen — fashion designer (f)
+- der Modefan, -s — fashionista
+- die Modeschule, -n — fashion school
+- die Musikproduktion, -en — music production
+- die Szene, -n — scene
+- die Trendstadt, -e" — trendy city
+- der Deckel, - — lid
+- der Flagship-Store, -s — flagship store
+- der Haushalt, -e — household
+- der Individualist, -en — individualist (m)
+- die Individualistin, -nen — individualist (f)
+- das Modell, -e — model
+- die Saison, -en/-s — season
+- der Schuhfan, -s — shoe fan
+- der Schuhladen, -" — shoeshop
+- der Shop, -s — shop
+- das Souvenir, -s — souvenir
+- die Öffnungszeiten (Pl.) — opening hours
+- die Variation, -en — variation
+- die Architektur (Sg.) — architecture
+- der Designer, - — designer (m)
+- die Designerin, -nen — designer (f)
+- die Erfindung, -en — invention
+- das Gadget, -s — gadget
+- der Hof, -e" — courtyard
+- der Stichpunkt, -e — bullet point
+- der Demonstrativartikel, - — demonstrative article
+- der Interrogativartikel, - — interrogative article
+- der Kleiderkauf, -e" — clothes shopping
+- der Badeurlaub, -e — beach holiday
+- der Campingurlaub, -e — camping holiday
+- der Ski-Urlaub, -e — skiing holiday
+- der Snowboard-Urlaub, -e — snowboarding holiday
+- der Stadturlaub, -e — city trip
+- der Badeanzug, -e" — swimsuit
+- die Badehose, -n — swimming trunks
+- der Bikini, -s — bikini
+- das Gepäck (Sg.) — luggage
+- das Geschirr (Sg.) — dishes
+- der Handschuh, -e — glove
+- die Handtasche, -n — handbag
+- der Helm, -e — helmet
+- die Regenjacke, -n — rain coat
+- der Regenschirm, -e — umbrella
+- der Reiseführer, - (Liest du den Reiseführer über Basel?) — travel guide (Are you reading the Basel travel guide?)
+- die Reisetasche, -n — holdall
+- der Schlafsack, -e" — sleeping bag
+- die Seife, -n — soap
+- die Sonnenbrille, -n — sunglasses
+- die Sonnencreme, -s — sunscreen
+- die Winterjacke, -n — winter coat
+- das Zelt, -e — tent
+- die Anmeldung, -en (Ergänzen Sie Ihre Daten in der Anmeldung.) — registration (Add your data for the registration.)
+- der Ausweis, -e — ID card
+- die Daten (Pl.) — files
+- das Doppelzimmer, - — twin room
+- das Einzelzimmer, - — single room
+- die Karte, -n (Sie können mit Karte oder bar zahlen.) — card (You can pay with a card or in cash.)
+- die Papiere (Pl.) (Ich brauche Ihre Papiere: den Ausweis oder Pass.) — documents (I need your documents: ID card or passport.)
+- der Pass, -e" — passport
+- die Rezeption, -en — reception
+- die Städtereise, -n — city trip
+- die Stadtführung, -en — tour of the city
+- die Tram, -s — tram
+- der Vorschlag, -e" — suggestion, recommendation
+- der Schluss (Sg.) — end
+- die Abfahrt, -en — departure
+- die Ankunft, -e" — arrival
+- der Ausgang, -e" — exit
+- der Bahnsteig, -e — train platform
+- die Ecke, -n — corner
+- der Flughafen, -" — airport
+- das Gleis, -e — track
+- die Haltestelle, -n — station
+- die Route, -n — route
+- die Nummer, -n — number
+- der Platz, -e (Das Kino ist am Potsdamer Platz.)" — square (The cinema is at the Potsdamer square.)
+- die Tante, -n — aunt
+- der Zoo, -s — zoo
+- die Kunst, -e" — art
+- die Postkarte, -n — postcard
+- die Sehenswürdigkeit, -en — tourist attraction
+- die Auskunft, -e (Auskunft geben)" — information (to provide information)
+- der/die Bekannte, -n — acquaintance
+- der Handy-Akku, -s — phone battery
+- die Jugendherberge, -n — youth hostel
+- der Mann, -er (Mann	bin ich froh!)" — here: boy (Oh boy, was I glad!)
+- die Pension, -en — guesthouse
+- der Reisebericht, -e — travelogue
+- der Schaffner, - — conductor (m)
+- die Schaffnerin, -nen — conductor (f)
+- der Grund, -e" — reason
+- die Weise (Sg.) — manner
+- die Lieblingsfarbe, -n — favourite colour
+- die Reise, -n — trip
+- das Video, -s — video
+- das Deutschbuch, -er" — German book
+- der Flug, -e" — flight
+- die Wortliste, -n — word list
+- die Himmelsrichtung, -en — cardinal direction
+- die Karte, -n (Suchen Sie die Städte auf der Karte.) — map (Look for the cities on the map.)
+- der Norden (Sg.) — North
+- der Osten (Sg.) — East
+- der Süden (Sg.) — South
+- der Westen (Sg.) — West
+- der Berg, -e — mountain
+- die Burg, -en — castle
+- der Grad, -e — degree
+- das Pech (Sg.) — bad luck
+- der Traum, -e" — dream
+- die Urlaubsnachricht, -en — holiday message
+- der Wetterbericht, -e — weather report
+- der Wind, -e — wind
+- die Wolke, -n — cloud
+- die Hitze (Sg.) — heat
+- das Mistwetter (Sg.) — bad weather
+- das Reiseziel, -e — (travel) destination
+- der Abschnitt, -e — section, paragraph
+- das Angebot, -e (In der Stadt gibt es viele Angebote für Kultur.) — offer (There are a lot of cultural offers in the city.)
+- die Bewegung, -en — exercise, movement
+- der/die Deutsche, -n — German
+- das Dorf, -e" — village
+- die Insel, -n — island
+- die Kultur (Sg.) — culture
+- die Landschaft, -en — landscape
+- der Strand, -e" — beach
+- der Traumurlaub, -e — dream holiday
+- der Urlaubsort, -e — holiday resort
