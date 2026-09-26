@@ -95,7 +95,7 @@
 | 91 | voll | voller | am vollsten | full | Das Glas ist voll. | The glass is full. |
 | 92 | besondere | — | — | special | Das ist eine besondere Aufgabe. | That is a special task. |
 | 93 | extra | — | — | extra | Das kostet extra. | That costs extra. |
-| 94 | Xtra- | — | — |  | Das ist ein Xtra-Konzert. | That is an extra concert. |
+| 94 | Xtra- | — | — | extra | Das ist ein Xtra-Konzert. | That is an extra concert. |
 | 95 | klar | klarer | am klarsten | good | Alles klar! | All clear! |
 | 96 | supernett | — | — | super nice | Sie ist supernett. | She is super nice. |
 | 97 | anders | — | — | different | Das Leben ist anders. | Life is different. |
