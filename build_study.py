@@ -182,6 +182,10 @@ PLURAL_OVERRIDES = {
     "die Reinigungsfirma, -firmen": "die Reinigungsfirmen",
     "der Zoodirektor, -direktoren": "die Zoodirektoren",
     "die Putzfirma, -firmen": "die Putzfirmen",
+    "das Stadtzentrum, -zentren": "die Stadtzentren",
+    "das Unterthema, -themen": "die Unterthemen",
+    "das Girokonto, -konten": "die Girokonten",
+    "die Traumbank, -banken": "die Traumbanken",
 }
 
 

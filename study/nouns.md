@@ -812,275 +812,275 @@
 | Drehtag | der | der Drehtag | die Drehtage | des Drehtags | day of shooting | Der Drehtag beginnt früh. | The day of shooting starts early. |
 | Filmvorführung | die | die Filmvorführung | die Filmvorführungen | der Filmvorführung | film screening | Die Filmvorführung ist am Abend. | The film screening is in the evening. |
 | Redakteur | der | der Redakteur | die Redakteure | des Redakteurs | editor | Der Redakteur schreibt Artikel. | The editor writes articles. |
-| Kurzporträt | das | das Kurzporträt | die Kurzporträts | des Kurzporträts | brief portrait |  |  |
-| Entdeckungsreise | die | die Entdeckungsreise | die Entdeckungsreisen | der Entdeckungsreise | voyage of discovery |  |  |
-| Hip-Hop | — | Hip-Hop | — | — | hip-hop |  |  |
-| Inhaltsbeschreibung | die | die Inhaltsbeschreibung | die Inhaltsbeschreibungen | der Inhaltsbeschreibung | content description |  |  |
-| Kulturgrenze | die | die Kulturgrenze | die Kulturgrenzen | der Kulturgrenze | cultural boundary |  |  |
-| Sprachgrenze | die | die Sprachgrenze | die Sprachgrenzen | der Sprachgrenze | language border |  |  |
-| Verhältnis | das | das Verhältnis | die Verhältnisse | des Verhältnisses | relationship, ratio |  |  |
-| Volkslied | das | das Volkslied | die Volkslieder | des Volkslieds | folk song |  |  |
-| Gedicht | das | das Gedicht | die Gedichte | des Gedichts | poem |  |  |
-| Jäger | der | der Jäger | die Jäger | des Jägers | hunter |  |  |
-| Kerker | der | der Kerker | die Kerker | des Kerkers | dungeon |  |  |
-| Liedzeile | die | die Liedzeile | die Liedzeilen | der Liedzeile | song line |  |  |
-| Schranke | die | die Schranke | die Schranken | der Schranke | barrier |  |  |
-| Werk | das | das Werk | die Werke | des Werks | work, deed |  |  |
-| Ehrlichkeit | die | die Ehrlichkeit | — | der Ehrlichkeit | honesty, sincerity |  |  |
-| Fairness | die | die Fairness | — | der Fairness | fairness |  |  |
-| Gerechtigkeit | die | die Gerechtigkeit | — | der Gerechtigkeit | justice |  |  |
-| Gleichberechtigung | die | die Gleichberechtigung | — | der Gleichberechtigung | equality |  |  |
-| Hilfsbereitschaft | die | die Hilfsbereitschaft | — | der Hilfsbereitschaft | helpfulness |  |  |
-| Respekt | der | der Respekt | — | des Respekts | respect |  |  |
-| Toleranz | die | die Toleranz | — | der Toleranz | tolerance |  |  |
-| Wert | der | der Wert | die Werte | des Werts | value |  |  |
-| Zivilcourage | die | die Zivilcourage | — | der Zivilcourage | civic duty |  |  |
-| Zuordnung | die | die Zuordnung | die Zuordnungen | der Zuordnung | classification, assignment |  |  |
-| Abgeordnete | der/die | der/die Abgeordnete | die Abgeordneten | — | deputy |  |  |
-| Aufnahme | die | die Aufnahme | die Aufnahmen | der Aufnahme | recording, intake |  |  |
-| Blinde | der/die | der/die Blinde | die Blinden | — | blind person |  |  |
-| Bundeskanzler | der | der Bundeskanzler | die Bundeskanzler | des Bundeskanzlers | chancellor |  |  |
-| Bundeskanzlerin | die | die Bundeskanzlerin | die Bundeskanzlerinnen | der Bundeskanzlerin | chancellor |  |  |
-| Bundestag | der | der Bundestag | — | des Bundestags | German legislature |  |  |
-| Bürgermeister | der | der Bürgermeister | die Bürgermeister | des Bürgermeisters | mayor |  |  |
-| Einbürgerung | die | die Einbürgerung | die Einbürgerungen | der Einbürgerung | naturalization |  |  |
-| Einwanderer | der | der Einwanderer | die Einwanderer | des Einwanderers | immigrant |  |  |
-| Integration | die | die Integration | — | der Integration | integration |  |  |
-| Kandidatin | die | die Kandidatin | die Kandidatinnen | der Kandidatin | candidate |  |  |
-| Migrant | der | der Migrant | die Migranten | des Migrants | migrant |  |  |
-| Minister | der | der Minister | die Minister | des Ministers | minister |  |  |
-| Partei | die | die Partei | die Parteien | der Partei | political party |  |  |
-| Politik | die | die Politik | — | der Politik | politics |  |  |
-| Publikum | das | das Publikum | — | des Publikums | audience |  |  |
-| Recht | das | das Recht | die Rechte | des Rechts | right, justice |  |  |
-| Regierung | die | die Regierung | die Regierungen | der Regierung | government |  |  |
-| Schwerpunkt | der | der Schwerpunkt | die Schwerpunkte | des Schwerpunkts | center of gravity, main focus |  |  |
-| Religion | die | die Religion | die Religionen | der Religion | religion |  |  |
-| Arbeitssuche | die | die Arbeitssuche | — | der Arbeitssuche | job search |  |  |
-| Ausgabestelle | die | die Ausgabestelle | die Ausgabestellen | der Ausgabestelle | distribution location, issuing office |  |  |
-| Behördengang | der | der Behördengang | die Behördengänge | des Behördengangs | visit to the authorities |  |  |
-| Berufsfeuerwehr | die | die Berufsfeuerwehr | die Berufsfeuerwehren | der Berufsfeuerwehr | professional fire brigade |  |  |
-| Braten | der | der Braten | die Braten | des Bratens | roast |  |  |
-| Feuerwehrleute | die | — | die Feuerwehrleute | — | firefighters |  |  |
-| Hochwasser | das | das Hochwasser | die Hochwasser | des Hochwassers | flood |  |  |
-| Lehrgang | der | der Lehrgang | die Lehrgänge | des Lehrgangs | training course |  |  |
-| Margarine | die | die Margarine | die Margarinen | der Margarine | margarine |  |  |
-| Möhre | die | die Möhre | die Möhren | der Möhre | carrot |  |  |
-| Nachtzeit | die | die Nachtzeit | die Nachtzeiten | der Nachtzeit | nighttime |  |  |
-| Organisation | die | die Organisation | die Organisationen | der Organisation | organization |  |  |
-| Pate | der | der Pate | die Paten | des Pates | godparent |  |  |
-| Patenschaft | die | die Patenschaft | die Patenschaften | der Patenschaft | sponsorship, godparenthood |  |  |
-| Schwierigkeit | die | die Schwierigkeit | die Schwierigkeiten | der Schwierigkeit | difficulty |  |  |
-| Soße | die | die Soße | die Soßen | der Soße | sauce |  |  |
-| Verein | der | der Verein | die Vereine | des Vereins | association, club |  |  |
-| Vereinsmitglied | das | das Vereinsmitglied | die Vereinsmitglieder | des Vereinsmitglieds | club member |  |  |
-| Wohnungssuche | die | die Wohnungssuche | — | der Wohnungssuche | apartment search |  |  |
-| Brand | der | der Brand | die Brände | des Brands | fire, blaze |  |  |
-| Grundstück | das | das Grundstück | die Grundstücke | des Grundstücks | plot of land, property |  |  |
-| Abzug | der | der Abzug | — | des Abzugs | deduction |  |  |
-| Einkauf | der | der Einkauf | die Einkäufe | des Einkaufs | purchase |  |  |
-| Halle | die | die Halle | die Hallen | der Halle | hall |  |  |
-| Hochschule | die | die Hochschule | die Hochschulen | der Hochschule | institution of higher education |  |  |
-| Indien | — | Indien | — | — | India |  |  |
-| Jobcenter | das | das Jobcenter | die Jobcenter | des Jobcenters | career center |  |  |
-| Jugendgruppe | die | die Jugendgruppe | die Jugendgruppen | der Jugendgruppe | youth group |  |  |
-| Spielgeld | das | das Spielgeld | — | des Spielgelds | play money |  |  |
-| Spielstadt | die | die Spielstadt | die Spielstädte | der Spielstadt | play city |  |  |
-| Streik | der | der Streik | die Streiks | des Streiks | strike |  |  |
-| Studienplatz | der | der Studienplatz | die Studienplätze | des Studienplatzes | place to study |  |  |
-| Studienzeit | die | die Studienzeit | die Studienzeiten | der Studienzeit | time to study |  |  |
-| Verkauf | der | der Verkauf | die Verkäufe | des Verkaufs | sale |  |  |
-| Norden | der | der Norden | — | des Nordens | north |  |  |
-| Süden | der | der Süden | — | des Südens | south |  |  |
-| Lieferung | die | die Lieferung | die Lieferungen | der Lieferung | shipment |  |  |
-| Straßenlaterne | die | die Straßenlaterne | die Straßenlaternen | der Straßenlaterne | streetlight |  |  |
-| EU | die | die EU | — | der EU | EU |  |  |
-| Union | die | die Union | die Unionen | der Union | union |  |  |
-| Dienstleistung | die | die Dienstleistung | die Dienstleistungen | der Dienstleistung | service |  |  |
-| EU-Land | das | das EU-Land | die EU-Länder | des EU-Lands | EU country |  |  |
-| Europäische Union | die | die Europäische Union | — | der Europäische Union | European Union |  |  |
-| Gemeinschaft | die | die Gemeinschaft | die Gemeinschaften | der Gemeinschaft | community |  |  |
-| Grenzkontrolle | die | die Grenzkontrolle | die Grenzkontrollen | der Grenzkontrolle | border control |  |  |
-| Vortrag | der | der Vortrag | die Vorträge | des Vortrags | lecture |  |  |
-| EU-Bürger | der | der EU-Bürger | die EU-Bürger | des EU-Bürgers | EU citizen |  |  |
-| Struktur | die | die Struktur | die Strukturen | der Struktur | structure |  |  |
-| Abfall | der | der Abfall | die Abfälle | des Abfalls | waste |  |  |
-| Abgas | das | das Abgas | die Abgase | des Abgases | exhaust |  |  |
-| Betrieb | der | der Betrieb | die Betriebe | des Betriebs | operation, factory |  |  |
-| Dreck | der | der Dreck | — | des Drecks | dirt |  |  |
-| Fahrbahn | die | die Fahrbahn | die Fahrbahnen | der Fahrbahn | roadway |  |  |
-| Fahrzeug | das | das Fahrzeug | die Fahrzeuge | des Fahrzeugs | automobile |  |  |
-| Fußgängerzone | die | die Fußgängerzone | die Fußgängerzonen | der Fußgängerzone | pedestrian zone |  |  |
-| Gebiet | das | das Gebiet | die Gebiete | des Gebiets | area, territory |  |  |
-| Gehsteig | der | der Gehsteig | die Gehsteige | des Gehsteigs | sidewalk |  |  |
-| Geschwindigkeit | die | die Geschwindigkeit | die Geschwindigkeiten | der Geschwindigkeit | speed, velocity |  |  |
-| Lärm | der | der Lärm | — | des Lärms | noise |  |  |
-| Rand | der | der Rand | die Ränder | des Rands | edge, outskirts |  |  |
-| Schaufenster | das | das Schaufenster | die Schaufenster | des Schaufensters | display window |  |  |
-| Schmutz | der | der Schmutz | — | des Schmutzes | dirt, grime |  |  |
-| Stadtteil | der | der Stadtteil | die Stadtteile | des Stadtteils | part of town; quarter |  |  |
-| Stadtzentrum | das | das Stadtzentrum | die Stadtzentrumzentren | des Stadtzentrums | city center |  |  |
-| Tempo | das | das Tempo | die Tempos | des Tempos | tempo, speed |  |  |
-| Viertel | das | das Viertel | die Viertel | des Viertels | quarter |  |  |
-| Zone | die | die Zone | die Zonen | der Zone | zone |  |  |
-| Einkaufsstraße | die | die Einkaufsstraße | die Einkaufsstraßen | der Einkaufsstraße | shopping street |  |  |
-| Arbeitswoche | die | die Arbeitswoche | die Arbeitswochen | der Arbeitswoche | workweek |  |  |
-| Forumsname | der | der Forumsname | die Forumsnamen | des Forumsnames | forum name |  |  |
-| Shopping | das | das Shopping | — | des Shoppings | shopping |  |  |
-| Stadtmensch | der | der Stadtmensch | die Stadtmenschen | des Stadtmensches | city person |  |  |
-| Stadttyp | der | der Stadttyp | die Stadttypen | des Stadttyps | city person |  |  |
-| Studentenleben | das | das Studentenleben | — | des Studentenlebens | student life |  |  |
-| Landmensch | der | der Landmensch | die Landmenschen | des Landmensches | country person |  |  |
-| Stadtgarten | der | der Stadtgarten | die Stadtgärten | des Stadtgartens | city garden |  |  |
-| Backstube | die | die Backstube | die Backstuben | der Backstube | bakery |  |  |
-| Bauhof | der | der Bauhof | die Bauhöfe | des Bauhofs | construction yard |  |  |
-| Dienst | der | der Dienst | die Dienste | des Diensts | work, service |  |  |
-| Fahrerin | die | die Fahrerin | die Fahrerinnen | der Fahrerin | driver |  |  |
-| Frühschicht | die | die Frühschicht | die Frühschichten | der Frühschicht | morning shift |  |  |
-| Hochtouren | die | — | die Hochtouren | — | full speed, high gear |  |  |
-| Korb | der | der Korb | die Körbe | des Korbs | basket |  |  |
-| Lehrling | der | der Lehrling | die Lehrlinge | des Lehrlings | apprentice, trainee |  |  |
-| Magazinbericht | der | der Magazinbericht | die Magazinberichte | des Magazinberichts | magazine report |  |  |
-| Obdachlose | der/die | der/die Obdachlose | die Obdachlosen | — | homeless person |  |  |
-| Operation | die | die Operation | die Operationen | der Operation | operation, surgery |  |  |
-| Reinigungsfahrzeug | das | das Reinigungsfahrzeug | die Reinigungsfahrzeuge | des Reinigungsfahrzeugs | street cleaning vehicle |  |  |
-| Übernahme | die | die Übernahme | die Übernahmen | der Übernahme | takeover, change of shifts |  |  |
-| Weg | der | der Weg | die Wege | des Weges | way, path |  |  |
-| Fahrer | der | der Fahrer | die Fahrer | des Fahrers | driver |  |  |
-| Nachtdienst | der | der Nachtdienst | die Nachtdienste | des Nachtdiensts | night shift |  |  |
-| Sozialarbeiter | der | der Sozialarbeiter | die Sozialarbeiter | des Sozialarbeiters | social worker |  |  |
-| Arbeitssuchende | der/die | der/die Arbeitssuchende | die Arbeitssuchenden | — | job searcher |  |  |
-| Ausbildungsplatz | der | der Ausbildungsplatz | die Ausbildungsplätze | des Ausbildungsplatzes | trainee position |  |  |
-| Einkommensstruktur | die | die Einkommensstruktur | die Einkommensstrukturen | der Einkommensstruktur | income distribution |  |  |
-| Informationsquelle | die | die Informationsquelle | die Informationsquellen | der Informationsquelle | information source |  |  |
-| Interessierte | der/die | der/die Interessierte | die Interessierten | — | interest |  |  |
-| Investor | der | der Investor | die Investoren | des Investors | investor |  |  |
-| Kriterium | das | das Kriterium | die Kriterien | des Kriteriums | criterion |  |  |
-| Liste | die | die Liste | die Listen | der Liste | list |  |  |
-| Ministerium | das | das Ministerium | die Ministerien | des Ministeriums | ministry |  |  |
-| Rang | der | der Rang | die Ränge | des Rangs | rank |  |  |
-| Ranking | das | das Ranking | die Rankings | des Rankings | ranking |  |  |
-| Rankingplatz | der | der Rankingplatz | die Rankingplätze | des Rankingplatzes | ranking |  |  |
-| Städteranking | das | das Städteranking | die Städterankings | des Städterankings | city ranking |  |  |
-| Freizeitmöglichkeit | die | die Freizeitmöglichkeit | die Freizeitmöglichkeiten | der Freizeitmöglichkeit | recreational opportunity |  |  |
-| Gehaltsniveau | das | das Gehaltsniveau | die Gehaltsniveaus | des Gehaltsniveaus | salary level |  |  |
-| Themenbereich | der | der Themenbereich | die Themenbereiche | des Themenbereichs | topic, subject area |  |  |
-| Unterthema | das | das Unterthema | die Unterthemathemen | des Unterthemas | subtopic |  |  |
-| Zufriedenheit | die | die Zufriedenheit | — | der Zufriedenheit | satisfaction |  |  |
-| Kursort | der | der Kursort | die Kursorte | des Kursorts | course location |  |  |
-| Zusammenhang | der | der Zusammenhang | die Zusammenhänge | des Zusammenhangs | context |  |  |
-| Kölsch | — | Kölsch | — | — | Colognian |  |  |
-| Öffnungszeiten | die | — | die Öffnungszeiten | — | opening hours |  |  |
-| Feiertag | der | der Feiertag | die Feiertage | des Feiertags | holiday |  |  |
-| Ahnung | die | die Ahnung | die Ahnungen | der Ahnung | idea, notion |  |  |
-| Attraktion | die | die Attraktion | die Attraktionen | der Attraktion | attraction |  |  |
-| Büdchen | das | das Büdchen | die Büdchen | des Büdchens | kiosk |  |  |
-| Bude | die | die Bude | die Buden | der Bude | booth |  |  |
-| Chips | die | — | die Chips | — | chips |  |  |
-| Currygewürz | das | das Currygewürz | die Currygewürze | des Currygewürzes | curry |  |  |
-| Dialekt | der | der Dialekt | die Dialekte | des Dialekts | dialect |  |  |
-| Etage | die | die Etage | die Etagen | der Etage | level, floor, story |  |  |
-| Flucht | die | die Flucht | — | der Flucht | escape |  |  |
-| Hühnerfleisch | das | das Hühnerfleisch | — | des Hühnerfleisches | chicken meat |  |  |
-| Krimi | der | der Krimi | die Krimis | des Krimis | crime story, crime film |  |  |
-| Laden | der | der Laden | die Läden | des Ladens | shop |  |  |
-| Magen | der | der Magen | die Mägen | des Magens | stomach |  |  |
-| Sandwich | der | der Sandwich | die Sandwichs | des Sandwichs | sandwich |  |  |
-| Stadtführer | der | der Stadtführer | die Stadtführer | des Stadtführers | city guide |  |  |
-| Stammkneipe | die | die Stammkneipe | die Stammkneipen | der Stammkneipe | local pub |  |  |
-| Täter | der | der Täter | die Täter | des Täters | offender, culprit |  |  |
-| Tote | der/die | der/die Tote | die Toten | — | dead person |  |  |
-| Verdächtige | der/die | der/die Verdächtige | die Verdächtigen | — | suspect |  |  |
-| Verkaufsstand | der | der Verkaufsstand | die Verkaufsstände | des Verkaufsstands | sales booth |  |  |
-| Zeuge | der | der Zeuge | die Zeugen | des Zeuges | witness |  |  |
-| Freizeitaktivität | die | die Freizeitaktivität | die Freizeitaktivitäten | der Freizeitaktivität | leisure activity |  |  |
-| Tourismus | der | der Tourismus | — | des Tourismuses | tourism |  |  |
-| Geschäftspartner | der | der Geschäftspartner | die Geschäftspartner | des Geschäftspartners | business partner |  |  |
-| Geschäftspartnerin | die | die Geschäftspartnerin | die Geschäftspartnerinnen | der Geschäftspartnerin | business partner |  |  |
-| Spalte | die | die Spalte | die Spalten | der Spalte | column |  |  |
-| Beleg | der | der Beleg | die Belege | des Belegs | document, voucher |  |  |
-| Mahnung | die | die Mahnung | die Mahnungen | der Mahnung | reminder |  |  |
-| Sportverein | der | der Sportverein | die Sportvereine | des Sportvereins | sports club |  |  |
-| Vereinskasse | die | die Vereinskasse | die Vereinskassen | der Vereinskasse | club treasury |  |  |
-| Bohnenkaffee | der | der Bohnenkaffee | — | des Bohnenkaffees | coffee beans |  |  |
-| Einheit | die | die Einheit | die Einheiten | der Einheit | unity |  |  |
-| Herrenanzug | der | der Herrenanzug | die Herrenanzüge | des Herrenanzugs | men‘s suit |  |  |
-| Kleiderschrank | der | der Kleiderschrank | die Kleiderschränke | des Kleiderschranks | wardrobe |  |  |
-| Mischbrot | das | das Mischbrot | die Mischbrote | des Mischbrots | brown bread |  |  |
-| Schweinekotelett | das | das Schweinekotelett | die Schweinekoteletts | des Schweinekoteletts | pork chop |  |  |
-| Vollmilch | die | die Vollmilch | — | der Vollmilch | whole milk |  |  |
-| EC-Karte | die | die EC-Karte | die EC-Karten | der EC-Karte | debit card |  |  |
-| Geldautomat | der | der Geldautomat | die Geldautomaten | des Geldautomats | ATM, automatic teller machine |  |  |
-| Girokonto | das | das Girokonto | die Girokontokonten | des Girokontos | checking account |  |  |
-| Kontoeröffnung | die | die Kontoeröffnung | die Kontoeröffnungen | der Kontoeröffnung | account opening |  |  |
-| Traumbank | die | die Traumbank | die Traumbankbanken | der Traumbank | dream bank |  |  |
-| Bankangestellte | der/die | der/die Bankangestellte | die Bankangestellten | — | bank teller |  |  |
-| Geheimnummer | die | die Geheimnummer | die Geheimnummern | der Geheimnummer | secret number |  |  |
-| Kredit | der | der Kredit | die Kredite | des Kredits | credit |  |  |
-| PIN | die | die PIN | die PINs | der PIN | PIN, personal identification number |  |  |
-| Portemonnaie | das | das Portemonnaie | die Portemonnaies | des Portemonnaies | wallet |  |  |
-| Eurone | die | die Eurone | die Euronen | der Eurone | Euro |  |  |
-| Kohle | die | die Kohle | — | der Kohle | coal |  |  |
-| Kröten | die | — | die Kröten | — | toads |  |  |
-| Mäuse | die | — | die Mäuse | — | mice |  |  |
-| Umgangssprache | die | die Umgangssprache | — | der Umgangssprache | colloquial language |  |  |
-| Bankkunde | der | der Bankkunde | die Bankkunden | des Bankkundes | bank customer |  |  |
-| Bargeld | das | das Bargeld | — | des Bargelds | cash |  |  |
-| Betrag | der | der Betrag | die Beträge | des Betrags | sum, amount |  |  |
-| Geheimzahl | die | die Geheimzahl | die Geheimzahlen | der Geheimzahl | secret number |  |  |
-| Karte | die | die Karte | die Karten | der Karte | card |  |  |
-| Kontonummer | die | die Kontonummer | die Kontonummern | der Kontonummer | account number |  |  |
-| Bankautomat | der | der Bankautomat | die Bankautomaten | des Bankautomats | ATM, automatic teller machine |  |  |
-| Bankgeschäft | das | das Bankgeschäft | die Bankgeschäfte | des Bankgeschäfts | banking |  |  |
-| Bedeutung | die | die Bedeutung | die Bedeutungen | der Bedeutung | meaning |  |  |
-| Chip | der | der Chip | die Chips | des Chips | smart card, chip-and-PIN card |  |  |
-| Dauerauftrag | der | der Dauerauftrag | die Daueraufträge | des Dauerauftrags | recurring payment, standing order |  |  |
-| Diebstahl | der | der Diebstahl | die Diebstähle | des Diebstahls | theft |  |  |
-| Fahrkartenautomat | der | der Fahrkartenautomat | die Fahrkartenautomaten | des Fahrkartenautomats | ticket machine |  |  |
-| Filiale | die | die Filiale | die Filialen | der Filiale | branch |  |  |
-| Geldbetrag | der | der Geldbetrag | die Geldbeträge | des Geldbetrags | sum of money |  |  |
-| Geldkarten-Chip | der | der Geldkarten-Chip | die Geldkarten-Chips | des Geldkarten-Chips | money chip |  |  |
-| Kontoauszug | der | der Kontoauszug | die Kontoauszüge | des Kontoauszugs | account withdrawal |  |  |
-| Neukunde | der | der Neukunde | die Neukunden | des Neukundes | new customer |  |  |
-| Parkautomat | der | der Parkautomat | die Parkautomaten | des Parkautomats | parking meter |  |  |
-| Verlust | der | der Verlust | die Verluste | des Verlusts | loss |  |  |
-| Globalisierung | die | die Globalisierung | — | der Globalisierung | globalization |  |  |
-| Asien | — | Asien | — | — | Asia |  |  |
-| Auswahl | die | die Auswahl | — | der Auswahl | selection |  |  |
-| Banker | der | der Banker | die Banker | des Bankers | banker |  |  |
-| Bedingung | die | die Bedingung | die Bedingungen | der Bedingung | condition |  |  |
-| Finanzkrise | die | die Finanzkrise | die Finanzkrisen | der Finanzkrise | financial crisis |  |  |
-| Forschung | die | die Forschung | die Forschungen | der Forschung | research |  |  |
-| Fortschritt | der | der Fortschritt | die Fortschritte | des Fortschritts | progress |  |  |
-| Handyhersteller | der | der Handyhersteller | die Handyhersteller | des Handyherstellers | mobile phone manufacturer |  |  |
-| Konkurrenz | die | die Konkurrenz | — | der Konkurrenz | competition |  |  |
-| Lohn | der | der Lohn | die Löhne | des Lohns | wage, pay |  |  |
-| Topmanager | der | der Topmanager | die Topmanager | des Topmanagers | top manager |  |  |
-| Weltmarkt | der | der Weltmarkt | — | des Weltmarkts | world market |  |  |
-| Wohlstand | der | der Wohlstand | — | des Wohlstands | prosperity |  |  |
-| Versprechen | das | das Versprechen | die Versprechen | des Versprechens | promise |  |  |
-| Gewissen | das | das Gewissen | — | des Gewissens | conscience |  |  |
-| Dieb | der | der Dieb | die Diebe | des Diebs | thief |  |  |
-| Gewissensfrage | die | die Gewissensfrage | die Gewissensfragen | der Gewissensfrage | question of conscience |  |  |
-| Großtante | die | die Großtante | die Großtanten | der Großtante | great-aunt |  |  |
-| Kleingeld | das | das Kleingeld | — | des Kleingelds | small change |  |  |
-| Vorwurf | der | der Vorwurf | die Vorwürfe | des Vorwurfs | accusation |  |  |
-| Zeitungskasten | der | der Zeitungskasten | die Zeitungskästen | des Zeitungskastens | newspaper rack |  |  |
-| Blickkontakt | der | der Blickkontakt | — | des Blickkontakts | eye contact |  |  |
-| Arbeiter | der | der Arbeiter | die Arbeiter | des Arbeiters | worker, laborer |  |  |
-| Entstehungszeit | die | die Entstehungszeit | die Entstehungszeiten | der Entstehungszeit | time of origin |  |  |
-| Gasse | die | die Gasse | die Gassen | der Gasse | alley |  |  |
-| Immobilie | die | die Immobilie | die Immobilien | der Immobilie | real estate |  |  |
-| Jahresmiete | die | die Jahresmiete | die Jahresmieten | der Jahresmiete | yearly rent |  |  |
-| Kaufmannsfamilie | die | die Kaufmannsfamilie | die Kaufmannsfamilien | der Kaufmannsfamilie | merchant family |  |  |
-| Konzeption | die | die Konzeption | die Konzeptionen | der Konzeption | idea, conception |  |  |
-| Nachtwächter | der | der Nachtwächter | die Nachtwächter | des Nachtwächters | night watchman |  |  |
-| Nebenkosten | die | — | die Nebenkosten | — | additional costs |  |  |
-| Originalzustand | der | der Originalzustand | die Originalzustände | des Originalzustands | original condition |  |  |
-| Schulden | die | — | die Schulden | — | debt |  |  |
-| Selbsthilfe | die | die Selbsthilfe | — | der Selbsthilfe | self-help |  |  |
-| Siedlung | die | die Siedlung | die Siedlungen | der Siedlung | settlement, housing scheme |  |  |
-| Sozialsiedlung | die | die Sozialsiedlung | die Sozialsiedlungen | der Sozialsiedlung | social housing project |  |  |
-| Stadtmauer | die | die Stadtmauer | die Stadtmauern | der Stadtmauer | city wall |  |  |
-| Stiftungsvermögen | das | das Stiftungsvermögen | die Stiftungsvermögen | des Stiftungsvermögens | endowment |  |  |
-| Urgroßvater | der | der Urgroßvater | die Urgroßväter | des Urgroßvaters | great-grandfather |  |  |
+| Kurzporträt | das | das Kurzporträt | die Kurzporträts | des Kurzporträts | brief portrait | Das Kurzporträt ist kurz. | The brief portrait is short. |
+| Entdeckungsreise | die | die Entdeckungsreise | die Entdeckungsreisen | der Entdeckungsreise | voyage of discovery | Die Entdeckungsreise war lang. | The voyage of discovery was long. |
+| Hip-Hop | — | Hip-Hop | — | — | hip-hop | Hip-Hop ist modern. | Hip-hop is modern. |
+| Inhaltsbeschreibung | die | die Inhaltsbeschreibung | die Inhaltsbeschreibungen | der Inhaltsbeschreibung | content description | Die Inhaltsbeschreibung ist kurz. | The content description is short. |
+| Kulturgrenze | die | die Kulturgrenze | die Kulturgrenzen | der Kulturgrenze | cultural boundary | Die Kulturgrenze ist offen. | The cultural boundary is open. |
+| Sprachgrenze | die | die Sprachgrenze | die Sprachgrenzen | der Sprachgrenze | language border | Die Sprachgrenze ist klar. | The language border is clear. |
+| Verhältnis | das | das Verhältnis | die Verhältnisse | des Verhältnisses | relationship, ratio | Das Verhältnis ist gut. | The relationship is good. |
+| Volkslied | das | das Volkslied | die Volkslieder | des Volkslieds | folk song | Das Volkslied ist alt. | The folk song is old. |
+| Gedicht | das | das Gedicht | die Gedichte | des Gedichts | poem | Das Gedicht ist schön. | The poem is beautiful. |
+| Jäger | der | der Jäger | die Jäger | des Jägers | hunter | Der Jäger geht in den Wald. | The hunter goes into the forest. |
+| Kerker | der | der Kerker | die Kerker | des Kerkers | dungeon | Der Kerker ist dunkel. | The dungeon is dark. |
+| Liedzeile | die | die Liedzeile | die Liedzeilen | der Liedzeile | song line | Die Liedzeile ist schön. | The song line is nice. |
+| Schranke | die | die Schranke | die Schranken | der Schranke | barrier | Die Schranke ist zu. | The barrier is closed. |
+| Werk | das | das Werk | die Werke | des Werks | work, deed | Das Werk ist wichtig. | The work is important. |
+| Ehrlichkeit | die | die Ehrlichkeit | — | der Ehrlichkeit | honesty, sincerity | Die Ehrlichkeit ist wichtig. | The honesty is important. |
+| Fairness | die | die Fairness | — | der Fairness | fairness | Die Fairness ist wichtig. | The fairness is important. |
+| Gerechtigkeit | die | die Gerechtigkeit | — | der Gerechtigkeit | justice | Die Gerechtigkeit ist wichtig. | The justice is important. |
+| Gleichberechtigung | die | die Gleichberechtigung | — | der Gleichberechtigung | equality | Die Gleichberechtigung ist wichtig. | The equality is important. |
+| Hilfsbereitschaft | die | die Hilfsbereitschaft | — | der Hilfsbereitschaft | helpfulness | Die Hilfsbereitschaft ist groß. | The helpfulness is big. |
+| Respekt | der | der Respekt | — | des Respekts | respect | Der Respekt ist wichtig. | The respect is important. |
+| Toleranz | die | die Toleranz | — | der Toleranz | tolerance | Die Toleranz ist wichtig. | The tolerance is important. |
+| Wert | der | der Wert | die Werte | des Werts | value | Der Wert ist groß. | The value is big. |
+| Zivilcourage | die | die Zivilcourage | — | der Zivilcourage | civic duty | Die Zivilcourage ist wichtig. | The civic duty is important. |
+| Zuordnung | die | die Zuordnung | die Zuordnungen | der Zuordnung | classification, assignment | Die Zuordnung ist klar. | The classification is clear. |
+| Abgeordnete | der/die | der/die Abgeordnete | die Abgeordneten | — | deputy | Der Abgeordnete spricht im Parlament. | The deputy speaks in the parliament. |
+| Aufnahme | die | die Aufnahme | die Aufnahmen | der Aufnahme | recording, intake | Die Aufnahme beginnt. | The recording starts. |
+| Blinde | der/die | der/die Blinde | die Blinden | — | blind person | Der Blinde liest mit den Händen. | The blind person reads with the hands. |
+| Bundeskanzler | der | der Bundeskanzler | die Bundeskanzler | des Bundeskanzlers | chancellor | Der Bundeskanzler führt die Regierung. | The chancellor leads the government. |
+| Bundeskanzlerin | die | die Bundeskanzlerin | die Bundeskanzlerinnen | der Bundeskanzlerin | chancellor | Die Bundeskanzlerin ist bekannt. | The chancellor is famous. |
+| Bundestag | der | der Bundestag | — | des Bundestags | German legislature | Der Bundestag entscheidet. | The German legislature decides. |
+| Bürgermeister | der | der Bürgermeister | die Bürgermeister | des Bürgermeisters | mayor | Der Bürgermeister begrüßt die Gäste. | The mayor welcomes the guests. |
+| Einbürgerung | die | die Einbürgerung | die Einbürgerungen | der Einbürgerung | naturalization | Die Einbürgerung dauert lange. | The naturalization takes long. |
+| Einwanderer | der | der Einwanderer | die Einwanderer | des Einwanderers | immigrant | Der Einwanderer kommt aus Syrien. | The immigrant comes from Syria. |
+| Integration | die | die Integration | — | der Integration | integration | Die Integration ist wichtig. | The integration is important. |
+| Kandidatin | die | die Kandidatin | die Kandidatinnen | der Kandidatin | candidate | Die Kandidatin gewinnt. | The candidate wins. |
+| Migrant | der | der Migrant | die Migranten | des Migrants | migrant | Der Migrant sucht Arbeit. | The migrant looks for work. |
+| Minister | der | der Minister | die Minister | des Ministers | minister | Der Minister erklärt das Gesetz. | The minister explains the law. |
+| Partei | die | die Partei | die Parteien | der Partei | political party | Die Partei hat viele Mitglieder. | The political party has many members. |
+| Politik | die | die Politik | — | der Politik | politics | Die Politik ist spannend. | The politics is exciting. |
+| Publikum | das | das Publikum | — | des Publikums | audience | Das Publikum klatscht. | The audience claps. |
+| Recht | das | das Recht | die Rechte | des Rechts | right, justice | Das Recht gilt für alle. | The right applies to everyone. |
+| Regierung | die | die Regierung | die Regierungen | der Regierung | government | Die Regierung arbeitet. | The government works. |
+| Schwerpunkt | der | der Schwerpunkt | die Schwerpunkte | des Schwerpunkts | center of gravity, main focus | Der Schwerpunkt ist die Arbeit. | The main focus is the work. |
+| Religion | die | die Religion | die Religionen | der Religion | religion | Die Religion ist frei. | The religion is free. |
+| Arbeitssuche | die | die Arbeitssuche | — | der Arbeitssuche | job search | Die Arbeitssuche dauert lange. | The job search takes long. |
+| Ausgabestelle | die | die Ausgabestelle | die Ausgabestellen | der Ausgabestelle | distribution location, issuing office | Die Ausgabestelle ist offen. | The issuing office is open. |
+| Behördengang | der | der Behördengang | die Behördengänge | des Behördengangs | visit to the authorities | Der Behördengang ist nötig. | The visit to the authorities is necessary. |
+| Berufsfeuerwehr | die | die Berufsfeuerwehr | die Berufsfeuerwehren | der Berufsfeuerwehr | professional fire brigade | Die Berufsfeuerwehr kommt schnell. | The professional fire brigade comes quickly. |
+| Braten | der | der Braten | die Braten | des Bratens | roast | Der Braten ist im Ofen. | The roast is in the oven. |
+| Feuerwehrleute | die | — | die Feuerwehrleute | — | firefighters | Die Feuerwehrleute helfen. | The firefighters help. |
+| Hochwasser | das | das Hochwasser | die Hochwasser | des Hochwassers | flood | Das Hochwasser ist gefährlich. | The flood is dangerous. |
+| Lehrgang | der | der Lehrgang | die Lehrgänge | des Lehrgangs | training course | Der Lehrgang beginnt im Mai. | The training course starts in May. |
+| Margarine | die | die Margarine | die Margarinen | der Margarine | margarine | Die Margarine ist im Kühlschrank. | The margarine is in the fridge. |
+| Möhre | die | die Möhre | die Möhren | der Möhre | carrot | Die Möhre ist frisch. | The carrot is fresh. |
+| Nachtzeit | die | die Nachtzeit | die Nachtzeiten | der Nachtzeit | nighttime | Die Nachtzeit ist ruhig. | The nighttime is quiet. |
+| Organisation | die | die Organisation | die Organisationen | der Organisation | organization | Die Organisation hilft. | The organization helps. |
+| Pate | der | der Pate | die Paten | des Pates | godparent | Der Pate ist mein Onkel. | The godparent is my uncle. |
+| Patenschaft | die | die Patenschaft | die Patenschaften | der Patenschaft | sponsorship, godparenthood | Die Patenschaft ist wichtig. | The sponsorship is important. |
+| Schwierigkeit | die | die Schwierigkeit | die Schwierigkeiten | der Schwierigkeit | difficulty | Die Schwierigkeit ist klein. | The difficulty is small. |
+| Soße | die | die Soße | die Soßen | der Soße | sauce | Die Soße ist lecker. | The sauce is tasty. |
+| Verein | der | der Verein | die Vereine | des Vereins | association, club | Der Verein ist groß. | The association is big. |
+| Vereinsmitglied | das | das Vereinsmitglied | die Vereinsmitglieder | des Vereinsmitglieds | club member | Das Vereinsmitglied zahlt. | The club member pays. |
+| Wohnungssuche | die | die Wohnungssuche | — | der Wohnungssuche | apartment search | Die Wohnungssuche beginnt. | The apartment search starts. |
+| Brand | der | der Brand | die Brände | des Brands | fire, blaze | Der Brand war groß. | The fire was big. |
+| Grundstück | das | das Grundstück | die Grundstücke | des Grundstücks | plot of land, property | Das Grundstück ist groß. | The plot of land is big. |
+| Abzug | der | der Abzug | — | des Abzugs | deduction | Der Abzug ist hoch. | The deduction is high. |
+| Einkauf | der | der Einkauf | die Einkäufe | des Einkaufs | purchase | Der Einkauf macht Spaß. | The purchase is fun. |
+| Halle | die | die Halle | die Hallen | der Halle | hall | Die Halle ist groß. | The hall is big. |
+| Hochschule | die | die Hochschule | die Hochschulen | der Hochschule | institution of higher education | Die Hochschule ist berühmt. | The institution of higher education is famous. |
+| Indien | — | Indien | — | — | India | Indien ist groß. | India is big. |
+| Jobcenter | das | das Jobcenter | die Jobcenter | des Jobcenters | career center | Das Jobcenter hilft. | The career center helps. |
+| Jugendgruppe | die | die Jugendgruppe | die Jugendgruppen | der Jugendgruppe | youth group | Die Jugendgruppe trifft sich. | The youth group meets. |
+| Spielgeld | das | das Spielgeld | — | des Spielgelds | play money | Das Spielgeld ist bunt. | The play money is colourful. |
+| Spielstadt | die | die Spielstadt | die Spielstädte | der Spielstadt | play city | Die Spielstadt ist klein. | The play city is small. |
+| Streik | der | der Streik | die Streiks | des Streiks | strike | Der Streik beginnt am Montag. | The strike starts on Monday. |
+| Studienplatz | der | der Studienplatz | die Studienplätze | des Studienplatzes | place to study | Der Studienplatz ist frei. | The place to study is free. |
+| Studienzeit | die | die Studienzeit | die Studienzeiten | der Studienzeit | time to study | Die Studienzeit ist kurz. | The time to study is short. |
+| Verkauf | der | der Verkauf | die Verkäufe | des Verkaufs | sale | Der Verkauf beginnt. | The sale starts. |
+| Norden | der | der Norden | — | des Nordens | north | Der Norden ist kalt. | The north is cold. |
+| Süden | der | der Süden | — | des Südens | south | Der Süden ist warm. | The south is warm. |
+| Lieferung | die | die Lieferung | die Lieferungen | der Lieferung | shipment | Die Lieferung kommt heute. | The shipment arrives today. |
+| Straßenlaterne | die | die Straßenlaterne | die Straßenlaternen | der Straßenlaterne | streetlight | Die Straßenlaterne ist hell. | The streetlight is bright. |
+| EU | die | die EU | — | der EU | EU | Die EU hat viele Länder. | The EU has many countries. |
+| Union | die | die Union | die Unionen | der Union | union | Die Union ist stark. | The union is strong. |
+| Dienstleistung | die | die Dienstleistung | die Dienstleistungen | der Dienstleistung | service | Die Dienstleistung ist gut. | The service is good. |
+| EU-Land | das | das EU-Land | die EU-Länder | des EU-Lands | EU country | Das EU-Land ist groß. | The EU country is big. |
+| Europäische Union | die | die Europäische Union | — | der Europäische Union | European Union | Die Europäische Union ist groß. | The European Union is big. |
+| Gemeinschaft | die | die Gemeinschaft | die Gemeinschaften | der Gemeinschaft | community | Die Gemeinschaft hilft. | The community helps. |
+| Grenzkontrolle | die | die Grenzkontrolle | die Grenzkontrollen | der Grenzkontrolle | border control | Die Grenzkontrolle ist offen. | The border control is open. |
+| Vortrag | der | der Vortrag | die Vorträge | des Vortrags | lecture | Der Vortrag ist interessant. | The lecture is interesting. |
+| EU-Bürger | der | der EU-Bürger | die EU-Bürger | des EU-Bürgers | EU citizen | Der EU-Bürger hat Rechte. | The EU citizen has rights. |
+| Struktur | die | die Struktur | die Strukturen | der Struktur | structure | Die Struktur ist klar. | The structure is clear. |
+| Abfall | der | der Abfall | die Abfälle | des Abfalls | waste | Der Abfall ist im Eimer. | The waste is in the bin. |
+| Abgas | das | das Abgas | die Abgase | des Abgases | exhaust | Das Abgas ist gefährlich. | The exhaust is dangerous. |
+| Betrieb | der | der Betrieb | die Betriebe | des Betriebs | operation, factory | Der Betrieb ist groß. | The factory is big. |
+| Dreck | der | der Dreck | — | des Drecks | dirt | Der Dreck ist überall. | The dirt is everywhere. |
+| Fahrbahn | die | die Fahrbahn | die Fahrbahnen | der Fahrbahn | roadway | Die Fahrbahn ist nass. | The roadway is wet. |
+| Fahrzeug | das | das Fahrzeug | die Fahrzeuge | des Fahrzeugs | automobile | Das Fahrzeug ist neu. | The automobile is new. |
+| Fußgängerzone | die | die Fußgängerzone | die Fußgängerzonen | der Fußgängerzone | pedestrian zone | Die Fußgängerzone ist ruhig. | The pedestrian zone is quiet. |
+| Gebiet | das | das Gebiet | die Gebiete | des Gebiets | area, territory | Das Gebiet ist groß. | The area is big. |
+| Gehsteig | der | der Gehsteig | die Gehsteige | des Gehsteigs | sidewalk | Der Gehsteig ist breit. | The sidewalk is wide. |
+| Geschwindigkeit | die | die Geschwindigkeit | die Geschwindigkeiten | der Geschwindigkeit | speed, velocity | Die Geschwindigkeit ist hoch. | The speed is high. |
+| Lärm | der | der Lärm | — | des Lärms | noise | Der Lärm ist laut. | The noise is loud. |
+| Rand | der | der Rand | die Ränder | des Rands | edge, outskirts | Der Rand ist weiß. | The edge is white. |
+| Schaufenster | das | das Schaufenster | die Schaufenster | des Schaufensters | display window | Das Schaufenster ist bunt. | The display window is colourful. |
+| Schmutz | der | der Schmutz | — | des Schmutzes | dirt, grime | Der Schmutz ist schwarz. | The dirt is black. |
+| Stadtteil | der | der Stadtteil | die Stadtteile | des Stadtteils | part of town; quarter | Der Stadtteil ist ruhig. | The quarter is quiet. |
+| Stadtzentrum | das | das Stadtzentrum | die Stadtzentren | des Stadtzentrums | city center | Das Stadtzentrum ist voll. | The city center is full. |
+| Tempo | das | das Tempo | die Tempos | des Tempos | tempo, speed | Das Tempo ist hoch. | The speed is high. |
+| Viertel | das | das Viertel | die Viertel | des Viertels | quarter | Das Viertel ist ruhig. | The quarter is quiet. |
+| Zone | die | die Zone | die Zonen | der Zone | zone | Die Zone ist sicher. | The zone is safe. |
+| Einkaufsstraße | die | die Einkaufsstraße | die Einkaufsstraßen | der Einkaufsstraße | shopping street | Die Einkaufsstraße ist lang. | The shopping street is long. |
+| Arbeitswoche | die | die Arbeitswoche | die Arbeitswochen | der Arbeitswoche | workweek | Die Arbeitswoche ist kurz. | The workweek is short. |
+| Forumsname | der | der Forumsname | die Forumsnamen | des Forumsnames | forum name | Der Forumsname ist neu. | The forum name is new. |
+| Shopping | das | das Shopping | — | des Shoppings | shopping | Das Shopping macht Spaß. | The shopping is fun. |
+| Stadtmensch | der | der Stadtmensch | die Stadtmenschen | des Stadtmensches | city person | Der Stadtmensch mag Kultur. | The city person likes culture. |
+| Stadttyp | der | der Stadttyp | die Stadttypen | des Stadttyps | city person | Der Stadttyp ist modern. | The city person is modern. |
+| Studentenleben | das | das Studentenleben | — | des Studentenlebens | student life | Das Studentenleben ist aktiv. | The student life is active. |
+| Landmensch | der | der Landmensch | die Landmenschen | des Landmensches | country person | Der Landmensch mag Natur. | The country person likes nature. |
+| Stadtgarten | der | der Stadtgarten | die Stadtgärten | des Stadtgartens | city garden | Der Stadtgarten ist schön. | The city garden is beautiful. |
+| Backstube | die | die Backstube | die Backstuben | der Backstube | bakery | Die Backstube riecht nach Brot. | The bakery smells of bread. |
+| Bauhof | der | der Bauhof | die Bauhöfe | des Bauhofs | construction yard | Der Bauhof ist groß. | The construction yard is big. |
+| Dienst | der | der Dienst | die Dienste | des Diensts | work, service | Der Dienst beginnt um acht. | The work starts at eight. |
+| Fahrerin | die | die Fahrerin | die Fahrerinnen | der Fahrerin | driver | Die Fahrerin fährt vorsichtig. | The driver drives carefully. |
+| Frühschicht | die | die Frühschicht | die Frühschichten | der Frühschicht | morning shift | Die Frühschicht beginnt um sechs. | The morning shift starts at six. |
+| Hochtouren | die | — | die Hochtouren | — | full speed, high gear | Wir arbeiten auf Hochtouren. | We work at full speed. |
+| Korb | der | der Korb | die Körbe | des Korbs | basket | Der Korb ist voll. | The basket is full. |
+| Lehrling | der | der Lehrling | die Lehrlinge | des Lehrlings | apprentice, trainee | Der Lehrling lernt den Beruf. | The apprentice learns the job. |
+| Magazinbericht | der | der Magazinbericht | die Magazinberichte | des Magazinberichts | magazine report | Der Magazinbericht ist lang. | The magazine report is long. |
+| Obdachlose | der/die | der/die Obdachlose | die Obdachlosen | — | homeless person | Der Obdachlose schläft im Park. | The homeless person sleeps in the park. |
+| Operation | die | die Operation | die Operationen | der Operation | operation, surgery | Die Operation dauert zwei Stunden. | The operation lasts two hours. |
+| Reinigungsfahrzeug | das | das Reinigungsfahrzeug | die Reinigungsfahrzeuge | des Reinigungsfahrzeugs | street cleaning vehicle | Das Reinigungsfahrzeug fährt früh. | The street cleaning vehicle drives early. |
+| Übernahme | die | die Übernahme | die Übernahmen | der Übernahme | takeover, change of shifts | Die Übernahme beginnt um sechs. | The change of shifts starts at six. |
+| Weg | der | der Weg | die Wege | des Weges | way, path | Der Weg ist lang. | The way is long. |
+| Fahrer | der | der Fahrer | die Fahrer | des Fahrers | driver | Der Fahrer wartet. | The driver waits. |
+| Nachtdienst | der | der Nachtdienst | die Nachtdienste | des Nachtdiensts | night shift | Der Nachtdienst beginnt um zehn. | The night shift starts at ten. |
+| Sozialarbeiter | der | der Sozialarbeiter | die Sozialarbeiter | des Sozialarbeiters | social worker | Der Sozialarbeiter hilft. | The social worker helps. |
+| Arbeitssuchende | der/die | der/die Arbeitssuchende | die Arbeitssuchenden | — | job searcher | Der Arbeitssuchende sucht einen Job. | The job searcher looks for a job. |
+| Ausbildungsplatz | der | der Ausbildungsplatz | die Ausbildungsplätze | des Ausbildungsplatzes | trainee position | Der Ausbildungsplatz ist frei. | The trainee position is free. |
+| Einkommensstruktur | die | die Einkommensstruktur | die Einkommensstrukturen | der Einkommensstruktur | income distribution | Die Einkommensstruktur ist breit. | The income distribution is broad. |
+| Informationsquelle | die | die Informationsquelle | die Informationsquellen | der Informationsquelle | information source | Die Informationsquelle ist gut. | The information source is good. |
+| Interessierte | der/die | der/die Interessierte | die Interessierten | — | interest | Der Interessierte fragt nach. | The interested person asks. |
+| Investor | der | der Investor | die Investoren | des Investors | investor | Der Investor investiert. | The investor invests. |
+| Kriterium | das | das Kriterium | die Kriterien | des Kriteriums | criterion | Das Kriterium ist wichtig. | The criterion is important. |
+| Liste | die | die Liste | die Listen | der Liste | list | Die Liste ist lang. | The list is long. |
+| Ministerium | das | das Ministerium | die Ministerien | des Ministeriums | ministry | Das Ministerium ist groß. | The ministry is big. |
+| Rang | der | der Rang | die Ränge | des Rangs | rank | Der Rang ist hoch. | The rank is high. |
+| Ranking | das | das Ranking | die Rankings | des Rankings | ranking | Das Ranking ist neu. | The ranking is new. |
+| Rankingplatz | der | der Rankingplatz | die Rankingplätze | des Rankingplatzes | ranking | Der Rankingplatz ist gut. | The ranking place is good. |
+| Städteranking | das | das Städteranking | die Städterankings | des Städterankings | city ranking | Das Städteranking ist aktuell. | The city ranking is current. |
+| Freizeitmöglichkeit | die | die Freizeitmöglichkeit | die Freizeitmöglichkeiten | der Freizeitmöglichkeit | recreational opportunity | Die Freizeitmöglichkeit ist gut. | The recreational opportunity is good. |
+| Gehaltsniveau | das | das Gehaltsniveau | die Gehaltsniveaus | des Gehaltsniveaus | salary level | Das Gehaltsniveau ist hoch. | The salary level is high. |
+| Themenbereich | der | der Themenbereich | die Themenbereiche | des Themenbereichs | topic, subject area | Der Themenbereich ist breit. | The subject area is broad. |
+| Unterthema | das | das Unterthema | die Unterthemen | des Unterthemas | subtopic | Das Unterthema ist wichtig. | The subtopic is important. |
+| Zufriedenheit | die | die Zufriedenheit | — | der Zufriedenheit | satisfaction | Die Zufriedenheit ist groß. | The satisfaction is big. |
+| Kursort | der | der Kursort | die Kursorte | des Kursorts | course location | Der Kursort ist in der Stadt. | The course location is in the city. |
+| Zusammenhang | der | der Zusammenhang | die Zusammenhänge | des Zusammenhangs | context | Der Zusammenhang ist klar. | The context is clear. |
+| Kölsch | — | Kölsch | — | — | Colognian | Kölsch ist ein Dialekt. | Kölsch is a dialect (Colognian). |
+| Öffnungszeiten | die | — | die Öffnungszeiten | — | opening hours | Die Öffnungszeiten sind lang. | The opening hours are long. |
+| Feiertag | der | der Feiertag | die Feiertage | des Feiertags | holiday | Der Feiertag ist am Montag. | The holiday is on Monday. |
+| Ahnung | die | die Ahnung | die Ahnungen | der Ahnung | idea, notion | Die Ahnung ist klein. | The idea is small. |
+| Attraktion | die | die Attraktion | die Attraktionen | der Attraktion | attraction | Die Attraktion ist groß. | The attraction is big. |
+| Büdchen | das | das Büdchen | die Büdchen | des Büdchens | kiosk | Das Büdchen ist klein. | The kiosk is small. |
+| Bude | die | die Bude | die Buden | der Bude | booth | Die Bude ist voll. | The booth is full. |
+| Chips | die | — | die Chips | — | chips | Die Chips sind salzig. | The chips are salty. |
+| Currygewürz | das | das Currygewürz | die Currygewürze | des Currygewürzes | curry | Das Currygewürz ist scharf. | The curry is spicy. |
+| Dialekt | der | der Dialekt | die Dialekte | des Dialekts | dialect | Der Dialekt ist schön. | The dialect is nice. |
+| Etage | die | die Etage | die Etagen | der Etage | level, floor, story | Die Etage ist im dritten Stock. | The floor is on the third storey. |
+| Flucht | die | die Flucht | — | der Flucht | escape | Die Flucht war schnell. | The escape was fast. |
+| Hühnerfleisch | das | das Hühnerfleisch | — | des Hühnerfleisches | chicken meat | Das Hühnerfleisch ist frisch. | The chicken meat is fresh. |
+| Krimi | der | der Krimi | die Krimis | des Krimis | crime story, crime film | Der Krimi ist spannend. | The crime story is exciting. |
+| Laden | der | der Laden | die Läden | des Ladens | shop | Der Laden ist klein. | The shop is small. |
+| Magen | der | der Magen | die Mägen | des Magens | stomach | Der Magen ist voll. | The stomach is full. |
+| Sandwich | der | der Sandwich | die Sandwichs | des Sandwichs | sandwich | Der Sandwich ist frisch. | The sandwich is fresh. |
+| Stadtführer | der | der Stadtführer | die Stadtführer | des Stadtführers | city guide | Der Stadtführer zeigt die Stadt. | The city guide shows the city. |
+| Stammkneipe | die | die Stammkneipe | die Stammkneipen | der Stammkneipe | local pub | Die Stammkneipe ist voll. | The local pub is full. |
+| Täter | der | der Täter | die Täter | des Täters | offender, culprit | Der Täter ist gefunden. | The offender is found. |
+| Tote | der/die | der/die Tote | die Toten | — | dead person | Der Tote liegt im Haus. | The dead person lies in the house. |
+| Verdächtige | der/die | der/die Verdächtige | die Verdächtigen | — | suspect | Der Verdächtige spricht. | The suspect speaks. |
+| Verkaufsstand | der | der Verkaufsstand | die Verkaufsstände | des Verkaufsstands | sales booth | Der Verkaufsstand ist offen. | The sales booth is open. |
+| Zeuge | der | der Zeuge | die Zeugen | des Zeuges | witness | Der Zeuge erzählt. | The witness tells. |
+| Freizeitaktivität | die | die Freizeitaktivität | die Freizeitaktivitäten | der Freizeitaktivität | leisure activity | Die Freizeitaktivität ist sportlich. | The leisure activity is sporty. |
+| Tourismus | der | der Tourismus | — | des Tourismuses | tourism | Der Tourismus wächst. | The tourism grows. |
+| Geschäftspartner | der | der Geschäftspartner | die Geschäftspartner | des Geschäftspartners | business partner | Der Geschäftspartner ist nett. | The business partner is nice. |
+| Geschäftspartnerin | die | die Geschäftspartnerin | die Geschäftspartnerinnen | der Geschäftspartnerin | business partner | Die Geschäftspartnerin kommt morgen. | The business partner comes tomorrow. |
+| Spalte | die | die Spalte | die Spalten | der Spalte | column | Die Spalte ist schmal. | The column is narrow. |
+| Beleg | der | der Beleg | die Belege | des Belegs | document, voucher | Der Beleg ist wichtig. | The document is important. |
+| Mahnung | die | die Mahnung | die Mahnungen | der Mahnung | reminder | Die Mahnung ist da. | The reminder is here. |
+| Sportverein | der | der Sportverein | die Sportvereine | des Sportvereins | sports club | Der Sportverein trainiert am Abend. | The sports club trains in the evening. |
+| Vereinskasse | die | die Vereinskasse | die Vereinskassen | der Vereinskasse | club treasury | Die Vereinskasse ist voll. | The club treasury is full. |
+| Bohnenkaffee | der | der Bohnenkaffee | — | des Bohnenkaffees | coffee beans | Der Bohnenkaffee ist stark. | The coffee beans are strong. |
+| Einheit | die | die Einheit | die Einheiten | der Einheit | unity | Die Einheit ist wichtig. | The unity is important. |
+| Herrenanzug | der | der Herrenanzug | die Herrenanzüge | des Herrenanzugs | men‘s suit | Der Herrenanzug ist schwarz. | The men's suit is black. |
+| Kleiderschrank | der | der Kleiderschrank | die Kleiderschränke | des Kleiderschranks | wardrobe | Der Kleiderschrank ist groß. | The wardrobe is big. |
+| Mischbrot | das | das Mischbrot | die Mischbrote | des Mischbrots | brown bread | Das Mischbrot ist frisch. | The brown bread is fresh. |
+| Schweinekotelett | das | das Schweinekotelett | die Schweinekoteletts | des Schweinekoteletts | pork chop | Das Schweinekotelett ist saftig. | The pork chop is juicy. |
+| Vollmilch | die | die Vollmilch | — | der Vollmilch | whole milk | Die Vollmilch ist kalt. | The whole milk is cold. |
+| EC-Karte | die | die EC-Karte | die EC-Karten | der EC-Karte | debit card | Die EC-Karte ist im Portemonnaie. | The debit card is in the wallet. |
+| Geldautomat | der | der Geldautomat | die Geldautomaten | des Geldautomats | ATM, automatic teller machine | Der Geldautomat gibt Geld. | The ATM gives money. |
+| Girokonto | das | das Girokonto | die Girokonten | des Girokontos | checking account | Das Girokonto ist neu. | The checking account is new. |
+| Kontoeröffnung | die | die Kontoeröffnung | die Kontoeröffnungen | der Kontoeröffnung | account opening | Die Kontoeröffnung dauert kurz. | The account opening takes short. |
+| Traumbank | die | die Traumbank | die Traumbanken | der Traumbank | dream bank | Die Traumbank ist bekannt. | The dream bank is famous. |
+| Bankangestellte | der/die | der/die Bankangestellte | die Bankangestellten | — | bank teller | Der Bankangestellte hilft. | The bank teller helps. |
+| Geheimnummer | die | die Geheimnummer | die Geheimnummern | der Geheimnummer | secret number | Die Geheimnummer ist geheim. | The secret number is secret. |
+| Kredit | der | der Kredit | die Kredite | des Kredits | credit | Der Kredit ist hoch. | The credit is high. |
+| PIN | die | die PIN | die PINs | der PIN | PIN, personal identification number | Die PIN ist geheim. | The PIN is secret. |
+| Portemonnaie | das | das Portemonnaie | die Portemonnaies | des Portemonnaies | wallet | Das Portemonnaie ist klein. | The wallet is small. |
+| Eurone | die | die Eurone | die Euronen | der Eurone | Euro | Die Eurone ist eine Münze. | The Euro is a coin. |
+| Kohle | die | die Kohle | — | der Kohle | coal | Die Kohle ist schwarz. | The coal is black. |
+| Kröten | die | — | die Kröten | — | toads | Die Kröten sind im Teich. | The toads are in the pond. |
+| Mäuse | die | — | die Mäuse | — | mice | Die Mäuse sind klein. | The mice are small. |
+| Umgangssprache | die | die Umgangssprache | — | der Umgangssprache | colloquial language | Die Umgangssprache ist informell. | The colloquial language is informal. |
+| Bankkunde | der | der Bankkunde | die Bankkunden | des Bankkundes | bank customer | Der Bankkunde wartet. | The bank customer waits. |
+| Bargeld | das | das Bargeld | — | des Bargelds | cash | Das Bargeld ist im Portemonnaie. | The cash is in the wallet. |
+| Betrag | der | der Betrag | die Beträge | des Betrags | sum, amount | Der Betrag ist groß. | The amount is big. |
+| Geheimzahl | die | die Geheimzahl | die Geheimzahlen | der Geheimzahl | secret number | Die Geheimzahl ist geheim. | The secret number is secret. |
+| Karte | die | die Karte | die Karten | der Karte | card | Die Karte ist neu. | The card is new. |
+| Kontonummer | die | die Kontonummer | die Kontonummern | der Kontonummer | account number | Die Kontonummer ist richtig. | The account number is correct. |
+| Bankautomat | der | der Bankautomat | die Bankautomaten | des Bankautomats | ATM, automatic teller machine | Der Bankautomat ist kaputt. | The ATM is broken. |
+| Bankgeschäft | das | das Bankgeschäft | die Bankgeschäfte | des Bankgeschäfts | banking | Das Bankgeschäft ist sicher. | The banking is safe. |
+| Bedeutung | die | die Bedeutung | die Bedeutungen | der Bedeutung | meaning | Die Bedeutung ist klar. | The meaning is clear. |
+| Chip | der | der Chip | die Chips | des Chips | smart card, chip-and-PIN card | Der Chip ist klein. | The chip is small. |
+| Dauerauftrag | der | der Dauerauftrag | die Daueraufträge | des Dauerauftrags | recurring payment, standing order | Der Dauerauftrag ist aktiv. | The standing order is active. |
+| Diebstahl | der | der Diebstahl | die Diebstähle | des Diebstahls | theft | Der Diebstahl war klein. | The theft was small. |
+| Fahrkartenautomat | der | der Fahrkartenautomat | die Fahrkartenautomaten | des Fahrkartenautomats | ticket machine | Der Fahrkartenautomat ist neu. | The ticket machine is new. |
+| Filiale | die | die Filiale | die Filialen | der Filiale | branch | Die Filiale ist in der Stadt. | The branch is in the city. |
+| Geldbetrag | der | der Geldbetrag | die Geldbeträge | des Geldbetrags | sum of money | Der Geldbetrag ist groß. | The sum of money is big. |
+| Geldkarten-Chip | der | der Geldkarten-Chip | die Geldkarten-Chips | des Geldkarten-Chips | money chip | Der Geldkarten-Chip ist klein. | The money chip is small. |
+| Kontoauszug | der | der Kontoauszug | die Kontoauszüge | des Kontoauszugs | account withdrawal | Der Kontoauszug ist lang. | The account statement is long. |
+| Neukunde | der | der Neukunde | die Neukunden | des Neukundes | new customer | Der Neukunde bekommt einen Bonus. | The new customer gets a bonus. |
+| Parkautomat | der | der Parkautomat | die Parkautomaten | des Parkautomats | parking meter | Der Parkautomat nimmt Münzen. | The parking meter takes coins. |
+| Verlust | der | der Verlust | die Verluste | des Verlusts | loss | Der Verlust ist groß. | The loss is big. |
+| Globalisierung | die | die Globalisierung | — | der Globalisierung | globalization | Die Globalisierung ist wichtig. | The globalization is important. |
+| Asien | — | Asien | — | — | Asia | Asien ist groß. | Asia is big. |
+| Auswahl | die | die Auswahl | — | der Auswahl | selection | Die Auswahl ist groß. | The selection is big. |
+| Banker | der | der Banker | die Banker | des Bankers | banker | Der Banker arbeitet in der Bank. | The banker works in the bank. |
+| Bedingung | die | die Bedingung | die Bedingungen | der Bedingung | condition | Die Bedingung ist wichtig. | The condition is important. |
+| Finanzkrise | die | die Finanzkrise | die Finanzkrisen | der Finanzkrise | financial crisis | Die Finanzkrise war schwer. | The financial crisis was severe. |
+| Forschung | die | die Forschung | die Forschungen | der Forschung | research | Die Forschung ist wichtig. | The research is important. |
+| Fortschritt | der | der Fortschritt | die Fortschritte | des Fortschritts | progress | Der Fortschritt ist groß. | The progress is big. |
+| Handyhersteller | der | der Handyhersteller | die Handyhersteller | des Handyherstellers | mobile phone manufacturer | Der Handyhersteller baut Handys. | The mobile phone manufacturer builds phones. |
+| Konkurrenz | die | die Konkurrenz | — | der Konkurrenz | competition | Die Konkurrenz ist stark. | The competition is strong. |
+| Lohn | der | der Lohn | die Löhne | des Lohns | wage, pay | Der Lohn ist niedrig. | The wage is low. |
+| Topmanager | der | der Topmanager | die Topmanager | des Topmanagers | top manager | Der Topmanager verdient viel. | The top manager earns a lot. |
+| Weltmarkt | der | der Weltmarkt | — | des Weltmarkts | world market | Der Weltmarkt ist groß. | The world market is big. |
+| Wohlstand | der | der Wohlstand | — | des Wohlstands | prosperity | Der Wohlstand ist hoch. | The prosperity is high. |
+| Versprechen | das | das Versprechen | die Versprechen | des Versprechens | promise | Das Versprechen ist wichtig. | The promise is important. |
+| Gewissen | das | das Gewissen | — | des Gewissens | conscience | Das Gewissen ist ruhig. | The conscience is clear. |
+| Dieb | der | der Dieb | die Diebe | des Diebs | thief | Der Dieb läuft weg. | The thief runs away. |
+| Gewissensfrage | die | die Gewissensfrage | die Gewissensfragen | der Gewissensfrage | question of conscience | Die Gewissensfrage ist schwer. | The question of conscience is difficult. |
+| Großtante | die | die Großtante | die Großtanten | der Großtante | great-aunt | Die Großtante ist 80 Jahre alt. | The great-aunt is 80 years old. |
+| Kleingeld | das | das Kleingeld | — | des Kleingelds | small change | Das Kleingeld ist im Portemonnaie. | The small change is in the wallet. |
+| Vorwurf | der | der Vorwurf | die Vorwürfe | des Vorwurfs | accusation | Der Vorwurf ist unfair. | The accusation is unfair. |
+| Zeitungskasten | der | der Zeitungskasten | die Zeitungskästen | des Zeitungskastens | newspaper rack | Der Zeitungskasten ist voll. | The newspaper rack is full. |
+| Blickkontakt | der | der Blickkontakt | — | des Blickkontakts | eye contact | Der Blickkontakt ist wichtig. | The eye contact is important. |
+| Arbeiter | der | der Arbeiter | die Arbeiter | des Arbeiters | worker, laborer | Der Arbeiter arbeitet hart. | The worker works hard. |
+| Entstehungszeit | die | die Entstehungszeit | die Entstehungszeiten | der Entstehungszeit | time of origin | Die Entstehungszeit war alt. | The time of origin was old. |
+| Gasse | die | die Gasse | die Gassen | der Gasse | alley | Die Gasse ist eng. | The alley is narrow. |
+| Immobilie | die | die Immobilie | die Immobilien | der Immobilie | real estate | Die Immobilie ist teuer. | The real estate is expensive. |
+| Jahresmiete | die | die Jahresmiete | die Jahresmieten | der Jahresmiete | yearly rent | Die Jahresmiete ist hoch. | The yearly rent is high. |
+| Kaufmannsfamilie | die | die Kaufmannsfamilie | die Kaufmannsfamilien | der Kaufmannsfamilie | merchant family | Die Kaufmannsfamilie ist alt. | The merchant family is old. |
+| Konzeption | die | die Konzeption | die Konzeptionen | der Konzeption | idea, conception | Die Konzeption ist gut. | The idea is good. |
+| Nachtwächter | der | der Nachtwächter | die Nachtwächter | des Nachtwächters | night watchman | Der Nachtwächter schläft nicht. | The night watchman does not sleep. |
+| Nebenkosten | die | — | die Nebenkosten | — | additional costs | Die Nebenkosten sind hoch. | The additional costs are high. |
+| Originalzustand | der | der Originalzustand | die Originalzustände | des Originalzustands | original condition | Der Originalzustand ist gut. | The original condition is good. |
+| Schulden | die | — | die Schulden | — | debt | Die Schulden sind groß. | The debt is big. |
+| Selbsthilfe | die | die Selbsthilfe | — | der Selbsthilfe | self-help | Die Selbsthilfe hilft. | The self-help helps. |
+| Siedlung | die | die Siedlung | die Siedlungen | der Siedlung | settlement, housing scheme | Die Siedlung ist ruhig. | The settlement is quiet. |
+| Sozialsiedlung | die | die Sozialsiedlung | die Sozialsiedlungen | der Sozialsiedlung | social housing project | Die Sozialsiedlung ist neu. | The social housing project is new. |
+| Stadtmauer | die | die Stadtmauer | die Stadtmauern | der Stadtmauer | city wall | Die Stadtmauer ist alt. | The city wall is old. |
+| Stiftungsvermögen | das | das Stiftungsvermögen | die Stiftungsvermögen | des Stiftungsvermögens | endowment | Das Stiftungsvermögen ist groß. | The endowment is big. |
+| Urgroßvater | der | der Urgroßvater | die Urgroßväter | des Urgroßvaters | great-grandfather | Der Urgroßvater ist 90 Jahre alt. | The great-grandfather is 90 years old. |

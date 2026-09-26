@@ -916,7 +916,7 @@ id	cell	article	base	singular	plural	genitive	en_meaning
 915	das Schaufenster, -	das	Schaufenster	das Schaufenster	die Schaufenster	des Schaufensters	display window
 916	der Schmutz (Singular)	der	Schmutz	der Schmutz	—	des Schmutzes	dirt, grime
 917	der Stadtteil, -e	der	Stadtteil	der Stadtteil	die Stadtteile	des Stadtteils	part of town; quarter
-918	das Stadtzentrum, -zentren	das	Stadtzentrum	das Stadtzentrum	die Stadtzentrumzentren	des Stadtzentrums	city center
+918	das Stadtzentrum, -zentren	das	Stadtzentrum	das Stadtzentrum	die Stadtzentren	des Stadtzentrums	city center
 919	das Tempo, -s	das	Tempo	das Tempo	die Tempos	des Tempos	tempo, speed
 920	das Viertel, -	das	Viertel	das Viertel	die Viertel	des Viertels	quarter
 921	die Zone, -n	die	Zone	die Zone	die Zonen	der Zone	zone
@@ -962,7 +962,7 @@ id	cell	article	base	singular	plural	genitive	en_meaning
 961	die Freizeitmöglichkeit, -en	die	Freizeitmöglichkeit	die Freizeitmöglichkeit	die Freizeitmöglichkeiten	der Freizeitmöglichkeit	recreational opportunity
 962	das Gehaltsniveau, -s	das	Gehaltsniveau	das Gehaltsniveau	die Gehaltsniveaus	des Gehaltsniveaus	salary level
 963	der Themenbereich, -e	der	Themenbereich	der Themenbereich	die Themenbereiche	des Themenbereichs	topic, subject area
-964	das Unterthema, -themen	das	Unterthema	das Unterthema	die Unterthemathemen	des Unterthemas	subtopic
+964	das Unterthema, -themen	das	Unterthema	das Unterthema	die Unterthemen	des Unterthemas	subtopic
 965	die Zufriedenheit (Singular)	die	Zufriedenheit	die Zufriedenheit	—	der Zufriedenheit	satisfaction
 966	der Kursort, -e	der	Kursort	der Kursort	die Kursorte	des Kursorts	course location
 967	der Zusammenhang, Zusammenhänge	der	Zusammenhang	der Zusammenhang	die Zusammenhänge	des Zusammenhangs	context
@@ -1008,9 +1008,9 @@ id	cell	article	base	singular	plural	genitive	en_meaning
 1007	die Vollmilch (Singular)	die	Vollmilch	die Vollmilch	—	der Vollmilch	whole milk
 1008	die EC-Karte, -n	die	EC-Karte	die EC-Karte	die EC-Karten	der EC-Karte	debit card
 1009	der Geldautomat, -en	der	Geldautomat	der Geldautomat	die Geldautomaten	des Geldautomats	ATM, automatic teller machine
-1010	das Girokonto, -konten	das	Girokonto	das Girokonto	die Girokontokonten	des Girokontos	checking account
+1010	das Girokonto, -konten	das	Girokonto	das Girokonto	die Girokonten	des Girokontos	checking account
 1011	die Kontoeröffnung, -en	die	Kontoeröffnung	die Kontoeröffnung	die Kontoeröffnungen	der Kontoeröffnung	account opening
-1012	die Traumbank, -banken	die	Traumbank	die Traumbank	die Traumbankbanken	der Traumbank	dream bank
+1012	die Traumbank, -banken	die	Traumbank	die Traumbank	die Traumbanken	der Traumbank	dream bank
 1013	der/die Bankangestellte, -n	der/die	Bankangestellte	der/die Bankangestellte	die Bankangestellten	—	bank teller
 1014	die Geheimnummer, -n	die	Geheimnummer	die Geheimnummer	die Geheimnummern	der Geheimnummer	secret number
 1015	der Kredit, -e	der	Kredit	der Kredit	die Kredite	des Kredits	credit
