@@ -165,10 +165,24 @@ PLURAL_OVERRIDES = {
 
 
 # (duplicate removed)
+def _plain(word):
+    return word.replace("ä", "a").replace("ö", "o").replace("ü", "u").replace("ß", "ss")
+
+
+def repl_plural(base, s):
+    # a2-style inline umlaut suffix: replace the matching base tail
+    if any(ch in s for ch in "äöü"):
+        sp = _plain(s)
+        for L in range(len(base) - 1, 0, -1):
+            if sp.startswith(_plain(base[-L:])):
+                return base[:-L] + s
+    return base + s
+
+
 def compute_plural(article, base, cell):
     if cell in PLURAL_OVERRIDES:
         return PLURAL_OVERRIDES[cell]
-    if re.search(r"Sg\.", cell):
+    if re.search(r"Sg\.|Singular", cell):
         return "—"
     pl = re.search(r",\s*([^\s(]+)", cell.split("(", 1)[0])
     if not pl:
@@ -180,17 +194,12 @@ def compute_plural(article, base, cell):
     s = token[1:]
     if s == "":
         return "die " + base
-    uml = '"' in s
-    body = s.replace('"', "")
-    if "/" in body:
-        parts = [p for p in body.split("/") if p]
-        forms = []
-        for p in parts:
-            b = umlaut(base) if (uml and "e" not in p) else base
-            forms.append(b if p == "" else b + p)
+    if '"' in s:  # legacy quote-marker umlaut (A1 style)
+        return "die " + umlaut(base) + s.replace('"', "")
+    if "/" in s:
+        forms = [repl_plural(base, p) for p in s.split("/") if p]
         return "die " + " / die ".join(forms)
-    base2 = umlaut(base) if uml else base
-    return "die " + base2 + body
+    return "die " + repl_plural(base, s)
 
 
 # --- genitive ---
@@ -318,8 +327,8 @@ def parse(row):
     if cell in BASE_FIX:
         base = BASE_FIX[cell]
 
-    pl_only = bool(re.search(r"\(Pl\.\)", cell))
-    sg_only_or_pl = bool(re.search(r"\((?:Sg\.|Pl\.)\)", cell))
+    pl_only = bool(re.search(r"\(Pl\.\)|Plural", cell))
+    sg_only_or_pl = bool(re.search(r"\((?:Sg\.|Pl\.|Singular|Plural)\)", cell))
 
     if pl_only:
         singular = "—"

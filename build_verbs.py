@@ -7,15 +7,9 @@ DRAFT = os.path.join(STUDY_DIR, "_draft.tsv")
 CONJ_CHUNKS = os.path.join(STUDY_DIR, "_verbs")
 OUT_MD = os.path.join("study", "verbs.md")
 
-EXCLUDE = {
-    "das Kofferpacken (Sg.)",
-    "das Skifahren (Sg.)",
-    "Lust (Sg.) (Kommst du mit? - Nein, ich habe keine Lust.)",
-    "sein, seine (Der Regisseur präsentiert seinen Film.)",
-}
+EXCLUDE = {}
 
 SEPARABLE_FIX = {
-    "aufräumen": "auf",
     "sauber machen": "sauber",
 }
 
@@ -50,26 +44,66 @@ def load_verbs():
     return rows
 
 
+SEPARABLE_PREFIXES = sorted(
+    [
+        "zurück",
+        "heraus",
+        "zusammen",
+        "weiter",
+        "vor",
+        "nach",
+        "mit",
+        "ein",
+        "aus",
+        "auf",
+        "an",
+        "ab",
+        "zu",
+        "um",
+        "hoch",
+        "raus",
+        "fern",
+        "frei",
+        "leid",
+        "weh",
+        "statt",
+        "kennen",
+        "dazu",
+        "vorbei",
+    ],
+    key=len,
+    reverse=True,
+)
+
+
 def parse_verb(g, e):
     g0 = norm_cell(g)
     reflexive = "yes" if ("(sich)" in g0 or re.search(r"\bsich\b", g0)) else "—"
     separable = "—"
+    head0 = re.split(r"[,()]", g0)[0].strip().strip('"')
     if "|" in g0:
         left, right = g0.split("|", 1)
         separable = left.strip()
         base = re.split(r"[,()]", right)[0].strip().strip('"')
     else:
-        base = re.split(r"[,()]", g0)[0].strip().strip('"')
+        base = head0
         base = re.sub(
             r"\s+(auf|an|zu|mit|für|über|aus|bei|nach|in)\s*(\+)?\s*$", "", base
         )
+        for pref in SEPARABLE_PREFIXES:
+            if base.startswith(pref) and len(base) > len(pref):
+                separable = pref
+                base = base[len(pref) :]
+                break
     aux = "—"
     partizip = "—"
     m = re.search(r",\s*(?:er|es|ich|sie)\s+\S+,\s*(hat|ist)\s+(\S+)", g0)
+    if not m:
+        m = re.search(r"\([^)]*,\s*(hat|ist)\s+(\S+)\)", g0)
     if m:
         aux = {"hat": "haben", "ist": "sein"}[m.group(1)]
         partizip = m.group(2)
-    separable = SEPARABLE_FIX.get(base, separable)
+    separable = SEPARABLE_FIX.get(head0, separable)
     return {
         "base": base,
         "separable": separable,

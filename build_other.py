@@ -4,12 +4,7 @@ import re, os, sys
 PATH = "A1.tsv"
 STUDY = "study"
 
-EXTRA_ARTICLE = [
-    (
-        "sein, seine (Der Regisseur präsentiert seinen Film.)",
-        "his (The director presents his film.)",
-    )
-]
+EXTRA_ARTICLE = []
 
 
 def norm_cell(g):

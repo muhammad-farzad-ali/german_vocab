@@ -4,37 +4,7 @@ import re, sys, os, collections
 PATH = "A1.tsv"
 FOLDER = "by_type"
 
-SPECIAL = {
-    "das (Das ist Frau Kowalski.)": "Pronoun",
-    "ganz (Wie geht's? - Ganz gut, danke.)": "Adverb",
-    "wie (Machen Sie ein Interview wie in Aufgabe 4.)": "Adverb",
-    "kurz (Schreiben Sie einen kurzen Text.)": "Adjective",
-    "kurz (Es ist kurz nach acht.)": "Adverb",
-    "richtig (Ist der Satz richtig oder falsch?)": "Adjective",
-    "richtig (Morgens bin ich richtig hungrig.)": "Adverb",
-    "gleich (Das Essen ist gleich fertig.)": "Adverb",
-    "gleich (Welche Wörter sind in anderen Sprachen gleich?)": "Adjective",
-    "weit (Von hier ist es nicht weit zur Uni.)": "Adverb",
-    "weit (Das T-Shirt ist zu weit.)": "Adjective",
-    "klar (Kommst du heute? - Klar.)": "Adverb",
-    "klar (Und, wie geht's? - Alles klar.)": "Adjective",
-    "besonders (Was ist am Geburtstag besonders?)": "Adjective",
-    "besonders (Ich bin besonders gern in der Küche.)": "Adverb",
-    "etwas (Sonst noch etwas?)": "Pronoun",
-    "etwas (Die Jugendherberge war etwas außerhalb.)": "Adverb",
-    "denn (Was denn?)": "Particle",
-    "aber (Jetzt aber schnell!)": "Particle",
-    "also (Also, ich finde diese Jacke sehr schön.)": "Particle",
-    "oder (Das ist schrecklich, oder?)": "Particle",
-    "zu (Er kommt zu spät.)": "Adverb",
-    "zweit (Arbeiten Sie zu zweit.)": "Phrase / expression",
-    "der Inoffiziell": "Adjective",
-    "saft, -e (Ich trinke gerne Saft.)": "Noun",
-    "qm (= Quadratmeter)": "Noun",
-    "k.o.": "Adjective",
-    "die halbe Stunde, -n": "Noun",
-    "schade": "Phrase / expression",
-}
+SPECIAL = {}
 
 PHRASE = {
     "guten Tag",
@@ -557,22 +527,13 @@ lines = content.splitlines()
 problems = []
 
 rows = []
-prev = None
 for ln in lines[1:]:
-    if not ln.strip() or ln == prev:
+    if not ln.strip():
         continue
-    prev = ln
     cells = ln.split("\t")
-    if cells[0].startswith("der Mann, -er (Mann"):
-        g = 'der Mann, -er (Mann\tbin ich froh!)"'
-        e = "here: boy (Oh boy, was I glad!)"
-    else:
-        g = cells[0]
-        e = cells[1]
+    g = cells[0]
+    e = cells[1] if len(cells) > 1 else ""
     rows.append((g, e))
-
-if not rows or rows[0][0] != "Bulgarisch":
-    rows.insert(0, ("Bulgarisch", "Bulgarian"))
 
 out = ["German\tEnglish\tType"]
 for g, e in rows:
