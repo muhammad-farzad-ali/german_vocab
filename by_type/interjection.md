@@ -1,4 +1,4 @@
 # Interjection (2)
 
-- Servus! — Greetings!
-- Hi! — Hi!
+- sorry — sorry
+- gell (Das war super, gell?) — huh, right (That was awesome, right?)

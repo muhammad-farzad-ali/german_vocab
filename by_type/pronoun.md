@@ -1,10 +1,7 @@
-# Pronoun (8)
+# Pronoun (5)
 
-- nix (nichts) — nothing (sl.)
-- alle (Alle paar Wochen waren Ferien, da konnte ich ausschlafen.) — every (Every few weeks there was a break, and I could sleep in.)
-- paar (Alle paar Wochen kann ich ausschlafen.) — few, pair (Every few weeks, I could sleep in.)
-- irgendwas — something
-- beide — both
-- manche — some
-- niemand — nobody
-- mehrere — several
+- wessen (Wessen Auto ist das?) — whose (Whose car is that?)
+- solche/solcher — such
+- alle (alle möglichen) (Die Leute pflanzen alle möglichen Blumen.) — all (all kinds of) (People are planting all kinds of flowers.)
+- irgendjemand — someone
+- dasselbe, derselbe, dieselbe — the same

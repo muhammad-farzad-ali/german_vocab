@@ -1,74 +1,75 @@
-# Adverb (72)
+# Adverb (73)
 
-- rauf — up
-- nachher — afterward
-- je — each, apiece
-- wirklich (Wie war es wirklich?) — really (How was it really?)
-- gar — here: at all
-- genau (Ich weiß nicht so genau.) — exactly (I don’t know exactly.)
-- nur noch — only
-- völlig — completely, totally
-- gemeinsam — together
-- außen — outside
-- unbedingt — absolutely, necessarily
-- nämlich — indeed, you see
-- häufig — often
-- selten — rarely
-- genauso — just as
-- zurzeit — currently
-- überall — everywhere
-- sicher — sure, safe
-- wenigstens — at least
-- eher — rather
-- zuletzt — lastly
-- dazu — thereto
-- unten — below
-- dafür — in exchange
-- daran — about that
-- irgendwie — somehow
-- jeweils — each
-- nirgends — nowhere
-- sogar — even
-- ziemlich — quite, rather
-- hin (Ich möchte ein Ticket hin und zurück.) — to (I want a ticket to and back.)
-- früher — formerly, in the past
-- plötzlich — suddenly
-- hinten — behind
-- hintereinander — successively
-- vorn — forward
-- dabei — here: with this
-- dadurch — here: because of this
-- damit — here: despite this
-- freiwillig — voluntarily
-- möglichst — preferably
-- übermorgen — day after tomorrow
-- rechtzeitig — on time
-- rückwärts — backward
-- ansonsten — otherwise, apart from that
-- außerdem — besides
-- jederzeit — at any time
-- etwa — approximately
-- richtig (Nach einem Kaffee bin ich richtig wach.) — properly (After a cup of coffee, I am properly awake.)
-- trotzdem — nevertheless
-- dringend — urgently
-- tief (Atme tief durch!) — deep(ly) (Breathe deeply!)
-- übrigens — by the way
-- erstens — firstly
-- da (Ich habe da einen Vorschlag: …) — here (Here, I have a suggestion…)
-- gleichzeitig — simultaneous(ly)
-- bisher — until now
-- etwas — somewhat, something (In the village, everything is somewhat smaller than in the city.)
-- kaum — barely
-- ebenfalls — also, likewise
-- zufällig — coincidentally
-- damals — then, in those days
-- drüben — over there
-- dahinter — behind it
-- oben — above, at the top
-- öfter — more often
-- ständig — constantly
-- bestens (Wie geht‘s dir? – Alles bestens.) — very well (How’s it going? – All very well.)
-- neulich — recently
-- nun — now
-- abschließend — in closing
-- schließlich — finally
+- eben (Das ist eben nicht leicht.) — here: just (It’s just not so easy.)
+- irgendwo — somewhere
+- zwar (Ich möchte eine Reise buchen, und zwar nach Spanien.) — here: namely (I’d like to book a trip (namely) to Spain.)
+- immerhin — after all
+- eher — rather, quite
+- dabei — here: considering
+- darum (Ich habe nicht aufgepasst. Darum habe ich mein Handy verloren.) — that’s why (I didn’t pay attention, that’s why I lost my call phone.)
+- seitdem — since then
+- apropos — by the way, speaking of
+- davon — thereof
+- darüber (Darüber möchte ich nicht sprechen.) — here: about that (I don’t want to talk about that.)
+- darum (Es geht darum, neugierig zu machen) — here: about that (It’s about making people curious.)
+- deswegen — therefore, because of this
+- zumindest — at least
+- raus (Ich will raus aus meinem langweiligen Leben.) — out (I want to get out of my boring life.)
+- scheinbar — apparent(ly)
+- daraus — here: from that
+- dagegen — against s.t.
+- niemals — never
+- zwar (zwar … aber) (Ich verstehe zwar Spanisch, aber ich spreche nicht gut.) — here: though (Though I understand Spanish, I don’t speak it well.)
+- darauf (darauf freuen) (Er freut sich darauf!) — here: to that (to look forward to) (He is looking forward to it.)
+- darin (Hier ist der Brief. Darin sind alle wichtigen Informationen.) — in there (Here is the letter. All the information is in there.)
+- selbstverständlich — obvious(ly)
+- nachmittags — afternoons
+- rein — pure(ly)
+- zirka (= circa) — about, circa
+- davor — before that
+- erstmals — for the first time
+- sicherlich — sure(ly)
+- irgendwann — sometime
+- vielerorts — in many places
+- äußerst — extremely, exceedingly
+- derzeit — at present
+- heutzutage — nowadays
+- darunter — among them
+- auswendig — from memory
+- natürlich (Ohne Make-up siehst du sehr natürlich aus.) — natural (You look very natural without makeup.)
+- tagelang — for days
+- voneinander — from one another
+- weiterhin (Ich möchte weiterhin arbeiten.) — further (I want to carry on working.)
+- zunächst — for the time being
+- da (Er ist sehr engagiert, da er dieses Thema wichtig findet.) — here: as (He is very engaged, as he finds this subject very important.)
+- miteinander — with each other
+- dorthin — there
+- ebenso — as well, likewise
+- prinzipiell — in principle
+- andererseits — on the other hand
+- daher — hence
+- einerseits — on the one hand
+- vermutlich — presumably
+- ausschließlich — exclusive(ly)
+- dennoch — nevertheless
+- jedoch — however
+- nebeneinander (Wir sitzen nebeneinander.) — side by side (We’re sitting side by side.)
+- offenbar — apparent(ly), obvious(ly)
+- untereinander — among themselves
+- diesmal — this time
+- nacheinander — successively
+- entzwei — in two, in half
+- rein — outright, pure(ly)
+- vergeblich — forgivable
+- inzwischen — between
+- meist — most(ly)
+- mittlerweile — in the meantime
+- bereits — already
+- folgendermaßen — as follows
+- allerdings — though, admittedly
+- längst — long ago
+- umsonst — for free
+- kurzfristig — briefly, short-term
+- umgehend — immediate(ly), prompt(ly)
+- drin — in it
+- zwischendurch — meanwhile, in between

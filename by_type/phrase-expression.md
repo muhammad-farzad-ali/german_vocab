@@ -1,16 +1,12 @@
-# Phrase / expression (14)
+# Phrase / expression (10)
 
-- schon mal — already
-- schon lange — long, for a long time
-- zu Besuch — for a visit
-- usw. — etc., and so on
-- nicht nur — not only
-- Herzlichen Glückwunsch — congratulation
-- Bis dann! — Until then!
-- noch mal — again
-- und so weiter (usw.) — and so on (etc.)
-- na gut — All right (All right, it’s not so bad.)
-- na ja — Oh well (Oh well, if that’s how it is, I’ll accept it.)
-- hier und da — here and there
-- sondern auch — but also
-- auf keinen Fall — under no circumstances
+- im Freien — in the outdoors
+- zum Glück — luckily
+- vor lauter (Ich habe vor lauter Aufregung alles vergessen.) — here: out of sheer, total (Out of sheer excitement, I forgot everything.)
+- vor allem — above all, particularly
+- da vorne (da hinten) — over there (over there)
+- bald darauf — soon thereafter
+- bzw. (beziehungsweise) — i.e. (or rather, that is)
+- inkl. (inklusive) — incl. (inclusive)
+- ein wenig — a little
+- nie mehr — no more, never again
