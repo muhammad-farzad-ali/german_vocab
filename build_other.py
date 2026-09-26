@@ -250,6 +250,7 @@ def merge():
             for ln in open(os.path.join(STUDY, slug, "_draft.tsv"), encoding="utf-8")
             .read()
             .splitlines()[1:]
+            if ln.strip()
         ]
         order = spec["cols"]
         headers = [h for h, _, _ in order]
