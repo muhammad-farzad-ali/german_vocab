@@ -1,0 +1,40 @@
+201	regular	lehne ab	lehnst ab	lehnt ab	lehnen ab	lehnt ab	lehnen ab	lehnte ab	abgelehnt	haben	Sie lehnt das Angebot ab.	She declines the offer.
+202	irregular	halte	hältst	hält	halten	haltet	halten	hielt	gehalten	haben	Halte das Glas fest.	Hold the glass tight.
+203	regular	reagiere	reagierst	reagiert	reagieren	reagiert	reagieren	reagierte	reagiert	haben	Wie reagiert sie?	How does she react?
+204	regular	stimme zu	stimmst zu	stimmt zu	stimmen zu	stimmt zu	stimmen zu	stimmte zu	zugestimmt	haben	Ich stimme dir zu.	I agree with you.
+205	irregular	leihe aus	leihst aus	leiht aus	leihen aus	leiht aus	leihen aus	lieh aus	ausgeliehen	haben	Ich leihe mir ein Buch aus.	I borrow a book.
+206	regular	balanciere	balancierst	balanciert	balancieren	balanciert	balancieren	balancierte	balanciert	haben	Er balanciert auf dem Balken.	He balances on the beam.
+207	regular	verstecke	versteckst	versteckt	verstecken	versteckt	verstecken	versteckte	versteckt	haben	Versteck das Geschenk.	Hide the present.
+208	regular	lege hinein	legst hinein	legt hinein	legen hinein	legt hinein	legen hinein	legte hinein	hineingelegt	haben	Lege das Blatt hinein.	Insert the sheet.
+209	irregular	gehe kaputt	gehst kaputt	geht kaputt	gehen kaputt	geht kaputt	gehen kaputt	ging kaputt	kaputtgegangen	sein	Das Handy geht kaputt.	The phone breaks.
+210	regular	schütze	schützt	schützt	schützen	schützt	schützen	schützte	geschützt	haben	Wir schützen die Kinder.	We protect the children.
+211	regular	versuche	versuchst	versucht	versuchen	versucht	versuchen	versuchte	versucht	haben	Ich versuche es.	I attempt it.
+212	irregular	lese weiter	liest weiter	liest weiter	lesen weiter	liest weiter	lesen weiter	las weiter	weitergelesen	haben	Ich lese weiter.	I read on.
+213	auxiliary	bin zu	bist zu	ist zu	sind zu	seid zu	sind zu	war zu	zu gewesen	sein	Das Geschäft ist zu.	The shop is closed.
+214	regular	baue	baust	baut	bauen	baut	bauen	baute	gebaut	haben	Sie bauen ein Haus.	They build a house.
+215	regular	schaukle	schaukelst	schaukelt	schaukeln	schaukelt	schaukeln	schaukelte	geschaukelt	haben	Die Kinder schaukeln.	The children rock.
+216	regular	spiegle	spiegelst	spiegelt	spiegeln	spiegelt	spiegeln	spiegelte	gespiegelt	haben	Das Fenster spiegelt das Licht.	The window mirrors the light.
+217	regular	stelle ab	stellst ab	stellt ab	stellen ab	stellt ab	stellen ab	stellte ab	abgestellt	haben	Stell das Auto hier ab.	Park the car here.
+218	regular	belle	bellst	bellt	bellen	bellt	bellen	bellte	gebellt	haben	Der Hund bellt laut.	The dog barks loudly.
+219	irregular	stinke	stinkst	stinkt	stinken	stinkt	stinken	stank	gestunken	haben	Der Müll stinkt.	The trash stinks.
+220	regular	lenke ein	lenkst ein	lenkt ein	lenken ein	lenkt ein	lenken ein	lenkte ein	eingelenkt	haben	Er lenkt ein.	He gives in.
+221	irregular	komme vor	kommst vor	kommt vor	kommen vor	kommt vor	kommen vor	kam vor	vorgekommen	sein	Das kommt oft vor.	That often occurs.
+222	irregular	nehme an	nimmst an	nimmt an	nehmen an	nehmt an	nehmen an	nahm an	angenommen	haben	Ich nehme die Einladung an.	I accept the invitation.
+223	regular	rätume aus	rätumst aus	rätumt aus	rätumen aus	rätumt aus	rätumen aus	rätumte aus	ausgeräumt	haben	Wir räumen den Schrank aus.	We empty out the wardrobe.
+224	regular	füttere	fütterst	füttert	füttern	füttert	füttern	fütterte	gefüttert	haben	Ich füttere den Hund.	I feed the dog.
+225	irregular	gieße	gießt	gießt	gießen	gießt	gießen	goss	gegossen	haben	Gieß die Blume.	Water the flower.
+226	regular	leere	leerst	leert	leeren	leert	leeren	leerte	geleert	haben	Leere das Glas.	Empty the glass.
+227	irregular	schlage auf	schlägst auf	schlägt auf	schlagen auf	schlagt auf	schlagen auf	schlug auf	aufgeschlagen	haben	Ich schlage das Buch auf.	I open the book.
+228	regular	melde mich ab	meldest dich ab	meldet sich ab	melden uns ab	meldet euch ab	melden sich ab	meldete ab	abgemeldet	haben	Ich melde mich ab.	I log off.
+229	irregular	ziehe ein	ziehst ein	zieht ein	ziehen ein	zieht ein	ziehen ein	zog ein	eingezogen	sein	Wir ziehen in die neue Wohnung ein.	We move into the new flat.
+230	regular	erlaube	erlaubst	erlaubt	erlauben	erlaubt	erlauben	erlaubte	erlaubt	haben	Erlaube es mir.	Allow me.
+231	regular	gehöre	gehörst	gehört	gehören	gehört	gehören	gehörte	gehört	haben	Das Buch gehört mir.	The book belongs to me.
+232	regular	vermiete	vermietest	vermietet	vermieten	vermietet	vermieten	vermietete	vermietet	haben	Sie vermietet die Wohnung.	She rents out the flat.
+233	irregular	kenne aus	kennst aus	kennt aus	kennen aus	kennt aus	kennen aus	kannte aus	ausgekannt	haben	Ich kenne mich mit Technik aus.	I am familiar with technology.
+234	regular	faxe	faxt	faxt	faxen	faxt	faxen	faxte	gefaxet	haben	Fax mir das Dokument.	Fax me the document.
+235	regular	kündige	kündigst	kündigt	kündigen	kündigt	kündigen	kündigte	gekündigt	haben	Er kündigt den Job.	He quits the job.
+236	irregular	unterhalte mich	unterhältst dich	unterhält sich	unterhalten uns	unterhaltet euch	unterhalten sich	unterhielt	unterhalten	haben	Wir unterhalten uns gut.	We converse well.
+237	irregular	verirre mich	verirrst dich	verirrt sich	verirren uns	verirrt euch	verirren sich	verirrte	verirrt	haben	Ich verirre mich in der Stadt.	I get lost in the city.
+238	irregular	verspreche	versprichst	verspricht	versprechen	versprecht	versprechen	versprach	versprochen	haben	Ich verspreche es dir.	I promise it to you.
+239	regular	fühle mich wohl	fühlst dich wohl	fühlt sich wohl	fühlen uns wohl	fühlt euch wohl	fühlen sich wohl	fühlte wohl	wohlgefühlt	haben	Ich fühle mich hier wohl.	I feel well here.
+240	irregular	gebe aus	gibst aus	gibt aus	geben aus	gebt aus	geben aus	gab aus	ausgegeben	haben	Ich gebe das Geld aus.	I spend the money.

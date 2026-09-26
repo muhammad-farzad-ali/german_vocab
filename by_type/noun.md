@@ -1,4 +1,4 @@
-# Noun (860)
+# Noun (862)
 
 - die Currywurst, -würste — sausage with curry sauce (German fast food dish)
 - der Durst (Singular) — thirst
@@ -511,6 +511,7 @@
 - der Schneeschuh, -e — snowshoe
 - die Taucherbrille, -n — diving mask
 - die Yogamatte, -n — yoga mat
+- die Luft (meist Singular) (Ich bin in der Luft, ich fliege!) — air (I am in the air, I'm flying!)
 - die Mauer, -n — wall
 - der Muskel, -n — muscle
 - das Pferd, -e — horse
@@ -857,6 +858,7 @@
 - die Prinzessin, -nen — princess
 - der Quatsch (Singular) — nonsense
 - der Ski, -er — ski
+- das Skifahren (Singular) — to ski
 - die Zusammenfassung, -en — summary, synopsis
 - der Blogger, — blogger
 - die Eigenschaft, -en — attribute, characteristic

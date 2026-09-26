@@ -93,7 +93,7 @@ def parse_verb(g, e):
         for pref in SEPARABLE_PREFIXES:
             if base.startswith(pref) and len(base) > len(pref):
                 separable = pref
-                base = base[len(pref) :]
+                base = base[len(pref) :].strip()
                 break
     aux = "—"
     partizip = "—"

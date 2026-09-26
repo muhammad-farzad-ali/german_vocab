@@ -1,4 +1,4 @@
-# Adverb (71)
+# Adverb (72)
 
 - rauf — up
 - nachher — afterward
@@ -30,6 +30,7 @@
 - nirgends — nowhere
 - sogar — even
 - ziemlich — quite, rather
+- hin (Ich möchte ein Ticket hin und zurück.) — to (I want a ticket to and back.)
 - früher — formerly, in the past
 - plötzlich — suddenly
 - hinten — behind

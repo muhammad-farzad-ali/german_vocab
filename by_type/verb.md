@@ -1,4 +1,4 @@
-# Verb (307)
+# Verb (304)
 
 - äußern — to express
 - decken (Deck doch schon mal den Tisch.) — to set (a table) (Set the table already.)
@@ -111,7 +111,6 @@
 - tauschen — to switch, trade
 - föhnen — to blow-dry
 - besitzen (besitzt, hat besessen) — to own
-- hin (Ich möchte ein Ticket hin und zurück.) — to (I want a ticket to and back.)
 - erwarten — to await, expect
 - bereuen — to regret
 - erfüllen (sich) — to fulfill
@@ -194,7 +193,6 @@
 - vortragen (trägt vor, hat vorgetragen) — to recite, deliver
 - reiten (reitet, ist geritten) — horseback riding
 - tauchen (taucht, ist getaucht) — to dive
-- die Luft (meist Singular) (Ich bin in der Luft, ich fliege!) — air (I am in the air, I'm flying!)
 - springen (springt, ist gesprungen) (Ich bin schon mal Fallschirm gesprungen.) — to jump (I have parachute jumped before.)
 - hoffen — to hope
 - verlieren (verliert, hat verloren) — to lose
@@ -306,4 +304,3 @@
 - steigen (steigt, ist gestiegen) — to climb, rise
 - eingehen (geht ein, ist eingegangen) (Auf welchen Punkt sollen wir in der Diskussion eingehen?) — to focus on, concentrate (On which point in the discussion should we focus?)
 - kriegen — to get, obtain
-- das Skifahren (Singular) — to ski

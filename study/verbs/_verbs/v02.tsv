@@ -1,0 +1,40 @@
+41	irregular	reihe ein	reibst ein	reibt ein	reiben ein	reibt ein	reiben ein	rieb ein	eingerieben	haben	Reib die Creme ein.	Rub in the cream.
+42	irregular	sehe	siehst	sieht	sehen	seht	sehen	sah	gesehen	haben	Ich sehe einen Vogel.	I see a bird.
+43	regular	klebe zu	klebst zu	klebt zu	kleben zu	klebt zu	kleben zu	klebte zu	zugeklebt	haben	Klebe den Umschlag zu.	Seal the envelope.
+44	irregular	komme	kommst	kommt	kommen	kommt	kommen	kam	gekommen	sein	Komm bitte her.	Please come here.
+45	regular	mische	mischst	mischt	mischen	mischt	mischen	mischte	gemischt	haben	Mische die Farben.	Mix the colours.
+46	regular	wundere mich	wunderst dich	wundert sich	wundern uns	wundert euch	wundern sich	wunderte	gewundert	haben	Ich wundere mich darüber.	I am surprised about that.
+47	regular	sortiere	sortierst	sortiert	sortieren	sortiert	sortieren	sortierte	sortiert	haben	Sortiere die Briefe.	Sort the letters.
+48	regular	korrigiere	korrigierst	korrigiert	korrigieren	korrigiert	korrigieren	korrigierte	korrigiert	haben	Korrigiere den Fehler.	Correct the mistake.
+49	irregular	komme zurück	kommst zurück	kommt zurück	kommen zurück	kommt zurück	kommen zurück	kam zurück	zurückgekommen	sein	Ich komme morgen zurück.	I come back tomorrow.
+50	regular	wohne zusammen	wohnst zusammen	wohnt zusammen	wohnen zusammen	wohnt zusammen	wohnen zusammen	wohnte zusammen	zusammengewohnt	haben	Wir wohnen zusammen.	We live together.
+51	irregular	hänge	hängst	hängt	hängen	hängt	hängen	hing	gehangen	haben	Das Bild hängt an der Wand.	The picture hangs on the wall.
+52	regular	hänge	hängst	hängt	hängen	hängt	hängen	hängte	gehängt	haben	Häng den Mantel auf.	Hang up the coat.
+53	regular	lege	legst	legt	legen	legt	legen	legte	gelegt	haben	Lege das Buch auf den Tisch.	Lay the book on the table.
+54	regular	drehe mich um	drehst dich um	dreht sich um	drehen uns um	dreht euch um	drehen sich um	drehte um	umgedreht	haben	Dreh dich um!	Turn around!
+55	regular	verändere	veränderst	verändert	verändern	verändert	verändern	veränderte	verändert	haben	Das verändert alles.	That changes everything.
+56	irregular	gebe weiter	gibst weiter	gibt weiter	geben weiter	gebt weiter	geben weiter	gab weiter	weitergegeben	haben	Gib die Information weiter.	Pass on the information.
+57	irregular	entscheide mich	entscheidest dich	entscheidet sich	entscheiden uns	entscheidet euch	entscheiden sich	entschied	entschieden	haben	Ich entscheide mich jetzt.	I decide now.
+58	regular	kommentiere	kommentierst	kommentiert	kommentieren	kommentiert	kommentieren	kommentierte	kommentiert	haben	Kommentiere den Beitrag.	Comment on the post.
+59	regular	klicke an	klickst an	klickt an	klicken an	klickt an	klicken an	klickte an	angeklickt	haben	Klick den Link an.	Click the link.
+60	regular	blogge	bloggst	bloggt	bloggen	bloggt	bloggen	bloggte	gebloggt	haben	Ich blogge über Reisen.	I blog about travel.
+61	regular	checke	checkst	checkt	checken	checkt	checken	checkte	gecheckt	haben	Ich checke meine E-Mails.	I check my emails.
+62	regular	downloade	downloadest	downloadet	downloaden	downloadet	downloaden	downloadete	gedownloadet	haben	Ich downloade das Video.	I download the video.
+63	irregular	lade herunter	lädst herunter	lädt herunter	laden herunter	ladet herunter	laden herunter	lud herunter	heruntergeladen	haben	Ich lade die App herunter.	I download the app.
+64	regular	poste	postest	postet	posten	postet	posten	postete	gepostet	haben	Ich poste ein Foto.	I post a photo.
+65	regular	simse	simsest	simst	simsen	simst	simsen	simste	gesimst	haben	Sims mir später.	Text me later.
+66	regular	skype	skypest	skypt	skypen	skypt	skypen	skypte	geskypt	haben	Wir skypen am Abend.	We skype in the evening.
+67	regular	wünsche mir	wünschst dir	wünscht sich	wünschen uns	wünscht euch	wünschen sich	wünschte	gewünscht	haben	Ich wünsche mir ein Buch.	I wish for a book.
+68	regular	flüstere	flüsterst	flüstert	flüstern	flüstert	flüstern	flüsterte	geflüstert	haben	Sie flüstern im Kino.	They whisper in the cinema.
+69	regular	flüstere weiter	flüsterst weiter	flüstert weiter	flüstern weiter	flüstert weiter	flüstern weiter	flüsterte weiter	weitergeflüstert	haben	Flüster nicht weiter.	Do not keep whispering.
+70	auxiliary	bin an	bist an	ist an	sind an	seid an	sind an	war an	an gewesen	sein	Das Licht ist an.	The light is on.
+71	regular	passe auf	passt auf	passt auf	passen auf	passt auf	passen auf	passte auf	aufgepasst	haben	Pass auf die Kinder auf.	Watch the children.
+72	regular	stelle	stellst	stellt	stellen	stellt	stellen	stellte	gestellt	haben	Stell die Vase auf den Tisch.	Put the vase on the table.
+73	irregular	verbringe	verbringst	verbringt	verbringen	verbringt	verbringen	verbrachte	verbracht	haben	Ich verbringe den Tag zu Hause.	I spend the day at home.
+74	regular	arbeite zusammen	arbeitest zusammen	arbeitet zusammen	arbeiten zusammen	arbeitet zusammen	arbeiten zusammen	arbeitete zusammen	zusammengearbeitet	haben	Wir arbeiten zusammen.	We work together.
+75	regular	lache	lachst	lacht	lachen	lacht	lachen	lachte	gelacht	haben	Wir lachen viel.	We laugh a lot.
+76	regular	weine	weinst	weint	weinen	weint	weinen	weinte	geweint	haben	Das Baby weint.	The baby cries.
+77	irregular	gehe	gehst	geht	gehen	geht	gehen	ging	gegangen	sein	Der Film geht um eine Familie.	The film is about a family.
+78	regular	mache mich lustig	machst dich lustig	macht sich lustig	machen uns lustig	macht euch lustig	machen sich lustig	machte lustig	lustig gemacht	haben	Mach dich nicht lustig!	Do not make fun of yourself!
+79	irregular	spiele	spielst	spielt	spielen	spielt	spielen	spielte	gespielt	haben	Der Film spielt in der Türkei.	The film is set in Turkey.
+80	regular	verwende	verwendest	verwendet	verwenden	verwendet	verwenden	verwendete	verwendet	haben	Ich verwende das neue Wort.	I use the new word.
