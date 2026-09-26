@@ -1,0 +1,178 @@
+# Adjective (176)
+
+- egal — all the same
+- einfach (Das muss einfach sein!) — here: just, simply (It just has to be!)
+- fett (Currywurst ist so fett.) — fatty
+- schlecht — bad
+- superlecker — very tasty
+- bitter — bitter
+- fett (Ungesundes Essen macht fett.) — fat (Unhealthy food makes you fat.)
+- salzig — salty
+- sauer (saurer, am sauersten) (Zitronen schmecken sehr sauer.) — sour (Lemons taste very sour.)
+- scharf (schärfer, am schärfsten) — spicy
+- süß — sweet
+- extra — specially
+- traurig — sad
+- blind — blind
+- schwierig — difficult, hard
+- sehbehindert — vision-impaired
+- verboten — forbidden
+- abwechselnd — alternating(ly)
+- erwachsen — mature, grown-up
+- schrecklich — terrible
+- überrascht — surprised
+- fest — fixed, set
+- traditionell — traditional
+- perfekt — perfect
+- still — silent(ly)
+- möglich — possible
+- privat — private
+- vorsichtig — careful(ly)
+- froh — glad, relieved
+- gefährlich — dangerous(ly)
+- nützlich — useful(ly)
+- kompliziert — complicated(ly)
+- berühmt — famous
+- skeptisch — skeptical(ly)
+- aktuell — current
+- empfehlenswert — recommendable
+- realistisch — realistic
+- spannend — exciting, suspenseful
+- sympathisch — likeable
+- logisch — logical
+- weitere — further
+- neugierig — curious
+- unglücklich — here: unlucky
+- aufregend — exciting, thrilling
+- böse — angry, mad
+- bekannt — known, well-known
+- historisch — historic(al)
+- weltweit — worldwide
+- neutral — neutral(ly)
+- zahlreich — numerous
+- peinlich — embarrassing, awkward
+- unangenehm — unpleasant
+- ärgerlich — annoying, irritating
+- emotional — emotional
+- fröhlich — happy, cheerful
+- gestresst — stressed
+- melancholisch — melancholic
+- originell — original
+- poetisch — poetic
+- romantisch — romantic
+- domestiziert — domesticated
+- wild — wild
+- akkurat — accurate
+- hilfsbereit — helpful(ly)
+- interessiert (an + Dat.) — interested
+- ordentlich — proper, tidy
+- schlimm — bad, terrible
+- passend — suitable, matching
+- kurz (Wir kommen um kurz nach zwölf an.) — short(ly) (We are arriving shortly after twelve.)
+- einfach (Einfach oder hin und zurück?) — here: one-way (One way, or to and back?)
+- entspannt — relaxed
+- fantastisch — fantastic(ally)
+- fit (fitter, am fittesten) — fit, in shape
+- großartig — great, grand, terrific
+- live — live
+- hübsch — pretty
+- verrückt — crazy
+- antik — antique
+- arbeitslos — unemployed
+- erfolgreich — successful
+- folgend — following
+- deutlich — distinct(ly)
+- hektisch — hectic
+- informiert — informed
+- erreichbar — reachable
+- familienfreundlich — family-friendly
+- lebenslang — lifelong
+- selbstständig — self-sufficient
+- starr — rigid
+- unmodern — old-fashioned
+- locker — relaxed(ly)
+- schön (Mit dem Fahrrad ist Peter ganz schön mobil.) — pretty (With the bike, Peter is pretty much mobile.)
+- ewig — forever
+- nervig — annoying
+- ungeduldig — impatient
+- genervt — annoyed, irritated
+- höflich — polite
+- stressfrei — stress-free
+- gespannt — curious(ly), eager(ly)
+- einverstanden — agreed
+- flexibel (flexibler, am flexibelsten) — flexible
+- unmöglich — impossible
+- unpraktisch — impractical
+- allgemein — general(ly)
+- wach — awake
+- öffentlich (Ich nehme immer die öffentlichen Verkehrsmittel.) — public (I always take public transportation.)
+- durchsichtig — transparent
+- griffbereit — handy, at hand
+- kühl — cool
+- knapp — scarce(ly)
+- mündlich — oral
+- konsequent — consistent(ly)
+- gerecht — fair, just
+- ruhig (Machen Sie beim Lernen ruhig einen freien Tag pro Woche.) — here: without worry (Go ahead and take one day off from studying per week!)
+- abwechslungsreich — varied
+- einsam — lonely
+- freiberuflich — self-employed, freelance
+- gehörlos — deaf, hearing-impaired
+- komplett — complete(ly)
+- sportlich — sporty
+- begeistert — enthusiastic
+- kritisch — critical(ly)
+- treu (Bleiben Sie uns treu.) — loyal(ly) (Stay loyal to us.)
+- geografisch — geographic(ally)
+- sogenannt — so-called
+- jeweilig — respective
+- stabil — sturdy, stable
+- versteckt — hidden
+- wasserdicht — waterproof
+- bewohnt — inhabited
+- entfernt — distant(ly)
+- genial — ingenious(ly); here: impressive
+- intensiv — intense(ly), intensive(ly)
+- leise — quiet
+- eng — narrow
+- trocken — dry
+- elektrisch — electric(ally)
+- möbliert — furnished
+- einmalig — unique, singular
+- pflegeleicht — easy to care for
+- modisch — fashionable
+- unterschiedlich — different(ly)
+- verliebt — in love
+- bayrisch — Bavarian
+- meistverkauft — bestselling
+- netto — net
+- deutschsprachig — German-speaking
+- selbe — same
+- ausverkauft — sold out
+- aufgeregt — excited(ly)
+- abstrakt — abstract(ly)
+- dumm — dumb(ly)
+- exakt — exact(ly)
+- gemacht (Dieser Film ist echt gut gemacht.) — made (This film is really well made.)
+- dunkel- — dark
+- hell- — light
+- betrunken — drunk(enly)
+- schwanger — pregnant
+- tot — dead
+- pensioniert — retired
+- fließend (Auf dem Bauernhof gibt es kein fließendes Wasser.) — running (There is no running water at the farm.)
+- sinnvoll — meaningful
+- afrikanisch — African
+- effektiv — effective(ly)
+- einzig — only, sole, unique
+- unhöflich — impolite(ly)
+- unsicher — insecure(ly)
+- unzufrieden — dissatisfied(ly), displeased
+- gierig — greedy
+- automatisch — automatic(ally)
+- befreundet — befriended
+- generell — general(ly)
+- korrekt — correct
+- näher (Ich kenne meine Kollegen leider nicht näher.) — closer (Unfortunately, I don’t know my colleagues too well.)
+- altmodisch — old-fashioned
+- beleidigt — offended

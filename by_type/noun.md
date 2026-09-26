@@ -1,0 +1,866 @@
+# Noun (864)
+
+- die Currywurst, -würste — sausage with curry sauce (German fast food dish)
+- der Durst (Singular) — thirst
+- das Gefühl, -e — feeling
+- der Hunger (Singular) — hunger
+- Mensch (ohne Artikel, Singular) (Mensch, habe ich einen Hunger!) — Oh man! (exclamation) (Oh man, am I hungry!)
+- die Mikrowelle, -n — microwave
+- die Mensa, Mensen — cafeteria
+- der Kochkurs, -e — cooking class
+- die Pfanne, -n — pan
+- das Sieb, -e — sieve
+- der Topf, Töpfe — pot
+- die Zeichnung, -en — drawing
+- das Kochbuch, -bücher — cookbook
+- der Teilnehmer, — participant
+- die Ausbildung, -en — training, education
+- der Onkel, — uncle
+- das Fernsehen (Singular) — television
+- das Geschirr (Singular) — dishes
+- die Bohne, -n — bean
+- das Gute (Singular) (Kommt heute was Gutes im Fernsehen?) — good (Is something good on TV today?)
+- das Rindfleisch (Singular) — beef
+- Dunkelrestaurant — dining in the dark
+- das Dunkeldinner, — dining in the dark
+- die Dunkelheit (Singular) — darkness
+- das Dunkle (Singular) (Was ist beim Essen im Dunkeln schwierig?) — dark (What is hard about eating in the dark?)
+- der Eindruck, Eindrücke — impression
+- das Erlebnis, -se — experience
+- der Gastraum, -räume — dining room (in a restaurant)
+- der Gedanke, -n — thought
+- der Geruch, Gerüche — smell
+- das Licht, -er — light
+- das Menü, -s — three-course meal (in a restaurant)
+- die Sorge, -n — worry
+- der Vorraum, -räume — lobby, anteroom
+- das Dunkelrestaurant, -s — restaurant without lights, blind restaurant
+- das Ergebnis, -se — outcome, result
+- der Sinn, -e (Lernen Sie mit allen Sinnen.) — sense (Learn with all your senses.)
+- die Station, -en — station
+- das Auge, -n — eye
+- der Beutel, — bag
+- die Blume, -n — flower
+- das Bonbon, -s — piece of candy
+- der Gegenstand, -stände — item, article, subject
+- das Parfüm, -e/-s — perfume
+- der Stoffbeutel, — cloth bag
+- der Zitronensaft, -säfte — lemon juice
+- die Schulzeit (Singular) — school time, time at school
+- der Altenpfleger, — elderly care nurse
+- die Berufsschule, -n — trade school
+- die Elektrotechnik (Singular) — electrical engineering
+- der Hotelkaufmann, -männer — hotel manager
+- das Klassentreffen, — class reunion
+- die Lehre, -n — apprenticeship
+- das Lieblingsfach, -fächer — favorite subject
+- die Note, -n — grade
+- das Praktikum, Praktika — practicum, internship
+- die Vorlesung, -en — lecture
+- das Zeugnis, -se — report card
+- das Au-pair, -s — au pair
+- die Informatik (Singular) — computer science
+- das Sportgeschäft, -e — sports goods store
+- der Steckbrief, -e — personal description
+- die Zukunft (Singular) — future
+- das Abitur (Singular) — high school graduation
+- der/die Arme, -n — unfortunate person
+- der Eintrag, Einträge — entry
+- die Englischlehrerin, -nen — English teacher (f.)
+- die Erinnerung, -en — memory
+- der Fehler, — mistake
+- die Ferien (Plural) — vacation
+- die Hauptsache, -n — main thing
+- die Kunst, Künste — art
+- die Kunststunde, -n — art class
+- das Land (Singular) (Elsa hat früher auf dem Land gewohnt.) — countryside (Elsa used to live in the countryside.)
+- die Lieblingsstunde, -n — favorite class
+- Mathe (ohne Artikel, Singular) — math
+- der Mathelehrer, — math teacher (m.)
+- der Riesenspaß (Singular) — lots of fun
+- der Schulfreund, -e — friend from school
+- die Sommerferien (Plural) — summer vacation
+- die Tür, -en — door
+- der Unterricht (Singular) — lessons, instruction
+- der Vokabeltest, -s — vocabulary test
+- die Hausaufgabe, -n — homework
+- die Schuluniform, -en — school uniform
+- der Beitrag, Beiträge — contribution
+- die Theatergruppe, -n — theater troupe
+- der Kommentar, -e — commentary
+- das Trainingsprogramm, -e — training program
+- der Transport, -e — transport
+- die WG, -s — apartment share, housing cooperative
+- das Mehl, -e — flour
+- die Veränderung, -en — changes, alterations
+- der Ball, Bälle (Kommst du heute Abend mit auf den Ball?) — ball (Are you coming with to the ball tonight?)
+- die Oper, -n — opera
+- Servus! — Greetings!
+- das Univiertel, — university district
+- das Blatt, Blätter — sheet of paper
+- die Disco, -s — discotheque
+- das Forum, Foren — forum
+- der Abschluss, Abschlüsse — degree
+- das Bundesland, -länder — province, state
+- die Hauptschule, -n — school up to 9th grade
+- die Realschule, -n — school up to 10th grade
+- das Schulsystem, -e — school system
+- der Schultyp, -en — school type
+- der Abendkurs, -e — night class
+- die Anglistik (Singular) — English language and literature
+- die Arbeitsstelle, -n — job, position
+- der Bankkaufmann, -männer — banker, bank clerk
+- das Berufsleben (Singular) — professional life
+- Chemie (ohne Artikel, Singular) — chemistry
+- die Dauer (Singular) — duration
+- das Fach, Fächer — subject (in school)
+- der Ferienclub, -s — resort
+- die Grundschule, -n — elementary school
+- der Hauptschulabschluss, -schlüsse — graduation after 9th grade
+- das Internat, -e — boarding school
+- die Karriere, -n — career
+- die Physik (Singular) — physics
+- der Realschulabschluss, -schlüsse — graduation after 10th grade
+- der Schulabschluss, -schlüsse — secondary school graduation
+- die Sportstunde, -n — gym class
+- der Stundenplan, -pläne — schedule
+- die Vorbereitung, -en — preparation
+- das Klassenzimmer, — classroom
+- die Unterrichtszeit, -en — class time
+- die Vorliebe, -n — preference
+- die Datei, -en — file
+- das Online-Netzwerk, -e — online network
+- das/der Radio, -s — radio
+- das Video, -s — video
+- die Medien (Plural) — media
+- der Bildschirm, -e — screen, monitor
+- das CD-Laufwerk, -e — CD drive
+- die CD-ROM, -s — CD-ROM
+- der Drucker — printer
+- das DVD-Laufwerk, -e — DVD drive
+- der Lautsprecher — speaker
+- die Maus, Mäuse — mouse
+- das Papier, -e — paper
+- der/das Tablet, -s — tablet
+- die Tastatur, -en — keyboard
+- die Web-Cam, -s — webcam
+- das E-Book, -s — e-book
+- das Fernsehgerät, -e — television set
+- der I-Pod, -s — iPod
+- das Smartphone, -s — smartphone
+- die Spielekonsole, -n — video game console
+- der Laptop, -s — laptop
+- die Umfrage, -n — survey, poll
+- die Web-Adresse, -n — web address, URL
+- der/die Letzte, -n — last, final
+- das Ohr, -en — ear
+- die Runde, -n — round
+- die Gefahr, -en — danger
+- der/die Kriminelle, -n — criminal
+- die Meinung, -en — opinion
+- das Netz (Singular) (Stell nicht zu viele Informationen ins Netz!) — web (Don’t put too much information on the web!)
+- der Buchverlag, -e — book publisher
+- der Fußballer — soccer player
+- der Fußballprofi, -s — soccer pro
+- der Lieblingsverein, -e — favorite team
+- das Porträt, -s — portrait, profile
+- das Produkt, -e — product
+- der Rapper — rapper
+- das Shooting, -s — shooting (film)
+- das Stadion, Stadien — stadium
+- der Traumberuf, -e — dream job
+- die Werbung, -en — advertisement
+- die Lösung, -en — solution
+- das Dingsbums (Singular) — thingy
+- der Actionfilm, -e — action movie
+- der Fantasy-Film, -e — fantasy movie
+- die Komödie, -n — comedy
+- der Lieblingsschauspieler — favorite actor
+- die Romanze, -n — romance
+- der Thriller — thriller
+- der Ausländer — foreigner
+- der Enkel — grandchild
+- der Gastarbeiter — guest worker
+- die Heimat (Singular) — homeland, hometown
+- der Kleinbus, -se — minibus
+- der Konflikt, -e — conflict
+- das Lachen (Singular) — laughter
+- die Sechzigerjahre (Plural) — 1960s
+- die Versöhnung, -en — redemption
+- das Vorurteil, -e — prejudice
+- der Zuschauer — viewer, spectator
+- der Durchschnitt, -e — average
+- die Handlung, -en — plot, action
+- der Hauptdarsteller — leading actor
+- das Highlight, -s — highlight
+- das Klischee, -s — cliché
+- der Schauspieler — actor
+- der Stern, -e — star
+- die Szene, -n — scene
+- die Formulierung, -en — formulation, wording
+- die Beschreibung, -en — description
+- das Abiturzeugnis, -se — high school diploma, baccalaureate
+- die Babykleidung, -en — baby clothes
+- das Bedauern (Singular) — regret
+- der Blumenstrauß, -sträuße — bouquet
+- das Ereignis, -se — result
+- die Freude, -n — joy
+- der Führerschein, -e — driver’s license
+- die Führerscheinprüfung, -en — driver’s license exam
+- die Geburt, -en — birth
+- die Hochzeit, -en — wedding
+- das Jubiläum, Jubiläen — anniversary
+- die Medaille, -n — medal
+- der Platz, Plätze (Tom hat den ersten Platz geschafft.) — place (Tom won first place.)
+- der Ring, -e — ring
+- der Schultag, -e — school day
+- die Schultüte, -n — cone-shaped cardboard flute filled with candy to celebrate the first day of school
+- der Storch, Störche — stork
+- Herzlichen Glückwunsch — congratulation
+- die Absage, -n — cancellation
+- das Brautpaar, -e — bride and groom
+- die Dankeskarte, -n — thank-you card
+- der Glückwunsch, -wünsche — congratulation
+- die Glückwunschkarte, -n — congratulation card
+- die Karte, -n (Ich schreibe eine Karte mit Glückwünschen.) — card (I am writing a card with congratulations.)
+- das Liebe (Singular) (Ich wünsche euch alles Liebe zur Hochzeit.) — here: best (I wish you all the best for your wedding.)
+- der Traum, Träume — dream
+- der Ausdruck, Ausdrücke — expression
+- die Geburtstagsfeier, -n — birthday celebration
+- der Kreis, -e — circle
+- die Angst, Ängste — fear
+- die Emotion, -en — emotion
+- das Unglück (Singular) — misfortune
+- die Achterbahn, -en — roller coaster
+- Alternative (ohne Artikel, Singular) (Pop, Rock und Alternative sind Musikstile.) — alternative (Pop, rock, and alternative are music genres.)
+- die Band, -s — band (music)
+- das Festival, -s — festival
+- das Kinderfest, -e — children’s festival
+- der Musikfan, -s — music fan
+- das Musikfest, -e — music festival
+- der Musikstil, -e — music genre
+- das Muss (Singular) — must
+- der Newcomer, — newcomer
+- der Pop (Singular) — pop
+- das Programm, -e — program, schedule
+- die Segelregatta, -regatten — sailing race, yacht race
+- das Segelschiff, -e — sailboat
+- der Sportfan, -s — sports fan
+- das Sportfest, -e — sports festival
+- das Stadtfest, -e — city festival
+- das Theaterfest, -e — theater festival
+- das Feuerwerk, -e — fireworks display
+- die Veranstaltung, -en — event
+- das Pech (Singular) — bad luck
+- das Los, -e — lot, raffle ticket
+- das Lied, -er — song
+- der Gegensatz, -sätze — counterpart, contrast
+- die Freundschaft, -en — friendship
+- die Kindheit (Singular) — childhood
+- die Liebe (Singular) (Die Liebe ist ein schönes Gefühl.) — love (Love is a wonderful feeling.)
+- die Sehnsucht, -süchte — longing
+- die Variante, -n — variation
+- der Abschnitt, -e — section, paragraph
+- die Ankunft, Ankünfte — arrival
+- das Ausland (Singular) — foreign countries, abroad
+- der Blogeintrag, -einträge — blog post
+- der Grund, Gründe — reason
+- der Inhalt, -e — content
+- die Sprachenschule, -n — language school
+- der Tango, -s — tango
+- die Tango-Musik (Singular) — tango music
+- der Verkehr (Singular) — traffic
+- das Wohnheim, -e — dorm
+- der Absatz, Absätze — paragraph
+- die Zeile, -n — line (text)
+- der Aufenthalt, -e — stay, visit
+- der Anwalt, Anwälte — lawyer
+- der Grafiker, — graphic designer
+- der Hammer, — hammer
+- der Tischler, — carpenter
+- die Tönung, -en — tint, tone
+- die Schere, -n — scissors
+- die Handbewegung, -en — hand gesture
+- die Geschäftsreise, -n — business trip
+- das Abteil, -e — compartment
+- die Bahncard, -s — train discount card
+- die Hinfahrt, -en — outbound trip
+- die Rückfahrt, -en — return trip
+- die Abfahrt, -en — departure
+- die Bahn, -en — train
+- der Bahnsteig, -e — train platform
+- die Durchsage, -n — announcement
+- der Fahrplan, -pläne — timetable, schedule
+- das Gepäck (Singular) — baggage, luggage
+- das Gleis, -e — track
+- die Information, -en (Ich gehe zur Information am Bahnhof.) — here: information desk (I am going to the information desk at the train station.)
+- der Schalter, — counter
+- der Waggon, -s/-e — train car
+- die Zugverbindung, -en — train connection
+- die Auskunft, Auskünfte — here: information desk
+- der Bahn-Mitarbeiter, — train employee
+- der Fahrgast, -gäste — passenger
+- der Fahrkartenschalter, — ticket booth
+- der Gang, Gänge (Gang oder Fenster?) — aisle (Aisle or window?)
+- der Großraumwagen, -/-wägen — open coach
+- die Klasse (Singular) (Möchten Sie in der ersten Klasse fahren?) — class (Do you want to ride first class?)
+- das Abend-Programm, -e — evening program
+- die Dame, -n — lady
+- die Ermäßigung, -en — discount
+- die Geschichte (Singular) (Die Geschichte von Wiesbaden ist sehr spannend.) — history, story (The history of Wiesbaden is really exciting.)
+- die Kultur, -en — culture
+- das Musikereignis, -se — musical event
+- die Reservierung, -en — reservation
+- der Sänger, — singer
+- der Senior, -en — senior
+- die Show, -s — show
+- der Arztkittel, — lab coat
+- der Berufswechsel, — career change
+- der Elektrokonzern, -e — electronics company
+- der Fernfahrer, — trucker
+- die Freiheit, -en — freedom
+- der Herzchirurg, -en — heart surgeon
+- die Herzchirurgie, -n — cardiac surgery
+- das Herzzentrum, -zentren — cardiac center
+- die Industriekauffrau, -en — industrial businesswoman
+- der Lastwagen, -/-wägen — truck
+- der Leiter, — leader, director
+- die Medizin (Singular) — medicine
+- die Möbelwerkstatt, -stätten — furniture workshop
+- der Oberarzt, -ärzte — senior physician
+- der Operationssaal, -säle — operating room
+- der Overall, -s — overalls
+- das Schmuckstück, -e — piece of jewelry
+- die Tischlerei, -en — carpenter’s woodshop
+- das Universitätsspital, -e — university hospital
+- die Parallele, -n — parallel
+- die Altersangabe, -n — age indication
+- der Berufswunsch, -wünsche — career goal
+- der Arbeitsort, -e — work location
+- der Aspekt, -e — aspect
+- der Tiertrainer, — animal trainer
+- der Autor, -en — author
+- der Schritt, -e — step
+- der Lkw, -s — truck
+- das Telefongespräch, -e — telephone conversation
+- das Lächeln (Singular) — smile
+- die Ruhe (Singular) — quiet, calm
+- der Stift, -e — pencil
+- die Durchwahl, -en — phone extension
+- der Arbeitsalltag (Singular) — workday
+- das Arbeitsleben (Singular) — professional life
+- die Arbeitsteilung (Singular) — division of labor
+- das Arbeitsverhältnis, -se — working relationship
+- der Austausch (Singular) — exchange
+- die Balance (Singular) — balance
+- der Betreuungsplatz, -plätze — child care facility
+- die Fähigkeit, -en — capability, skill
+- die Flexibilität (Singular) — flexibility
+- die Hierarchie, -n — hierarchy
+- die Internetverbindung, -en — internet connection
+- die Kooperation, -en — cooperation
+- die Position, -en — position, role
+- die Projektarbeit, -en — project work
+- die Sicherheit, -en — security
+- die Teamarbeit, -en — teamwork
+- die Telefonkonferenz, -en — conference call
+- die Verbindung, -en — connection
+- die Vernetzung, -en — network
+- die Videokonferenz, -en — video conference
+- das Wissen (Singular) — knowledge
+- das Schlüsselwort, -wörter — keyword
+- Bis dann! — Until then!
+- das Foyer, -s — foyer
+- die Karte, -n (Kaufst du die Karten für das Konzert?) — ticket (Are you buying the tickets for the concert?)
+- die Philharmonie, -n — philharmonic
+- die Unsicherheit, -en — insecurity
+- die Ampel, -n — traffic light
+- der Motor, -en — motor
+- der Parkplatz, -plätze — parking lot
+- die Polizei (Singular) — police
+- der Reifen, — tire
+- der Stau, -s — traffic jam
+- das Parkhaus, -häuser — parking garage
+- der Anschluss, Anschlüsse — connection
+- die Panne, -n — car break down
+- der Sitzplatz, -plätze — seat
+- die Tankstelle, -n — gas station
+- das Verkehrsmittel, — mode of transportation
+- das Kinderabteil, -e — children’s section
+- die Mama, -s — mama
+- das Chaos (Singular) — chaos
+- der Papa, -s — papa
+- die App, -s — application
+- der Deal, -s — deal
+- die Bedienung (Singular) (Das Programm hat eine einfache Bedienung.) — operation (The program is easily operated.)
+- Hi! — Hi!
+- das Navigationssystem, -e — navigation system
+- die Strecke, -n — route
+- die Verkehrsapp, -s — traffic application
+- die Daten (Plural) — files
+- die Radarkamera, -s — radar camera
+- das Benzin (Singular) — gas
+- die Überlegung, -en — consideration
+- der Abflug, Abflüge — departing flight
+- die Garage, -n — garage
+- das Kennzeichen, — license plate
+- das Kfz, — motor vehicle
+- der Pkw, -s — automobile, passenger car
+- die Reparatur, -en — repair
+- die Versicherung, -en — insurance
+- der Wagen, -/Wägen — car
+- die Brücke, -n — bridge
+- der Kinderspielplatz, -plätze — playground
+- die Kreuzung, -en — intersection
+- der Wohnungsschlüssel, — house key
+- die Wegbeschreibung, -en — directions
+- das Navigationsgerät, -e — navigation device
+- der Zeitungsartikel, — newspaper article
+- der Anbieter, — vendor, provider
+- das Carsharing (Singular) — car sharing
+- der Fall, Fälle (In dem Fall ist das Auto billiger.) — case, situation (In this case, the car is cheaper.)
+- die Gebühr, -en — fee
+- das Konzept, -e — concept
+- das Privatauto, -s — privately owned car
+- die Telefonzentrale, -n — switchboard, hotline
+- das Wunschauto, -s — desired car
+- der Unsinn (Singular) — nonsense
+- das Stadtteilauto, -s — car sharing car; zipcar
+- die Richtung, -en — direction
+- die Zugfahrt, -en — train ride
+- die Schlange, -n — line, queue
+- das Kursergebnis, -se — class result
+- die Begegnung, -en — encounter
+- die Radiosendung, -en — radio program
+- der Schriftsteller, — writer
+- die Sendung, -en — program, show
+- der Stichpunkt, -e — bullet point, key point
+- die Fahrradreise, -n — bicycle trip
+- der Elefant, -en — elephant
+- das Ersatzteil, -e — spare part
+- das Hinterrad, -räder — rear wheel
+- die Isomatte, -n — sleeping pad
+- der Kompass, -e — compass
+- die Lenkertasche, -n — handlebar bag
+- die Not, Nöte — emergency
+- das Notizbuch, -bücher — notebook
+- die Seite, -n (In der linken Seite steckt ein Messer.) — side (A knife is stuck in the left side.)
+- die Unterwäsche (Singular) — underwear
+- die Wäsche (Singular) — here: underwear
+- das Werkzeug, -e — tool
+- die Wollmütze, -n — wool cap
+- die Disziplin (Singular) — discipline
+- die Gitarre, -n — guitar
+- die Lieblingsband, -s — favorite band
+- der Online-Kurs, -e — online course
+- die Checkliste, -n — checklist
+- die Meisterprüfung, -en — master’s certification
+- der Prüfer, — examiner, person ministering an exam
+- der Schlaf (Singular) — sleep
+- das Semester, — semester
+- der Stoff (Singular) (Für die Prüfung muss ich noch so viel Stoff lernen.) — material (I still have to learn so much material for the test.)
+- der Zeitplan, -pläne — schedule
+- das Lernproblem, -e — learning problem
+- die Arbeit, -en (Maria schreibt heute eine Arbeit in Geografie.) — here: exam (Maria has an exam in geography today.)
+- der Arbeitsplan, -pläne — work plan, work schedule
+- die Erholung (Singular) — recovery
+- die Grippe, -n — flu
+- der Lernhelfer, — learning assistant
+- der Trick, -s — trick
+- der Ratschlag, Ratschläge — advice, counsel
+- der Forumstext, -e — forum post
+- der Auftrag, Aufträge — job, order, task
+- der Doktor, Doktoren — doctor
+- das Drehbuch, -bücher — screenplay
+- der Gebärdendolmetscher, — sign language interpreter
+- der/die Gehörlose, -n — deaf person, hearing-impaired person
+- das Gericht, -e (Tom dolmetscht oft im Gericht oder auf dem Standesamt.) — court (Tom often interprets in court or at the civil magistrate’s office.)
+- die Kommunikation (Singular) — communication
+- die Konferenz, -en — conference
+- die Logopädin, -nen — speech therapist (f.)
+- Mitternacht (ohne Artikel, Singular) — midnight
+- die Phase, -n — phase
+- die Sprachtherapie, -n — speech therapy
+- das Standesamt, -ämter — civil magistrate’s office
+- der Tagesablauf, -abläufe — daily schedule
+- der Übersetzer, — translator
+- die Untersuchung, -en — examination
+- der Zeitschriftenartikel, — newspaper article
+- die Angabe, -n — statement
+- die Tänzerin, -nen — dancer (f.)
+- die Aushilfe, -n — temporary help
+- die Frucht, Früchte — fruit
+- das Generationenprojekt, -e — generational project
+- der Preis, -e (Unser Projekt hat dieses Jahr einen Preis gewonnen.) — prize (Our project won a prize this year.)
+- die Servicekraft, -kräfte — service staff
+- der Wert, -e — value
+- die Erwartung, -en — expectation
+- die Reportage, -n — report
+- das Stichwort, -wörter — keyword
+- die Seniorin, -nen — senior citizen (f.)
+- das Lieblingsbuch, -bücher — favorite book
+- der Vorleser, — reader
+- die Einleitung, -en — introduction
+- die Gliederung, -en — structure, organization
+- der Hauptteil, -e — main section
+- der Punkt, -e (Zu diesem Punkt möchte ich noch etwas sagen: …) — point (I still want to say something about this point…)
+- der Zuhörer, — listener
+- der Spiegel, — mirror
+- Paragliding (ohne Artikel) — paragliding
+- Parkour — parkour
+- das Schneeschuhwandern (Singular) — snowshoe hiking
+- das Yoga (Singular) — yoga
+- der Gleitschirm, -e — paraglider
+- der Reithelm, -e — riding helmet
+- der Schneeschuh, -e — snowshoe
+- die Taucherbrille, -n — diving mask
+- die Yogamatte, -n — yoga mat
+- die Mauer, -n — wall
+- der Muskel, -n — muscle
+- das Pferd, -e — horse
+- der Schirm, -e (Ich springe aus dem Flugzeug, hoffentlich öffnet sich der Schirm.) — parachute (I am jumping out of the airplane; hopefully the parachute will open.)
+- das Tier, -e — animal
+- der Wald, Wälder — forest
+- der Yogakurs, -e — yoga class
+- die Sportart, -en — sport type
+- der Fallschirm, -e — parachute
+- der Sportgegenstand, -gegenstände — sports equipment
+- der Fan, -s — fan
+- der Fanartikel, — team merchandise
+- der Fußballschal, -s — soccer club scarf
+- der Fußballfan, -s — soccer fan
+- die Begeisterung (Singular) — enthusiasm
+- die Enttäuschung, -en — disappointment
+- die Hoffnung, -en — hope
+- die Topform (Singular) — top form, peak condition
+- der Wahnsinn (Singular) — madness, insanity
+- die Niederlage, -n — defeat
+- der Sieg, -e — victory
+- die Lieblingsmannschaft, -en — favorite team
+- der Lieblingssportler, — favorite athlete
+- das Bällchen, — ball
+- die Chance, -n — chance, opportunity
+- die Folge, -n — result
+- die Konsequenz, -en — consequence
+- die Mannschaft, -en — team
+- das Tor, -e (Beim Fußballspiel sind super Tore gefallen.) — goal (Great goals were made at the soccer game.)
+- das Vorbild, -er — role model
+- der Widerspruch, -sprüche — contradiction, opposition
+- der Musiker, — musician
+- der Sportler, — athlete
+- die Unterscheidung, -en — distinction, difference
+- die Kondition (Singular) — conditioning
+- die Reaktion, -en — reaction
+- der Vorschlag, Vorschläge — suggestion, recommendation
+- der Hochseilgarten, -gärten — high ropes course
+- die Info, -s — information
+- der Profi, -s — professional
+- die Übersicht, -en — overview
+- das Kärtchen, — card
+- der Stapel, — deck of cards
+- Geocaching — geocaching
+- das Geocaching (Singular) — geocaching
+- der Schatz, Schätze — treasure
+- die Art, -en — type
+- die Erklärung, -en — explanation
+- der Geocache, -s — geocache
+- das GPS-Gerät, -e — GPS device
+- die Koordinate, -n — coordinate
+- das Versteck, -e — hiding place
+- der Baum, Bäume — tree
+- der Behälter, — container
+- der Cache, -s — cache
+- die Dose, -n — jar, can, canister
+- die Erde (Singular) — earth
+- das Gelände, — landscape
+- der Geocache-Behälter, -e — geocache container
+- der Geocache-Inhalt, -e — geocache contents
+- der Geocacher, — geocacher
+- das Grad, -e — degree
+- die Höhle, -n — cave
+- die Internetadresse, -n — internet address, URL
+- das Loch, Löcher — hole
+- das Logbuch, -bücher — log book
+- die Minustemperaturen (Plural) — temperatures below freezing
+- der Multicache, -s — multicache
+- die Natur (Singular) — nature
+- die Naturwanderung, -en — nature hike
+- die Pflanze, -n — plant
+- das Plastik (Singular) — plastic
+- die Plastikdose, -n — plastic canister
+- die Temperatur, -en — temperature
+- der Tresor, -e — vault, safe
+- das Kongresszentrum, -zentren — convention center
+- das Kulturzentrum, -zentren — cultural center
+- die Besonderheit, -en — special feature
+- der Bauernhof, -höfe — farm
+- die Breite, -n — width, breadth
+- das Dach, Dächer — roof
+- das Dorf, Dörfer — small town, village
+- der Einwohner, — inhabitant
+- die Ferienwohnung, -en — vacation home
+- die Fläche, -n — area
+- das Gebäude, — building
+- das Hausboot, -e — houseboat
+- die Insel, -n — island
+- die Kauffrau, -en — businesswoman
+- der Keller, — basement
+- die Länge, -n — length
+- die Luft (meist Singular) — air (The air is fresh and clean.)
+- der Quadratmeter, — square meter
+- die Seehöhe (Singular) — above sea level
+- das Ufer, — shore
+- die Wolke, -n — cloud
+- die Wohnform, -en — form of housing
+- der Stadtrand, -ränder — city limit
+- der Strand, Strände — beach
+- die Haustür, -en — front door
+- der Eingang, Eingänge — entrance
+- das Rad, Räder — bike
+- der Rauch (Singular) — smoke
+- das Treppenhaus, -häuser — stairwell, stairway
+- der Wortschatz (Singular) — vocabulary
+- das Feuer, — fire
+- die Feuerwehr, -en — fire department
+- der Kinderwagen, – /-wägen — baby carriage, pram
+- der Müll (Singular) — trash
+- die Mülltonne, -n — trash can
+- die Ordnung (Singular) — here: all right (That’s all right.)
+- die Konfliktsituation, -en — conflict situation
+- der/die Kleine, -n — little one
+- die Nachbarschaft, -en — neighborhood, neighbors
+- die Bitte, -n — request, plea
+- der Briefkasten, -kästen — mailbox
+- der Gefallen, – — favor (Can you do me a favor and feed my cat this evening?)
+- die Katze, -n — cat
+- das Päckchen, — package
+- der Kursteilnehmer, — course participant
+- der Bleistift, -e — pencil
+- der Umzugswagen, – /wägen — moving truck
+- das Apartment, -s — apartment
+- der Strom (Singular) — electricity
+- die Wand, Wände — wall
+- der Umzug, Umzüge — move
+- das WG-Essen, — housing cooperative meal
+- der Mitstudent, -en — fellow student
+- der Rückweg, -e — return trip
+- die Spracherfahrung, -en — foreign language experience
+- die Cousine, -n — cousin (f.)
+- die Abreise (Singular) — departure
+- das Kätzchen, — kitten
+- die Besitzerin, -nen — owner (f.)
+- das Meerschweinchen, — guinea pig
+- der Nymphensittich, -e — cockatiel
+- die Schildkröte, -n — turtle
+- das Tierheim, -e — animal shelter
+- das Zuhause, — home
+- der Bär, -en — bear
+- das Bärchen, — bear cub
+- der Hase, -n — rabbit
+- das Haustier, -e — pet
+- der Kosename, -n — pet name
+- das Mäuschen, — here: sweetie
+- Mausi (ohne Artikel) — here: sweetie
+- das Schwein, -e — pig
+- der Tiername, -n — animal name
+- das Futter, — feed
+- der Haushalt, -e — household
+- die Lebenssituation, -en — living situation
+- die Ratte, -n — rat
+- der Tierarzt, -ärzte — veterinarian
+- der Vogel, Vögel — bird
+- das Lieblingstier, -e — favorite animal
+- das Erdhörnchen, — gopher
+- die Fotomontage, -n — photomontage, composite photograph
+- die Kamera, -s — camera
+- der Selbstauslöser, — self-timer
+- der Stein, -e — rock
+- der Stil, -e — style
+- die Ente, -n — duck
+- das Küken, — chick
+- der Polizist, -en — police officer
+- der Schwan, Schwäne — swan
+- das Schweinchen, — piglet
+- die Tiergeschichte, -n — animal story
+- der Tiger, — tiger
+- die Kuh, Kühe — cow
+- das Spiegelbild, -er — reflection, mirror image
+- die Terrassentür, -en — patio door, terrace door
+- der Zaun, Zäune — fence
+- die Unterhaltung, -en — entertainment, conversation
+- das Album, Alben — album
+- die Bestsellerliste, -n — bestseller list
+- das Budget, -s — budget
+- der Frauenchor, -chöre — women’s choir
+- das Hauptwerk, -e — masterpiece, main work
+- der Männerchor, -chöre — men’s choir
+- das Märchenschloss, -schlösser — fairytale castle
+- die Musikgeschichte (Singular) — history of music
+- die Realität, -en — reality
+- der Riesenerfolg, -e — huge success
+- die Rolle, -n — role
+- das Schloss, Schlösser — castle
+- der Solist, -en — soloist
+- der Tourist, -en — tourist
+- die Verfilmung, -en — film adaptation
+- die Führung, -en — guided tour
+- das Amphitheater, — amphitheater
+- die Arena, Arenen — arena
+- der Fernsehturm, -türme — TV tower
+- der Kakao, -s — cocoa
+- das Konzerthaus, -häuser — concert hall
+- der Konzertsaal, -säle — concert hall
+- das Lagerhaus, -häuser — warehouse
+- die Römerspiele (Plural) — Roman games
+- die Römerzeit (Singular) — Roman era
+- der Umbau, -ten — rebuilding, conversion
+- der Jazz (Singular) — jazz
+- das Rockkonzert, -e — rock show
+- der Trip-Hop (Singular) — trip-hop
+- der Stehplatz, -plätze — standing room
+- der Ticketkauf, -käufe — ticket purchase
+- die Überweisung, -en — bank transfer
+- die Kasse, -n — cashier
+- das Konto, Konten — account
+- die Mehrwertsteuer, — value-added tax (Note: this is technically different from sales tax)
+- die Quittung, -en — receipt
+- der Rabatt, -e — rebate, discount
+- der Käufer, — buyer
+- der Kontrolleur, -e — inspector
+- der Schirm, -e (Nie habe ich einen Schirm dabei, wenn es regnet!) — umbrella (I never have an umbrella on me when it rains!)
+- das Lieblingslied, -er — favorite song
+- die Ansage, -n — announcement
+- der Einsatz, Einsätze — use, mission, deployment
+- der Filmregisseur, -e — film director
+- der Hochzeitstag, -e — wedding
+- der Hörer, — listener
+- die Komikerin, -nen — comedian (f.)
+- die Live-Show, -s — live show
+- das Medium, Medien — medium
+- die Moderatorin, -nen — moderator (f.)
+- die Nachrichten (Plural) (Hast du heute die Nachrichten schon gehört?) — news (Did you already hear the news today?)
+- der Nachrichtensprecher, — news anchor, news presenter
+- das Programm, -e (Das Programm im Fernsehen finde ich immer schlechter.) — program(ming) (I think television programming is getting worse.)
+- der Radiosprecher, — radio presenter
+- die Stille (Singular) — silence
+- das Stück, -e (Hast du schon das neue Stück von Monika Gruber gesehen?) — play (Have you already seen the new play by Monika Gruber?)
+- der Teleprompter, — teleprompter
+- die TV-Show, -s — TV show
+- der/die Prominente, -n — prominent person, celebrity
+- der Regisseur, -e — director
+- das Finale, -s — final match
+- der Fußballfilm, -e — soccer film
+- die Hauptrolle, -n — leading role
+- das Prominenten-Quiz, — celebrity quiz
+- die Quiz-Frage, -n — quiz question
+- der Punkt, -e (Für jede richtige Antwort gibt es drei Punkte.) — point (Three points for every correct answer.)
+- die Malerei, -en — painting
+- der Audioguide, -s — audio guide
+- die Einführung, -en — introduction
+- der Feldhase, -n — hare
+- das Jahrhundert, -e — century
+- der Maler, — painter
+- das Tierbild, -er — picture of an animal
+- die Tiermalerei, -en — painting of animals
+- das Wildschwein, -e — wild boar
+- das Blatt, Blätter (Im Herbst liebe ich die roten Blätter an den Bäumen.) — leaf (I love the red leaves on the trees in the fall.)
+- die Ecke, -n — corner
+- der Vordergrund, -gründe — foreground
+- die Abbildung, -en — illustration
+- der Graffito, Graffiti — graffiti
+- der Hintergrund, -gründe — background
+- der Alkohol (Singular) — alcohol
+- die Arztpraxis, -praxen — medical practice
+- das Blut (Singular) — blood
+- der Krankenwagen, -/-wägen — ambulance
+- die Rose, -n — rose
+- die Abschlussprüfung, -en — final exam
+- die Fete, -n — party
+- das Heimweh (Singular) — homesickness
+- der Kiosk, -e — kiosk
+- die Bibliothek, -en — library
+- der Rentner, — retiree, pensioner (m.)
+- die Rentnerin, -nen — retiree, pensioner (f.)
+- die Lebensphase, -n — phase of life
+- die Mittagspause, -n — lunch break
+- das Kajak, -s — kayak
+- der Kajak-Ausflug, -Ausflüge — kayak excursion
+- der Gegenvorschlag, -vorschläge — counterproposal
+- die Kategorie, -n — category
+- die Stimmung, -en — mood
+- der Sprecher, — speaker
+- der Apfelkuchen, — apple pie
+- die Kajaktour, -en — kayak tour
+- das Abenteuer, — adventure
+- der Fernsehsender, — TV station
+- das Filmteam, -s — film crew
+- das Kerzenlicht, -er — candlelight
+- der Kontext, -e — context
+- die Lücke, -n — gap
+- der/das Maracuja-Joghurt, -s — passion fruit yogurt
+- die Zeitreise, -n — time travel
+- das Werbeplakat, -e — advertising poster
+- der Zeitpunkt, -e — moment in time
+- das Gold (Singular) — gold
+- das Gras, Gräser — grass
+- die Morgenstunde, -n — morningtime
+- das Sprichwort, -wörter — proverb
+- der/die Wartende, -n — someone who waits
+- die Wunde, -n — wound
+- die Geduld (Singular) — patience
+- Äthiopien — Ethiopia
+- die Gastfreundschaft (Singular) — hospitality
+- die Gastgeberin, -nen — hostess
+- der Geselle, -n — apprentice
+- der Heimatort, -e — hometown
+- die Kaffeebohne, -n — coffee bean
+- die Kaffeezeremonie, -n — coffee ceremony
+- die Kulturwissenschaftlerin, -nen — humanities researcher
+- Neujahr (ohne Artikel) — New Year’s
+- der Ofen, Öfen — oven
+- Silvester (ohne Artikel) — New Year’s Eve
+- die Walz (Singular) — apprenticeship in a different local region (The carpenter has been studying abroad for three months now.)
+- der Wandergeselle, -n — traveling apprentice
+- die Wanderschaft, -en — travels
+- die Zeremonie, -n — ceremony
+- das Neujahrsfest, -e — new year’s celebration
+- das Erntedankfest, -e — harvest celebration
+- der Maibaum, -bäume — maypole
+- der Arbeitskollege, -n — colleague
+- die Diplomarbeit, -en — thesis
+- die Geburtstagsparty, -s — birthday party
+- der Hausschuh, -e — slipper
+- die Socke, -n — sock
+- der Gastgeber, — host
+- der Kulturknigge (Singular) — cultural etiquette
+- die Portion, -en — portion
+- die Seite (Singular) (Wenn ich mir die Nase putzen muss, sehe ich zur Seite.) — side (When I have to blow my nose, I look off to the side.)
+- das Taschentuch, -tücher — handkerchief
+- der Reiseleiter, — tour guide
+- die Absicht, -en — intention
+- das Benehmen (Singular) — behavior, manners
+- die Höflichkeit, -en — politeness, courtesy
+- Acht (ohne Artikel, Singular) (Gib Acht: Die Ampel ist rot.) — awareness, heed (Be aware: the stoplight is red.)
+- die Ausnahme, -n — exception
+- der Beamte, -n — officer, civil servant
+- die Distanz, -en — distance
+- der/die Erwachsene, -n — adult
+- das Schulalter (Singular) — school-age
+- das Schulkind, -er — schoolchild
+- die Wanderung, -en — hike
+- der/die Bekannte, -n — acquaintance
+- die Stimme, -n — voice
+- die Industrie, -en — industry
+- die Ordnung (Singular) — order
+- die Qualität (Singular) — quality
+- die Wirtschaft (Singular) — economy
+- das Ballkleid, -er — formal dress for balls
+- der Handkuss, -küsse — kiss on the hand
+- die Kaiserzeit (Singular) — imperial era
+- der Opernball, -bälle — opera ball
+- die Prinzessin, -nen — princess
+- der Quatsch (Singular) — nonsense
+- der Ski, -er — ski
+- die Zusammenfassung, -en — summary, synopsis
+- der Blogger, — blogger
+- die Eigenschaft, -en — attribute, characteristic

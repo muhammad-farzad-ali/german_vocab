@@ -1,0 +1,73 @@
+# Adverb (71)
+
+- rauf — up
+- nachher — afterward
+- je — each, apiece
+- wirklich (Wie war es wirklich?) — really (How was it really?)
+- gar — here: at all
+- genau (Ich weiß nicht so genau.) — exactly (I don’t know exactly.)
+- nur noch — only
+- völlig — completely, totally
+- gemeinsam — together
+- außen — outside
+- unbedingt — absolutely, necessarily
+- nämlich — indeed, you see
+- häufig — often
+- selten — rarely
+- genauso — just as
+- zurzeit — currently
+- überall — everywhere
+- sicher — sure, safe
+- wenigstens — at least
+- eher — rather
+- zuletzt — lastly
+- dazu — thereto
+- unten — below
+- dafür — in exchange
+- daran — about that
+- irgendwie — somehow
+- jeweils — each
+- nirgends — nowhere
+- sogar — even
+- ziemlich — quite, rather
+- früher — formerly, in the past
+- plötzlich — suddenly
+- hinten — behind
+- hintereinander — successively
+- vorn — forward
+- dabei — here: with this
+- dadurch — here: because of this
+- damit — here: despite this
+- freiwillig — voluntarily
+- möglichst — preferably
+- übermorgen — day after tomorrow
+- rechtzeitig — on time
+- rückwärts — backward
+- ansonsten — otherwise, apart from that
+- außerdem — besides
+- jederzeit — at any time
+- etwa — approximately
+- richtig (Nach einem Kaffee bin ich richtig wach.) — properly (After a cup of coffee, I am properly awake.)
+- trotzdem — nevertheless
+- dringend — urgently
+- tief (Atme tief durch!) — deep(ly) (Breathe deeply!)
+- übrigens — by the way
+- erstens — firstly
+- da (Ich habe da einen Vorschlag: …) — here (Here, I have a suggestion…)
+- gleichzeitig — simultaneous(ly)
+- bisher — until now
+- etwas — somewhat, something (In the village, everything is somewhat smaller than in the city.)
+- kaum — barely
+- ebenfalls — also, likewise
+- zufällig — coincidentally
+- damals — then, in those days
+- drüben — over there
+- dahinter — behind it
+- oben — above, at the top
+- öfter — more often
+- ständig — constantly
+- bestens (Wie geht‘s dir? – Alles bestens.) — very well (How’s it going? – All very well.)
+- neulich — recently
+- nun — now
+- abschließend — in closing
+- schließlich — finally

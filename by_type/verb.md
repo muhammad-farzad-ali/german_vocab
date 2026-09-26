@@ -1,0 +1,309 @@
+# Verb (307)
+
+- äußern — to express
+- decken (Deck doch schon mal den Tisch.) — to set (a table) (Set the table already.)
+- geben (gibt, hat gegeben) (Kannst du mir das Brot geben, bitte?) — to give (Can you give me the bread, please?)
+- riechen (riecht, hat gerochen) — to smell
+- backen (bäckt, hat gebacken) — to bake
+- begrüßen — to greet
+- stellen (Luisa stellt viele Fragen.) — to pose (questions) (Luisa poses many questions.)
+- interviewen — to interview
+- kommen (kommt, ist gekommen) (Was kommt heute im Fernsehen?) — here: to be on, to be shown (What’s on TV today?)
+- sehen (sieht, hat gesehen) (Mal sehen, was heute im Fernsehen kommt.) — to see (Let’s see what’s on TV today.)
+- stören — to bother, disturb
+- ausruhen (sich) — to rest
+- spülen — to rinse
+- ärgern (sich) (über + Akk.) — to be angry
+- aufregen (sich) (über + Akk.) — to be upset, angry
+- beeilen (sich) — to hurry
+- langweilen (sich) — to be bored
+- anmachen — to turn on
+- formulieren — to formulate
+- freuen (sich) — to be happy
+- folgen (folgt, ist gefolgt) — to follow
+- begründen — to justify
+- vermuten — to suspect, surmise
+- weitergehen (geht weiter, ist weitergegangen) — to continue
+- vorspielen — to act out
+- benutzen — to use
+- erkennen (erkennt, hat erkannt) — to recognize
+- führen (Ich führe dich an der Hand.) — to guide (I’ll guide you by the hand.)
+- gewöhnen (sich) (an + Akk.) — to accustom, get used to
+- rauchen — to smoke
+- zählen — to count
+- vorbereiten (Tobi bereitet einen Salat vor.) — to prepare (Tobi prepares a salad.)
+- aufmachen — to open
+- herausnehmen (nimmt heraus, hat herausgenommen) — to take out
+- weitermachen — to continue
+- zumachen — to close
+- zuhaben (hat zu, hat zugehabt) — to be closed
+- erinnern (sich) (an + Akk.) — to remember
+- abschließen (schließt ab, hat abgeschlossen) — to close up, lock up
+- ausschlafen (schläft aus, hat ausgeschlafen) — to sleep in
+- einreiben (reibt ein, hat eingerieben) — to rub in
+- sehen (sieht, hat gesehen) (Ich sehe das ganz anders als du.) — to see (I see this completely differently than you.)
+- zukleben — to seal
+- kommen (kommt, ist gekommen) (Ach, komm!) — to come (Oh, come on!)
+- mischen — to mix
+- wundern (sich) (über + Akk.) — to be surprised about
+- sortieren — to sort
+- korrigieren — to correct
+- zurückkommen (kommt zurück, ist zurückgekommen) — to return, come back
+- zusammenwohnen — to live together
+- hängen (hängt, hat/ist gehangen) (Die Uhr hängt an der Wand.) — to hang (The clock hangs on the wall.)
+- hängen (Tom hängt die Uhr an die Wand.) — to hang up (Tom hangs the clock up on the wall.)
+- legen — to lay
+- umdrehen (sich) — to turn around
+- verändern — to change, alter
+- weitergeben (gibt weiter, hat weitergegeben) — to pass on
+- entscheiden (sich) (für/gegen + Akk.) (entscheidet sich, hat sich entschieden) — to decide
+- kommentieren — to comment
+- anklicken — to click
+- bloggen — to blog
+- checken (Ich checke täglich meine E-Mails.) — to check (I check my email daily.)
+- downloaden — to download
+- herunterladen (lädt herunter, hat heruntergeladen) — to download
+- posten — to post
+- simsen — to text
+- skypen — to skype
+- wünschen (sich) — to wish
+- flüstern — to whisper
+- weiterflüstern — to whisper on
+- an sein — to be on
+- aufpassen — to pay attention
+- stellen (Viele Jugendliche stellen sehr private Informationen ins Netz.) — to place, put (Many young people put very private information on the web.)
+- verbringen (verbringt, hat verbracht) — to spend (time)
+- zusammenarbeiten — to work together
+- lachen — to laugh
+- weinen — to cry
+- gehen (geht, ist gegangen) (In dem Film geht es um eine Familie aus der Türkei.) — here: to be about (The film is about a family from Turkey.)
+- lustig machen (sich) (über + Akk.) (Der Film macht sich über Vorurteile lustig.) — to mock, make fun of (The movie mocks prejudices.)
+- spielen (Der Film spielt in der Türkei.) — here: to be set in (The movie is set in Turkey.)
+- verwenden — to use, employ
+- erraten (errät, hat erraten) — to guess
+- gratulieren — to congratulate
+- heiraten — to marry
+- aussprechen (spricht aus, hat ausgesprochen) — to pronounce
+- bedanken (sich) (bei + Dat.) — to thank
+- danken — to thank
+- überreichen — to present, hand over
+- wegfahren (fährt weg, ist weggefahren) — to drive away
+- bestehen (besteht, hat bestanden) (Ich habe zum Glück jede Prüfung bestanden.) — to pass an exam (Luckily, I passed every exam.)
+- erfinden (erfindet, hat erfunden) — to invent
+- abwechseln (sich) (mit + Dat.) — to alternate
+- geben (gibt, hat gegeben) (Auf dem Festival geben viele Bands Konzerte.) — to give, present (At the festival, many bands give concerts.)
+- spielen (Die Band spielt auf dem Festival.) — to play (The band plays at the festival.)
+- stattfinden (findet statt, hat stattgefunden) — to take place
+- teilnehmen (nimmt teil, hat teilgenommen) — to take part
+- achten (auf + Akk.) — to pay attention (to s.t.)
+- fallen (fällt, ist gefallen) — to fall
+- gutmachen — to make good, to make up (for s.t.)
+- sauber machen — to make s.t. clean
+- erleben — to experience
+- handeln (von + Dat.) — to be about
+- weiterschreiben (schreibt weiter, hat weitergeschrieben) — to continue writing
+- herumgehen (geht herum, ist herumgegangen) — to go around
+- abfahren (fährt ab, ist abgefahren) — to depart, drive away
+- anbieten (bietet an, hat angeboten) — to offer
+- mitnehmen (nimmt mit, hat mitgenommen) — to take along
+- unterrichten — to teach
+- zusammenfassen — to summarize
+- tauschen — to switch, trade
+- föhnen — to blow-dry
+- besitzen (besitzt, hat besessen) — to own
+- hin (Ich möchte ein Ticket hin und zurück.) — to (I want a ticket to and back.)
+- erwarten — to await, expect
+- bereuen — to regret
+- erfüllen (sich) — to fulfill
+- gestalten — to shape, fashion
+- gründen — to found
+- werden (wird, wurde, ist geworden) (Dann wurde sie plötzlich arbeitslos.) — to become (Then she suddenly became unemployed.)
+- aufstellen (sich) — to set up, establish
+- führen (Sina führt ein Gespräch mit ihrem Chef.) — to conduct, lead (Sina conducts a conversation with her boss.)
+- vorstellen (sich) (Stell dir vor, ich habe heute zweimal den Bus verpasst.) — here: to imagine (Just imagine, I missed the bus twice today.)
+- ausschalten — to turn off
+- bereitlegen — to lay ready
+- konzentrieren (sich) (auf + Akk.) — to concentrate
+- lächeln — to smile
+- verlaufen (verläuft, ist verlaufen) (Das Gespräch verläuft gut.) — to proceed, run, go (The conversation is going well.)
+- vorbereiten (sich) (auf + Akk.) (Bereiten Sie sich auf das Gespräch vor.) — to prepare (Prepare yourself for the conversation.)
+- ausrichten — to leave a message
+- hinterlassen (hinterlässt, hat hinterlassen) — to leave behind
+- verbinden (mit + Dat.) (verbindet, hat verbunden) — to connect (Could you please connect me with Mr. Winter?)
+- zurückrufen (ruft zurück, hat zurückgerufen) — to call back
+- bestimmen — to determine
+- betreuen — here: to lead
+- existieren — to exist
+- kümmern (sich) (um + Akk.) — to take care of
+- nutzen — to make use of
+- qualifizieren — here: to be qualified
+- verschwinden (verschwindet, ist verschwunden) — to disappear
+- zunehmen (nimmt zu, hat zugenommen) (Teamarbeit nimmt überall zu.) — to increase (Teamwork is becoming more important everywhere.)
+- zurechtkommen (kommt zurecht, ist zurechtgekommen) — to cope
+- austauschen (sich) (über + Akk.) — to trade
+- dabei sein — to be involved
+- erfragen — to ask (for s.t., to inquire)
+- vorhaben (hat vor, hat vorgehabt) — to have s.t. planned
+- vorlesen (liest vor, hat vorgelesen) — to read aloud
+- abnehmen (nimmt ab, hat abgenommen) (Wir nehmen Ihnen Ihre Sorgen ab.) — to relieve s.o. of s.t. (We relieve you of your worries.)
+- eingeben (gibt ein, hat eingegeben) — to enter, input
+- passen (Passt schon.) — to work out (It’ll work out fine.)
+- einschalten — to turn on
+- erreichen — to reach
+- abfliegen (fliegt ab, ist abgeflogen) — to fly away
+- bremsen — to brake
+- landen (landet, ist gelandet) — to land
+- entlanggehen (geht entlang, ist entlanggegangen) — to go along
+- vorbeigehen (an + Dat.) (geht vorbei, ist vorbeigegangen) — to pass by
+- einzeichnen — to draw in
+- zeichnen — to draw, sketch
+- leihen (leiht, hat geliehen) — to borrow
+- lohnen (sich) — to be worth
+- mieten — to rent
+- nachdenken (über + Akk.) (denkt nach, hat nachgedacht) — to think about, ponder
+- weiterhelfen (hilft weiter, hat weitergeholfen) — to help along, assist
+- vertreten (vertritt, hat vertreten) — to represent
+- nehmen (nimmt, hat genommen) (Zur Arbeit nehme ich den Bus.) — to take (I take the bus to work.)
+- pendeln (pendelt, ist gependelt) — to commute
+- überlegen — to think about
+- befürchten — to fear
+- stecken — to be stuck, be placed
+- verstauen — to stow
+- verfassen (einen Forumseintrag verfassen) — to write up (write up a forum post)
+- blicken (Ich blick‘s nicht.) — to see, glimpse (I don’t see it.)
+- durcheinandergehen (geht durcheinander, ist durcheinandergegangen) — to get mixed up
+- einfallen (fällt ein, ist eingefallen) — to think of (s.t.)
+- einhalten (hält ein, hat eingehalten) — to follow, observe
+- kapieren — to understand
+- entspannen (sich) — to relax
+- verschieben (verschiebt, hat verschoben) — to delay, put off
+- weiterarbeiten — to continue work
+- durchatmen — to breathe, respire
+- lassen (lässt, hat gelassen) (Lassen Sie auch Lücken für Pausen in Ihrem Arbeitsplan.) — to leave (Also, leave some gaps for breaks in your work schedule.)
+- lösen — to solve
+- nachfragen — to ask again
+- verplanen — here: to overschedule
+- einplanen — to schedule in
+- belohnen — to reward
+- motivieren — to motivate
+- begleiten — to accompany
+- dolmetschen — to translate simultaneously
+- faszinieren — to fascinate
+- sorgen — to ensure, provide
+- einkochen — to boil down
+- vortragen (trägt vor, hat vorgetragen) — to recite, deliver
+- reiten (reitet, ist geritten) — horseback riding
+- tauchen (taucht, ist getaucht) — to dive
+- die Luft (meist Singular) (Ich bin in der Luft, ich fliege!) — air (I am in the air, I'm flying!)
+- springen (springt, ist gesprungen) (Ich bin schon mal Fallschirm gesprungen.) — to jump (I have parachute jumped before.)
+- hoffen — to hope
+- verlieren (verliert, hat verloren) — to lose
+- benehmen (sich) (benimmt sich, hat sich benommen) — to behave
+- schießen (schießt, hat geschossen) — to shoot
+- lassen (lässt, hat gelassen) (Lass mich mal überlegen!) — to let, allow (Let me think!)
+- vorschlagen (schlägt vor, hat vorgeschlagen) — to suggest
+- ablehnen — to decline
+- halten (hält, hat gehalten) (Was hältst du von meiner Idee?) — to hold, think about (What do you think about my idea?)
+- reagieren (auf + Akk.) — to react
+- zustimmen — to agree
+- ausleihen (leiht aus, hat ausgeliehen) — to borrow
+- balancieren — to balance
+- verstecken — to hide
+- hineinlegen — to insert
+- kaputtgehen (geht kaputt, ist kaputtgegangen) — to break, to fall apart
+- schützen — to protect
+- versuchen — to attempt
+- weiterlesen (liest weiter, hat weitergelesen) — to read on
+- zu sein — to be closed
+- bauen — to build
+- schaukeln — to rock, sway
+- spiegeln — to mirror, reflect
+- abstellen (Ich stelle mein Fahrrad im Hof ab.) — to park (I park my bicycle in the courtyard.)
+- bellen — to bark
+- stinken (stinkt, hat gestunken) — to stink
+- einlenken — to give in, back down
+- vorkommen (kommt vor, ist vorgekommen) — to occur, happen
+- annehmen (nimmt an, hat angenommen) — to accept
+- ausräumen — to empty out
+- füttern — to feed
+- gießen (gießt, hat gegossen) — to pour, water
+- leeren — to empty
+- aufschlagen (schlägt auf, hat aufgeschlagen) — here: to open (a book) (Please, open the book.)
+- abmelden — to log off, sign off, check out
+- einziehen (zieht ein, ist eingezogen) — to move in
+- erlauben — to allow
+- gehören — to belong
+- vermieten — to rent out
+- auskennen (sich) (mit + Dat.) — to know about, be familiar with
+- faxen — to fax
+- kündigen — to resign, quit
+- unterhalten (sich) — to converse
+- verirren (sich) — to become lost
+- versprechen (verspricht, hat versprochen) — to promise
+- wohlfühlen (sich) — to feel well
+- ausgeben (gibt aus, hat ausgegeben) — to spend, give away
+- hineinschauen — to look into
+- springen (springt, ist gesprungen) — to jump (The gopher just jumped in front of the camera.)
+- aufziehen (zieht auf, hat aufgezogen) — to raise
+- überqueren — to cross
+- verbessern — to improve
+- erscheinen (erscheint, ist erschienen) — to come out, appear
+- entstehen (entsteht, ist entstanden) — to develop from, originate from
+- überweisen (überweist, hat überwiesen) — to transfer
+- abgeben (gibt ab, hat abgegeben) — to leave, give up
+- ablesen (liest ab, hat abgelesen) — to read off
+- feststellen — to determine, discover
+- glattgehen (geht glatt, ist glattgegangen) — to go smoothly
+- hinfahren (fährt hin, ist hingefahren) — to drive to (s.t.)
+- verschlafen (verschläft, hat verschlafen) — to oversleep
+- vorgehen (geht vor, ist vorgegangen) (Ich wollte zum Fußballspiel, aber der Hochzeitstag geht vor.) — to come first, have precedence (I wanted to go to the soccer game, but the wedding comes first.)
+- drehen (Sönke Wortmann hat viele Filme gedreht.) — here: to shoot a film (Sönke Wortmann has shot many films.)
+- moderieren — to moderate
+- mitlesen (liest mit, hat mitgelesen) — to read along (with s.o.)
+- abmalen — to paint from sight, trace
+- deuten — to indicate
+- auffallen (fällt auf, ist aufgefallen) — to stand out
+- engagieren (sich) (für/gegen + Akk.) — to get involved
+- vergehen (vergeht, ist vergangen) — to pass by
+- bluten — to bleed
+- lügen (lügt, hat gelogen) — to lie
+- sterben (stirbt, ist gestorben) — to die
+- sparen — to save
+- unternehmen (unternimmt, hat unternommen) — to undertake
+- austeilen — to distribute
+- erledigen — to settle, handle, take care of
+- klingeln — to ring
+- streiten (sich) (streitet, hat gestritten) — to argue
+- zusammengehören — to fit together
+- recht haben — to be correct
+- diskutieren (über + Akk.) — to discuss
+- interessieren (sich) (für + Akk.) — to be interested in
+- unterhalten (sich) (über + Akk.) — to converse
+- betonen — to emphasize
+- aussuchen — to select
+- erschließen (erschließt, hat erschlossen) — to infer
+- füllen — to fill
+- zurückreisen (reist zurück, ist zurückgereist) — to travel back
+- entwerfen (entwirft, hat entworfen) — to design, plan
+- heilen — to heal
+- scheinen (scheint, hat geschienen) (Dem Wartenden scheinen Minuten Jahre zu sein.) — to seem, appear (To the one who waits, minutes seem like years.)
+- wachsen (wächst, ist gewachsen) — to grow
+- abhängen (hängt ab, hat abgehangen) — to depend
+- einbauen — to incorporate
+- beeindrucken — to impress
+- dekorieren — to decorate
+- rösten — to roast
+- anlassen (lässt an, hat angelassen) — to leave on
+- ausziehen (zieht aus, hat ausgezogen) — to take off (In Germany, one does not automatically take off one’s shoes as a guest.)
+- stehen bleiben (bleibt stehen, ist stehen geblieben) — to stand still
+- putzen (Ich muss mir ständig die Nase putzen.) — to clean, wipe (I constantly have to blow my nose.)
+- schlürfen — to slurp
+- umrühren — to stir up
+- wirken — here: to seem
+- duzen — to call someone by „du“
+- gelten (gilt, hat gegolten) — to apply, count
+- siezen — to call someone by „Sie“
+- steigen (steigt, ist gestiegen) — to climb, rise
+- eingehen (geht ein, ist eingegangen) (Auf welchen Punkt sollen wir in der Diskussion eingehen?) — to focus on, concentrate (On which point in the discussion should we focus?)
+- kriegen — to get, obtain
+- das Skifahren (Singular) — to ski
