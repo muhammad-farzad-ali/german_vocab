@@ -1,40 +1,40 @@
-1	regular	äußere	äußerst	äußert	äußern	äußert	äußern	äußerte	geäußert	haben	Äußere deine Meinung.	Express your opinion.
-2	regular	decke	deckst	deckt	decken	deckt	decken	deckte	gedeckt	haben	Deck den Tisch.	Set the table.
-3	irregular	gebe	gibst	gibt	geben	gebt	geben	gab	gegeben	haben	Gib mir das Brot.	Give me the bread.
-4	irregular	rieche	riechst	riecht	riechen	riecht	riechen	roch	gerochen	haben	Das Essen riecht gut.	The food smells good.
-5	irregular	backe	bäckst	bäckt	backen	backt	backen	backte	gebacken	haben	Ich backe einen Kuchen.	I bake a cake.
-6	regular	begrüße	begrüßt	begrüßt	begrüßen	begrüßt	begrüßen	begrüßte	begrüßt	haben	Wir begrüßen die Gäste.	We greet the guests.
-7	regular	stelle	stellst	stellt	stellen	stellt	stellen	stellte	gestellt	haben	Stell eine Frage.	Pose a question.
-8	regular	interviewe	interviewst	interviewt	interviewen	interviewt	interviewen	interviewte	interviewt	haben	Der Reporter interviewt den Star.	The reporter interviews the star.
-9	irregular	komme	kommst	kommt	kommen	kommt	kommen	kam	gekommen	sein	Was kommt heute im Fernsehen?	What is on TV today?
-10	irregular	sehe	siehst	sieht	sehen	seht	sehen	sah	gesehen	haben	Mal sehen, was kommt.	Let us see what is on.
-11	regular	störe	störst	stört	stören	stört	stören	störte	gestört	haben	Der Lärm stört mich.	The noise bothers me.
-12	regular	ruhe mich aus	ruhst dich aus	ruht sich aus	ruhen uns aus	ruht euch aus	ruhen sich aus	ruhte aus	ausgeruht	haben	Ich ruhe mich aus.	I rest.
-13	regular	spüle	spülst	spült	spülen	spült	spülen	spülte	gespült	haben	Ich spüle das Geschirr.	I rinse the dishes.
-14	regular	ärgere mich	ärgerst dich	ärgert sich	ärgern uns	ärgert euch	ärgern sich	ärgerte	geärgert	haben	Ich ärgere mich.	I am angry.
-15	regular	rege mich auf	regst dich auf	regt sich auf	regen uns auf	regt euch auf	regen sich auf	regte auf	aufgeregt	haben	Rege dich nicht auf!	Do not get upset!
-16	regular	beeile mich	beeilst dich	beeilt sich	beeilen uns	beeilt euch	beeilen sich	beeilte	beeilt	haben	Beeil dich!	Hurry up!
-17	regular	langweile mich	langweilst dich	langweilt sich	langweilen uns	langweilt euch	langweilen sich	langweilte	gelangweilt	haben	Ich langweile mich.	I am bored.
-18	regular	mache an	machst an	macht an	machen an	macht an	machen an	machte an	angemacht	haben	Mach das Licht an.	Turn on the light.
-19	regular	formuliere	formulierst	formuliert	formulieren	formuliert	formulieren	formulierte	formuliert	haben	Formuliere einen Satz.	Formulate a sentence.
-20	regular	freue mich	freust dich	freut sich	freuen uns	freut euch	freuen sich	freute	gefreut	haben	Ich freue mich.	I am happy.
-21	regular	folge	folgst	folgt	folgen	folgt	folgen	folgte	gefolgt	sein	Er folgt dem Hund.	He follows the dog.
-22	regular	begründe	begründest	begründet	begründen	begründet	begründen	begründete	begründet	haben	Begründe deine Antwort.	Justify your answer.
-23	regular	vermute	vermutest	vermutet	vermuten	vermutet	vermuten	vermutete	vermutet	haben	Ich vermute das auch.	I suspect that too.
-24	irregular	gehe weiter	gehst weiter	geht weiter	gehen weiter	geht weiter	gehen weiter	ging weiter	weitergegangen	sein	Geh weiter!	Continue!
-25	regular	spiele vor	spielst vor	spielt vor	spielen vor	spielt vor	spielen vor	spielte vor	vorgespielt	haben	Spielt die Szene vor.	Act out the scene.
-26	regular	benutze	benutzt	benutzt	benutzen	benutzt	benutzen	benutzte	benutzt	haben	Benutze die App.	Use the app.
-27	irregular	erkenne	erkennst	erkennt	erkennen	erkennt	erkennen	erkannte	erkannt	haben	Ich erkenne dich.	I recognize you.
-28	regular	führe	führst	führt	führen	führt	führen	führte	geführt	haben	Er führt die Gruppe.	He guides the group.
-29	regular	gewöhne mich	gewöhnst dich	gewöhnt sich	gewöhnen uns	gewöhnt euch	gewöhnen sich	gewöhnte	gewöhnt	haben	Ich gewöhne mich daran.	I get used to it.
-30	regular	rauche	rauchst	raucht	rauchen	raucht	rauchen	rauchte	geraucht	haben	Hier raucht niemand.	Nobody smokes here.
-31	regular	zähle	zählst	zählt	zählen	zählt	zählen	zählte	gezählt	haben	Zähle bis zehn.	Count to ten.
-32	regular	bereite vor	bereitest vor	bereitet vor	bereiten vor	bereitet vor	bereiten vor	bereitete vor	vorbereitet	haben	Wir bereiten das Fest vor.	We prepare the festival.
-33	regular	mache auf	machst auf	macht auf	machen auf	macht auf	machen auf	machte auf	aufgemacht	haben	Mach das Fenster auf.	Open the window.
-34	irregular	nehme heraus	nimmst heraus	nimmt heraus	nehmen heraus	nehmt heraus	nehmen heraus	nahm heraus	herausgenommen	haben	Nimm das Buch heraus.	Take the book out.
-35	regular	mache weiter	machst weiter	macht weiter	machen weiter	macht weiter	machen weiter	machte weiter	weitergemacht	haben	Mach weiter so.	Keep going.
-36	regular	mache zu	machst zu	macht zu	machen zu	macht zu	machen zu	machte zu	zugemacht	haben	Mach die Tür zu.	Close the door.
-37	irregular	habe zu	hast zu	hat zu	haben zu	habt zu	haben zu	hatte zu	zugehabt	haben	Der Laden hat zu.	The shop is closed.
-38	regular	erinnere mich	erinnerst dich	erinnert sich	erinnern uns	erinnert euch	erinnern sich	erinnerte	erinnert	haben	Ich erinnere mich an dich.	I remember you.
-39	irregular	schließe ab	schließt ab	schließt ab	schließen ab	schließt ab	schließen ab	schloss ab	abgeschlossen	haben	Wir schließen das Geschäft ab.	We lock up the shop.
-40	irregular	schlafe aus	schläfst aus	schläft aus	schlafen aus	schlaft aus	schlafen aus	schlief aus	ausgeschlafen	haben	Am Sonntag schlafe ich aus.	On Sunday I sleep in.
+1	regular	übernachte	übernachtest	übernachtet	übernachten	übernachtet	übernachten	übernachtete	übernachtet	haben	Wir übernachten im Hotel.	We spend the night in the hotel.
+2	regular	langweile mich	langweilst dich	langweilt sich	langweilen uns	langweilt euch	langweilen sich	langweilte	gelangweilt	haben	Ich langweile mich.	I am bored.
+3	regular	buche	buchst	bucht	buchen	bucht	buchen	buchte	gebucht	haben	Wir buchen ein Zimmer.	We book a room.
+4	irregular	fahre los	fährst los	fährt los	fahren los	fahrt los	fahren los	fuhr los	losgefahren	sein	Wir fahren los.	We drive off.
+5	regular	erhole mich	erholst dich	erholt sich	erholen uns	erholt euch	erholen sich	erholte	erholt	haben	Ich erhole mich im Urlaub.	I recover on holiday.
+6	regular	begegne	begegnest	begegnet	begegnen	begegnet	begegnen	begegnete	begegnet	sein	Ich begegne meiner Nachbarin.	I encounter my neighbour.
+7	regular	faulenze	faulenzt	faulenzt	faulenzen	faulenzt	faulenzen	faulenzte	gefaulenzt	haben	Am Sonntag faulenze ich.	On Sunday I loaf around.
+8	regular	ruhe mich aus	ruhst dich aus	ruht sich aus	ruhen uns aus	ruht euch aus	ruhen sich aus	ruhte aus	ausgeruht	haben	Ich ruhe mich aus.	I take a rest.
+9	irregular	berate	berätst	berät	beraten	beratet	beraten	beriet	beraten	haben	Sie berät die Kunden.	She advises the customers.
+10	regular	bügle	bügelst	bügelt	bügeln	bügelt	bügeln	bügelte	gebügelt	haben	Ich bügle das Hemd.	I iron the shirt.
+11	regular	nutze	nutzt	nutzt	nutzen	nutzt	nutzen	nutzte	genutzt	haben	Ich nutze die Chance.	I take advantage of the chance.
+12	regular	reinige	reinigst	reinigt	reinigen	reinigt	reinigen	reinigte	gereinigt	haben	Ich reinige die Küche.	I clean the kitchen.
+13	regular	verwöhne	verwöhnst	verwöhnt	verwöhnen	verwöhnt	verwöhnen	verwöhnte	verwöhnt	haben	Sie verwöhnt die Gäste.	She spoils the guests.
+14	irregular	bekomme wieder	bekommst wieder	bekommt wieder	bekommen wieder	bekommt wieder	bekommen wieder	bekam wieder	wiederbekommen	haben	Ich bekomme das Geld wieder.	I get the money back.
+15	irregular	erschrecke	erschrickst	erschrickt	erschrecken	erschreckt	erschrecken	erschrak	erschrocken	sein	Er erschrickt vor dem Hund.	He gets scared of the dog.
+16	regular	verhafte	verhaftest	verhaftet	verhaften	verhaftet	verhaften	verhaftete	verhaftet	haben	Die Polizei verhaftet den Mann.	The police arrest the man.
+17	regular	diktiere	diktierst	diktiert	diktieren	diktiert	diktieren	diktierte	diktiert	haben	Der Chef diktiert den Brief.	The boss dictates the letter.
+18	regular	fasse	fasst	fasst	fassen	fasst	fassen	fasste	gefasst	haben	Ich fasse es nicht.	I cannot believe it.
+19	regular	freue mich	freust dich	freut sich	freuen uns	freut euch	freuen sich	freute	gefreut	haben	Ich freue mich auf das Fest.	I look forward to the festival.
+20	irregular	melke	melkst	melkt	melken	melkt	melken	melkte	gemolken	haben	Er melkt die Kuh.	He milks the cow.
+21	irregular	helfe mit	hilfst mit	hilft mit	helfen mit	helft mit	helfen mit	half mit	mitgeholfen	haben	Ich helfe mit.	I help.
+22	irregular	gehe zurück	gehst zurück	geht zurück	gehen zurück	geht zurück	gehen zurück	ging zurück	zurückgegangen	sein	Wir gehen zurück.	We go back.
+23	regular	arbeite mit	arbeitest mit	arbeitet mit	arbeiten mit	arbeitet mit	arbeiten mit	arbeitete mit	mitgearbeitet	haben	Wir arbeiten mit den Kollegen.	We work together with the colleagues.
+24	regular	schaue	schaust	schaut	schauen	schaut	schauen	schaute	geschaut	haben	Schau hierher.	Look here.
+25	regular	ersetze	ersetzt	ersetzt	ersetzen	ersetzt	ersetzen	ersetzte	ersetzt	haben	Sie ersetzt den Schalter.	She replaces the switch.
+26	irregular	gehe aus	gehst aus	geht aus	gehen aus	geht aus	gehen aus	ging aus	ausgegangen	sein	Das Brot geht aus.	The bread runs out.
+27	irregular	werfe	wirfst	wirft	werfen	werft	werfen	warf	geworfen	haben	Er wirft den Ball.	He throws the ball.
+28	regular	sende	sendest	sendet	senden	sendet	senden	sendete	gesendet	haben	Ich sende die Nachricht.	I send the message.
+29	regular	setze ein	setzt ein	setzt ein	setzen ein	setzt ein	setzen ein	setzte ein	eingesetzt	haben	Wir setzen das Gerät ein.	We use the device.
+30	regular	gebrauche	gebrauchst	gebraucht	gebrauchen	gebraucht	gebrauchen	gebrauchte	gebraucht	haben	Ich gebrauche den Hammer.	I use the hammer.
+31	irregular	lade	lädst	lädt	laden	ladet	laden	lud	geladen	haben	Er lädt das Handy.	He charges the phone.
+32	irregular	klinge	klingst	klingt	klingen	klingt	klingen	klang	geklungen	haben	Das klingt gut.	That sounds good.
+33	regular	schalte an	schaltest an	schaltet an	schalten an	schaltet an	schalten an	schaltete an	angeschaltet	haben	Schalte das Gerät an.	Switch on the device.
+34	irregular	schließe an	schließt an	schließt an	schließen an	schließt an	schließen an	schloss an	angeschlossen	haben	Schließe das Kabel an.	Plug in the cable.
+35	regular	drucke	druckst	druckt	drucken	druckt	drucken	druckte	gedruckt	haben	Ich drucke das Dokument.	I print the document.
+36	regular	ändere	änderst	ändert	ändern	ändert	ändern	änderte	geändert	haben	Ich ändere den Plan.	I change the plan.
+37	irregular	falle auf	fällst auf	fällt auf	fallen auf	fällt auf	fallen auf	fiel auf	aufgefallen	sein	Der Fehler fällt auf.	The mistake stands out.
+38	regular	bemerke	bemerkst	bemerkt	bemerken	bemerkt	bemerken	bemerkte	bemerkt	haben	Ich bemerke den Fehler.	I notice the mistake.
+39	regular	berühre	berührst	berührt	berühren	berührt	berühren	berührte	berührt	haben	Berühre den Bildschirm.	Touch the screen.
+40	irregular	komme herein	kommst herein	kommt herein	kommen herein	kommt herein	kommen herein	kam herein	hereingekommen	sein	Komm herein.	Come in.

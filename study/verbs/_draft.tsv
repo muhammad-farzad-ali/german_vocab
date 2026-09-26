@@ -1,305 +1,374 @@
 id	base	separable	reflexive	aux_from_src	partizip_from_src	en_meaning
-1	äußern	—	—	—	—	to express
-2	decken	—	—	—	—	to set
-3	geben	—	—	haben	gegeben	to give
-4	riechen	—	—	haben	gerochen	to smell
-5	backen	—	—	haben	gebacken	to bake
-6	begrüßen	—	—	—	—	to greet
-7	stellen	—	—	—	—	to pose
-8	interviewen	—	—	—	—	to interview
-9	kommen	—	—	sein	gekommen	to be on, to be shown
-10	sehen	—	—	haben	gesehen	to see
-11	stören	—	—	—	—	to bother, disturb
-12	ruhen	aus	yes	—	—	to rest
-13	spülen	—	—	—	—	to rinse
-14	ärgern	—	yes	—	—	to be angry
-15	regen	auf	yes	—	—	to be upset, angry
-16	beeilen	—	yes	—	—	to hurry
-17	langweilen	—	yes	—	—	to be bored
-18	machen	an	—	—	—	to turn on
-19	formulieren	—	—	—	—	to formulate
-20	freuen	—	yes	—	—	to be happy
-21	folgen	—	—	sein	gefolgt	to follow
-22	begründen	—	—	—	—	to justify
-23	vermuten	—	—	—	—	to suspect, surmise
-24	gehen	weiter	—	sein	weitergegangen	to continue
-25	spielen	vor	—	—	—	to act out
-26	benutzen	—	—	—	—	to use
-27	erkennen	—	—	haben	erkannt	to recognize
-28	führen	—	—	—	—	to guide
-29	gewöhnen	—	yes	—	—	to accustom, get used to
-30	rauchen	—	—	—	—	to smoke
-31	zählen	—	—	—	—	to count
-32	bereiten	vor	—	—	—	to prepare
-33	machen	auf	—	—	—	to open
-34	nehmen	heraus	—	haben	herausgenommen	to take out
-35	machen	weiter	—	—	—	to continue
-36	machen	zu	—	—	—	to close
-37	haben	zu	—	haben	zugehabt	to be closed
-38	erinnern	—	yes	—	—	to remember
-39	schließen	ab	—	haben	abgeschlossen	to close up, lock up
-40	schlafen	aus	—	haben	ausgeschlafen	to sleep in
-41	reiben	ein	—	haben	eingerieben	to rub in
-42	sehen	—	—	haben	gesehen	to see
-43	kleben	zu	—	—	—	to seal
-44	kommen	—	—	sein	gekommen	to come
-45	mischen	—	—	—	—	to mix
-46	wundern	—	yes	—	—	to be surprised about
-47	sortieren	—	—	—	—	to sort
-48	korrigieren	—	—	—	—	to correct
-49	kommen	zurück	—	sein	zurückgekommen	to return, come back
-50	wohnen	zusammen	—	—	—	to live together
-51	hängen	—	—	—	—	to hang
-52	hängen	—	—	—	—	to hang up
-53	legen	—	—	—	—	to lay
-54	drehen	um	yes	—	—	to turn around
-55	verändern	—	—	—	—	to change, alter
-56	geben	weiter	—	haben	weitergegeben	to pass on
-57	entscheiden	—	yes	—	—	to decide
-58	kommentieren	—	—	—	—	to comment
-59	klicken	an	—	—	—	to click
-60	bloggen	—	—	—	—	to blog
-61	checken	—	—	—	—	to check
-62	downloaden	—	—	—	—	to download
-63	herunterladen	—	—	haben	heruntergeladen	to download
-64	posten	—	—	—	—	to post
-65	simsen	—	—	—	—	to text
-66	skypen	—	—	—	—	to skype
-67	wünschen	—	yes	—	—	to wish
-68	flüstern	—	—	—	—	to whisper
-69	flüstern	weiter	—	—	—	to whisper on
-70	sein	an	—	—	—	to be on
-71	passen	auf	—	—	—	to pay attention
-72	stellen	—	—	—	—	to place, put
-73	verbringen	—	—	haben	verbracht	to spend
-74	arbeiten	zusammen	—	—	—	to work together
-75	lachen	—	—	—	—	to laugh
-76	weinen	—	—	—	—	to cry
-77	gehen	—	—	sein	gegangen	to be about
-78	lustig machen	—	yes	—	—	to mock, make fun of
-79	spielen	—	—	—	—	to be set in
-80	verwenden	—	—	—	—	to use, employ
-81	erraten	—	—	haben	erraten	to guess
-82	gratulieren	—	—	—	—	to congratulate
-83	heiraten	—	—	—	—	to marry
-84	sprechen	aus	—	haben	ausgesprochen	to pronounce
-85	bedanken	—	yes	—	—	to thank
-86	danken	—	—	—	—	to thank
-87	überreichen	—	—	—	—	to present, hand over
-88	wegfahren	—	—	sein	weggefahren	to drive away
-89	bestehen	—	—	haben	bestanden	to pass an exam
-90	erfinden	—	—	haben	erfunden	to invent
-91	wechseln	ab	yes	—	—	to alternate
-92	geben	—	—	haben	gegeben	to give, present
-93	spielen	—	—	—	—	to play
-94	finden	statt	—	haben	stattgefunden	to take place
-95	teilnehmen	—	—	haben	teilgenommen	to take part
-96	achten	—	—	—	—	to pay attention
-97	fallen	—	—	sein	gefallen	to fall
-98	gutmachen	—	—	—	—	to make good, to make up
-99	sauber machen	sauber	—	—	—	to make s.t. clean
-100	erleben	—	—	—	—	to experience
-101	handeln	—	—	—	—	to be about
-102	schreiben	weiter	—	haben	weitergeschrieben	to continue writing
-103	herumgehen	—	—	sein	herumgegangen	to go around
-104	fahren	ab	—	sein	abgefahren	to depart, drive away
-105	bieten	an	—	haben	angeboten	to offer
-106	nehmen	mit	—	haben	mitgenommen	to take along
-107	unterrichten	—	—	—	—	to teach
-108	fassen	zusammen	—	—	—	to summarize
-109	tauschen	—	—	—	—	to switch, trade
-110	föhnen	—	—	—	—	to blow-dry
-111	besitzen	—	—	haben	besessen	to own
-112	erwarten	—	—	—	—	to await, expect
-113	bereuen	—	—	—	—	to regret
-114	erfüllen	—	yes	—	—	to fulfill
-115	gestalten	—	—	—	—	to shape, fashion
-116	gründen	—	—	—	—	to found
-117	werden	—	—	sein	geworden	to become
-118	stellen	auf	yes	—	—	to set up, establish
-119	führen	—	—	—	—	to conduct, lead
-120	stellen	vor	yes	—	—	to imagine
-121	schalten	aus	—	—	—	to turn off
-122	bereitlegen	—	—	—	—	to lay ready
-123	konzentrieren	—	yes	—	—	to concentrate
-124	lächeln	—	—	—	—	to smile
-125	verlaufen	—	—	sein	verlaufen	to proceed, run, go
-126	bereiten	vor	yes	—	—	to prepare
-127	richten	aus	—	—	—	to leave a message
-128	hinterlassen	—	—	haben	hinterlassen	to leave behind
-129	verbinden	—	—	haben	verbunden	to connect
-130	rufen	zurück	—	haben	zurückgerufen	to call back
-131	bestimmen	—	—	—	—	to determine
-132	betreuen	—	—	—	—	to lead
-133	existieren	—	—	—	—	to exist
-134	kümmern	—	yes	—	—	to take care of
-135	nutzen	—	—	—	—	to make use of
-136	qualifizieren	—	—	—	—	to be qualified
-137	verschwinden	—	—	sein	verschwunden	to disappear
-138	nehmen	zu	—	haben	zugenommen	to increase
-139	rechtkommen	zu	—	sein	zurechtgekommen	to cope
-140	tauschen	aus	yes	—	—	to trade
-141	dabei sein	—	—	—	—	to be involved
-142	erfragen	—	—	—	—	to ask
-143	haben	vor	—	haben	vorgehabt	to have s.t. planned
-144	lesen	vor	—	haben	vorgelesen	to read aloud
-145	nehmen	ab	—	haben	abgenommen	to relieve s.o. of s.t.
-146	geben	ein	—	haben	eingegeben	to enter, input
-147	passen	—	—	—	—	to work out
-148	schalten	ein	—	—	—	to turn on
-149	erreichen	—	—	—	—	to reach
-150	fliegen	ab	—	sein	abgeflogen	to fly away
-151	bremsen	—	—	—	—	to brake
-152	landen	—	—	sein	gelandet	to land
-153	entlanggehen	—	—	sein	entlanggegangen	to go along
-154	gehen	vorbei	—	sein	vorbeigegangen	to pass by
-155	zeichnen	ein	—	—	—	to draw in
-156	zeichnen	—	—	—	—	to draw, sketch
-157	leihen	—	—	haben	geliehen	to borrow
-158	lohnen	—	yes	—	—	to be worth
-159	mieten	—	—	—	—	to rent
-160	denken	nach	—	haben	nachgedacht	to think about, ponder
-161	helfen	weiter	—	haben	weitergeholfen	to help along, assist
-162	vertreten	—	—	haben	vertreten	to represent
-163	nehmen	—	—	haben	genommen	to take
-164	pendeln	—	—	sein	gependelt	to commute
-165	überlegen	—	—	—	—	to think about
-166	befürchten	—	—	—	—	to fear
-167	stecken	—	—	—	—	to be stuck, be placed
-168	verstauen	—	—	—	—	to stow
-169	verfassen	—	—	—	—	to write up
-170	blicken	—	—	—	—	to see, glimpse
-171	durcheinandergehen	—	—	sein	durcheinandergegangen	to get mixed up
-172	fallen	ein	—	sein	eingefallen	to think of
-173	halten	ein	—	haben	eingehalten	to follow, observe
-174	kapieren	—	—	—	—	to understand
-175	entspannen	—	yes	—	—	to relax
-176	verschieben	—	—	haben	verschoben	to delay, put off
-177	arbeiten	weiter	—	—	—	to continue work
-178	durchatmen	—	—	—	—	to breathe, respire
-179	lassen	—	—	haben	gelassen	to leave
-180	lösen	—	—	—	—	to solve
-181	fragen	nach	—	—	—	to ask again
-182	verplanen	—	—	—	—	to overschedule
-183	planen	ein	—	—	—	to schedule in
-184	belohnen	—	—	—	—	to reward
-185	motivieren	—	—	—	—	to motivate
-186	begleiten	—	—	—	—	to accompany
-187	dolmetschen	—	—	—	—	to translate simultaneously
-188	faszinieren	—	—	—	—	to fascinate
-189	sorgen	—	—	—	—	to ensure, provide
-190	kochen	ein	—	—	—	to boil down
-191	tragen	vor	—	haben	vorgetragen	to recite, deliver
-192	reiten	—	—	sein	geritten	horseback riding
-193	tauchen	—	—	sein	getaucht	to dive
-194	springen	—	—	sein	gesprungen	to jump
-195	hoffen	—	—	—	—	to hope
-196	verlieren	—	—	haben	verloren	to lose
-197	benehmen	—	yes	—	—	to behave
-198	schießen	—	—	haben	geschossen	to shoot
-199	lassen	—	—	haben	gelassen	to let, allow
-200	schlagen	vor	—	haben	vorgeschlagen	to suggest
-201	lehnen	ab	—	—	—	to decline
-202	halten	—	—	haben	gehalten	to hold, think about
-203	reagieren	—	—	—	—	to react
-204	stimmen	zu	—	—	—	to agree
-205	leihen	aus	—	haben	ausgeliehen	to borrow
-206	balancieren	—	—	—	—	to balance
-207	verstecken	—	—	—	—	to hide
-208	hineinlegen	—	—	—	—	to insert
-209	kaputtgehen	—	—	sein	kaputtgegangen	to break, to fall apart
-210	schützen	—	—	—	—	to protect
-211	versuchen	—	—	—	—	to attempt
-212	lesen	weiter	—	haben	weitergelesen	to read on
-213	sein	zu	—	—	—	to be closed
-214	bauen	—	—	—	—	to build
-215	schaukeln	—	—	—	—	to rock, sway
-216	spiegeln	—	—	—	—	to mirror, reflect
-217	stellen	ab	—	—	—	to park
-218	bellen	—	—	—	—	to bark
-219	stinken	—	—	haben	gestunken	to stink
-220	lenken	ein	—	—	—	to give in, back down
-221	kommen	vor	—	sein	vorgekommen	to occur, happen
-222	nehmen	an	—	haben	angenommen	to accept
-223	räumen	aus	—	—	—	to empty out
-224	füttern	—	—	—	—	to feed
-225	gießen	—	—	haben	gegossen	to pour, water
-226	leeren	—	—	—	—	to empty
-227	schlagen	auf	—	haben	aufgeschlagen	to open
-228	melden	ab	—	—	—	to log off, sign off, check out
-229	ziehen	ein	—	sein	eingezogen	to move in
-230	erlauben	—	—	—	—	to allow
-231	gehören	—	—	—	—	to belong
-232	vermieten	—	—	—	—	to rent out
-233	kennen	aus	yes	—	—	to know about, be familiar with
-234	faxen	—	—	—	—	to fax
-235	kündigen	—	—	—	—	to resign, quit
-236	unterhalten	—	yes	—	—	to converse
-237	verirren	—	yes	—	—	to become lost
-238	versprechen	—	—	haben	versprochen	to promise
-239	wohlfühlen	—	yes	—	—	to feel well
-240	geben	aus	—	haben	ausgegeben	to spend, give away
-241	hineinschauen	—	—	—	—	to look into
-242	springen	—	—	sein	gesprungen	to jump
-243	ziehen	auf	—	haben	aufgezogen	to raise
-244	überqueren	—	—	—	—	to cross
-245	verbessern	—	—	—	—	to improve
-246	erscheinen	—	—	sein	erschienen	to come out, appear
-247	entstehen	—	—	sein	entstanden	to develop from, originate from
-248	überweisen	—	—	haben	überwiesen	to transfer
-249	geben	ab	—	haben	abgegeben	to leave, give up
-250	lesen	ab	—	haben	abgelesen	to read off
-251	feststellen	—	—	—	—	to determine, discover
-252	glattgehen	—	—	sein	glattgegangen	to go smoothly
-253	hinfahren	—	—	sein	hingefahren	to drive to
-254	verschlafen	—	—	haben	verschlafen	to oversleep
-255	gehen	vor	—	sein	vorgegangen	to come first, have precedence
-256	drehen	—	—	—	—	to shoot a film
-257	moderieren	—	—	—	—	to moderate
-258	lesen	mit	—	haben	mitgelesen	to read along
-259	malen	ab	—	—	—	to paint from sight, trace
-260	deuten	—	—	—	—	to indicate
-261	fallen	auf	—	sein	aufgefallen	to stand out
-262	engagieren	—	yes	—	—	to get involved
-263	vergehen	—	—	sein	vergangen	to pass by
-264	bluten	—	—	—	—	to bleed
-265	lügen	—	—	haben	gelogen	to lie
-266	sterben	—	—	sein	gestorben	to die
-267	sparen	—	—	—	—	to save
-268	unternehmen	—	—	haben	unternommen	to undertake
-269	teilen	aus	—	—	—	to distribute
-270	erledigen	—	—	—	—	to settle, handle, take care of
-271	klingeln	—	—	—	—	to ring
-272	streiten	—	yes	haben	gestritten	to argue
-273	gehören	zusammen	—	—	—	to fit together
-274	recht haben	—	—	—	—	to be correct
-275	diskutieren	—	—	—	—	to discuss
-276	interessieren	—	yes	—	—	to be interested in
-277	unterhalten	—	yes	—	—	to converse
-278	betonen	—	—	—	—	to emphasize
-279	suchen	aus	—	—	—	to select
-280	erschließen	—	—	haben	erschlossen	to infer
-281	füllen	—	—	—	—	to fill
-282	reisen	zurück	—	sein	zurückgereist	to travel back
-283	entwerfen	—	—	haben	entworfen	to design, plan
-284	heilen	—	—	—	—	to heal
-285	scheinen	—	—	haben	geschienen	to seem, appear
-286	wachsen	—	—	sein	gewachsen	to grow
-287	hängen	ab	—	haben	abgehangen	to depend
-288	bauen	ein	—	—	—	to incorporate
-289	beeindrucken	—	—	—	—	to impress
-290	dekorieren	—	—	—	—	to decorate
-291	rösten	—	—	—	—	to roast
-292	lassen	an	—	haben	angelassen	to leave on
-293	ziehen	aus	—	haben	ausgezogen	to take off
-294	stehen bleiben	—	—	—	—	to stand still
-295	putzen	—	—	—	—	to clean, wipe
-296	schlürfen	—	—	—	—	to slurp
-297	rühren	um	—	—	—	to stir up
-298	wirken	—	—	—	—	to seem
-299	duzen	—	—	—	—	to call someone by „du“
-300	gelten	—	—	haben	gegolten	to apply, count
-301	siezen	—	—	—	—	to call someone by „Sie“
-302	steigen	—	—	sein	gestiegen	to climb, rise
-303	gehen	ein	—	sein	eingegangen	to focus on, concentrate
-304	kriegen	—	—	—	—	to get, obtain
+1	übernachten	—	—	—	—	to spend the night
+2	langweilen	—	yes	—	—	to be bored
+3	buchen	—	—	—	—	to book
+4	losfahren	—	—	sein	losgefahren	to get going, to drive off
+5	erholen	—	yes	—	—	to recover, relax
+6	begegnen	—	—	sein	begegnet	to encounter
+7	faulenzen	—	—	—	—	to loaf around
+8	ruhen	aus	yes	—	—	to take a rest
+9	beraten	—	—	—	—	to advise
+10	bügeln	—	—	—	—	to iron
+11	nutzen	—	—	—	—	to use, take advantage of
+12	reinigen	—	—	—	—	to clean, launder
+13	verwöhnen	—	—	—	—	to spoil, pamper
+14	wiederbekommen	—	—	haben	wiederbekommen	to get back
+15	erschrecken	—	—	sein	erschrocken	to become scared
+16	verhaften	—	—	—	—	to arrest
+17	diktieren	—	—	—	—	to dictate
+18	fassen	—	—	—	—	to believe
+19	freuen	—	yes	—	—	to look forward to
+20	melken	—	—	haben	gemolken	to milk
+21	helfen	mit	—	haben	mitgeholfen	to help s.o.
+22	gehen	zurück	—	sein	zurückgegangen	to go back
+23	arbeiten	mit	—	—	—	to work together, to work with s.o.
+24	schauen	—	—	—	—	to look
+25	ersetzen	—	—	—	—	to replace
+26	gehen	aus	—	sein	ausgegangen	to run out, go out
+27	werfen	—	—	haben	geworfen	to throw, toss
+28	senden	—	—	—	—	to send
+29	setzen	ein	—	—	—	to use, employ, install
+30	gebrauchen	—	—	—	—	to use
+31	laden	—	—	haben	geladen	to load, charge
+32	klingen	—	—	haben	geklungen	to sound
+33	schalten	an	—	—	—	to turn on
+34	schließen	an	—	haben	angeschlossen	to connect
+35	drucken	—	—	—	—	to print
+36	ändern	—	—	—	—	to alter
+37	fallen	auf	—	sein	aufgefallen	to stand out
+38	bemerken	—	—	—	—	to notice
+39	berühren	—	—	—	—	to touch
+40	hereinkommen	—	—	sein	hereingekommen	to come in
+41	hinsehen	—	—	haben	hingesehen	to look closely
+42	klicken	—	—	—	—	to click
+43	speichern	—	—	—	—	to store, save
+44	sehen	um	yes	—	—	to look around
+45	heimkommen	—	—	sein	heimgekommen	to come home
+46	steuern	—	—	—	—	to control, manage
+47	passen	an	—	—	—	to adapt, customize
+48	entsprechen	—	—	haben	entsprochen	to correspond
+49	sprechen	an	—	haben	angesprochen	to appeal to, address
+50	genügen	—	—	—	—	to suffice
+51	werben	—	—	haben	geworben	to advertise
+52	schmelzen	—	—	sein	geschmolzen	to melt
+53	erben	—	—	—	—	to inherit
+54	schlagen	ein	—	haben	eingeschlagen	to pursue
+55	bauen	ab	—	—	—	to reduce, break down
+56	geben	auf	—	haben	aufgegeben	to give up
+57	befreien	—	—	—	—	to liberate, free
+58	beweisen	—	—	haben	bewiesen	to prove
+59	brechen	—	—	haben	gebrochen	to break
+60	spüren	—	—	—	—	to sense
+61	überwinden	—	—	haben	überwunden	to overcome
+62	vermitteln	—	—	—	—	to convey, impart
+63	getrennt leben	—	—	—	—	to live separated
+64	kündigen	—	—	—	—	to resign; to dismiss
+65	pflegen	—	—	—	—	to care for, maintain
+66	selbstständig machen	—	yes	—	—	to be self-employed
+67	sterben	—	—	sein	gestorben	to die
+68	tauschen	—	—	—	—	to trade
+69	treffen	zusammen	—	sein	zusammengetroffen	to meet, to encounter
+70	erstellen	—	—	—	—	to construct, draw up
+71	raten	ab	—	haben	abgeraten	to advise against
+72	erwischen	—	—	—	—	to catch, nab
+73	verknallt	—	—	—	—	to have a crush on s.o.
+74	wegziehen	—	—	sein	weggezogen	to move away
+75	ziehen	—	—	sein	gezogen	to move
+76	vermissen	—	—	—	—	to miss s.o.
+77	bekommen	zurück	—	haben	zurückbekommen	to get back
+78	verletzen	—	yes	—	—	to injure
+79	stehen	an	—	haben	angestanden	to stand in line
+80	errichten	—	—	—	—	to establish, set up
+81	fliehen	—	—	sein	geflohen	to flee, escape
+82	entgegenströmen	—	—	—	—	to stream toward
+83	fallen	—	—	sein	gefallen	to fall
+84	fordern	—	—	—	—	to demand
+85	jubeln	—	—	—	—	to cheer
+86	klopfen	—	—	—	—	to knock
+87	reichen	—	—	—	—	to pass; to hand
+88	rennen	—	—	sein	gerannt	to run
+89	strömen	—	—	sein	geströmt	to stream
+90	armen	um	—	haben	umarmt	to embrace, hug
+91	bearbeiten	—	—	—	—	to work on, process, edit
+92	ernst nehmen	—	—	—	—	to take s.o. or s.t. seriously
+93	regeln	—	—	—	—	to regulate, control
+94	rechnen	—	—	—	—	to calculate
+95	fortsetzen	—	—	—	—	to continue, resume
+96	schiefgehen	—	—	sein	schiefgegangen	to go wrong
+97	bekleckern	—	—	—	—	to stain
+98	parken	—	—	—	—	to park
+99	schütten	—	—	—	—	to spill
+100	verzeihen	—	—	haben	verziehen	to forgive, excuse, pardon
+101	kommen	an	—	—	—	to arrive
+102	akzeptieren	—	—	—	—	to accept
+103	losschicken	—	—	—	—	to send off
+104	unterscheiden	—	—	haben	unterschieden	to distinguish, differentiate
+105	beziehen	—	yes	—	—	to refer
+106	freuen	—	yes	—	—	to be pleased
+107	verzichten	—	—	—	—	to abstain, forgo
+108	vereinbaren	—	—	—	—	to agree on, arrange
+109	kommen	vorbei	—	sein	vorbeigekommen	to come by, drop in
+110	meistern	—	—	—	—	to master
+111	signalisieren	—	—	—	—	to signal
+112	verhindern	—	—	—	—	to prevent, avert
+113	rechnen	mit	—	—	—	to add in, include
+114	transportieren	—	—	—	—	to transport
+115	verspeisen	—	—	—	—	to consume
+116	berechnen	—	—	—	—	to calculate
+117	behandeln	—	—	—	—	to treat
+118	herstellen	—	—	—	—	to produce, manufacture
+119	reißen	—	—	sein	gerissen	to tear
+120	verbrauchen	—	—	—	—	to consume, use up
+121	verhalten	—	yes	haben	verhalten	to behave, restrain
+122	widersprechen	—	—	haben	widersprochen	to contradict, disagree
+123	nehmen	an	—	haben	angenommen	to accept, take on
+124	drucken	aus	—	—	—	to print out
+125	entwickeln	—	—	—	—	to develop
+126	pressen	—	—	—	—	to press
+127	prophezeien	—	—	—	—	to predict
+128	verbreiten	—	—	—	—	to spread, disseminate
+129	heben	—	—	haben	gehoben	to lift
+130	blitzen	—	—	—	—	to flash lightning
+131	donnern	—	—	—	—	to thunder
+132	hageln	—	—	—	—	to hail
+133	nieseln	—	—	—	—	to drizzle
+134	schütten	—	—	—	—	to pour
+135	sterben	aus	—	sein	ausgestorben	to die off
+136	bestätigen	—	—	—	—	to confirm
+137	handeln	—	yes	—	—	to concern
+138	opfern	—	—	—	—	to sacrifice
+139	pflanzen	—	—	—	—	to plant
+140	retten	—	—	—	—	to rescue
+141	vergraben	—	—	haben	vergraben	to bury
+142	verschönern	—	—	—	—	to beautify
+143	beschäftigen	—	—	—	—	to busy, occupy
+144	kleben	—	—	—	—	to stick
+145	respektieren	—	—	—	—	to respect
+146	teilen	—	—	—	—	to share
+147	vermeiden	—	—	haben	vermieden	to avoid, avert
+148	hersagen	vor	—	—	—	to foresee, forecast
+149	zweifeln	—	—	—	—	to doubt, be skeptical
+150	befragen	—	—	—	—	to question, consult
+151	fassen	—	—	—	—	to take hold of, grip here: to make
+152	haben	vor	—	haben	vorgehabt	to have planned
+153	nehmen	vor	yes	haben	vorgenommen	to carry out
+154	würfeln	—	—	—	—	to roll dice
+155	repräsentieren	—	—	—	—	to represent
+156	berücksichtigen	—	—	—	—	to consider
+157	wachsen	auf	—	sein	aufgewachsen	to grow up
+158	hinhören	—	—	—	—	to listen closely
+159	irren	—	—	—	—	to stray, roam about
+160	hören	mit	—	—	—	to listen with s.o.
+161	singen	mit	—	haben	mitgesungen	to sing with s.o.
+162	trauen	—	yes	—	—	to trust
+163	wagen	—	—	—	—	to dare, risk
+164	besiegen	—	—	—	—	to defeat
+165	kämpfen	—	—	—	—	to fight
+166	parken	ein	—	—	—	to park
+167	nerven	—	—	—	—	to annoy
+168	kleiden	—	yes	—	—	to dress
+169	klarkommen	—	—	sein	klargekommen	to cope
+170	scheiden lassen	—	yes	—	—	to divorce
+171	setzen	—	—	—	—	to set
+172	bleiben	zusammen	—	sein	zusammengeblieben	to stay together
+173	leben	zusammen	—	—	—	to live together
+174	ziehen	ein	—	sein	eingezogen	to move in
+175	trennen	—	yes	—	—	to separate
+176	spülen	ab	—	—	—	to rinse
+177	eskalieren	—	—	—	—	to escalate
+178	gefallen lassen	—	yes	—	—	to put up with, tolerate
+179	gelingen	—	—	sein	gelungen	to succeed
+180	geben	nach	—	haben	nachgegeben	to give in, yield
+181	ruhig bleiben	—	—	—	—	to stay calm
+182	schweigen	—	—	haben	geschwiegen	to remain silent
+183	beeinflussen	—	—	—	—	to influence
+184	erkämpfen	—	—	—	—	to win, secure
+185	komponieren	—	—	—	—	to compose
+186	zwingen	—	—	haben	gezwungen	to force
+187	dokumentieren	—	—	—	—	to document
+188	erhalten sein	—	—	—	—	to be preserved
+189	ziehen	ab	—	sein	abgezogen	to move away, pull off
+190	beißen	—	—	haben	gebissen	to bite
+191	ren	weh	yes	—	—	to defend
+192	brüllen	zurück	—	—	—	to yell back
+193	brechen	zusammen	—	sein	zusammengebrochen	to collapse
+194	sagen	aus	—	—	—	to testify, state
+195	fressen	—	—	haben	gefressen	to feed, eat
+196	illustrieren	—	—	—	—	to illustrate
+197	loben	—	—	—	—	to praise
+198	schmeicheln	—	—	—	—	to flatter
+199	stehlen	—	—	haben	gestohlen	to steal
+200	singen	vor	—	—	—	to sing
+201	beachten	—	—	—	—	to note, observe
+202	strengen	an	yes	—	—	to strain, exert
+203	cremen	ein	—	—	—	to apply cream
+204	kühlen	—	—	—	—	to cool
+205	lutschen	—	—	—	—	to suck on
+206	schnarchen	—	—	—	—	to snore
+207	stärken	—	—	—	—	to strengthen, reinforce
+208	stechen	—	—	haben	gestochen	to sting
+209	verjagen	—	—	—	—	to chase away
+210	verschlucken	—	—	—	—	to swallow
+211	schätzen	ein	—	—	—	to assess
+212	warnen	—	—	—	—	to warn
+213	lösen	auf	—	—	—	to dissolve, resolve
+214	nehmen	ein	—	haben	eingenommen	to take in
+215	schaden	—	—	—	—	to damage, harm
+216	schlagen	—	—	haben	geschlagen	to beat, hit
+217	senken	—	—	—	—	to reduce, lower
+218	untersuchen	—	—	—	—	to examine, investigate
+219	verschreiben	—	—	haben	verschrieben	to prescribe
+220	messen	—	—	haben	gemessen	to measure
+221	kämmen	—	yes	—	—	to comb
+222	bewahren	auf	—	—	—	to store, keep
+223	teilen	auf	—	—	—	to divide, split up
+224	betragen	—	—	haben	betragen	to come to
+225	eignen	—	yes	—	—	to be suitable for
+226	empfangen	—	—	haben	empfangen	to receive
+227	erhalten	—	—	haben	erhalten	to get, obtain
+228	lösen	aus	—	—	—	to trigger, release
+229	beobachten	—	—	—	—	to observe
+230	gelangen	—	—	—	—	to reach, attain
+231	en	leid	—	haben	gelitten	to suffer
+232	sinken	—	—	sein	gesunken	to fall, sink
+233	verarbeiten	—	—	—	—	to process, handle
+234	haben	an	—	haben	angehabt	to wear, have on
+235	denken	aus	yes	—	—	to devise, think up
+236	überprüfen	—	—	—	—	to check, verify
+237	assoziieren	—	—	—	—	to associate
+238	gleichen	aus	—	—	—	to compensate, even out
+239	bemühen	—	yes	—	—	to strive, trouble
+240	beteiligen	—	yes	—	—	to participate
+241	bringen	ein	—	haben	eingebracht	to bring in
+242	entdecken	—	—	—	—	to discover
+243	erarbeiten	—	—	—	—	to work for
+244	unterstützen	—	—	—	—	to support
+245	vertraut machen	—	yes	—	—	to become familiar with
+246	gehen	zu	—	sein	zugegangen	to deal with
+247	trauen	zu	—	—	—	to have confidence, to believe in something
+248	schauen	an	—	—	—	to look at
+249	flüchten	—	—	—	—	to flee
+250	greifen	—	—	haben	gegriffen	to grasp, reach for
+251	hierherkommen	—	—	sein	hierhergekommen	to come here
+252	hinaufgehen	—	—	sein	hinaufgegangen	to go up
+253	nähen	—	—	—	—	to sew, stitch
+254	schätzen	—	—	—	—	to value, estimate
+255	schöpfen	—	—	—	—	to draw, summon up
+256	führen	auf	—	—	—	to perform, put on
+257	machen	aus	—	—	—	to turn off
+258	beleuchten	—	—	—	—	to light up
+259	schminken	—	—	—	—	to make up
+260	zaubern	—	—	—	—	to conjure
+261	treten	auf	—	sein	aufgetreten	to occur, appear
+262	inszenieren	—	—	—	—	to stage, direct
+263	kaufen	ab	—	—	—	to buy from
+264	kommen	an	—	sein	angekommen	to arrive, come across
+265	erzielen	—	—	—	—	to achieve, attain
+266	herankommen	—	—	sein	herangekommen	to come near
+267	prüfen	—	—	—	—	to test, probe, look into
+268	schätzen	—	—	—	—	to estimate, value
+269	staunen	—	—	—	—	to be astonished
+270	verklagen	—	—	—	—	to sue
+271	zerstören	—	—	—	—	to destroy
+272	verneinen	—	—	—	—	to negate
+273	schwächen	ab	—	—	—	to weaken, tone down
+274	verstärken	—	—	—	—	to strengthen
+275	erwähnen	—	—	—	—	to mention
+276	begeben	—	yes	—	—	to embark
+277	jodeln	—	—	—	—	to yodel
+278	musizieren	—	—	—	—	to play music
+279	sperren	ein	—	—	—	to lock up, confine
+280	erschießen	—	—	haben	erschossen	to shoot dead
+281	fliegen	vorbei	—	sein	vorbeigeflogen	to fly by
+282	zerreißen	—	—	haben	zerrissen	to tear apart
+283	stimmen	ab	—	—	—	to take a vote
+284	begeistern	—	—	—	—	to inspire, excite
+285	üben	aus	—	—	—	to exercise, practice
+286	sichern	—	—	—	—	to secure
+287	alarmieren	—	—	—	—	to alert
+288	bilden	aus	—	—	—	to train, educate
+289	rücken	aus	—	—	—	to move out, dispatch
+290	bewältigen	—	—	—	—	to overcome, cope with
+291	brennen	—	—	haben	gebrannt	to burn
+292	spenden	—	—	—	—	to donate
+293	vernichten	—	—	—	—	to destroy, annihilate
+294	wegwerfen	—	—	haben	weggeworfen	to throw away
+295	löschen	—	—	—	—	to extinguish
+296	entsorgen	—	—	—	—	to dispose of
+297	reisen	an	—	—	—	to travel to
+298	zahlen	aus	—	—	—	to pay off
+299	drohen	—	—	—	—	to threaten
+300	tragen	ein	—	haben	eingetragen	to register, record
+301	eröffnen	—	—	—	—	to open
+302	führen	—	—	—	—	to lead, run
+303	spielen	mit	—	—	—	to play with
+304	sauber halten	—	—	—	—	to keep clean
+305	streiken	—	—	—	—	to go on strike
+306	wegräumen	—	—	—	—	to put away
+307	hingehen	—	—	sein	hingegangen	to go there
+308	räumen	ab	—	—	—	to clear away
+309	beschließen	—	—	haben	beschlossen	to decide on, resolve
+310	bewahren	—	—	—	—	to keep, preserve
+311	bauen	auf	—	—	—	to build up, construct
+312	gehen	an	—	sein	angegangen	to concern s.o., be s.o.‘s business
+313	recht geben	—	—	—	—	to agree, concede
+314	erwachen	—	—	—	—	to awaken
+315	halten	auf	—	haben	aufgehalten	to stop, hold up, delay
+316	hineingehen	—	—	sein	hineingegangen	to go in
+317	offen lassen	—	—	—	—	to leave open
+318	wachen	auf	—	—	—	to wake up
+319	geschehen	—	—	sein	geschehen	to happen, occur
+320	lebenswert	—	—	—	—	to be worth living in
+321	bewerten	—	—	—	—	to evaluate
+322	dienen	—	—	—	—	to serve
+323	ig sein	ein	yes	—	—	to be in agreement
+324	igen	ein	yes	—	—	to agree, settle
+325	lächeln	an	—	—	—	to smile at
+326	festnehmen	—	—	haben	festgenommen	to arrest
+327	hinunterrasen	—	—	—	—	to race down
+328	knurren	—	—	—	—	rumble
+329	sein	um	—	—	—	to be over
+330	vernehmen	—	—	haben	vernommen	to question, examine
+331	teilen	mit	—	—	—	to tell, notify
+332	regieren	—	—	—	—	to rule, govern
+333	schaffen	an	—	—	—	to buy, get
+334	heben	ab	—	—	—	to withdraw, lift off
+335	ziehen	ein	—	haben	eingezogen	to collect, pull in, confiscate
+336	erhöhen	—	—	—	—	to raise, increase
+337	sperren	—	—	—	—	to cancel, block, close off, freeze
+338	überziehen	—	—	haben	überzogen	to overdraw
+339	laden	auf	—	haben	aufgeladen	to load up, recharge
+340	führen	aus	—	—	—	to execute, carry out
+341	behalten	—	—	haben	behalten	to keep
+342	benötigen	—	—	—	—	to need, require
+343	beschädigen	—	—	—	—	to damage, deface
+344	richten	ein	—	—	—	to establish, set up
+345	entnehmen	—	—	haben	entnommen	to take from
+346	gutschreiben	—	—	haben	gutgeschrieben	to credit
+347	verwalten	—	—	—	—	to manage, administer
+348	wiederfinden	—	—	haben	wiedergefunden	to find again
+349	schicken	zu	—	—	—	to send over
+350	erhalten	zurück	—	haben	zurückerhalten	to get back
+351	füllen	aus	—	—	—	to fill out
+352	deklinieren	—	—	—	—	to decline
+353	zahlen	ein	—	—	—	to deposit, pay in
+354	bedenken	—	—	haben	bedacht	to consider
+355	betroffen sein	—	—	—	—	to be affected
+356	spekulieren	—	—	—	—	to speculate
+357	überleben	—	—	—	—	to survive
+358	schwitzen	—	—	—	—	to sweat
+359	basieren	—	—	—	—	to base, be based
+360	betrügen	—	—	haben	betrogen	to betray
+361	werfen	ein	—	haben	eingeworfen	to insert, throw in
+362	finden	heraus	—	haben	herausgefunden	to find out
+363	prüfen	nach	—	—	—	to verify, re-examine
+364	verschenken	weiter	—	—	—	to re-gift
+365	befürworten	—	—	—	—	to advocate
+366	en können	leid	—	—	—	to tolerate, stand s.t.
+367	räuspern	—	yes	—	—	to clear one‘s throat
+368	tolerieren	—	—	—	—	to tolerate
+369	ziehen	aus	—	sein	ausgezogen	to move out
+370	beten	—	—	—	—	to pray
+371	bewachen	—	—	—	—	to guard
+372	finanzieren	—	—	—	—	to finance
+373	geraten	—	—	sein	geraten	to get into

@@ -1,40 +1,40 @@
-41	irregular	reihe ein	reibst ein	reibt ein	reiben ein	reibt ein	reiben ein	rieb ein	eingerieben	haben	Reib die Creme ein.	Rub in the cream.
-42	irregular	sehe	siehst	sieht	sehen	seht	sehen	sah	gesehen	haben	Ich sehe einen Vogel.	I see a bird.
-43	regular	klebe zu	klebst zu	klebt zu	kleben zu	klebt zu	kleben zu	klebte zu	zugeklebt	haben	Klebe den Umschlag zu.	Seal the envelope.
-44	irregular	komme	kommst	kommt	kommen	kommt	kommen	kam	gekommen	sein	Komm bitte her.	Please come here.
-45	regular	mische	mischst	mischt	mischen	mischt	mischen	mischte	gemischt	haben	Mische die Farben.	Mix the colours.
-46	regular	wundere mich	wunderst dich	wundert sich	wundern uns	wundert euch	wundern sich	wunderte	gewundert	haben	Ich wundere mich darüber.	I am surprised about that.
-47	regular	sortiere	sortierst	sortiert	sortieren	sortiert	sortieren	sortierte	sortiert	haben	Sortiere die Briefe.	Sort the letters.
-48	regular	korrigiere	korrigierst	korrigiert	korrigieren	korrigiert	korrigieren	korrigierte	korrigiert	haben	Korrigiere den Fehler.	Correct the mistake.
-49	irregular	komme zurück	kommst zurück	kommt zurück	kommen zurück	kommt zurück	kommen zurück	kam zurück	zurückgekommen	sein	Ich komme morgen zurück.	I come back tomorrow.
-50	regular	wohne zusammen	wohnst zusammen	wohnt zusammen	wohnen zusammen	wohnt zusammen	wohnen zusammen	wohnte zusammen	zusammengewohnt	haben	Wir wohnen zusammen.	We live together.
-51	irregular	hänge	hängst	hängt	hängen	hängt	hängen	hing	gehangen	haben	Das Bild hängt an der Wand.	The picture hangs on the wall.
-52	regular	hänge	hängst	hängt	hängen	hängt	hängen	hängte	gehängt	haben	Häng den Mantel auf.	Hang up the coat.
-53	regular	lege	legst	legt	legen	legt	legen	legte	gelegt	haben	Lege das Buch auf den Tisch.	Lay the book on the table.
-54	regular	drehe mich um	drehst dich um	dreht sich um	drehen uns um	dreht euch um	drehen sich um	drehte um	umgedreht	haben	Dreh dich um!	Turn around!
-55	regular	verändere	veränderst	verändert	verändern	verändert	verändern	veränderte	verändert	haben	Das verändert alles.	That changes everything.
-56	irregular	gebe weiter	gibst weiter	gibt weiter	geben weiter	gebt weiter	geben weiter	gab weiter	weitergegeben	haben	Gib die Information weiter.	Pass on the information.
-57	irregular	entscheide mich	entscheidest dich	entscheidet sich	entscheiden uns	entscheidet euch	entscheiden sich	entschied	entschieden	haben	Ich entscheide mich jetzt.	I decide now.
-58	regular	kommentiere	kommentierst	kommentiert	kommentieren	kommentiert	kommentieren	kommentierte	kommentiert	haben	Kommentiere den Beitrag.	Comment on the post.
-59	regular	klicke an	klickst an	klickt an	klicken an	klickt an	klicken an	klickte an	angeklickt	haben	Klick den Link an.	Click the link.
-60	regular	blogge	bloggst	bloggt	bloggen	bloggt	bloggen	bloggte	gebloggt	haben	Ich blogge über Reisen.	I blog about travel.
-61	regular	checke	checkst	checkt	checken	checkt	checken	checkte	gecheckt	haben	Ich checke meine E-Mails.	I check my emails.
-62	regular	downloade	downloadest	downloadet	downloaden	downloadet	downloaden	downloadete	gedownloadet	haben	Ich downloade das Video.	I download the video.
-63	irregular	lade herunter	lädst herunter	lädt herunter	laden herunter	ladet herunter	laden herunter	lud herunter	heruntergeladen	haben	Ich lade die App herunter.	I download the app.
-64	regular	poste	postest	postet	posten	postet	posten	postete	gepostet	haben	Ich poste ein Foto.	I post a photo.
-65	regular	simse	simsest	simst	simsen	simst	simsen	simste	gesimst	haben	Sims mir später.	Text me later.
-66	regular	skype	skypest	skypt	skypen	skypt	skypen	skypte	geskypt	haben	Wir skypen am Abend.	We skype in the evening.
-67	regular	wünsche mir	wünschst dir	wünscht sich	wünschen uns	wünscht euch	wünschen sich	wünschte	gewünscht	haben	Ich wünsche mir ein Buch.	I wish for a book.
-68	regular	flüstere	flüsterst	flüstert	flüstern	flüstert	flüstern	flüsterte	geflüstert	haben	Sie flüstern im Kino.	They whisper in the cinema.
-69	regular	flüstere weiter	flüsterst weiter	flüstert weiter	flüstern weiter	flüstert weiter	flüstern weiter	flüsterte weiter	weitergeflüstert	haben	Flüster nicht weiter.	Do not keep whispering.
-70	auxiliary	bin an	bist an	ist an	sind an	seid an	sind an	war an	an gewesen	sein	Das Licht ist an.	The light is on.
-71	regular	passe auf	passt auf	passt auf	passen auf	passt auf	passen auf	passte auf	aufgepasst	haben	Pass auf die Kinder auf.	Watch the children.
-72	regular	stelle	stellst	stellt	stellen	stellt	stellen	stellte	gestellt	haben	Stell die Vase auf den Tisch.	Put the vase on the table.
-73	irregular	verbringe	verbringst	verbringt	verbringen	verbringt	verbringen	verbrachte	verbracht	haben	Ich verbringe den Tag zu Hause.	I spend the day at home.
-74	regular	arbeite zusammen	arbeitest zusammen	arbeitet zusammen	arbeiten zusammen	arbeitet zusammen	arbeiten zusammen	arbeitete zusammen	zusammengearbeitet	haben	Wir arbeiten zusammen.	We work together.
-75	regular	lache	lachst	lacht	lachen	lacht	lachen	lachte	gelacht	haben	Wir lachen viel.	We laugh a lot.
-76	regular	weine	weinst	weint	weinen	weint	weinen	weinte	geweint	haben	Das Baby weint.	The baby cries.
-77	irregular	gehe	gehst	geht	gehen	geht	gehen	ging	gegangen	sein	Der Film geht um eine Familie.	The film is about a family.
-78	regular	mache mich lustig	machst dich lustig	macht sich lustig	machen uns lustig	macht euch lustig	machen sich lustig	machte lustig	lustig gemacht	haben	Mach dich nicht lustig!	Do not make fun of yourself!
-79	irregular	spiele	spielst	spielt	spielen	spielt	spielen	spielte	gespielt	haben	Der Film spielt in der Türkei.	The film is set in Turkey.
-80	regular	verwende	verwendest	verwendet	verwenden	verwendet	verwenden	verwendete	verwendet	haben	Ich verwende das neue Wort.	I use the new word.
+41	irregular	sehe hin	siehst hin	sieht hin	sehen hin	seht hin	sehen hin	sah hin	hingesehen	haben	Sieh genau hin.	Look closely.
+42	regular	klicke	klickst	klickt	klicken	klickt	klicken	klickte	geklickt	haben	Klicke auf den Link.	Click on the link.
+43	regular	speichere	speicherst	speichert	speichern	speichert	speichern	speicherte	gespeichert	haben	Ich speichere die Datei.	I save the file.
+44	regular	sehe mich um	siehst dich um	sieht sich um	sehen uns um	seht euch um	sehen sich um	sah um	umgesehen	haben	Ich sehe mich um.	I look around.
+45	irregular	komme heim	kommst heim	kommt heim	kommen heim	kommt heim	kommen heim	kam heim	heimgekommen	sein	Ich komme spät heim.	I come home late.
+46	regular	steuere	steuerst	steuert	steuern	steuert	steuern	steuerte	gesteuert	haben	Er steuert den Computer.	He controls the computer.
+47	regular	passe an	passt an	passt an	passen an	passt an	passen an	passte an	angepasst	haben	Ich passe die Einstellungen an.	I adapt the settings.
+48	irregular	entspreche	entsprichst	entspricht	entsprechen	entsprecht	entsprechen	entsprach	entsprochen	haben	Das entspricht der Regel.	That corresponds to the rule.
+49	irregular	spreche an	sprichst an	spricht an	sprechen an	sprecht an	sprechen an	sprach an	angesprochen	haben	Der Film spricht mich an.	The film appeals to me.
+50	regular	genüge	genügst	genügt	genügen	genügt	genügen	genügte	genügt	haben	Das genügt.	That suffices.
+51	irregular	werbe	wirbst	wirbt	werben	werbt	werben	warb	geworben	haben	Die Firma wirbt im Fernsehen.	The company advertises on TV.
+52	irregular	schmelze	schmilzt	schmilzt	schmelzen	schmelzt	schmelzen	schmolz	geschmolzen	sein	Das Eis schmilzt.	The ice melts.
+53	regular	erbe	erbst	erbt	erben	erbt	erben	erbte	geerbt	haben	Sie erbt das Haus.	She inherits the house.
+54	irregular	schlage ein	schlägst ein	schlägt ein	schlagen ein	schlagt ein	schlagen ein	schlug ein	eingeschlagen	haben	Sie schlägt den Weg ein.	She takes the path.
+55	regular	baue ab	baust ab	baut ab	bauen ab	baut ab	bauen ab	baute ab	abgebaut	haben	Wir bauen den Stress ab.	We reduce the stress.
+56	irregular	gebe auf	gibst auf	gibt auf	geben auf	gebt auf	geben auf	gab auf	aufgegeben	haben	Gib nicht auf.	Do not give up.
+57	regular	befreie	befreist	befreit	befreien	befreit	befreien	befreite	befreit	haben	Wir befreien den Vogel.	We free the bird.
+58	irregular	beweise	beweist	beweist	beweisen	beweist	beweisen	bewies	bewiesen	haben	Er beweist seine Idee.	He proves his idea.
+59	irregular	breche	brichst	bricht	brechen	brecht	brechen	brach	gebrochen	haben	Der Ast bricht.	The branch breaks.
+60	regular	spüre	spürst	spürt	spüren	spürt	spüren	spürte	gespürt	haben	Ich spüre den Wind.	I sense the wind.
+61	irregular	überwinde	überwindest	überwindet	überwinden	überwindet	überwinden	überwand	überwunden	haben	Wir überwinden die Angst.	We overcome the fear.
+62	regular	vermittele	vermittelst	vermittelt	vermitteln	vermittelt	vermitteln	vermittelte	vermittelt	haben	Sie vermittelt die Idee.	She conveys the idea.
+63	regular	lebe getrennt	lebst getrennt	lebt getrennt	leben getrennt	lebt getrennt	leben getrennt	lebte getrennt	getrennt gelebt	haben	Sie leben getrennt.	They live separated.
+64	regular	kündige	kündigst	kündigt	kündigen	kündigt	kündigen	kündigte	gekündigt	haben	Er kündigt den Vertrag.	He terminates the contract.
+65	regular	pflege	pflegst	pflegt	pflegen	pflegt	pflegen	pflegte	gepflegt	haben	Ich pflege die Pflanzen.	I care for the plants.
+66	regular	mache mich selbstständig	machst dich selbstständig	macht sich selbstständig	machen uns selbstständig	macht euch selbstständig	machen sich selbstständig	machte selbstständig	selbstständig gemacht	haben	Sie macht sich selbstständig.	She becomes self-employed.
+67	irregular	sterbe	stirbst	stirbt	sterben	sterbt	sterben	starb	gestorben	sein	Der Baum stirbt.	The tree dies.
+68	regular	tausche	tauschst	tauscht	tauschen	tauscht	tauschen	tauschte	getauscht	haben	Wir tauschen die Plätze.	We trade the places.
+69	irregular	treffe zusammen	triffst zusammen	trifft zusammen	treffen zusammen	trefft zusammen	treffen zusammen	traf zusammen	zusammengetroffen	sein	Wir treffen uns am Freitag.	We meet on Friday.
+70	regular	erstelle	erstellst	erstellt	erstellen	erstellt	erstellen	erstellte	erstellt	haben	Ich erstelle die Liste.	I draw up the list.
+71	irregular	rate ab	rätst ab	rät ab	raten ab	ratet ab	raten ab	riet ab	abgeraten	haben	Ich rate vom Kauf ab.	I advise against the purchase.
+72	regular	erwische	erwischst	erwischt	erwischen	erwischt	erwischen	erwischte	erwischt	haben	Ich erwische den Bus.	I catch the bus.
+73	regular	bin verknallt	bist verknallt	ist verknallt	sind verknallt	seid verknallt	sind verknallt	war verknallt	verknallt gewesen	sein	Sie ist in ihn verknallt.	She has a crush on him.
+74	irregular	ziehe weg	ziehst weg	zieht weg	ziehen weg	zieht weg	ziehen weg	zog weg	weggezogen	sein	Sie ziehen weg.	They move away.
+75	irregular	ziehe	ziehst	zieht	ziehen	zieht	ziehen	zog	gezogen	sein	Wir ziehen nach Berlin.	We move to Berlin.
+76	regular	vermiss	vermisst	vermisst	vermissen	vermisst	vermissen	vermisste	vermisst	haben	Ich vermisse dich.	I miss you.
+77	irregular	bekomme zurück	bekommst zurück	bekommt zurück	bekommen zurück	bekommt zurück	bekommen zurück	bekam zurück	zurückbekommen	haben	Ich bekomme mein Buch zurück.	I get my book back.
+78	regular	verletze mich	verletzt dich	verletzt sich	verletzen uns	verletzt euch	verletzen sich	verletzte	verletzt	haben	Ich verletze mich am Knie.	I injure my knee.
+79	irregular	stehe an	stehst an	steht an	stehen an	steht an	stehen an	stand an	angestanden	haben	Wir stehen in der Schlange an.	We stand in the line.
+80	regular	errichte	errichtest	errichtet	errichten	errichtet	errichten	errichtete	errichtet	haben	Sie errichten ein Haus.	They set up a house.

@@ -1,24 +1,40 @@
-281	regular	fülle	füllst	füllt	füllen	füllt	füllen	füllte	gefüllt	haben	Fülle das Glas.	Fill the glass.
-282	irregular	reise zurück	reist zurück	reist zurück	reisen zurück	reist zurück	reisen zurück	reiste zurück	zurückgereist	sein	Wir reisen zurück nach Wien.	We travel back to Vienna.
-283	irregular	entwerfe	entwirfst	entwirft	entwerfen	entwerft	entwerfen	entwarf	entworfen	haben	Sie entwerfen ein Plakat.	They design a poster.
-284	regular	heile	heilst	heilt	heilen	heilt	heilen	heilte	geheilt	haben	Die Zeit heilt alles.	Time heals everything.
-285	irregular	scheine	scheinst	scheint	scheinen	scheint	scheinen	schien	geschienen	haben	Das scheint schwierig.	That seems difficult.
-286	irregular	wachse	wächst	wächst	wachsen	wachst	wachsen	wuchs	gewachsen	sein	Die Pflanzen wachsen schnell.	The plants grow fast.
-287	irregular	hänge ab	hängst ab	hängt ab	hängen ab	hängt ab	hängen ab	hing ab	abgehangen	haben	Das hängt vom Wetter ab.	That depends on the weather.
-288	regular	baue ein	baust ein	baut ein	bauen ein	baut ein	bauen ein	baute ein	eingebaut	haben	Wir bauen das Wort ein.	We incorporate the word.
-289	regular	beeindrucke	beeindruckst	beeindruckt	beeindrucken	beeindruckt	beeindrucken	beeindruckte	beeindruckt	haben	Die Stadt beeindruckt mich.	The city impresses me.
-290	regular	dekoriere	dekorierst	dekoriert	dekorieren	dekoriert	dekorieren	dekorierte	dekoriert	haben	Wir dekorieren den Raum.	We decorate the room.
-291	regular	röste	röstest	röstet	rösten	röstet	rösten	röstete	geröstet	haben	Ich röste das Brot.	I roast the bread.
-292	irregular	lasse an	lässt an	lässt an	lassen an	lässt an	lassen an	ließ an	angelassen	haben	Lass das Licht an.	Leave the light on.
-293	irregular	ziehe aus	ziehst aus	zieht aus	ziehen aus	zieht aus	ziehen aus	zog aus	ausgezogen	haben	Zieh die Schuhe aus.	Take off the shoes.
-294	regular	bleibe stehen	bleibst stehen	bleibt stehen	bleiben stehen	bleibt stehen	bleiben stehen	blieb stehen	stehen geblieben	sein	Bleib bitte stehen.	Please stand still.
-295	regular	putze	putzt	putzt	putzen	putzt	putzen	putzte	geputzt	haben	Ich putze die Fenster.	I clean the windows.
-296	regular	schlürfe	schlürfst	schlürft	schlürfen	schlürft	schlürfen	schlürfte	geschlürft	haben	Die Suppe nicht schlürfen.	Do not slurp the soup.
-297	regular	rühre um	rührst um	rührt um	rühren um	rührt um	rühren um	rührte um	umgerührt	haben	Rühre die Suppe um.	Stir the soup.
-298	regular	wirke	wirkst	wirkt	wirken	wirkt	wirken	wirkte	gewirkt	haben	Das wirkt spannend.	That seems exciting.
-299	regular	duze	duzt	duzt	duzen	duzt	duzen	duzte	geduzt	haben	Wir duzen uns.	We use the informal "du".
-300	irregular	gelte	giltst	gilt	gelten	geltet	gelten	galt	gegolten	haben	Die Regel gilt hier.	The rule applies here.
-301	regular	sieze	siezt	siezt	siezen	siezt	siezen	siezte	gesiezt	haben	Ich sieze den Chef.	I use the formal "Sie" with the boss.
-302	irregular	steige	steigst	steigt	steigen	steigt	steigen	stieg	gestiegen	sein	Der Preis steigt.	The price rises.
-303	irregular	gehe ein	gehst ein	geht ein	gehen ein	geht ein	gehen ein	ging ein	eingegangen	sein	Geh auf das Thema ein.	Focus on the topic.
-304	regular	kriege	kriegst	kriegt	kriegen	kriegt	kriegen	kriegte	gekriegt	haben	Ich kriege eine Antwort.	I get an answer.
+281	irregular	fliege vorbei	fliegst vorbei	fliegt vorbei	fliegen vorbei	fliegt vorbei	fliegen vorbei	flog vorbei	vorbeigeflogen	sein	Der Vogel fliegt vorbei.	The bird flies by.
+282	irregular	zerreiße	zerreißt	zerreißt	zerreißen	zerreißt	zerreißen	zerriss	zerrissen	haben	Er zerreißt das Papier.	He tears apart the paper.
+283	regular	stimme ab	stimmst ab	stimmt ab	stimmen ab	stimmt ab	stimmen ab	stimmte ab	abgestimmt	haben	Wir stimmen ab.	We take a vote.
+284	regular	begeistere	begeisterst	begeistert	begeistern	begeistert	begeistern	begeisterte	begeistert	haben	Die Musik begeistert mich.	The music inspires me.
+285	regular	übe aus	übst aus	übt aus	üben aus	übt aus	üben aus	übte aus	ausgeübt	haben	Er übt den Beruf aus.	He practises the profession.
+286	regular	sichere	sicherst	sichert	sichern	sichert	sichern	sicherte	gesichert	haben	Wir sichern die Daten.	We secure the data.
+287	regular	alarmiere	alarmierst	alarmiert	alarmieren	alarmiert	alarmieren	alarmierte	alarmiert	haben	Er alarmiert die Polizei.	He alerts the police.
+288	regular	bilde aus	bildest aus	bildet aus	bilden aus	bildet aus	bilden aus	bildete aus	ausgebildet	haben	Die Firma bildet Lehrlinge aus.	The company trains apprentices.
+289	regular	rücke aus	rückst aus	rückt aus	rücken aus	rückt aus	rücken aus	rückte aus	ausgerückt	sein	Die Feuerwehr rückt aus.	The fire brigade moves out.
+290	regular	bewältige	bewältigst	bewältigt	bewältigen	bewältigt	bewältigen	bewältigte	bewältigt	haben	Ich bewältige die Aufgabe.	I cope with the task.
+291	irregular	brenne	brennst	brennt	brennen	brennt	brennen	brannte	gebrannt	haben	Das Haus brennt.	The house burns.
+292	regular	spende	spendest	spendet	spenden	spendet	spenden	spendete	gespendet	haben	Wir spenden Geld.	We donate money.
+293	regular	vernichte	vernichtest	vernichtet	vernichten	vernichtet	vernichten	vernichtete	vernichtet	haben	Das Feuer vernichtet alles.	The fire destroys everything.
+294	irregular	werfe weg	wirfst weg	wirft weg	werfen weg	werft weg	werfen weg	warf weg	weggeworfen	haben	Wirf den Müll weg.	Throw away the trash.
+295	regular	lösche	löschst	löscht	löschen	löscht	löschen	löschte	gelöscht	haben	Wir löschen das Feuer.	We extinguish the fire.
+296	regular	entsorge	entsorgst	entsorgt	entsorgen	entsorgt	entsorgen	entsorgte	entsorgt	haben	Wir entsorgen den Müll.	We dispose of the trash.
+297	regular	reise an	reist an	reist an	reisen an	reist an	reisen an	reiste an	angereist	sein	Wir reisen nach Wien an.	We travel to Vienna.
+298	regular	zahle aus	zahlst aus	zahlt aus	zahlen aus	zahlt aus	zahlen aus	zahlte aus	ausgezahlt	haben	Die Bank zahlt das Geld aus.	The bank pays out the money.
+299	regular	drohe	drohst	droht	drohen	droht	drohen	drohte	gedroht	haben	Der Sturm droht.	The storm threatens.
+300	irregular	trage ein	trägst ein	trägt ein	tragen ein	tragt ein	tragen ein	trug ein	eingetragen	haben	Ich trage den Termin ein.	I record the appointment.
+301	regular	eröffne	eröffnest	eröffnet	eröffnen	eröffnet	eröffnen	eröffnete	eröffnet	haben	Sie eröffnen das Geschäft.	They open the shop.
+302	regular	führe	führst	führt	führen	führt	führen	führte	geführt	haben	Er führt das Team.	He leads the team.
+303	regular	spiele mit	spielst mit	spielt mit	spielen mit	spielt mit	spielen mit	spielte mit	mitgespielt	haben	Das Kind spielt mit dem Hund.	The child plays with the dog.
+304	regular	halte sauber	hälst sauber	hält sauber	halten sauber	haltet sauber	halten sauber	hielt sauber	sauber gehalten	haben	Wir halten die Küche sauber.	We keep the kitchen clean.
+305	regular	streike	streikst	streikt	streiken	streikt	streiken	streikte	gestreikt	haben	Die Arbeiter streiken.	The workers go on strike.
+306	regular	rätume weg	rätumst weg	rätumt weg	rätumen weg	rätumt weg	rätumen weg	rätumte weg	weggeräumt	haben	Ich räume die Bücher weg.	I put the books away.
+307	irregular	gehe hin	gehst hin	geht hin	gehen hin	geht hin	gehen hin	ging hin	hingegangen	sein	Ich gehe hin.	I go there.
+308	regular	rätume ab	rätumst ab	rätumt ab	rätumen ab	rätumt ab	rätumen ab	rätumte ab	abgeräumt	haben	Wir räumen den Tisch ab.	We clear the table.
+309	irregular	beschließe	beschließt	beschließt	beschließen	beschließt	beschließen	beschloss	beschlossen	haben	Wir beschließen das Gesetz.	We decide on the law.
+310	regular	bewahre	bewahrst	bewahrt	bewahren	bewahrt	bewahren	bewahrte	bewahrt	haben	Ich bewahre die Fotos.	I keep the photos.
+311	regular	baue auf	baust auf	baut auf	bauen auf	baut auf	bauen auf	baute auf	aufgebaut	haben	Wir bauen das System auf.	We build up the system.
+312	irregular	gehe an	gehst an	geht an	gehen an	geht an	gehen an	ging an	angegangen	sein	Das geht mich an.	That concerns me.
+313	irregular	gebe recht	gibst recht	gibt recht	geben recht	gebt recht	geben recht	gab recht	recht gegeben	haben	Ich gebe dir recht.	I agree with you.
+314	regular	erwache	erwachst	erwacht	erwachen	erwacht	erwachen	erwachte	erwacht	sein	Ich erwache um sechs.	I awaken at six.
+315	irregular	halte auf	hälst auf	hält auf	halten auf	haltet auf	halten auf	hielt auf	aufgehalten	haben	Das hält den Verkehr auf.	That holds up the traffic.
+316	irregular	gehe hinein	gehst hinein	geht hinein	gehen hinein	geht hinein	gehen hinein	ging hinein	hineingegangen	sein	Wir gehen hinein.	We go in.
+317	regular	lasse offen	lässt offen	lässt offen	lassen offen	lässt offen	lassen offen	ließ offen	offen gelassen	haben	Ich lasse die Tür offen.	I leave the door open.
+318	regular	wache auf	wachst auf	wacht auf	wachen auf	wacht auf	wachen auf	wachte auf	aufgewacht	sein	Ich wache früh auf.	I wake up early.
+319	irregular	geschieht	—	—	—	—	—	geschah	geschehen	sein	Was ist geschehen?	What has happened?
+320	regular	ist lebenswert	—	—	—	—	—	war lebenswert	lebenswert gewesen	sein	Das Leben ist lebenswert.	Life is worth living.
