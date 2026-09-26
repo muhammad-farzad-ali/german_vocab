@@ -161,6 +161,13 @@ PLURAL_OVERRIDES = {
     "der Platz, -e (Das Kino ist am Potsdamer Platz.)": "die Plätze",
     "die Auskunft, -e (Auskunft geben)": "die Auskünfte",
     'das Dorf, -e"': "die Dörfer",
+    "die Segelregatta, -regatten": "die Segelregatten",
+    "das Herzzentrum, -zentren": "die Herzzentren",
+    "der Operationssaal, -säle": "die Operationssäle",
+    "die Arztpraxis, -praxen": "die Arztpraxen",
+    "der Kinderwagen, – /-wägen": "die Kinderwagen / die Kinderwägen",
+    "der Großraumwagen, -/-wägen": "die Großraumwagen / die Großraumwägen",
+    "der Wagen, -/Wägen": "die Wagen / die Wägen",
 }
 
 
@@ -188,6 +195,8 @@ def compute_plural(article, base, cell):
     if not pl:
         return "—"
     token = pl.group(1).strip()
+    if token in ("–", "—"):
+        return "die " + base
     # full plural word appears as token without leading dash
     if not token.startswith("-"):
         return "die " + token
@@ -265,6 +274,7 @@ GENITIVE_OVERRIDES = {
     "der Alter (Sg.)": "des Alters",
     'der Notarzt, -e"': "des Notarztes",
     "die USA (Pl.)": "—",
+    "der Gedanke, -en": "des Gedankens",
 }
 SIBILANT = ("s", "ß", "z", "x", "sch", "tz", "ss")
 
@@ -286,6 +296,8 @@ def compute_genitive(article, base, cell):
         return "des " + base + "en"
     if base in MONOSYLL_ES:
         return "des " + base + "es"
+    if base.endswith("nis"):
+        return "des " + base + "ses"
     if base.rstrip('"').endswith(SIBILANT):
         return "des " + base + "es"
     return "des " + base + "s"
